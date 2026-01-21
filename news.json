@@ -1,26 +1,322 @@
 [
   {
     "source": "CNBC",
-    "title": "Trump tells CNBC we have a 'concept of a deal': Live updates",
-    "link": "https://www.cnbc.com/2026/01/21/trump-interview-live-updates.html",
-    "summary": "President Donald Trump will sit down with CNBC's Joe Kernen in Davos for an interview that will air Wednesday.",
-    "timestamp": 1769027259.0,
-    "date": "Jan 21, 20:27"
+    "title": "S&P 500 pops 1%, Dow surges nearly 600 points as Trump calls off Europe tariffs tied to Greenland",
+    "link": "https://www.cnbc.com/2026/01/20/stock-market-today-live-updates.html",
+    "summary": "All three major U.S. stock indexes rebounded on Wednesday after President Trump called off new tariffs on Europe.",
+    "timestamp": 1769030436.0,
+    "date": "Jan 21, 21:20"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Israeli strike kills three Gaza journalists",
+    "link": "https://www.channelnewsasia.com/world/palestine-gaza-city-israel-strike-journalist-5874856",
+    "summary": "An Israeli airstrike has killed three Palestinian journalists in Gaza City.",
+    "timestamp": 1769030329.0,
+    "date": "Jan 21, 21:18"
+  },
+  {
+    "source": "The Guardian",
+    "title": "News live: McKenzie hopes Coalition not broken but says it\u2019s \u2018up to\u2019 Ley; OECD calls on Australia to reform tax and increase affordable housing",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/22/bondi-terror-attack-national-day-of-mourning-coalition-crisis-nationals-liberals-david-littleproud-sussan-ley-ntwnfb",
+    "summary": "<p>Nationals senator says \u2018I would call for calmer heads to prevail\u2019. Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email...",
+    "timestamp": 1769030272.0,
+    "date": "Jan 21, 21:17"
   },
   {
     "source": "CNBC",
     "title": "Trump says he reached Greenland deal 'framework' with NATO, backs off Europe tariffs",
     "link": "https://www.cnbc.com/2026/01/21/trump-tariffs-nato-greenland-davos.html",
-    "summary": "Trump's announcement marks a stunning twist in the ongoing controversy over his persistent efforts to acquire Greenland for the U.S.",
-    "timestamp": 1769027220.0,
-    "date": "Jan 21, 20:27"
+    "summary": "Trump suggested to CNBC that the Greenland framework involves mineral rights for the U.S., as well as the administration's proposed \"Golden Dome\" system.",
+    "timestamp": 1769030270.0,
+    "date": "Jan 21, 21:17"
+  },
+  {
+    "source": "France 24",
+    "title": "US visa freeze begins for 26 African countries",
+    "link": "https://www.france24.com/en/us-visa-freeze-begins-for-26-african-countries",
+    "summary": "In tonight's edition, the US puts a pause on the processing of permanent residency visas for applicants from 75 countries, including 26 African ones. Also, Nigerian police walk back on earlier denials...",
+    "timestamp": 1769030214.0,
+    "date": "Jan 21, 21:16"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump\u2019s Moves on Greenland",
+    "link": "https://www.nytimes.com/2026/01/21/world/trumps-greenland-davos-isis-syria.html",
+    "summary": "After assailing Europe in a long speech at Davos, the president said he had won an agreement on the future of the Arctic territory.",
+    "timestamp": 1769030201.0,
+    "date": "Jan 21, 21:16"
   },
   {
     "source": "CNBC",
-    "title": "Dow rallies 600 points after Trump calls off Europe tariffs related to Greenland: Live updates",
-    "link": "https://www.cnbc.com/2026/01/20/stock-market-today-live-updates.html",
-    "summary": "All three major U.S. stock indexes logged their worst daily performances since Oct. 10 as Trump escalated his Greenland tariff threats.",
-    "timestamp": 1769027214.0,
+    "title": "These stocks are forming the dreaded \u2018death cross,\u2019 including one major AI tech play",
+    "link": "https://www.cnbc.com/2026/01/21/these-stocks-are-forming-a-death-cross-including-a-major-ai-tech-play.html",
+    "summary": "Microsoft is one stock that could soon form the ominous 'death cross,' signaling to investors potential weakness.",
+    "timestamp": 1769030201.0,
+    "date": "Jan 21, 21:16"
+  },
+  {
+    "source": "New York Times",
+    "title": "Iran\u2019s Protests Have Been Completely Squashed, Government Says",
+    "link": "https://www.nytimes.com/2026/01/21/world/middleeast/iran-protests-crushed.html",
+    "summary": "After a crackdown that killed thousands, Iran\u2019s prosecutor general said on Wednesday that \u201cthe sedition is over now,\u201d  vowing to punish those responsible for the protests.",
+    "timestamp": 1769030197.0,
+    "date": "Jan 21, 21:16"
+  },
+  {
+    "source": "CNBC",
+    "title": "President Trump touts progress on crypto regulation at the World Economic Forum: CNBC Crypto World",
+    "link": "https://www.cnbc.com/video/2026/01/21/president-trump-touts-progress-on-crypto-regulation-at-the-world-economic-forum-cnbc-crypto-world.html",
+    "summary": "On this week's episode of CNBC Crypto World, crypto prices struggle as President Trump\u2019s push to acquire Greenland hits U.S. markets. Plus, the topic of crypto takes center stage at the World Economic...",
+    "timestamp": 1769030146.0,
+    "date": "Jan 21, 21:15"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "F/m Investments seeks SEC approval to tokenize Treasury bill ETF shares",
+    "link": "https://www.channelnewsasia.com/business/fm-investments-seeks-sec-approval-tokenize-treasury-bill-etf-shares-5874891",
+    "summary": "",
+    "timestamp": 1769030059.0,
+    "date": "Jan 21, 21:14"
+  },
+  {
+    "source": "New York Times",
+    "title": "Live Updates: Trump Drops Tariff Threat Over Greenland After Assailing Europe",
+    "link": "https://www.nytimes.com/live/2026/01/21/us/trump-davos-greenland-news",
+    "summary": "",
+    "timestamp": 1769030004.0,
+    "date": "Jan 21, 21:13"
+  },
+  {
+    "source": "New York Times",
+    "title": "Majority of Latin Americans Endorsed Trump\u2019s Intervention In Venezuela, Polls Show",
+    "link": "https://www.nytimes.com/2026/01/21/world/americas/latin-america-venezuela-us-raid-maduro-polls.html",
+    "summary": "A majority of those surveyed said they support the intervention, suggesting a shift from ideology to pragmatism, at least for now.",
+    "timestamp": 1769029996.0,
+    "date": "Jan 21, 21:13"
+  },
+  {
+    "source": "CNBC",
+    "title": "Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts",
+    "link": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-credit-card-rate-cap-vermont-massachusetts.html",
+    "summary": "JPMorgan Chase CEO Jamie Dimon on Wednesday advocated for a test of President Donald Trump's proposed credit card rate cap in Vermont and Massachusetts.",
+    "timestamp": 1769029978.0,
+    "date": "Jan 21, 21:12"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump interview: President tells CNBC 'We have a concept of a deal' with Greenland",
+    "link": "https://www.cnbc.com/2026/01/21/trump-interview-live-updates.html",
+    "summary": "President Donald Trump will sit down with CNBC's Joe Kernen in Davos for an interview that will air Wednesday.",
+    "timestamp": 1769029886.0,
+    "date": "Jan 21, 21:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "Fed Governor Lisa Cook seems safe from Trump firing after Supreme Court arguments",
+    "link": "https://www.cnbc.com/2026/01/21/supreme-court-trump-fed-lisa-cook-powell.html",
+    "summary": "Federal Reserve Chairman Jerome Powell planned to attend the oral arguments at the Supreme Court.",
+    "timestamp": 1769029777.0,
+    "date": "Jan 21, 21:09"
+  },
+  {
+    "source": "New York Times",
+    "title": "Stocks Rebound After Trump Backs Off European Tariffs",
+    "link": "https://www.nytimes.com/2026/01/21/business/greenland-stocks-bonds-dollar-gold.html",
+    "summary": "Stocks in the U.S. stabilized on Wednesday after an earlier slump had spilled into markets in Asia and Europe, ending a period of relative calm.",
+    "timestamp": 1769029496.0,
+    "date": "Jan 21, 21:04"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Israel demolishes three Palestinian homes in occupied West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/israel-demolishes-three-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
+    "summary": "Israeli forces have demolished three homes belonging to Palestinians in the village of Shuqba in the occupied West Bank.",
+    "timestamp": 1769029464.0,
+    "date": "Jan 21, 21:04"
+  },
+  {
+    "source": "CNBC",
+    "title": "Intel's stock jumps 11% to highest since early 2022 ahead of earnings",
+    "link": "https://www.cnbc.com/2026/01/21/intels-stock-jumps-10percent-to-highest-since-early-2022-ahead-of-earnings.html",
+    "summary": "Intel has gotten a boost due to optimism around its latest server CPUs and following investments from the U.S. government and Nvidia.",
+    "timestamp": 1769029337.0,
+    "date": "Jan 21, 21:02"
+  },
+  {
+    "source": "CNBC",
+    "title": "Tech stocks rally after Trump says a 'framework' Greenland deal has been reached with NATO",
+    "link": "https://www.cnbc.com/2026/01/21/trump-tech-stocks-jump-greenland-military.html",
+    "summary": "Comments from President Donald Trump in Switzerland eased worries of a widespread conflict in Greenland.",
+    "timestamp": 1769029310.0,
+    "date": "Jan 21, 21:01"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Offshore gambling operators using Australian Open to promote illegal services",
+    "link": "https://www.theguardian.com/sport/2026/jan/22/offshore-gambling-operators-using-australian-open-to-promote-services",
+    "summary": "<p>One offshore e-casino posted Instagram promotion featuring AO logo despite no affiliation with tournament</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">...",
+    "timestamp": 1769029170.0,
+    "date": "Jan 21, 20:59"
+  },
+  {
+    "source": "CNBC",
+    "title": "Jamie Dimon issues rare CEO criticism of Trump's immigration policy: 'I don\u2019t like what I\u2019m seeing'",
+    "link": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-immigration-policy.html",
+    "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over the past year.",
+    "timestamp": 1769029017.0,
+    "date": "Jan 21, 20:56"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump says inflation was 'defeated.' Some economists disagree",
+    "link": "https://www.cnbc.com/2026/01/21/trump-inflation-defeated.html",
+    "summary": "President Donald Trump said the U.S. \"defeated\" inflation and reined in consumer prices over the past year. Federal data suggests otherwise.",
+    "timestamp": 1769028962.0,
+    "date": "Jan 21, 20:56"
+  },
+  {
+    "source": "France 24",
+    "title": "Greenland: Trump falsely claims the US 'gave back' territory to Denmark",
+    "link": "https://www.france24.com/en/greenland-trump-falsely-claims-the-us-gave-back-territory-to-denmark",
+    "summary": "In his lengthy speech at Davos, Donald Trump falsely claimed the US 'gave back' Greenland to Denmark after World War II. In reality, Greenland has never been America's to give back at all. Vedika Bahl...",
+    "timestamp": 1769028948.0,
+    "date": "Jan 21, 20:55"
+  },
+  {
+    "source": "BBC World",
+    "title": "Seven more countries agree to join Trump's Board of Peace",
+    "link": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss",
+    "summary": "Seven Muslim-majority countries publicly accept an invitation to Trump's new organisation, joining Albania, Bahran, Hungary, Morocco and Israel.",
+    "timestamp": 1769028933.0,
+    "date": "Jan 21, 20:55"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump calls for Congress to enact 10% credit card interest rate cap; bank stocks rise",
+    "link": "https://www.cnbc.com/2026/01/21/trump-congress-10percent-credit-card-interest-rate-cap.html",
+    "summary": "The episode may show the limits of President Trump's ability to cajole the financial industry into voluntarily giving up billions of dollars in revenue.",
+    "timestamp": 1769028853.0,
+    "date": "Jan 21, 20:54"
+  },
+  {
+    "source": "France 24",
+    "title": "NATO chief Rutte 'may have explained to Trump existing US rights in Greenland'",
+    "link": "https://www.france24.com/en/nato-chief-rutte-may-have-explained-to-trump-existing-us-rights-in-greenland",
+    "summary": "'There really are no substantive concessions that Mark Rutte could have given Trump', FRANCE 24's Brussels correspondent Dave Keating explains, adding that the NATO chief may 'have just explained to T...",
+    "timestamp": 1769028562.0,
+    "date": "Jan 21, 20:49"
+  },
+  {
+    "source": "BBC World",
+    "title": "Supreme Court sceptical of Trump firing of central bank governor Lisa Cook",
+    "link": "https://www.bbc.com/news/articles/ckgjm50r14go?at_medium=RSS&at_campaign=rss",
+    "summary": "One conservative justice warned that the White House interpretation of the law could \"shatter\" Federal Reserve independence.",
+    "timestamp": 1769028341.0,
+    "date": "Jan 21, 20:45"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israeli strike in Gaza kills three journalists, first responders say",
+    "link": "https://www.bbc.com/news/articles/c98pnzp50nqo?at_medium=RSS&at_campaign=rss",
+    "summary": "Another eight Palestinians were killed by Israeli artillery and gunfire across Gaza on Wednesday, according to medics.",
+    "timestamp": 1769028263.0,
+    "date": "Jan 21, 20:44"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "EU to weigh Netflix, Paramount bids for Warner Bros at same time, Bloomberg News reports",
+    "link": "https://www.channelnewsasia.com/business/eu-weigh-netflix-paramount-bids-warner-bros-same-time-bloomberg-news-reports-5874841",
+    "summary": "",
+    "timestamp": 1769028225.0,
+    "date": "Jan 21, 20:43"
+  },
+  {
+    "source": "CNBC",
+    "title": "Jeff Bezos' Blue Origin launches satellite internet service to rival SpaceX, Amazon",
+    "link": "https://www.cnbc.com/2026/01/21/bezos-blue-origin-satellite-internet-spacex-amazon.html",
+    "summary": "Blue Origin is looking to send the first of TeraWave's 5,408 satellites into space in the fourth quarter of 2027.",
+    "timestamp": 1769028128.0,
+    "date": "Jan 21, 20:42"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Ecuador announces 30 percent tariff on Colombia over drug trafficking",
+    "link": "https://www.aljazeera.com/news/2026/1/21/ecuador-announces-30-percent-tariff-on-colombia-over-drug-trafficking?traffic_source=rss",
+    "summary": "President Daniel Noboa has sought closer relations with Donald Trump while criticising Colombia&#039;s left-wing leader.",
+    "timestamp": 1769028100.0,
+    "date": "Jan 21, 20:41"
+  },
+  {
+    "source": "New York Times",
+    "title": "Israeli Strikes in Gaza Kill 11, Including Three Journalists",
+    "link": "https://www.nytimes.com/2026/01/21/world/middleeast/israel-gaza-strikes-journalists.html",
+    "summary": "The three journalists were operating a drone near the town of Al-Zahra.",
+    "timestamp": 1769027960.0,
+    "date": "Jan 21, 20:39"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apps for boycotting American products surge to the top of the Danish App Store",
+    "link": "https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/",
+    "summary": "The boost in downloads comes as Danish consumers have been organizing a grassroots boycott of American-made products, which also included canceling their U.S. vacations and ditching their subscription...",
+    "timestamp": 1769027934.0,
+    "date": "Jan 21, 20:38"
+  },
+  {
+    "source": "The Verge",
+    "title": "Anthropic\u2019s new Claude \u2018constitution\u2019: be helpful and honest, and don\u2019t destroy humanity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/865185/anthropic-claude-constitution-soul-doc",
+    "summary": "Anthropic is overhauling Claude's so-called \"soul doc.\" The new missive is a 57-page document titled \"Claude's Constitution,\" which details \"Anthropic's intentions for the model's values and behavior,...",
+    "timestamp": 1769027778.0,
+    "date": "Jan 21, 20:36"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+    "link": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
+    "summary": "Research from startup GPTZero points to the impossible problem prestigious conferences face in the age of AI slop.",
+    "timestamp": 1769027682.0,
+    "date": "Jan 21, 20:34"
+  },
+  {
+    "source": "NPR",
+    "title": "Lindsey Halligan, Trump's former personal attorney, exits Virginia prosecutor's office",
+    "link": "https://www.npr.org/2026/01/21/nx-s1-5684189/lindsey-halligan-trump-justice-us-attorney",
+    "summary": "The move comes after a federal judge wrote in court document that the \"charade of Ms. Halligan masquerading as the United States Attorney \u2026 must come to an end.\"",
+    "timestamp": 1769027632.0,
+    "date": "Jan 21, 20:33"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Public opinion shifts on ICE as advocates warn of US \u2018inflection point\u2019",
+    "link": "https://www.aljazeera.com/news/2026/1/21/public-opinion-shifts-on-ice-as-advocates-warn-of-us-inflection-point?traffic_source=rss",
+    "summary": "Amid growing unrest in wake of Minnesota killing, rights observers say US Congress must take action to curtail agency.",
+    "timestamp": 1769027522.0,
+    "date": "Jan 21, 20:32"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US military transfers first 150 Islamic State detainees from Syria to Iraq",
+    "link": "https://www.channelnewsasia.com/world/syria-kurds-turkey-us-military-5874476",
+    "summary": "Up to to 7,000 detainees could be transferred to Iraqi-controlled facilities, as Syria's new government take control of a sprawling camp from the US-backed Syrian Democratic Forces.",
+    "timestamp": 1769027520.0,
+    "date": "Jan 21, 20:32"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Apple to revamp Siri as a built-in chatbot, Bloomberg News reports",
+    "link": "https://www.channelnewsasia.com/business/apple-revamp-siri-built-in-chatbot-bloomberg-news-reports-5874821",
+    "summary": "",
+    "timestamp": 1769027499.0,
+    "date": "Jan 21, 20:31"
+  },
+  {
+    "source": "BBC World",
+    "title": "EU suspends approval of US trade deal",
+    "link": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
+    "timestamp": 1769027208.0,
     "date": "Jan 21, 20:26"
   },
   {
@@ -32,36 +328,44 @@
     "date": "Jan 21, 20:26"
   },
   {
-    "source": "CNBC",
-    "title": "CNBC interviews President Trump at Davos",
-    "link": "https://www.cnbc.com/search/?query=CNBC%20interviews%20President%20Trump%20at%20Davos",
-    "summary": "CNBC interviews President Trump at DavosTrump: Greenland framework with NATO involves mineral rights for U.S.Trump signals favorite for Fed chair: \u2018Down to maybe one, in my mind\u2019",
-    "timestamp": 1769027078.0,
-    "date": "Jan 21, 20:24"
+    "source": "Al Jazeera",
+    "title": "Ancient Khmer temples scarred by Thailand-Cambodia conflict",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/ancient-khmer-temples-scarred-by-thailand-cambodia-conflict?traffic_source=rss",
+    "summary": "Ancient Khmer temples along the Thailand-Cambodia border have been damaged or destroyed by recent fighting.",
+    "timestamp": 1769027198.0,
+    "date": "Jan 21, 20:26"
   },
   {
-    "source": "New York Times",
-    "title": "Live Updates: Trump Drops Tariff Threat Over Greenland After Assailing Europe",
-    "link": "https://www.nytimes.com/live/2026/01/21/us/trump-davos-greenland-news",
-    "summary": "",
-    "timestamp": 1769026956.0,
-    "date": "Jan 21, 20:22"
+    "source": "France 24",
+    "title": "'We need a stabilised, democratic Syria: Economic recovery without freedom is meaningless'",
+    "link": "https://www.france24.com/en/we-need-a-stabilised-democratic-syria-economic-recovery-without-freedom-is-meaningless",
+    "summary": "Fran\u00e7ois Picard is pleased to welcome Kurdish humanitarian activist Arya Jemo amid the rapidly shifting sociopolitical and economic dynamics in Syria. Mr. Jemo\u00a0shares themes of political betrayal, ter...",
+    "timestamp": 1769026997.0,
+    "date": "Jan 21, 20:23"
   },
   {
-    "source": "New York Times",
-    "title": "Stocks Rebound After Trump Backs Off European Tariffs",
-    "link": "https://www.nytimes.com/2026/01/21/business/greenland-stocks-bonds-dollar-gold.html",
-    "summary": "Stocks in the U.S. stabilized on Wednesday after an earlier slump had spilled into markets in Asia and Europe, ending a period of relative calm.",
-    "timestamp": 1769026817.0,
-    "date": "Jan 21, 20:20"
+    "source": "Deutsche Welle",
+    "title": "Davos 2026: Trump touts policies and renews Greenland ambitions in speech at WEF",
+    "link": "https://www.dw.com/en/davos-2026-trump-touts-policies-and-renews-greenland-ambitions-in-speech-at-wef/a-75598520?maca=en-rss-en-all-1573-rdf",
+    "summary": "Donald Trump used his WEF speech to praise himself and lash out at Europe while offering little about the economy. Business and political leaders were expecting the worst, but much of it was for a dom...",
+    "timestamp": 1769026980.0,
+    "date": "Jan 21, 20:23"
   },
   {
-    "source": "The Guardian",
-    "title": "Australia news live: Coalition in crisis as Nationals resign en masse; hot weather on the way for long weekend",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jan/22/bondi-terror-attack-national-day-of-mourning-coalition-crisis-nationals-liberals-david-littleproud-sussan-ley-ntwnfb",
-    "summary": "<p>Temperatures to climb to 40C in Melbourne and Adelaide. Follow updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a hr...",
-    "timestamp": 1769026790.0,
-    "date": "Jan 21, 20:19"
+    "source": "Al Jazeera",
+    "title": "Relieved, sceptical, insulted: Greenlanders react to Trump at Davos",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/relieved-sceptical-insulted-greenlanders-react-to-trump-at-davos?traffic_source=rss",
+    "summary": "Greenlanders reacted with sceptical relief to Donald Trump ruling out military force to take the territory.",
+    "timestamp": 1769026640.0,
+    "date": "Jan 21, 20:17"
+  },
+  {
+    "source": "BBC World",
+    "title": "Ghislaine Maxwell to testify before US Congress in Epstein probe",
+    "link": "https://www.bbc.com/news/articles/cr7jlylp5keo?at_medium=RSS&at_campaign=rss",
+    "summary": "The convicted sex trafficker has previously said she would decline to answer questions unless she is granted immunity.",
+    "timestamp": 1769026536.0,
+    "date": "Jan 21, 20:15"
   },
   {
     "source": "France 24",
@@ -112,19 +416,11 @@
     "date": "Jan 21, 20:03"
   },
   {
-    "source": "CNBC",
-    "title": "Jamie Dimon says U.S. should impose Trump's credit card rate cap in Vermont and Massachusetts",
-    "link": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-credit-card-rate-cap-vermont-massachusetts.html",
-    "summary": "JPMorgan Chase CEO Jamie Dimon on Wednesday advocated for a test of President Donald Trump's proposed credit card rate cap in Vermont and Massachusetts.",
-    "timestamp": 1769025657.0,
-    "date": "Jan 21, 20:00"
-  },
-  {
-    "source": "CNBC",
-    "title": "Tech stocks rally after Trump says a 'framework' Greenland deal has been reached with NATO",
-    "link": "https://www.cnbc.com/2026/01/21/trump-tech-stocks-jump-greenland-military.html",
-    "summary": "Comments from President Donald Trump in Switzerland eased worries of a widespread conflict in Greenland.",
-    "timestamp": 1769025649.0,
+    "source": "The Guardian",
+    "title": "Trump says Canada should be grateful for \u2018freebies\u2019 it gets from the US",
+    "link": "https://www.theguardian.com/us-news/2026/jan/21/trump-canada-mark-carney",
+    "summary": "<p>US president singles out Mark Carney day after prime minister warned world is undergoing geopolitical \u2018rupture\u2019</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has ...",
+    "timestamp": 1769025622.0,
     "date": "Jan 21, 20:00"
   },
   {
@@ -192,14 +488,6 @@
     "date": "Jan 21, 19:49"
   },
   {
-    "source": "CNBC",
-    "title": "Jeff Bezos' Blue Origin launches satellite internet service to rival SpaceX, Amazon",
-    "link": "https://www.cnbc.com/2026/01/21/bezos-blue-origin-satellite-internet-spacex-amazon.html",
-    "summary": "Blue Origin is looking to send the first of TeraWave's 5,408 satellites into space in the fourth quarter of 2027.",
-    "timestamp": 1769024955.0,
-    "date": "Jan 21, 19:49"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "'Framework' for Greenland deal formed, Trump says after meeting with NATO's Rutte",
     "link": "https://www.dw.com/en/framework-for-greenland-deal-formed-trump-says-after-meeting-with-nato-s-rutte/live-75560683?maca=en-rss-en-all-1573-rdf",
@@ -214,14 +502,6 @@
     "summary": "Mexico has sought to do more to combat its cartels in an effort to stave off airstrikes threatened by President Trump.",
     "timestamp": 1769024242.0,
     "date": "Jan 21, 19:37"
-  },
-  {
-    "source": "New York Times",
-    "title": "Why Was Macron Wearing Sunglasses at Davos?",
-    "link": "https://www.nytimes.com/2026/01/21/world/europe/macron-sunglasses-davos.html",
-    "summary": "An eye condition, not a style choice, prompted President Emmanuel Macron of France to don aviators to address the World Economic Forum.",
-    "timestamp": 1769024200.0,
-    "date": "Jan 21, 19:36"
   },
   {
     "source": "France 24",
@@ -265,14 +545,6 @@
   },
   {
     "source": "CNBC",
-    "title": "Intel's stock jumps 10% to highest since early 2022 ahead of earnings",
-    "link": "https://www.cnbc.com/2026/01/21/intels-stock-jumps-10percent-to-highest-since-early-2022-ahead-of-earnings.html",
-    "summary": "Intel has gotten a boost due to optimism around its latest server CPUs and following investments from the U.S. government and Nvidia.",
-    "timestamp": 1769022222.0,
-    "date": "Jan 21, 19:03"
-  },
-  {
-    "source": "CNBC",
     "title": "Meta to begin rolling out Threads ads globally",
     "link": "https://www.cnbc.com/2026/01/21/meta-ads-global-threads.html",
     "summary": "Meta launched Threads in July 2023 to compete with Elon Musk's X, formerly known as Twitter.",
@@ -294,22 +566,6 @@
     "summary": "Belgian ex-diplomat Etienne Davignon is defending himself in Brussels over his alleged role in the 1961 killing of Congolese leader Patrice Lumumba \u2014 a landmark case in Belgium's reckoning with its co...",
     "timestamp": 1769021880.0,
     "date": "Jan 21, 18:58"
-  },
-  {
-    "source": "CNBC",
-    "title": "Fed Governor Lisa Cook seems safe from Trump firing after Supreme Court arguments",
-    "link": "https://www.cnbc.com/2026/01/21/supreme-court-trump-fed-lisa-cook-powell.html",
-    "summary": "Federal Reserve Chairman Jerome Powell planned to attend the oral arguments at the Supreme Court.",
-    "timestamp": 1769021684.0,
-    "date": "Jan 21, 18:54"
-  },
-  {
-    "source": "New York Times",
-    "title": "Majority of Latin Americans Endorsed Trump\u2019s Intervention In Venezuela, Polls Show",
-    "link": "https://www.nytimes.com/2026/01/21/world/americas/latin-america-venezuela-us-raid-maduro-polls.html",
-    "summary": "A majority of those surveyed said they support the intervention, suggesting a shift from ideology to pragmatism, at least for now.",
-    "timestamp": 1769021240.0,
-    "date": "Jan 21, 18:47"
   },
   {
     "source": "CNA (Asia)",
@@ -341,14 +597,6 @@
     "link": "https://www.nytimes.com/2026/01/21/world/middleeast/us-pivot-in-syria-leaves-an-old-ally-in-the-lurch.html",
     "summary": "A Kurdish force that helped defeat the Islamic State is collapsing as the Trump administration turns to back the new Syrian government.",
     "timestamp": 1769020510.0,
-    "date": "Jan 21, 18:35"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump says inflation was 'defeated.' Some economists disagree",
-    "link": "https://www.cnbc.com/2026/01/21/trump-inflation-defeated.html",
-    "summary": "President Donald Trump said the U.S. \"defeated\" inflation and reined in consumer prices over the past year. Federal data suggests otherwise.",
-    "timestamp": 1769020508.0,
     "date": "Jan 21, 18:35"
   },
   {
@@ -416,22 +664,6 @@
     "date": "Jan 21, 18:18"
   },
   {
-    "source": "CNBC",
-    "title": "This oil driller's stock shows a favorable trend in a strong sector and has momentum at its back",
-    "link": "https://www.cnbc.com/2026/01/21/this-oil-drillers-stock-shows-a-favorable-trend-and-strong-momentum.html",
-    "summary": "Momentum indicators in both the RSI and MACD flashed buy signals and are not in overbought territory. There's room to run.",
-    "timestamp": 1769019403.0,
-    "date": "Jan 21, 18:16"
-  },
-  {
-    "source": "New York Times",
-    "title": "Israeli Strikes in Gaza Kill 11, Including Three Journalists",
-    "link": "https://www.nytimes.com/2026/01/21/world/middleeast/israel-gaza-strikes-journalists.html",
-    "summary": "The three journalists were operating a drone near the town of Al-Zahra.",
-    "timestamp": 1769019322.0,
-    "date": "Jan 21, 18:15"
-  },
-  {
     "source": "The Verge",
     "title": "Samsung Galaxy S26 battery pack leak points to Qi2 charging support",
     "link": "https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support",
@@ -453,14 +685,6 @@
     "link": "https://www.channelnewsasia.com/sport/former-england-captain-george-retire-after-next-season-5874651",
     "summary": "",
     "timestamp": 1769018668.0,
-    "date": "Jan 21, 18:04"
-  },
-  {
-    "source": "BBC World",
-    "title": "Supreme Court sceptical of Trump firing of central bank governor Lisa Cook",
-    "link": "https://www.bbc.com/news/articles/ckgjm50r14go?at_medium=RSS&at_campaign=rss",
-    "summary": "One conservative justice warned that the White House interpretation of the law could \"shatter\" Federal Reserve independence.",
-    "timestamp": 1769018657.0,
     "date": "Jan 21, 18:04"
   },
   {
@@ -486,14 +710,6 @@
     "summary": "Will it be a year of \"fractured resilience\"? Or \"pragmatic empathy\"? Will \"MOUs\" be the next global health strategy? Are we in a new age of \"decolonization\" \u2014 or of \"localization\"?",
     "timestamp": 1769018120.0,
     "date": "Jan 21, 17:55"
-  },
-  {
-    "source": "BBC World",
-    "title": "Seven more countries agree to join Trump's Board of Peace",
-    "link": "https://www.bbc.com/news/articles/cn8jek4vv8ko?at_medium=RSS&at_campaign=rss",
-    "summary": "Seven Muslim-majority countries publicly accept an invitation to Trump's new organisation, joining Albania, Bahran, Hungary, Morocco and Israel.",
-    "timestamp": 1769017741.0,
-    "date": "Jan 21, 17:49"
   },
   {
     "source": "CNA (Asia)",
@@ -584,28 +800,12 @@
     "date": "Jan 21, 17:30"
   },
   {
-    "source": "BBC World",
-    "title": "Israeli strike in Gaza kills three journalists, first responders say",
-    "link": "https://www.bbc.com/news/articles/c98pnzp50nqo?at_medium=RSS&at_campaign=rss",
-    "summary": "Another eight Palestinians were killed by Israeli artillery and gunfire across Gaza on Wednesday, according to medics.",
-    "timestamp": 1769016478.0,
-    "date": "Jan 21, 17:27"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Trump rules out using force to take over Greenland, calls for negotiations",
     "link": "https://www.aljazeera.com/news/2026/1/21/trump-rules-out-using-force-to-take-over-greenland-calls-for-negotiations?traffic_source=rss",
     "summary": "The US president used his speech at Davos to call for talks over his demands to annex Greenland.",
     "timestamp": 1769016432.0,
     "date": "Jan 21, 17:27"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump calls for Congress to enact 10% credit card interest rate cap; bank stocks rise",
-    "link": "https://www.cnbc.com/2026/01/21/trump-congress-10percent-credit-card-interest-rate-cap.html",
-    "summary": "The episode may show the limits of President Trump's ability to cajole the financial industry into voluntarily giving up billions of dollars in revenue.",
-    "timestamp": 1769016284.0,
-    "date": "Jan 21, 17:24"
   },
   {
     "source": "The Verge",
@@ -625,9 +825,9 @@
   },
   {
     "source": "NPR",
-    "title": "Supreme Court appears wary of allowing Trump to fire Fed's Cook in closely watched case",
+    "title": "Supreme Court appears wary of allowing Trump to fire Federal Reserve's Cook",
     "link": "https://www.npr.org/2026/01/21/nx-s1-5683968/supreme-court-federal-reserve-lisa-cook",
-    "summary": "The administration wants the authority to fire Lisa Cook, a Fed governor. Experts say that would undermine the independence of the central bank.",
+    "summary": "The Trump administration wants the authority to fire Lisa Cook, a Federal Reserve governor. Experts say that would undermine the independence of the central bank.",
     "timestamp": 1769015548.0,
     "date": "Jan 21, 17:12"
   },
@@ -694,14 +894,6 @@
     "summary": "<p>Far-right incoming president picked Judith Mar\u00edn, who has publicly decried bills to decriminalise abortion, for the role</p><p>Chile\u2019s <a href=\"https://www.theguardian.com/world/2025/dec/14/chile-p...",
     "timestamp": 1769014586.0,
     "date": "Jan 21, 16:56"
-  },
-  {
-    "source": "BBC World",
-    "title": "EU suspends approval of US trade deal",
-    "link": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
-    "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
-    "timestamp": 1769014522.0,
-    "date": "Jan 21, 16:55"
   },
   {
     "source": "The Verge",
@@ -784,14 +976,6 @@
     "date": "Jan 21, 16:34"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Man City players to reimburse travelling fans after shock defeat in Bodo",
-    "link": "https://www.channelnewsasia.com/sport/man-city-players-reimburse-travelling-fans-after-shock-defeat-in-bodo-5874491",
-    "summary": "",
-    "timestamp": 1769013180.0,
-    "date": "Jan 21, 16:33"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Who was Rifaat al-Assad, commander of Syria\u2019s 1982 Hama massacre?",
     "link": "https://www.aljazeera.com/features/2026/1/21/who-was-rifaat-al-assad-commander-of-syrias-1982-hama-massacre?traffic_source=rss",
@@ -872,27 +1056,11 @@
     "date": "Jan 21, 16:16"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Toyota affiliates in $436 million settlement over alleged forklift engine emissions cheating",
-    "link": "https://www.channelnewsasia.com/business/toyota-affiliates-in-436-million-settlement-over-alleged-forklift-engine-emissions-cheating-5874456",
-    "summary": "",
-    "timestamp": 1769012138.0,
-    "date": "Jan 21, 16:15"
-  },
-  {
     "source": "France 24",
     "title": "Le Pen admits \"negligence\" in EU fund embezzlement appeal trial",
     "link": "https://www.france24.com/en/le-pen-admits-negligence-in-eu-fund-embezzlement-appeal-trial",
     "summary": "French far-right leader Marine Le Pen was questioned for the second day as part of her appeal trial regarding accusations of embezzlement of EU funds by her party for several years. The morning starte...",
     "timestamp": 1769011968.0,
-    "date": "Jan 21, 16:12"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Italy bets on Games infrastructure for economic boost",
-    "link": "https://www.channelnewsasia.com/sport/italy-bets-games-infrastructure-economic-boost-5874446",
-    "summary": "",
-    "timestamp": 1769011965.0,
     "date": "Jan 21, 16:12"
   },
   {
@@ -904,28 +1072,12 @@
     "date": "Jan 21, 16:11"
   },
   {
-    "source": "France 24",
-    "title": "Trump says he won't use force in Greenland \"but unclear what deal would pass\"",
-    "link": "https://www.france24.com/en/trump-says-he-won-t-use-force-in-greenland-but-unclear-what-deal-would-pass",
-    "summary": "US President Donald Trump insisted he wants to \u201cget Greenland, including right, title and ownership,\u201d but said he wouldn\u2019t employ force to achieve that, only a few days after threatening several Europ...",
-    "timestamp": 1769011882.0,
-    "date": "Jan 21, 16:11"
-  },
-  {
     "source": "Deutsche Welle",
-    "title": "Greenland: Trump drops European tariff threat",
-    "link": "https://www.dw.com/en/greenland-trump-drops-european-tariff-threat/live-75588065?maca=en-rss-en-all-1573-rdf",
+    "title": "Trump: Greenland agreement 'a deal everyone is happy with'",
+    "link": "https://www.dw.com/en/trump-greenland-agreement-a-deal-everyone-is-happy-with/live-75588065?maca=en-rss-en-all-1573-rdf",
     "summary": "US President Donald Trump called off looming tariffs on European countries over Greenland. DW has more.",
     "timestamp": 1769011740.0,
     "date": "Jan 21, 16:09"
-  },
-  {
-    "source": "France 24",
-    "title": "Camp housing djihadist relatives taken by Syrian army after Kurdish-led forces pull out",
-    "link": "https://www.france24.com/en/camp-housing-djihadist-relatives-taken-by-syrian-army-after-kurdish-led-forces-pull-out",
-    "summary": "Syrian government forces on January 21 took full control of the sprawling camp of al-Hol in northeast Syria housing thousands of people linked to the Islamic State group, as a truce between the govern...",
-    "timestamp": 1769011736.0,
-    "date": "Jan 21, 16:08"
   },
   {
     "source": "TechCrunch",
@@ -933,14 +1085,6 @@
     "link": "https://techcrunch.com/2026/01/21/openais-former-sales-leader-joins-vc-firm-acrew-openai-taught-her-where-startups-can-build-a-moat/",
     "summary": "Aliisa Rosenthal has found a new career as a VC. She knows what startups can do to protect themselves from the model makers eating their markets.",
     "timestamp": 1769011600.0,
-    "date": "Jan 21, 16:06"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Hand stencil in Indonesian cave seen as the oldest-known rock art",
-    "link": "https://www.channelnewsasia.com/business/hand-stencil-in-indonesian-cave-seen-oldest-known-rock-art-5874431",
-    "summary": "",
-    "timestamp": 1769011560.0,
     "date": "Jan 21, 16:06"
   },
   {
@@ -960,27 +1104,11 @@
     "date": "Jan 21, 16:03"
   },
   {
-    "source": "France 24",
-    "title": "EU \"bazooka\" instrument could \"hurt the US economy\" in critical midterm year",
-    "link": "https://www.france24.com/en/eu-bazooka-instrument-could-hurt-the-us-economy-in-critical-midterm-year",
-    "summary": "US President Donald Trump addressed economic leaders in the World Economic Forum in Davos, Switzerland, on January 21, before answering questions. He addressed Greenland, Iran, NATO and the US economy...",
-    "timestamp": 1769011403.0,
-    "date": "Jan 21, 16:03"
-  },
-  {
     "source": "The Guardian",
     "title": "Hand shape in Indonesian cave may be world\u2019s oldest known rock art",
     "link": "https://www.theguardian.com/science/2026/jan/21/hand-shape-indonesia-cave-rock-art-67800-years-old",
     "summary": "<p>Archaeologists say stencil painted with ochre in limestone cave on Muna Island was created at least 67,800 years ago</p><p>The faded outline of a hand on a cave wall in Indonesia may be the world\u2019s...",
     "timestamp": 1769011241.0,
-    "date": "Jan 21, 16:00"
-  },
-  {
-    "source": "France 24",
-    "title": "Trump covets Greenland, insults allies and talks up US economy at Davos",
-    "link": "https://www.france24.com/en/europe/20260121-trump-covets-greenland-insults-allies-talks-up-us-economy-at-davos",
-    "summary": "US President Donald Trump arrived at the Economic World Forum in Davos on Wednesday, where he used his keynote speech to hector world leaders in the audience, boast about his domestic policies and rei...",
-    "timestamp": 1769011229.0,
     "date": "Jan 21, 16:00"
   },
   {
@@ -1024,36 +1152,12 @@
     "date": "Jan 21, 15:43"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Three Palestinian journalists killed in Israeli air strike",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/three-palestinian-journalists-killed-in-israeli-air-strike?traffic_source=rss",
-    "summary": "Three Palestinian photojournalists have been killed after an Israeli air strike targeted their car in central Gaza.",
-    "timestamp": 1769010182.0,
-    "date": "Jan 21, 15:43"
-  },
-  {
     "source": "TechCrunch",
     "title": "YouTube will soon let creators make Shorts with their own AI likeness",
     "link": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
     "summary": "YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through their feeds.",
     "timestamp": 1769010075.0,
     "date": "Jan 21, 15:41"
-  },
-  {
-    "source": "The Verge",
-    "title": "Verizon&#8217;s prepaid services add a 365-day wait to unlock phones",
-    "link": "https://www.theverge.com/news/864908/verizon-phone-unlocking-visible-tracfone-straight-talk-fcc",
-    "summary": "It's been just one week since Verizon got permission to lift its 60-day phone unlocking period, and the carrier is already making changes to its policy. Now, Verizon says customers who activate a phon...",
-    "timestamp": 1769010060.0,
-    "date": "Jan 21, 15:41"
-  },
-  {
-    "source": "CNBC",
-    "title": "Amazon launches AI health-care tool for One Medical members",
-    "link": "https://www.cnbc.com/2026/01/21/amazon-ai-health-care-one-medical-members.html",
-    "summary": "The service uses large language models and references patients medical records to answer questions, manage medications and book appointments.",
-    "timestamp": 1769010032.0,
-    "date": "Jan 21, 15:40"
   },
   {
     "source": "BBC World",
@@ -1070,22 +1174,6 @@
     "summary": "Tetsuya Yamagami, 45, had admitted to shooting Mr. Abe, Japan\u2019s longest-serving prime minister; but his case divided Japan.",
     "timestamp": 1769008958.0,
     "date": "Jan 21, 15:22"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "\u2018Stripped naked\u2019: Yemeni detainee recounts torture in UAE-run prison",
-    "link": "https://www.aljazeera.com/features/2026/1/21/stripped-naked-yemeni-detainee-recounts-torture-in-uae-run-prison?traffic_source=rss",
-    "summary": "A Yemeni man Ali Hassan Ali who spent more than two years in detention in secret prisons seeks justice.",
-    "timestamp": 1769008897.0,
-    "date": "Jan 21, 15:21"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Trump says he wants \u2018ownership\u2019 of Greenland, but \u2018won\u2019t use force\u2019",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/21/trump-says-he-wants-ownership-of-greenland-but-wont-use?traffic_source=rss",
-    "summary": "Donald Trump said the US needs \u201cownership\u201d of Greenland, but he \u201cwon\u2019t use force\u201d to acquire the territory.",
-    "timestamp": 1769008833.0,
-    "date": "Jan 21, 15:20"
   },
   {
     "source": "TechCrunch",
@@ -1120,14 +1208,6 @@
     "date": "Jan 21, 15:10"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Railway safety questioned as Spain reels from twin train disasters",
-    "link": "https://www.channelnewsasia.com/world/railway-safety-questioned-spain-reels-twin-train-disasters-5873356",
-    "summary": "",
-    "timestamp": 1769008200.0,
-    "date": "Jan 21, 15:10"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Europol busts massive synthetic drug production network",
     "link": "https://www.dw.com/en/europol-busts-massive-synthetic-drug-production-network/a-75595738?maca=en-rss-en-all-1573-rdf",
@@ -1158,22 +1238,6 @@
     "summary": "For years, Nicol\u00e1s Maduro and his movement used song and dance to rally support. Now, millions of Venezuelans are dancing to a different political tune.",
     "timestamp": 1769007462.0,
     "date": "Jan 21, 14:57"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Fact-checking US President Trump\u2019s speech marking one year in office",
-    "link": "https://www.aljazeera.com/news/2026/1/21/fact-checking-us-president-trumps-speech-marking-one-year-in-office?traffic_source=rss",
-    "summary": "Trump marked his second term anniversary by showcasing achievements, immigration actions, and addressing foreign policy.",
-    "timestamp": 1769007071.0,
-    "date": "Jan 21, 14:51"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Three journalists among 11 Palestinians killed in Israel\u2019s attacks on Gaza",
-    "link": "https://www.aljazeera.com/news/2026/1/21/three-journalists-among-11-palestinians-killed-in-israels-attacks-on-gaza?traffic_source=rss",
-    "summary": "The three journalists worked for a committee supervising Egyptian aid in Gaza and were documenting a newly set-up camp.",
-    "timestamp": 1769006576.0,
-    "date": "Jan 21, 14:42"
   },
   {
     "source": "Deutsche Welle",
@@ -1213,14 +1277,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/jan/22/gen-xers-the-new-baby-boomers-analysis-identifies-australias-richest-landholders-by-generation",
     "summary": "<p>Those born between 1965 and 1980 own an average of $1.455m in housing and land, KPMG report finds</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking...",
     "timestamp": 1769004039.0,
-    "date": "Jan 21, 14:00"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Sydney Water blames food outlets for illegally adding to fatberg. But restaurants say \u2018if it\u2019s a problem, it\u2019s their problem\u2019",
-    "link": "https://www.theguardian.com/australia-news/2026/jan/22/fatberg-poo-balls-sydney-businesses-could-be-illegally-discharging-waste",
-    "summary": "<p>Huge spike in fats, oils and grease going to Malabar treatment plant follows 2017 changes to reporting regime and reduced inspections, critics say</p><ul><li><p><a href=\"https://www.theguardian.com...",
-    "timestamp": 1769004038.0,
     "date": "Jan 21, 14:00"
   },
   {
@@ -1344,14 +1400,6 @@
     "date": "Jan 21, 11:30"
   },
   {
-    "source": "TechCrunch",
-    "title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
-    "link": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
-    "summary": "Consumers spent more money in mobile apps than games in 2025, driven by AI app adoption.",
-    "timestamp": 1768995000.0,
-    "date": "Jan 21, 11:30"
-  },
-  {
     "source": "The Guardian",
     "title": "Former South Korean PM jailed for 23 years for role in martial law insurrection",
     "link": "https://www.theguardian.com/world/2026/jan/21/former-south-korea-pm-han-duck-soo-jailed-martial-law-insurrection",
@@ -1379,7 +1427,7 @@
     "source": "Deutsche Welle",
     "title": "Germany news: Woman arrested in Berlin over Russian spy case",
     "link": "https://www.dw.com/en/germany-news-woman-arrested-in-berlin-over-russian-spy-case/live-75587808?maca=en-rss-en-all-1573-rdf",
-    "summary": "A German-Ukrainian woman was accused of giving sensitive information to a Russian embassy official. Meanwhile, fewer Germans are drinking alcohol. DW has the latest.",
+    "summary": "A German-Ukrainian woman was accused of giving sensitive information to a Russian embassy official. Meanwhile, fewer Germans are drinking alcohol",
     "timestamp": 1768989720.0,
     "date": "Jan 21, 10:02"
   },
@@ -1388,14 +1436,6 @@
     "title": "How the word 'cravat' came from the battlefields of 17th century Europe",
     "link": "https://www.npr.org/2026/01/21/nx-s1-5682323/cravat-word-of-the-week",
     "summary": "In this installment of NPR's \"Word of the Week\" series we trace the origins of the \"cravat\" (borrowed from the French \"cravate\") back to the battlefields of 17th century Europe.",
-    "timestamp": 1768989600.0,
-    "date": "Jan 21, 10:00"
-  },
-  {
-    "source": "NPR",
-    "title": "How ICE grew to be the highest-funded U.S. law enforcement agency",
-    "link": "https://www.npr.org/2026/01/21/nx-s1-5674887/ice-budget-funding-congress-trump",
-    "summary": "ICE's budget hovered around $10 billion for years. But President Trump and the Republican-controlled Congress are taking the agency's funding to unprecedented levels.",
     "timestamp": 1768989600.0,
     "date": "Jan 21, 10:00"
   },
@@ -1440,14 +1480,6 @@
     "date": "Jan 21, 08:42"
   },
   {
-    "source": "TechCrunch",
-    "title": "Snap reaches settlement in social media addiction lawsuit",
-    "link": "https://techcrunch.com/2026/01/20/snap-reaches-settlement-in-social-media-addiction-lawsuit/",
-    "summary": "The lawsuit against Snap was brought by a 19-year-old known in court documents as K.G.M., accusing the social media app of designing algorithms and features that caused addiction and mental health iss...",
-    "timestamp": 1768980092.0,
-    "date": "Jan 21, 07:21"
-  },
-  {
     "source": "The Guardian",
     "title": "Thousands of workers flee Cambodia scam centres, officials say",
     "link": "https://www.theguardian.com/world/2026/jan/21/thousands-of-workers-flee-cambodia-scam-centres-officials-say",
@@ -1480,14 +1512,6 @@
     "date": "Jan 21, 05:21"
   },
   {
-    "source": "New York Times",
-    "title": "Trump Heads to Davos Amid Deep Worries About U.S.-European Alliance",
-    "link": "https://www.nytimes.com/2026/01/21/us/politics/trump-davos.html",
-    "summary": "The gathering of the global elite is set to serve as an all-hands effort to de-escalate tensions between President Trump and America\u2019s allies over his insistence on acquiring Greenland.",
-    "timestamp": 1768971605.0,
-    "date": "Jan 21, 05:00"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Chile's president-elect picks Pinochet lawyers as ministers",
     "link": "https://www.dw.com/en/chile-s-president-elect-picks-pinochet-lawyers-as-ministers/a-75586298?maca=en-rss-en-all-1573-rdf",
@@ -1504,14 +1528,6 @@
     "date": "Jan 21, 03:52"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Germany sees thousands join pro-Kurdish protests",
-    "link": "https://www.dw.com/en/germany-sees-thousands-join-pro-kurdish-protests/a-75586115?maca=en-rss-en-all-1573-rdf",
-    "summary": "German cities saw large pro-Kurdish demonstrations on Tuesday as Syrian government troops clash with Kurdish forces in northeastern Syria.",
-    "timestamp": 1768963560.0,
-    "date": "Jan 21, 02:46"
-  },
-  {
     "source": "BBC World",
     "title": "Air India crash plane had record of safety defects, campaigners claim",
     "link": "https://www.bbc.com/news/articles/czx1p47x589o?at_medium=RSS&at_campaign=rss",
@@ -1526,14 +1542,6 @@
     "summary": "Kuong Li featured in a 2023 BBC Eye investigation into alleged scam compounds in South East Asia.",
     "timestamp": 1768952618.0,
     "date": "Jan 20, 23:43"
-  },
-  {
-    "source": "BBC World",
-    "title": "New ceasefire in Syria after Kurdish-led forces pull out of camp for IS families",
-    "link": "https://www.bbc.com/news/articles/c4g39w8k8zwo?at_medium=RSS&at_campaign=rss",
-    "summary": "The government announces a four-day ceasefire with the SDF, which says it was \"compelled\" to withdraw its fighters from al-Hol camp.",
-    "timestamp": 1768936376.0,
-    "date": "Jan 20, 19:12"
   },
   {
     "source": "The Guardian",
@@ -1558,14 +1566,6 @@
     "summary": "<p>Salvatore Mancuso given 40-year sentence, which could be reduced after truth and reparation activities</p><p>A Colombian court has sentenced a former paramilitary leader to 40 years in prison for c...",
     "timestamp": 1768911138.0,
     "date": "Jan 20, 12:12"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Men charged with contract killing of Indigenous leader to go on trial in Peru",
-    "link": "https://www.theguardian.com/world/2026/jan/20/trial-peru-amazon-quinto-inuma-alvarado-indigenous-leader",
-    "summary": "<p>Prosecution over death of Quinto Inuma Alvarado seen as test of ability to curb attacks on environmental defenders</p><p>Five men are due to go on trial on Tuesday over the killing of an Amazonian ...",
-    "timestamp": 1768903222.0,
-    "date": "Jan 20, 10:00"
   },
   {
     "source": "The Guardian",
