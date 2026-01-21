@@ -2,65 +2,71 @@ import feedparser
 import json
 import time
 from datetime import datetime
-from dateutil import parser as date_parser
+from time import mktime
 
-# CONFIG: The World's Best Wire Services
+# ROBUST CONFIG
 FEEDS = [
     {"source": "Reuters", "url": "https://p.feedblitz.com/t3/Reuters/worldNews.xml"},
-    {"source": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
-    {"source": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
-    {"source": "AP News", "url": "https://apnews.com/hub/ap-top-news.rss"},
-    {"source": "Deutsche Welle", "url": "https://rss.dw.com/rdf/rss-en-all"},
-    {"source": "NPR", "url": "https://feeds.npr.org/1001/rss.xml"},
+    {"source": "BBC", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"source": "AP", "url": "https://apnews.com/hub/ap-top-news.rss"},
 ]
 
 articles = []
 
 def parse_feed(source_name, url):
-    print(f"📡 Scanning {source_name}...")
+    print(f"--- Scanning {source_name} ---")
     try:
-        feed = feedparser.parse(url)
-        for entry in feed.entries[:15]: # Limit to top 15 per source to keep it snappy
-            
-            # Normalize Date
+        d = feedparser.parse(url)
+        # Check if feed actually worked
+        if not d.entries:
+            print(f"⚠️ No entries found for {source_name}")
+            return
+
+        for entry in d.entries[:10]:
             try:
-                published = entry.published
-                dt = date_parser.parse(published)
-                timestamp = dt.timestamp()
-                display_date = dt.strftime("%H:%M · %b %d")
-            except:
-                timestamp = time.time()
-                display_date = "Just now"
+                # robust date handling
+                if hasattr(entry, 'published_parsed'):
+                    timestamp = mktime(entry.published_parsed)
+                    dt = datetime.fromtimestamp(timestamp)
+                    display_date = dt.strftime("%b %d, %H:%M")
+                else:
+                    timestamp = time.time()
+                    display_date = "Just now"
 
-            # Clean Summary (Remove HTML tags if any)
-            summary = entry.get('summary', '')
-            if '<' in summary:
-                # Basic strip (or just take the title if summary is messy)
-                summary = summary.split('<')[0]
+                # cleanup summary
+                summary = getattr(entry, 'summary', '')
+                if '<' in summary: summary = summary.split('<')[0]
+                
+                # cleanup title
+                title = getattr(entry, 'title', 'No Title')
 
-            articles.append({
-                "source": source_name,
-                "title": entry.title,
-                "link": entry.link,
-                "summary": summary[:200] + "..." if len(summary) > 200 else summary,
-                "timestamp": timestamp,
-                "date": display_date
-            })
+                articles.append({
+                    "source": source_name,
+                    "title": title,
+                    "link": entry.link,
+                    "summary": summary[:150] + "..." if summary else "",
+                    "timestamp": timestamp,
+                    "date": display_date
+                })
+            except Exception as e:
+                print(f"Skipping article: {e}")
+                continue
+                
     except Exception as e:
-        print(f"⚠️ Failed to parse {source_name}: {e}")
+        print(f"❌ Failed source {source_name}: {e}")
 
 def main():
     for feed in FEEDS:
         parse_feed(feed["source"], feed["url"])
     
-    # Sort by Newest first
+    # Sort by newest
     articles.sort(key=lambda x: x['timestamp'], reverse=True)
     
-    # Save to JSON
+    # ALWAYS save, even if empty (prevents 404 errors)
     with open('news.json', 'w') as f:
         json.dump(articles, f, indent=2)
     
-    print(f"✅ Successfully aggregated {len(articles)} articles.")
+    print(f"💾 Saved {len(articles)} articles to news.json")
 
 if __name__ == "__main__":
     main()
