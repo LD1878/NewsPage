@@ -1,19 +1,283 @@
 [
   {
     "source": "CNBC",
-    "title": "Dow jumps nearly 400 points, claws back Greenland turmoil losses in two-day rally: Live updates",
-    "link": "https://www.cnbc.com/2026/01/21/stock-market-today-live-updates.html",
-    "summary": "Stocks rose on Thursday, extending their gains from the previous session after easing geopolitical fears sparked a broad-based market rally.",
-    "timestamp": 1769099326.0,
-    "date": "Jan 22, 16:28"
+    "title": "Musk says Tesla's robotaxis will be widespread in the U.S. by the end of this year",
+    "link": "https://www.cnbc.com/2026/01/22/musk-tesla-robotaxis-us-expansion.html",
+    "summary": "Tesla robotaxis finally hit the road in Austin in June after years of unfulfilled promises from Musk to deliver driverless cars.",
+    "timestamp": 1769102641.0,
+    "date": "Jan 22, 17:24"
+  },
+  {
+    "source": "CNBC",
+    "title": "This financial stock reporting after the bell has been a winning trade for 13-straight earnings reports",
+    "link": "https://www.cnbc.com/2026/01/22/this-financial-stock-reporting-after-the-bell-has-been-a-winning-trade-for-13-straight-earnings-reports.html",
+    "summary": "When the credit card lender reports results Thursday, traders will be watching not just the numbers, but whether the company can extend an unusual streak.",
+    "timestamp": 1769102413.0,
+    "date": "Jan 22, 17:20"
+  },
+  {
+    "source": "New York Times",
+    "title": "Live Updates: Zelensky Criticizes European Allies After Meeting With Trump",
+    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
+    "summary": "",
+    "timestamp": 1769102402.0,
+    "date": "Jan 22, 17:20"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump's latest tariffs U-turn is sparking a global market rally \u2014 and reviving talk of the 'TACO trade'",
+    "link": "https://www.cnbc.com/2026/01/22/trump-tariffs-greenland-europe-deal-taco-trade-sell-america.html",
+    "summary": "\"Donald Trump\u2019s TACO bell has rung once again, much to the joy of financial markets,\" one investor said Thursday.",
+    "timestamp": 1769102312.0,
+    "date": "Jan 22, 17:18"
+  },
+  {
+    "source": "New York Times",
+    "title": "Zelensky Laces Into Europe, Saying It Must Step Up or Be Left Behind",
+    "link": "https://www.nytimes.com/2026/01/22/world/europe/davos-zelensky.html",
+    "summary": "The Ukrainian leader\u2019s speech in Davos, Switzerland, was one of his most scathing critiques of his closest allies.",
+    "timestamp": 1769102291.0,
+    "date": "Jan 22, 17:18"
+  },
+  {
+    "source": "New York Times",
+    "title": "After Trump\u2019s Ultimatum, Greenland Talks Include Sovereign U.S. Bases, No Drilling for Russia",
+    "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
+    "summary": "Negotiators have discussed proposals to check Russian and Chinese influence in the Arctic and transfer sovereignty over pockets of Greenlandic land to the United States, an idea opposed by Denmark.",
+    "timestamp": 1769102188.0,
+    "date": "Jan 22, 17:16"
+  },
+  {
+    "source": "CNBC",
+    "title": "Fed's main gauge shows inflation at 2.8% in November, edging further away from target",
+    "link": "https://www.cnbc.com/2026/01/22/pce-inflation-november-2026.html",
+    "summary": "Inflation drifted slightly further from the Federal Reserve's target in November though in line with expectations.",
+    "timestamp": 1769102179.0,
+    "date": "Jan 22, 17:16"
+  },
+  {
+    "source": "NPR",
+    "title": "5 takeaways from the 2026 Oscar nominations, where 'Sinners' made history",
+    "link": "https://www.npr.org/2026/01/22/nx-s1-5678934/2026-oscar-nominations-sinners",
+    "summary": "<em>Sinners </em>landed a record number of nods, while <em>Avatar: Fire and Ash</em> and <em>Wicked: For Good</em> fell short of their franchise predecessors.",
+    "timestamp": 1769102118.0,
+    "date": "Jan 22, 17:15"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Man Utd midfielder Casemiro to leave at end of season",
+    "link": "https://www.channelnewsasia.com/sport/man-utd-midfielder-casemiro-leave-end-season-5877121",
+    "summary": "",
+    "timestamp": 1769102114.0,
+    "date": "Jan 22, 17:15"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Frank rues Tottenham's injury curse as Bergvall joins absentees",
+    "link": "https://www.channelnewsasia.com/sport/frank-rues-tottenhams-injury-curse-bergvall-joins-absentees-5877126",
+    "summary": "",
+    "timestamp": 1769102046.0,
+    "date": "Jan 22, 17:14"
+  },
+  {
+    "source": "CNBC",
+    "title": "Spirit Airlines is in deal talks with investment firm Castlelake as struggling carrier seeks path forward",
+    "link": "https://www.cnbc.com/2026/01/22/spirit-airlines-deal-talks-castlelake.html",
+    "summary": "Spirit Airlines is in talks with investment firm Castlelake for a potential takeover of the discount airline, which is in bankruptcy, CNBC has learned.",
+    "timestamp": 1769102013.0,
+    "date": "Jan 22, 17:13"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "In fiery Davos speech, Zelenskyy blasts EU, says US 'security guarantees' ready",
+    "link": "https://www.channelnewsasia.com/world/zelenskyy-putin-europe-trump-us-russia-ukraine-peace-deal-talks-5877086",
+    "summary": "The Ukraine president criticised Kyiv's allies for the slow progress of support.",
+    "timestamp": 1769101920.0,
+    "date": "Jan 22, 17:12"
+  },
+  {
+    "source": "New York Times",
+    "title": "Denmark Bristles at Idea of Giving Up Any Sovereignty in Greenland",
+    "link": "https://www.nytimes.com/2026/01/22/world/europe/denmark-greenland-trump-us-reaction.html",
+    "summary": "American and NATO officials have discussed giving the United States sovereignty over U.S. military bases in Greenland. The Danes don\u2019t seem to like that.",
+    "timestamp": 1769101890.0,
+    "date": "Jan 22, 17:11"
   },
   {
     "source": "CNBC",
     "title": "As Americans buy homes later than ever, Lowe's aims to win shoppers with family events and influencers",
     "link": "https://www.cnbc.com/2026/01/22/lowes-offers-kids-events-loyalty-program-as-americans-buy-homes-later.html",
     "summary": "The retailer is trying to attract more store and website visits as the U.S. housing market remains sluggish and customers postpone projects.",
-    "timestamp": 1769099234.0,
-    "date": "Jan 22, 16:27"
+    "timestamp": 1769101450.0,
+    "date": "Jan 22, 17:04"
+  },
+  {
+    "source": "BBC World",
+    "title": "What we know about Trump's  'framework of future deal' over Greenland",
+    "link": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island.",
+    "timestamp": 1769101374.0,
+    "date": "Jan 22, 17:02"
+  },
+  {
+    "source": "CNBC",
+    "title": "Software sell-off sparked by AI sets stage for potential big year of M&A, investors say",
+    "link": "https://www.cnbc.com/2026/01/22/selloff-in-software-from-ai-sets-stage-for-potential-big-year-of-ma.html",
+    "summary": "While much of the tech sector has rallied due to the AI boom, software vendors have been laggards on concern that they'll eventually be displaced.",
+    "timestamp": 1769101350.0,
+    "date": "Jan 22, 17:02"
+  },
+  {
+    "source": "CNBC",
+    "title": "Dow jumps nearly 400 points, claws back Greenland turmoil losses in two-day rally: Live updates",
+    "link": "https://www.cnbc.com/2026/01/21/stock-market-today-live-updates.html",
+    "summary": "Stocks rose on Thursday, extending their gains from the previous session after easing geopolitical fears sparked a broad-based market rally.",
+    "timestamp": 1769101310.0,
+    "date": "Jan 22, 17:01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Struggling fusion power company General Fusion to go public via $1B reverse merger",
+    "link": "https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/",
+    "summary": "General Fusion's merger with an acquisition company will net the company over $300 million. Just last year, the company ran into trouble raising money from other investors.",
+    "timestamp": 1769101225.0,
+    "date": "Jan 22, 17:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Sony announces its first turntables in years",
+    "link": "https://www.theverge.com/news/865333/sony-new-turntables-2026",
+    "summary": "Sony is releasing a new turntable for the first time since 2019. Two, in fact. The entry-level PS-LX3BT ($399.99) and step-up PS-LX5BT ($499.99) are designed for easy operation with both wired and Blu...",
+    "timestamp": 1769101200.0,
+    "date": "Jan 22, 17:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Telly only had 35,000 TVs in people\u2019s homes last fall",
+    "link": "https://www.theverge.com/column/865645/telly-units",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. When free TV startup Telly came out...",
+    "timestamp": 1769101200.0,
+    "date": "Jan 22, 17:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Claude Code is suddenly everywhere inside Microsoft",
+    "link": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
+    "summary": "Developers have been comparing the strengths and weaknesses of Anthropic's Claude Code, Anysphere's Cursor, and Microsoft's GitHub Copilot for months now, looking for a winner. While no individual AI ...",
+    "timestamp": 1769101200.0,
+    "date": "Jan 22, 17:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Waymo continues robotaxi ramp up with Miami service now open to public",
+    "link": "https://techcrunch.com/2026/01/22/waymo-continues-robotaxi-ramp-up-with-miami-service-now-open-to-public/",
+    "summary": "Waymo is opening its driverless robotaxis to the public in Miami, starting with a 60-square-mile service area and plans to reach the airport \"soon.\"",
+    "timestamp": 1769101142.0,
+    "date": "Jan 22, 16:59"
+  },
+  {
+    "source": "NPR",
+    "title": "The Taiwanese president's proposal to hike defense spending faces gridlock at home",
+    "link": "https://www.npr.org/2026/01/22/nx-s1-5683130/taiwan-defense-spending",
+    "summary": "Opposition parties are slamming the brakes on billions in defense funding as the China escalates military pressure.",
+    "timestamp": 1769100864.0,
+    "date": "Jan 22, 16:54"
+  },
+  {
+    "source": "CNBC",
+    "title": "Insurance execs grilled by Congress over affordability; UnitedHealth pledges to rebate ACA plan profits",
+    "link": "https://www.cnbc.com/2026/01/22/insurance-execs-grilled-by-congress-over-affordability-unitedhealth-pledges-to-rebate-aca-plan-profits.html",
+    "summary": "UnitedHealth said on Wednesday the company would provide rebates to customers enrolled in its Obamacare plans for 2026.",
+    "timestamp": 1769100840.0,
+    "date": "Jan 22, 16:54"
+  },
+  {
+    "source": "CNBC",
+    "title": "Spotify's new playlist generator lets you add your vibes, feelings or memories",
+    "link": "https://www.cnbc.com/2026/01/22/spotify-prompted-playlist-ai-vibes-feelings-memories.html",
+    "summary": "Spotify rolled out 'prompted playlist' to premium subscribers in the U.S. and Canada, which uses AI prompts and listening habits to make playlists.",
+    "timestamp": 1769100817.0,
+    "date": "Jan 22, 16:53"
+  },
+  {
+    "source": "CNBC",
+    "title": "Rieder odds rising for Fed chair after Trump calls BlackRock executive 'very impressive'",
+    "link": "https://www.cnbc.com/2026/01/22/rieder-odds-rising-for-fed-chair-after-trump-calls-blackrock-executive-very-impressive.html",
+    "summary": "Traders on the Kalshi predictions market raised the odds for Rieder getting the nomination to 33%",
+    "timestamp": 1769100816.0,
+    "date": "Jan 22, 16:53"
+  },
+  {
+    "source": "France 24",
+    "title": "Vampire horror 'Sinners' leads Oscar nominees, followed by 'One Battle After Another'",
+    "link": "https://www.france24.com/en/tv-shows/arts24/20260122-vampire-horror-sinners-leads-oscar-nominees-followed-by-one-battle-after-another",
+    "summary": "The Academy of Motion Picture Arts and Sciences have announced the nominees for the 98th\u00a0Academy Awards, with Ryan Coogler's vampire horror \"Sinners\" leading the charge. Racking up a record 16 nominat...",
+    "timestamp": 1769100782.0,
+    "date": "Jan 22, 16:53"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Ireland proposes new law allowing police to use spyware",
+    "link": "https://techcrunch.com/2026/01/22/ireland-proposes-new-law-allowing-police-to-use-spyware/",
+    "summary": "The Irish government announced that it wants to pass a law that would grant police more surveillance powers, such as using spyware to fight serious crime, while aiming to protect the privacy rights of...",
+    "timestamp": 1769100568.0,
+    "date": "Jan 22, 16:49"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Inside Trump\u2019s plan to rebuild Gaza without Palestinians",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/1/22/aje-onl-pal_phasetwoceasefire_av_v2-210126?traffic_source=rss",
+    "summary": "The US launches a &quot;Board of Peace&quot; for Gaza, but Palestinians have no seat at the table.",
+    "timestamp": 1769100564.0,
+    "date": "Jan 22, 16:49"
+  },
+  {
+    "source": "New York Times",
+    "title": "U.S. Lays Out a Glittering Plan for Gaza, Including Skyscrapers",
+    "link": "https://www.nytimes.com/2026/01/22/world/middleeast/us-gaza-peace-trump-kushner-davos.html",
+    "summary": "Jared Kushner, President Trump\u2019s son-in-law, offered the proposal at a Davos ceremony to inaugurate the president\u2019s \u201cBoard of Peace.\u201d",
+    "timestamp": 1769100381.0,
+    "date": "Jan 22, 16:46"
+  },
+  {
+    "source": "The Verge",
+    "title": "Why nobody&#8217;s stopping Grok",
+    "link": "https://www.theverge.com/podcast/865275/grok-deepfake-undressing-elon-musk-content-moderation",
+    "summary": "Today\u2019s episode of Decoder is about X, Grok, and Elon Musk. By now we\u2019re several weeks into one of the worst, most upsetting, and most stupidly irresponsible AI controversies in the short history of g...",
+    "timestamp": 1769100300.0,
+    "date": "Jan 22, 16:45"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Real Madrid remain football\u2019s top earners but Liverpool overtake Man Utd",
+    "link": "https://www.aljazeera.com/sports/2026/1/22/liverpool-overtake-man-utd-but-real-madrid-remain-footballs-top-earners?traffic_source=rss",
+    "summary": "Real Madrid remain the top earner in world football but Liverpool leap in ranking, while Manchester United slide.",
+    "timestamp": 1769099999.0,
+    "date": "Jan 22, 16:39"
+  },
+  {
+    "source": "France 24",
+    "title": "Zelensky says US 'security guarantees' for Ukraine ready after meeting with Trump",
+    "link": "https://www.france24.com/en/europe/20260122-zelensky-says-us-security-guarantees-ready-after-meeting-with-trump",
+    "summary": "Ukrainian President Volodymyr Zelensky said Thursday he and US President Donald Trump had agreed on post-war US security guarantees for Ukraine, without providing further details. The deal, which awai...",
+    "timestamp": 1769099595.0,
+    "date": "Jan 22, 16:33"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Video shows severely damaged building in Ukraine from Russian attack",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/22/video-shows-severely-damaged-building-in-ukraine-from-russian-attack?traffic_source=rss",
+    "summary": "A Russian drone strike hit a residential building in the Ukrainian city of Dnipro, injuring seven people.",
+    "timestamp": 1769098983.0,
+    "date": "Jan 22, 16:23"
+  },
+  {
+    "source": "New York Times",
+    "title": "A 67,800-Year-Old Handprint May Be the World\u2019s Oldest Rock Art",
+    "link": "https://www.nytimes.com/2026/01/22/world/asia/indonesia-handprint-rock-art-research.html",
+    "summary": "\u201cIt was hiding in plain sight all this time,\u201d one researcher said.",
+    "timestamp": 1769098944.0,
+    "date": "Jan 22, 16:22"
   },
   {
     "source": "Deutsche Welle",
@@ -22,14 +286,6 @@
     "summary": "Police in India have arrested a woman who accused a man of sexual misconduct on a bus on social media, who then took his own life soon after. His family accused the woman of engagement farming with a ...",
     "timestamp": 1769098920.0,
     "date": "Jan 22, 16:22"
-  },
-  {
-    "source": "New York Times",
-    "title": "Live Updates: Zelensky Criticizes European Allies After Meeting With Trump",
-    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
-    "summary": "",
-    "timestamp": 1769098863.0,
-    "date": "Jan 22, 16:21"
   },
   {
     "source": "Deutsche Welle",
@@ -48,38 +304,6 @@
     "date": "Jan 22, 16:13"
   },
   {
-    "source": "CNBC",
-    "title": "Trump's latest tariffs U-turn is sparking a global market rally \u2014 and reviving talk of the 'TACO trade'",
-    "link": "https://www.cnbc.com/2026/01/22/trump-tariffs-greenland-europe-deal-taco-trade-sell-america.html",
-    "summary": "\"Donald Trump\u2019s TACO bell has rung once again, much to the joy of financial markets,\" one investor said Thursday.",
-    "timestamp": 1769098236.0,
-    "date": "Jan 22, 16:10"
-  },
-  {
-    "source": "CNBC",
-    "title": "Software selloff sparked by AI sets stage for potential big year of M&A, investors say",
-    "link": "https://www.cnbc.com/2026/01/22/selloff-in-software-from-ai-sets-stage-for-potential-big-year-of-ma.html",
-    "summary": "While much of the tech sector has rallied due to the AI boom, software vendors have been laggards on concern that they'll eventually be displaced.",
-    "timestamp": 1769098170.0,
-    "date": "Jan 22, 16:09"
-  },
-  {
-    "source": "CNBC",
-    "title": "Insurance execs grilled by Congress over affordability; UnitedHealth pledges to rebate ACA plan profits",
-    "link": "https://www.cnbc.com/2026/01/22/insurance-execs-grilled-by-congress-over-affordability-unitedhealth-pledges-to-rebate-aca-plan-profits.html",
-    "summary": "UnitedHealth said on Wednesday the company would provide rebates to customers enrolled in its Obamacare plans for 2026.",
-    "timestamp": 1769098109.0,
-    "date": "Jan 22, 16:08"
-  },
-  {
-    "source": "CNBC",
-    "title": "Spotify's new playlist generator lets you add your vibes, feelings or memories",
-    "link": "https://www.cnbc.com/2026/01/22/spotify-prompted-playlist-ai-vibes-feelings-memories.html",
-    "summary": "Spotify rolled out 'prompted playlist' to premium subscribers in the U.S. and Canada, which uses AI prompts and listening habits to make playlists.",
-    "timestamp": 1769098097.0,
-    "date": "Jan 22, 16:08"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Senegal coach explains walk-off ahead of probable sanction",
     "link": "https://www.channelnewsasia.com/sport/senegal-coach-explains-walk-ahead-probable-sanction-5877006",
@@ -93,6 +317,14 @@
     "link": "https://www.cnbc.com/2026/01/21/jamie-dimon-trump-immigration-policy.html",
     "summary": "American CEOs have mostly avoided direct criticism of Trump's policies over the past year.",
     "timestamp": 1769097898.0,
+    "date": "Jan 22, 16:04"
+  },
+  {
+    "source": "BBC World",
+    "title": "ICE detains 5-year-old during Minnesota operation",
+    "link": "https://www.bbc.com/news/articles/cwyrrqwxpz7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Local school officials say the boy was taken with his father. A government spokeswoman denied ICE was targeting the boy.",
+    "timestamp": 1769097848.0,
     "date": "Jan 22, 16:04"
   },
   {
@@ -150,14 +382,6 @@
     "summary": "\"Without action now, there is no tomorrow,\" Ukrainian President Zelenskyy tells world leaders at Davos, adding that Europe needs to be able to protect itself. Follow DW for more.",
     "timestamp": 1769097120.0,
     "date": "Jan 22, 15:52"
-  },
-  {
-    "source": "CNBC",
-    "title": "Fed's main gauge shows inflation at 2.8% in November, edging further away from target",
-    "link": "https://www.cnbc.com/2026/01/22/pce-inflation-november-2026.html",
-    "summary": "Inflation drifted slightly further from the Federal Reserve's target in November though in line with expectations.",
-    "timestamp": 1769097080.0,
-    "date": "Jan 22, 15:51"
   },
   {
     "source": "New York Times",
@@ -224,14 +448,6 @@
     "date": "Jan 22, 15:32"
   },
   {
-    "source": "CNBC",
-    "title": "Paramount extends deadline on hostile Warner Bros bid to February 20",
-    "link": "https://www.cnbc.com/2026/01/22/paramount-extends-deadline-on-hostile-warner-bros-bid-to-february-20.html",
-    "summary": "Paramount on Thursday extended the deadline on its hostile tender offer for Warner Bros Discovery to February 20. The deadline was originally January 21.",
-    "timestamp": 1769095882.0,
-    "date": "Jan 22, 15:31"
-  },
-  {
     "source": "TechCrunch",
     "title": "Here\u2019s what you should know about the US TikTok deal",
     "link": "https://techcrunch.com/2026/01/22/heres-whats-you-should-know-about-the-us-tiktok-deal/",
@@ -240,28 +456,12 @@
     "date": "Jan 22, 15:31"
   },
   {
-    "source": "BBC World",
-    "title": "What we know about Trump's  'framework of future deal' over Greenland",
-    "link": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss",
-    "summary": "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island.",
-    "timestamp": 1769095818.0,
-    "date": "Jan 22, 15:30"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "India's dilemma over Trump's Gaza 'Board of Peace'",
     "link": "https://www.dw.com/en/india-s-dilemma-over-trump-s-gaza-board-of-peace/a-75607689?maca=en-rss-en-all-1573-rdf",
     "summary": "Trump's 'Board of Peace' is testing India's long held balancing act between Israel and the Palestinians, raising questions about costs, strategy, and global leadership.",
     "timestamp": 1769095800.0,
     "date": "Jan 22, 15:30"
-  },
-  {
-    "source": "CNBC",
-    "title": "Paramount is betting European regulators won't approve WBD-Netflix. Here's how it could play out",
-    "link": "https://www.cnbc.com/2026/01/22/paramount-wbd-netflix-european-regulators.html",
-    "summary": "Paramount is counting on European regulatory backlash to push the WBD deal away from Netflix.",
-    "timestamp": 1769095791.0,
-    "date": "Jan 22, 15:29"
   },
   {
     "source": "The Verge",
@@ -352,19 +552,19 @@
     "date": "Jan 22, 15:13"
   },
   {
-    "source": "CNBC",
-    "title": "GM to move production of China-built Buick SUV to U.S. plant",
-    "link": "https://www.cnbc.com/2026/01/22/gm-buick-compact-suv-china-fairfax.html",
-    "summary": "General Motors plans to move production of a Buick compact SUV from China to the U.S. for domestic sales, the company confirmed Thursday.",
-    "timestamp": 1769094785.0,
-    "date": "Jan 22, 15:13"
+    "source": "TechCrunch",
+    "title": "Google reportedly snags team behind AI voice startup Hume AI",
+    "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
+    "summary": "Google has hired the CEO and top engineer behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens.",
+    "timestamp": 1769094771.0,
+    "date": "Jan 22, 15:12"
   },
   {
-    "source": "TechCrunch",
-    "title": "Google reportedly snags up team behind AI voice startup Hume AI",
-    "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
-    "summary": "Google has hired the CEO and top top behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens.",
-    "timestamp": 1769094771.0,
+    "source": "CNBC",
+    "title": "January Monthly Meeting: Jim Cramer reviews every stock in his portfolio",
+    "link": "https://www.cnbc.com/search/?query=January%20Monthly%20Meeting:%20Jim%20Cramer%20reviews%20every%20stock%20in%20his%20portfolio",
+    "summary": "There will be no Morning Meeting on January 22. Join Jim Cramer for the January Monthly Meeting on January 22 at 12 pm ET.The market looks to extend its three-year winning streak, but challenges remai...",
+    "timestamp": 1769094760.0,
     "date": "Jan 22, 15:12"
   },
   {
@@ -382,6 +582,14 @@
     "summary": "The film by Ryan Coogler earned 16 nods for the 98th Academy Awards, which will be presented on March 15. A new Oscar category was also introduced for the first time in 25 years.",
     "timestamp": 1769094660.0,
     "date": "Jan 22, 15:11"
+  },
+  {
+    "source": "BBC World",
+    "title": "Vampire film Sinners breaks Oscar nominations record",
+    "link": "https://www.bbc.com/news/articles/cz0ppdjmjy9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The horror is up for 16 awards - setting a new record for the most Oscar nominations for a single film.",
+    "timestamp": 1769094644.0,
+    "date": "Jan 22, 15:10"
   },
   {
     "source": "CNBC",
@@ -520,14 +728,6 @@
     "date": "Jan 22, 14:48"
   },
   {
-    "source": "New York Times",
-    "title": "Trump\u2019s \u2018Board of Peace\u2019 Would Have Global Scope but One Man in Charge",
-    "link": "https://www.nytimes.com/2026/01/21/us/politics/trump-board-peace-united-nations.html",
-    "summary": "The initiative is the latest example of the president\u2019s dismantling the post-World War II international system and building a new one, with himself at the center.",
-    "timestamp": 1769093316.0,
-    "date": "Jan 22, 14:48"
-  },
-  {
     "source": "CNBC",
     "title": "OpenAI chair Bret Taylor says AI is 'probably' a bubble, expects correction in coming years",
     "link": "https://www.cnbc.com/2026/01/22/openai-chair-bret-taylor-ai-bubble-correction.html",
@@ -542,14 +742,6 @@
     "summary": "A new tool aims to help AI chatbots generate more human-sounding text - with the help of Wikipedia's guide for detecting AI, as reported by Ars Technica. Developer Siqi Chen says he created the tool, ...",
     "timestamp": 1769093295.0,
     "date": "Jan 22, 14:48"
-  },
-  {
-    "source": "CNBC",
-    "title": "Newsom shows off knee pads for CEOs 'selling out' to the Trump administration",
-    "link": "https://www.cnbc.com/2026/01/22/newsom-makes-knee-pads-for-ceos-selling-out-to-trump.html",
-    "summary": "The Governor of California showed off knee pads that he suggested were for leaders \"selling out\" to the Trump administration, during an interview at Davos.",
-    "timestamp": 1769093267.0,
-    "date": "Jan 22, 14:47"
   },
   {
     "source": "Al Jazeera",
@@ -638,6 +830,14 @@
     "summary": "Frenchie Mae Cumpio and her former roommate were convicted of financing terrorism and sentenced to up to 18 years in prison.",
     "timestamp": 1769092005.0,
     "date": "Jan 22, 14:26"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump holds 'very good talks' with Zelensky as US pushes for Ukraine deal",
+    "link": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
+    "summary": "The meeting came as US envoy Steve Witkoff headed to Moscow for a meeting with Russia's Vladimir Putin.",
+    "timestamp": 1769091831.0,
+    "date": "Jan 22, 14:23"
   },
   {
     "source": "Deutsche Welle",
@@ -760,22 +960,6 @@
     "date": "Jan 22, 14:00"
   },
   {
-    "source": "The Verge",
-    "title": "Adobe is developing \u2018IP-safe\u2019 gen AI models for the entertainment industry",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/865077/adobe-firefly-foundry-ip-sage-genai-models",
-    "summary": "As Hollywood continues to embrace generative AI, Adobe is taking steps to make its Firefly suite of creative tools the go-to for studios' entertainment production needs. Timed to this year's Sundance ...",
-    "timestamp": 1769090400.0,
-    "date": "Jan 22, 14:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Waymo is accepting public riders in Miami",
-    "link": "https://www.theverge.com/transportation/865145/waymo-miami-public-riders-waitlist",
-    "summary": "Waymo is kicking off the new year with a new city: Miami. Starting today, anyone on the company's waitlist of approximately 10,000 people can hail one of its robotaxis for trips within a 60-square-mil...",
-    "timestamp": 1769090400.0,
-    "date": "Jan 22, 14:00"
-  },
-  {
     "source": "France 24",
     "title": "About 30 countries expected to join Trump's 'Board of Peace'",
     "link": "https://www.france24.com/en/about-30-countries-expected-to-join-trump-s-board-of-peace",
@@ -840,27 +1024,11 @@
     "date": "Jan 22, 13:31"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Three concussions may impact attention span in women footballers, study shows",
-    "link": "https://www.channelnewsasia.com/sport/three-concussions-may-impact-attention-span-in-women-footballers-study-shows-5876576",
-    "summary": "",
-    "timestamp": 1769088680.0,
-    "date": "Jan 22, 13:31"
-  },
-  {
     "source": "NPR",
     "title": "See the full list of 2026 Oscar nominations",
     "link": "https://www.npr.org/2026/01/22/nx-s1-5678922/2026-oscar-nominations-academy-awards",
     "summary": "Horror movie ",
     "timestamp": 1769088630.0,
-    "date": "Jan 22, 13:30"
-  },
-  {
-    "source": "CNBC",
-    "title": "Spirit Airlines is in deal talks with investment firm Castlelake as struggling carrier seeks path forward",
-    "link": "https://www.cnbc.com/2026/01/22/spirit-airlines-deal-talks-castlelake.html",
-    "summary": "Spirit Airlines is in talks with investment firm Castlelake for a potential takeover of the discount airline, which is in bankruptcy, CNBC has learned.",
-    "timestamp": 1769088620.0,
     "date": "Jan 22, 13:30"
   },
   {
@@ -904,30 +1072,6 @@
     "date": "Jan 22, 13:11"
   },
   {
-    "source": "France 24",
-    "title": "Death toll in Pakistan mall rises to 55",
-    "link": "https://www.france24.com/en/death-toll-in-pakistan-mall-rises-to-55",
-    "summary": "The death toll from a shopping centre fire in Pakistan\u2019s largest city, Karachi, has risen to at least 55. Relatives of those still missing have criticized the slow rescue operation at the three-storey...",
-    "timestamp": 1769087399.0,
-    "date": "Jan 22, 13:09"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Norris more confident and gunning for a repeat title",
-    "link": "https://www.channelnewsasia.com/sport/norris-more-confident-and-gunning-repeat-title-5876521",
-    "summary": "",
-    "timestamp": 1769087329.0,
-    "date": "Jan 22, 13:08"
-  },
-  {
-    "source": "France 24",
-    "title": "French dairy giant Lactalis recalls baby formula in 18 countries due to toxin",
-    "link": "https://www.france24.com/en/french-dairy-giant-lactalis-recalls-baby-formula-in-18-countries-due-to-toxin",
-    "summary": "French dairy maker Lactalis has recalled baby formula in 18 countries after it was discovered that some batches may contain a dangerous toxin. Since the start of this year, three of the world\u2019s bigges...",
-    "timestamp": 1769087321.0,
-    "date": "Jan 22, 13:08"
-  },
-  {
     "source": "The Guardian",
     "title": "Nearly 200 arrested in cross-border crackdown on gold mining in Amazon",
     "link": "https://www.theguardian.com/world/2026/jan/22/cross-border-crackdown-illegal-gold-mining-amazon",
@@ -942,22 +1086,6 @@
     "summary": "<p>Extreme heat \u2018is getting worse and whether we like it or not \u2026 there\u2019s ultimately a limit to what we can actually physically cope with,\u2019 scientist says</p><ul><li><p>Get our <a href=\"https://www.th...",
     "timestamp": 1769086885.0,
     "date": "Jan 22, 13:01"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Malaysia's 'aggressive' move to double minimum expatriate salaries sends 'strong' signal to hire local",
-    "link": "https://www.channelnewsasia.com/asia/malaysia-expat-salary-foreigner-jobs-ep-5876426",
-    "summary": "Some employers are considering a \u201cthorough review\u201d of salary structures for current and future expatriates and, if necessary, the relocation of certain roles or workers to other countries.",
-    "timestamp": 1769086800.0,
-    "date": "Jan 22, 13:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Big games are getting bigger \u2014 and so are the stakes",
-    "link": "https://www.theverge.com/report/865219/ubisoft-reorganization-ea-playstation-big-games",
-    "summary": "Ubisoft is making some massive changes to its business: As part of a reorganization, the company will focus its efforts on the big open-world games it's famous for along with live service titles, and ...",
-    "timestamp": 1769086800.0,
-    "date": "Jan 22, 13:00"
   },
   {
     "source": "Al Jazeera",
@@ -1008,36 +1136,12 @@
     "date": "Jan 22, 12:44"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Japan shuts reactor at world\u2019s biggest nuclear plant a day after restart",
-    "link": "https://www.aljazeera.com/news/2026/1/22/japan-shuts-reactor-at-worlds-biggest-nuclear-plant-a-day-after-restart?traffic_source=rss",
-    "summary": "Restart of No 6 reactor at Kashiwazaki-Kariwa plant suspended after malfunction related to control rods.",
-    "timestamp": 1769085040.0,
-    "date": "Jan 22, 12:30"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Former government insider takes aim at US\u2019s policy on Israel",
-    "link": "https://www.aljazeera.com/video/centre-stage/2026/1/22/aje-onl-cs-josh_paul-220126?traffic_source=rss",
-    "summary": "Josh Paul, of A New Policy, talks about the push for change in US policy towards Palestine and Israel.",
-    "timestamp": 1769084522.0,
-    "date": "Jan 22, 12:22"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Spain: Train collides with crane in wake of 2 deadly crashes",
     "link": "https://www.dw.com/en/spain-train-collides-with-crane-in-wake-of-2-deadly-crashes/a-75606801?maca=en-rss-en-all-1573-rdf",
     "summary": "Emergency crews are responding after a train collided with a construction crane in near Spain's Cartagena. The incident has added to growing scrutiny of rail safety after two serious accidents this we...",
     "timestamp": 1769084460.0,
     "date": "Jan 22, 12:21"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Sinner, Osaka through to the third round at Australian Open",
-    "link": "https://www.aljazeera.com/sports/2026/1/22/sinner-osaka-through-to-the-third-round-at-australian-open?traffic_source=rss",
-    "summary": "Defending champion Jannik Sinner wins easily against James Duckworth while Naomi Osaka overcomes Sorana \u200dCirstea.",
-    "timestamp": 1769084024.0,
-    "date": "Jan 22, 12:13"
   },
   {
     "source": "Deutsche Welle",
@@ -1105,8 +1209,8 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO",
-    "link": "https://techcrunch.com/2026/01/22/tiger-global-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/",
+    "title": "Tiger Global and Microsoft to fully exit Walmart-backed PhonePe via its IPO",
+    "link": "https://techcrunch.com/2026/01/22/tiger-global-and-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/",
     "summary": "Tiger Global and Microsoft are offering up their full stakes in the company, while Walmart is choosing to retain its majority stake, and selling up to 45.9 million shares.",
     "timestamp": 1769080770.0,
     "date": "Jan 22, 11:19"
@@ -1131,7 +1235,7 @@
     "source": "TechCrunch",
     "title": "Former Google trio is building an interactive AI-powered learning app for kids",
     "link": "https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
-    "summary": "Big tech companies and upcoming startups want to use generative AI to build software and hardware for kids. A lot of those experiences are limited to text or voice, and kids might not find that captiv...",
+    "summary": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating...",
     "timestamp": 1769079600.0,
     "date": "Jan 22, 11:00"
   },
@@ -1224,14 +1328,6 @@
     "date": "Jan 22, 09:04"
   },
   {
-    "source": "NPR",
-    "title": "The ICE surge is fueling fear and anxiety among Twin Cities children",
-    "link": "https://www.npr.org/2026/01/22/nx-s1-5676035/minneapolis-ice-fear-anxiety-children",
-    "summary": "Some families aren't leaving their homes as aggressive ICE operations continue in Minnesota, leaving their children confined and stressed. Across the Twin Cities, kids are anxious and afraid.",
-    "timestamp": 1769072460.0,
-    "date": "Jan 22, 09:01"
-  },
-  {
     "source": "BBC World",
     "title": "South African police not yet able to defeat gangs, minister says",
     "link": "https://www.bbc.com/news/articles/cx2ll9wr562o?at_medium=RSS&at_campaign=rss",
@@ -1248,28 +1344,12 @@
     "date": "Jan 22, 08:01"
   },
   {
-    "source": "NPR",
-    "title": "Israeli fire strikes journalists and children in Gaza",
-    "link": "https://www.npr.org/2026/01/22/g-s1-106775/israel-strikes-gaza",
-    "summary": "Israeli forces on Wednesday killed at least 11 Palestinians in Gaza, including two boys, three journalists and a woman, hospitals said, on one of the enclave 's deadliest days since the ceasefire took...",
-    "timestamp": 1769065009.0,
-    "date": "Jan 22, 06:56"
-  },
-  {
     "source": "BBC World",
     "title": "Ghislaine Maxwell to testify before US Congress in Epstein probe",
     "link": "https://www.bbc.com/news/articles/cr7jlylp5keo?at_medium=RSS&at_campaign=rss",
     "summary": "The convicted sex trafficker has previously said she would decline to answer questions unless she is granted immunity.",
     "timestamp": 1769058896.0,
     "date": "Jan 22, 05:14"
-  },
-  {
-    "source": "The Verge",
-    "title": "Hundreds of creatives warn against an AI slop future",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
-    "summary": "Around 800 artists, writers, actors, and musicians signed on to a new campaign against what they call \"theft at a grand scale\" by AI companies. The signatories of the campaign - called \"Stealing Isn't...",
-    "timestamp": 1769058060.0,
-    "date": "Jan 22, 05:01"
   },
   {
     "source": "The Guardian",
@@ -1286,14 +1366,6 @@
     "summary": "Elizabeth Holmes led people to believe that her now-defunct company, Theranos, had developed a medical device that could revolutionize blood tests. She is serving an 11-year sentence for fraud and con...",
     "timestamp": 1769056560.0,
     "date": "Jan 22, 04:36"
-  },
-  {
-    "source": "BBC World",
-    "title": "Slashed incomes and gamers go cold turkey: Fallout from Uganda's internet shutdown",
-    "link": "https://www.bbc.com/news/articles/cx2p54rm4k4o?at_medium=RSS&at_campaign=rss",
-    "summary": "The internet was shut during the general election, leaving many people without any income - or entertainment.",
-    "timestamp": 1769055259.0,
-    "date": "Jan 22, 04:14"
   },
   {
     "source": "The Guardian",
@@ -1376,14 +1448,6 @@
     "date": "Jan 21, 22:19"
   },
   {
-    "source": "TechCrunch",
-    "title": "Apple plans to make Siri an AI chatbot, report says",
-    "link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
-    "summary": "Siri could look more like ChatGPT than its current state as an integrated feature across Apple products.",
-    "timestamp": 1769033570.0,
-    "date": "Jan 21, 22:12"
-  },
-  {
     "source": "New York Times",
     "title": "U.S. Starts Moving ISIS Detainees From Syria to Iraq",
     "link": "https://www.nytimes.com/2026/01/21/world/middleeast/isis-syria-prisons-iraq.html",
@@ -1392,44 +1456,12 @@
     "date": "Jan 21, 22:11"
   },
   {
-    "source": "TechCrunch",
-    "title": "Anthropic revises Claude\u2019s \u2018Constitution,\u2019 and hints at chatbot consciousness",
-    "link": "https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/",
-    "summary": "The newly revised document offers a roadmap for what Anthropic says is a safer and more helpful chatbot experience.",
-    "timestamp": 1769033278.0,
-    "date": "Jan 21, 22:07"
-  },
-  {
-    "source": "New York Times",
-    "title": "Majority of Latin Americans Endorsed Trump\u2019s Intervention In Venezuela, Polls Show",
-    "link": "https://www.nytimes.com/2026/01/21/world/americas/latin-america-venezuela-us-raid-maduro-polls.html",
-    "summary": "A majority of those surveyed said they support the intervention, suggesting a shift from ideology to pragmatism, at least for now.",
-    "timestamp": 1769029996.0,
-    "date": "Jan 21, 21:13"
-  },
-  {
     "source": "BBC World",
     "title": "Israeli strike in Gaza kills three journalists, first responders say",
     "link": "https://www.bbc.com/news/articles/c98pnzp50nqo?at_medium=RSS&at_campaign=rss",
     "summary": "Another eight Palestinians were killed by Israeli artillery and gunfire across Gaza on Wednesday, according to medics.",
     "timestamp": 1769028263.0,
     "date": "Jan 21, 20:44"
-  },
-  {
-    "source": "New York Times",
-    "title": "Israeli Strikes in Gaza Kill 11, Including Three Journalists",
-    "link": "https://www.nytimes.com/2026/01/21/world/middleeast/israel-gaza-strikes-journalists.html",
-    "summary": "The three journalists were operating a drone near the town of Al-Zahra.",
-    "timestamp": 1769027961.0,
-    "date": "Jan 21, 20:39"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Apps for boycotting American products surge to the top of the Danish App Store",
-    "link": "https://techcrunch.com/2026/01/21/apps-for-boycotting-american-products-surge-to-the-top-of-the-danish-app-store/",
-    "summary": "The boost in downloads comes as Danish consumers have been organizing a grassroots boycott of American-made products, which also included canceling their U.S. vacations and ditching their subscription...",
-    "timestamp": 1769027934.0,
-    "date": "Jan 21, 20:38"
   },
   {
     "source": "BBC World",
@@ -1462,14 +1494,6 @@
     "summary": "The US president made a series of contested claims, ranging from the status of Greenland to Nato spending.",
     "timestamp": 1769023142.0,
     "date": "Jan 21, 19:19"
-  },
-  {
-    "source": "BBC World",
-    "title": "What we know about Spain's worst rail disaster in over a decade",
-    "link": "https://www.bbc.com/news/articles/clye22ljxw4o?at_medium=RSS&at_campaign=rss",
-    "summary": "What caused the train to derail remains unclear but officials say an investigation has been launched.",
-    "timestamp": 1769022385.0,
-    "date": "Jan 21, 19:06"
   },
   {
     "source": "New York Times",
@@ -1513,14 +1537,6 @@
   },
   {
     "source": "New York Times",
-    "title": "Man Gets Life in Prison for Killing Shinzo Abe, Former Leader of Japan",
-    "link": "https://www.nytimes.com/2026/01/20/world/asia/japan-shinzo-abe-killer-verdict.html",
-    "summary": "Tetsuya Yamagami, 45, had admitted to shooting Mr. Abe, Japan\u2019s longest-serving prime minister; but his case divided Japan.",
-    "timestamp": 1769008958.0,
-    "date": "Jan 21, 15:22"
-  },
-  {
-    "source": "New York Times",
     "title": "French Doctor Listened to Women\u2019s Pain, Then Transformed How It Was Treated",
     "link": "https://www.nytimes.com/2026/01/21/world/europe/france-doctor-house-of-women.html",
     "summary": "Ghada Hatem-Gantzer, a French doctor, founded a one-stop shop to treat female victims of violence. Now, her revolutionary template is used across France.",
@@ -1550,22 +1566,6 @@
     "summary": "<p>Prime minister\u2019s reported trip follows approval by UK government for Beijing to build new embassy in London</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/jan/21/keir-starmer...",
     "timestamp": 1768990179.0,
     "date": "Jan 21, 10:09"
-  },
-  {
-    "source": "New York Times",
-    "title": "South Korean Ex-Premier Gets 23 Years in Prison for Role in Martial Law",
-    "link": "https://www.nytimes.com/2026/01/21/world/asia/south-korea-prime-minister-martial-law.html",
-    "summary": "Han Duck-soo was convicted of playing a key role in former President Yoon Suk Yeol\u2019s imposition of martial law, which a court said was an insurrection.",
-    "timestamp": 1768989070.0,
-    "date": "Jan 21, 09:51"
-  },
-  {
-    "source": "BBC World",
-    "title": "Photos leaked to BBC show faces of hundreds killed in Iran's brutal protest crackdown",
-    "link": "https://www.bbc.com/news/articles/c0r4957rq8ro?at_medium=RSS&at_campaign=rss",
-    "summary": "The images from one mortuary in Tehran were shown to families who went to identify their loved ones.",
-    "timestamp": 1768974980.0,
-    "date": "Jan 21, 05:56"
   },
   {
     "source": "The Guardian",
