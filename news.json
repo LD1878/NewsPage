@@ -1,11 +1,139 @@
 [
   {
+    "source": "CNBC",
+    "title": "This year could be 'make or break' for OpenAI as investors turn their eyes to profit",
+    "link": "https://www.cnbc.com/2026/01/23/this-year-could-be-make-or-break-for-openai-ai-model-developers.html",
+    "summary": "AI foundation model developers are still experimenting with business models, but investors will likely push for returns this year.",
+    "timestamp": 1769156686.0,
+    "date": "Jan 23, 08:24"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Inpex working on advancing Indonesia's Abadi LNG project to meet government request",
+    "link": "https://www.channelnewsasia.com/business/inpex-working-advancing-indonesias-abadi-lng-project-meet-government-request-5878616",
+    "summary": "",
+    "timestamp": 1769156226.0,
+    "date": "Jan 23, 08:17"
+  },
+  {
+    "source": "CNBC",
+    "title": "European markets edge lower; Ericsson pops 11% after fourth-quarter profit beat",
+    "link": "https://www.cnbc.com/2026/01/23/european-markets-set-for-a-lackluster-open-geopolitics-in-focus-.html",
+    "summary": "European stocks finished higher on Thursday after U.S. President Donald Trump said a \"framework\" agreement had been reached over Greenland.",
+    "timestamp": 1769156098.0,
+    "date": "Jan 23, 08:14"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump's claim about Nato troops in Afghanistan is disappointing, minister says",
+    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+    "summary": "The US president said allied troops had \"stayed a little back\" during the war in Afghanistan.",
+    "timestamp": 1769156056.0,
+    "date": "Jan 23, 08:14"
+  },
+  {
     "source": "New York Times",
     "title": "Trump Says Canada Is No Longer Welcome on Peace Board",
     "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
     "summary": "",
-    "timestamp": 1769152135.0,
-    "date": "Jan 23, 07:08"
+    "timestamp": 1769155903.0,
+    "date": "Jan 23, 08:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "Bank of Japan raises economic growth forecasts ahead of snap election, holds rates at 0.75%",
+    "link": "https://www.cnbc.com/2026/01/23/boj-rate-decision-snap-election-takaichi-gdp.html",
+    "summary": "The BOJ also upgraded its GDP forecast for the 2025 fiscal year to 0.9%, and also raised its GDP projection for the 2026 fiscal year to 1% from 0.7%.",
+    "timestamp": 1769155694.0,
+    "date": "Jan 23, 08:08"
+  },
+  {
+    "source": "CNBC",
+    "title": "Asia markets mostly advance as Bank of Japan leaves interest rates on hold",
+    "link": "https://www.cnbc.com/2026/01/23/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
+    "summary": "Asia-Pacific markets mostly rose as investors looked ahead to the Bank of Japan's decision.",
+    "timestamp": 1769155600.0,
+    "date": "Jan 23, 08:06"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Analyst breaks down map of Trump\u2019s Gaza plan",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/23/analyst-breaks-down-map-of-trumps-gaza-plan?traffic_source=rss",
+    "summary": "A map showing what Gaza would look like under US President Donald Trump\u2019s redevelopment plan raises big questions.",
+    "timestamp": 1769155171.0,
+    "date": "Jan 23, 07:59"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Malaysia lifts suspension on Musk's Grok chatbot",
+    "link": "https://www.channelnewsasia.com/asia/malaysia-lifts-suspension-grok-xai-chatbot-elon-musk-5878546",
+    "summary": "Elon Musk's Grok chatbot was blocked nearly two weeks ago over concerns about AI-generated sexualised deepfakes.",
+    "timestamp": 1769154900.0,
+    "date": "Jan 23, 07:55"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Jackie Chan's first time at Milan Fashion Week has fans amused as he looks like he 'accidentally wandered' in",
+    "link": "https://www.channelnewsasia.com/entertainment/jackie-chan-milan-fashion-week-5878121",
+    "summary": "The 71-year-old superstar was likened to a \u201cwide-eyed kid,\u201d with his appearance spawning a wave of playful memes.",
+    "timestamp": 1769154360.0,
+    "date": "Jan 23, 07:46"
+  },
+  {
+    "source": "France 24",
+    "title": "Europa League: Mixed night for French clubs",
+    "link": "https://www.france24.com/en/tv-shows/sports/20260123-europa-league-mixed-night-for-french-clubs",
+    "summary": "With seven Europa League matches under their belt, Lyon have now won six of them. This means they are guaranteed a place in the round of 16 and remain at the top of the table. Meanwhile, Lille suffere...",
+    "timestamp": 1769153848.0,
+    "date": "Jan 23, 07:37"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Six missing after landslide hits New Zealand campsite",
+    "link": "https://www.aljazeera.com/news/2026/1/23/six-missing-after-landslide-hits-new-zealand-campsite?traffic_source=rss",
+    "summary": "Officials have warned the search for the missing could take several days.",
+    "timestamp": 1769153710.0,
+    "date": "Jan 23, 07:35"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump revokes Canada\u2019s invitation to join Board of Peace",
+    "link": "https://www.aljazeera.com/news/2026/1/23/trump-revokes-canadas-invitation-to-join-board-of-peace?traffic_source=rss",
+    "summary": "Canada&#039;s prime minister openly criticised tariffs and the collapse of the rules-based order in his address in Davos.",
+    "timestamp": 1769153705.0,
+    "date": "Jan 23, 07:35"
+  },
+  {
+    "source": "CNBC",
+    "title": "S&P 500 futures higher as major averages advance for second straight day: Live updates",
+    "link": "https://www.cnbc.com/2026/01/22/stock-market-today-live-updates.html",
+    "summary": "Stocks rose for a second session Thursday on easing geopolitical fears, placing the Dow Industrials on track for a narrow weekly gain.",
+    "timestamp": 1769153695.0,
+    "date": "Jan 23, 07:34"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Singapore Airshow 2026 to feature eight flying displays, debut of Australian air force F-35A",
+    "link": "https://www.channelnewsasia.com/singapore/airshow-2026-rsaf-flying-display-raaf-f35a-5878401",
+    "summary": "",
+    "timestamp": 1769153098.0,
+    "date": "Jan 23, 07:24"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump says \u2018armada\u2019 of US warships is heading towards Iran",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/23/trump-says-armada-of-us-warships-is-heading-towards-iran?traffic_source=rss",
+    "summary": "President Donald Trump has said a \u2018big force\u2019 of US warships is heading towards Iran.",
+    "timestamp": 1769152982.0,
+    "date": "Jan 23, 07:23"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Andrew Hastie firms as Liberal leadership challenger amid push for Ley to step aside",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/23/sussan-ley-confident-she-will-survive-as-opposition-leader-and-says-door-is-open-to-nationals-rejoining-coalition",
+    "summary": "<p>Colleagues encourage former soldier to run as Sussan Ley declares she will remain opposition leader after Coalition split</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletter...",
+    "timestamp": 1769152641.0,
+    "date": "Jan 23, 07:17"
   },
   {
     "source": "The Guardian",
@@ -49,7 +177,7 @@
   },
   {
     "source": "France 24",
-    "title": "Live: US, Ukraine and Russia to meet in Abu Dhabi for first trilateral talks",
+    "title": "Live: US, Ukraine and Russia envoys to meet in Abu Dhabi for first trilateral talks",
     "link": "https://www.france24.com/en/europe/20260123-live-us-ukraine-russia-meet-abu-dhabi-first-trilateral-talks",
     "summary": "Officials representing Ukraine, Russia and the United States are set to meet in Abu Dhabi on Friday for their first trilateral talks on security issues in a bid to end the war in Ukraine. Diplomatic e...",
     "timestamp": 1769151016.0,
@@ -57,9 +185,9 @@
   },
   {
     "source": "The Guardian",
-    "title": "Australia news live: total fire ban for Victoria on Saturday as SA officials brace for dangerous conditions",
+    "title": "SA and Victoria brace for weekend of dangerous fire conditions \u2013 as it happened",
     "link": "https://www.theguardian.com/australia-news/live/2026/jan/23/australia-news-live-sussan-ley-liberals-coalition-nationals-littleproud-hastie-taylor-anthony-albanese-labor-spill-ntwnfb",
-    "summary": "<p>Follow updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/22/three-people-dead-after-shooting-in-nsw-town-lake-cargelligo-as-police-urge-locals-to-stay-inside-n...",
+    "summary": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/23/sussan-ley-confident-she-will-survive-as-opposition-leader-and-says-door-is-open-to-nationals-r...",
     "timestamp": 1769150950.0,
     "date": "Jan 23, 06:49"
   },
@@ -78,14 +206,6 @@
     "summary": "Chinese-owned video platform TikTok has sealed a deal to create a joint venture with American investors. The move allows the popular social app to dodge the threat of being banned in the US.",
     "timestamp": 1769150520.0,
     "date": "Jan 23, 06:42"
-  },
-  {
-    "source": "CNBC",
-    "title": "Bank of Japan raises economic growth forecasts ahead of snap election, holds rates at 0.75%",
-    "link": "https://www.cnbc.com/2026/01/23/boj-rate-decision-snap-election-takaichi-gdp.html",
-    "summary": "The BOJ also upgraded its GDP forecast for the 2025 fiscal year to 0.9%, and also raised its GDP projection for the 2026 fiscal year to 1% from 0.7%.",
-    "timestamp": 1769150459.0,
-    "date": "Jan 23, 06:40"
   },
   {
     "source": "CNA (Asia)",
@@ -174,14 +294,6 @@
     "summary": "Israeli strategy for Gaza caught between settlements and security zones, as it continues to kill Palestinians.",
     "timestamp": 1769146653.0,
     "date": "Jan 23, 05:37"
-  },
-  {
-    "source": "CNBC",
-    "title": "Asia markets mostly advance as Bank of Japan leaves interest rates on hold",
-    "link": "https://www.cnbc.com/2026/01/23/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
-    "summary": "Asia-Pacific markets rose as investors looked ahead to the Bank of Japan's decision.",
-    "timestamp": 1769145821.0,
-    "date": "Jan 23, 05:23"
   },
   {
     "source": "New York Times",
@@ -276,7 +388,7 @@
     "title": "No Beer for You: How British Pubs Fought a Tax Increase",
     "link": "https://www.nytimes.com/2026/01/23/world/europe/uk-pubs-rates-u-turn.html",
     "summary": "More than 1,400 pubs declared a ban on Labour lawmakers in response to a plan to raise business rates significantly. The move got attention, and results.",
-    "timestamp": 1769144465.0,
+    "timestamp": 1769144466.0,
     "date": "Jan 23, 05:01"
   },
   {
@@ -294,22 +406,6 @@
     "summary": "For December 2025, core inflation stood at 1.2 per cent - unchanged from November 2025.",
     "timestamp": 1769144400.0,
     "date": "Jan 23, 05:00"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Medvedev fights back from two sets down to beat Marozsan at Australian Open",
-    "link": "https://www.channelnewsasia.com/sport/medvedev-fights-back-two-sets-down-beat-marozsan-australian-open-5878266",
-    "summary": "",
-    "timestamp": 1769144308.0,
-    "date": "Jan 23, 04:58"
-  },
-  {
-    "source": "The Guardian",
-    "title": "The Australian dollar is (oddly) rising \u2013 what does \u2018sell America\u2019 sentiment have to do with it?",
-    "link": "https://www.theguardian.com/business/2026/jan/23/australian-dollar-rising-sell-america-sentiment",
-    "summary": "<p>So much for the \u2018Trump trade\u2019 \u2013 investors are moving money out of US assets amid tariff disputes, attacks on the Federal Reserve and concerns over government debt levels</p><ul><li><p><a href=\"http...",
-    "timestamp": 1769143900.0,
-    "date": "Jan 23, 04:51"
   },
   {
     "source": "Al Jazeera",
@@ -334,30 +430,6 @@
     "summary": "TikTok has finalized a deal to create a new American entity, avoiding the looming threat of a ban in the United States that has been in discussion for years.",
     "timestamp": 1769142847.0,
     "date": "Jan 23, 04:34"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "South Korea repatriates 73 scam suspects from Cambodia in US$33 million online fraud probe",
-    "link": "https://www.channelnewsasia.com/east-asia/south-korea-repatriates-73-scam-suspects-cambodia-fraud-5878176",
-    "summary": "",
-    "timestamp": 1769141820.0,
-    "date": "Jan 23, 04:17"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Actor Andie Chen makes directorial debut with short film about dementia",
-    "link": "https://www.channelnewsasia.com/entertainment/andie-chen-directorial-debut-singapore-dementia-story-5877941",
-    "summary": "Singaporean actor Andie Chen makes his directorial debut with,&nbsp;What Day Is It?, which is part of&nbsp;an anthology of five short films spotlighting dementia.",
-    "timestamp": 1769140960.0,
-    "date": "Jan 23, 04:02"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Brands drop South Korean actor Cha Eun-woo from ads as tax evasion controversy sparks public backlash",
-    "link": "https://www.channelnewsasia.com/entertainment/cha-eun-woo-advertisements-dropped-brands-5877931",
-    "summary": "So far, skincare brand Abib and Shinhan Bank have switched promotional videos featuring Cha to private on YouTube.&nbsp;",
-    "timestamp": 1769140080.0,
-    "date": "Jan 23, 03:48"
   },
   {
     "source": "Deutsche Welle",
@@ -512,14 +584,6 @@
     "date": "Jan 23, 01:37"
   },
   {
-    "source": "BBC World",
-    "title": "Trump sparks anger over claim Nato troops avoided Afghan front line",
-    "link": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
-    "summary": "The US president said allied troops had \"stayed a little back\" during the war in Afghanistan.",
-    "timestamp": 1769132082.0,
-    "date": "Jan 23, 01:34"
-  },
-  {
     "source": "New York Times",
     "title": "After Trump\u2019s Ultimatum, Greenland Talks Include Sovereign U.S. Bases, No Drilling for Russia",
     "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-deal-framework.html",
@@ -566,14 +630,6 @@
     "summary": "Ring has launched a new Ring Verify tool that the company says can \"verify that Ring videos you receive haven't been edited or changed.\" But since Ring won't verify videos that have been altered in an...",
     "timestamp": 1769129861.0,
     "date": "Jan 23, 00:57"
-  },
-  {
-    "source": "CNBC",
-    "title": "Elon Musk says Tesla taking safety supervisors out of some Robotaxi vehicles in Austin",
-    "link": "https://www.cnbc.com/2026/01/22/musk-says-tesla-takes-safety-supervisors-out-of-some-austin-robotaxis.html",
-    "summary": "Tesla CEO Elon Musk said on X that his EV company has removed human safety monitors from some of its Robotaxi vehicles in Austin.",
-    "timestamp": 1769129617.0,
-    "date": "Jan 23, 00:53"
   },
   {
     "source": "The Verge",
@@ -624,14 +680,6 @@
     "date": "Jan 23, 00:27"
   },
   {
-    "source": "CNBC",
-    "title": "S&P 500 futures are little changed after major averages advance for second straight day: Live updates",
-    "link": "https://www.cnbc.com/2026/01/22/stock-market-today-live-updates.html",
-    "summary": "Stocks rose for a second session Thursday on easing geopolitical fears, placing the Dow Industrials on track for a narrow weekly gain.",
-    "timestamp": 1769127740.0,
-    "date": "Jan 23, 00:22"
-  },
-  {
     "source": "BBC World",
     "title": "'Blood was all over' - victim of Nigeria church abduction describes escape",
     "link": "https://www.bbc.com/news/articles/cn422q1py95o?at_medium=RSS&at_campaign=rss",
@@ -643,7 +691,7 @@
     "source": "The Guardian",
     "title": "Japan pauses restart of world\u2019s largest nuclear power plant one day after it went online",
     "link": "https://www.theguardian.com/world/2026/jan/23/japan-pauses-kashiwazaki-kariwa-worlds-largest-nuclear-power-plant",
-    "summary": "<p>Operator says it does now know when the problem at the Kashiwazaki-Kariwa plant in Niigata province will be solved, after an alarm sounded during start-up</p><p>The restart of the world\u2019s largest n...",
+    "summary": "<p>Operator says it does not know when the problem at the Kashiwazaki-Kariwa plant in Niigata province will be solved, after an alarm sounded during start-up</p><p>The restart of the world\u2019s largest n...",
     "timestamp": 1769127553.0,
     "date": "Jan 23, 00:19"
   },
@@ -872,6 +920,14 @@
     "date": "Jan 22, 21:33"
   },
   {
+    "source": "New York Times",
+    "title": "Barron Trump Called U.K. Police After Witnessing Woman \u2018Getting Beat Up\u2019 on Video Call",
+    "link": "https://www.nytimes.com/2026/01/22/world/europe/barron-trump-london-call-woman-assault.html",
+    "summary": "The details of an emergency call made by President Trump\u2019s youngest son to the London police last year emerged during a trial this week.",
+    "timestamp": 1769117530.0,
+    "date": "Jan 22, 21:32"
+  },
+  {
     "source": "TechCrunch",
     "title": "Microsoft 365 hit by outage, preventing access to emails and files",
     "link": "https://techcrunch.com/2026/01/22/microsoft-365-hit-by-outage-preventing-access-to-emails-and-files/",
@@ -1024,14 +1080,6 @@
     "date": "Jan 22, 19:56"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Zelenskyy urges Europe to act as a global power",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/22/zelenskyy-urges-europe-to-act-as-a-global-power?traffic_source=rss",
-    "summary": "Ukrainian President Volodymyr Zelenskyy, in Davos, urged Europe to show more courage and unity.",
-    "timestamp": 1769111607.0,
-    "date": "Jan 22, 19:53"
-  },
-  {
     "source": "NPR",
     "title": "Anti-ICE protest at Minnesota church leads to 3 arrests but no charges for a journalist",
     "link": "https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon",
@@ -1046,22 +1094,6 @@
     "summary": "Ring says the new feature will identify if video edits have been made, even if they're minor.",
     "timestamp": 1769111447.0,
     "date": "Jan 22, 19:50"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Trump sues JPMorgan and CEO Dimon over alleged \u2018debanking\u2019",
-    "link": "https://www.aljazeera.com/economy/2026/1/22/trump-sues-jpmorgan-and-ceo-dimon-over-alleged-debanking?traffic_source=rss",
-    "summary": "The $5bn lawsuit alleges JPMorgan abruptly closed multiple accounts in 2021 cutting off Trump &amp; his firms from financing",
-    "timestamp": 1769111271.0,
-    "date": "Jan 22, 19:47"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Vance portrays US immigration officers as victims of \u2018far left\u2019",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/22/vance-portrays-us-immigration-officers-as-victims-of-far-left-assault-do?traffic_source=rss",
-    "summary": "US Vice President JD Vance blamed the \u201cfar left\u201d for chaotic and at times violent immigration operations in Minnesota.",
-    "timestamp": 1769111225.0,
-    "date": "Jan 22, 19:47"
   },
   {
     "source": "TechCrunch",
@@ -1102,14 +1134,6 @@
     "summary": "Humans&#038;, a new startup founded by alumni of Anthropic, Meta, OpenAI, xAI, and Google DeepMind, is building the next generation of foundation models for collaboration, not chat.",
     "timestamp": 1769109853.0,
     "date": "Jan 22, 19:24"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Remnants of abandoned US base leech toxic waste in Greenland",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/22/remnants-of-abandoned-us-base-leech-toxic-waste-in-greenland?traffic_source=rss",
-    "summary": "Greenland residents call thousands of rusted barrels \u2018American flowers,\u2019 left behind when the US abandoned its base.",
-    "timestamp": 1769109821.0,
-    "date": "Jan 22, 19:23"
   },
   {
     "source": "France 24",
@@ -1328,14 +1352,6 @@
     "date": "Jan 22, 17:18"
   },
   {
-    "source": "France 24",
-    "title": "Deadly protests crackdown in Iran: Some funerals of protesters turn into demonstrations",
-    "link": "https://www.france24.com/en/deadly-protests-crackdown-in-iran-some-funerals-of-protesters-turn-into-demonstrations",
-    "summary": "The number of people killed in protests against the Iranian regime has been rising since demonstrations began in late December. An NGO reported on January 20 that more than 4,500 people had been kille...",
-    "timestamp": 1769101716.0,
-    "date": "Jan 22, 17:08"
-  },
-  {
     "source": "TechCrunch",
     "title": "Struggling fusion power company General Fusion to go public via $1B reverse merger",
     "link": "https://techcrunch.com/2026/01/22/struggling-fusion-power-company-general-fusion-to-go-public-via-1b-reverse-merger/",
@@ -1464,14 +1480,6 @@
     "date": "Jan 22, 13:13"
   },
   {
-    "source": "CNBC",
-    "title": "Top business leaders issue an expletive-laced message on the green backlash",
-    "link": "https://www.cnbc.com/2026/01/22/davos-wef-green-energy-climate-change-trump.html",
-    "summary": "Top business leaders at the World Economic Forum delivered an expletive-laden message on the green backlash.",
-    "timestamp": 1769087155.0,
-    "date": "Jan 22, 13:05"
-  },
-  {
     "source": "BBC World",
     "title": "Ubisoft cancels six games including Prince of Persia and closes studios",
     "link": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
@@ -1534,14 +1542,6 @@
     "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
     "timestamp": 1769038870.0,
     "date": "Jan 21, 23:41"
-  },
-  {
-    "source": "New York Times",
-    "title": "U.S. Starts Moving ISIS Detainees From Syria to Iraq",
-    "link": "https://www.nytimes.com/2026/01/21/world/middleeast/isis-syria-prisons-iraq.html",
-    "summary": "The U.S. military said it had transferred 150 Islamic State detainees from northeastern Syria to Iraq and could eventually move as many as 7,000, as the Syrian government assumes control of the region...",
-    "timestamp": 1769033465.0,
-    "date": "Jan 21, 22:11"
   },
   {
     "source": "New York Times",
