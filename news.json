@@ -1,5 +1,101 @@
 [
   {
+    "source": "New York Times",
+    "title": "Trump Says Canada Is No Longer Welcome on Peace Board",
+    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
+    "summary": "",
+    "timestamp": 1769152135.0,
+    "date": "Jan 23, 07:08"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Intense heat could smash temperature records in south-east Australia with catastrophic fire danger forecast",
+    "link": "https://www.theguardian.com/environment/2026/jan/23/intense-heat-across-south-east-australia-could-shatter-temperature-records-in-coming-days",
+    "summary": "<p>High to extreme fire danger expected across several states as inland parts of SA, Victoria, NSW and Queensland may have more than five days above 40C</p><ul><li><p><a href=\"https://www.theguardian....",
+    "timestamp": 1769151686.0,
+    "date": "Jan 23, 07:01"
+  },
+  {
+    "source": "NPR",
+    "title": "Venezuela opens debate on an oil sector overhaul as Trump seeks role for US firms",
+    "link": "https://www.npr.org/2026/01/23/nx-s1-5686169/venezuela-debate-oil-sector-trump-seeks-role-us-firms",
+    "summary": "Venezuela's legislature advanced a bill on Thursday to loosen state control over the country's vast oil sector, the first major overhaul since parts of the industry were nationalized in 2007.",
+    "timestamp": 1769151521.0,
+    "date": "Jan 23, 06:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Gauff rallies to despatch Baptiste in all-American matchup",
+    "link": "https://www.channelnewsasia.com/sport/gauff-rallies-despatch-baptiste-in-all-american-matchup-5878491",
+    "summary": "",
+    "timestamp": 1769151413.0,
+    "date": "Jan 23, 06:56"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Death toll in Pakistan mall fire rises to 67",
+    "link": "https://www.channelnewsasia.com/asia/pakistan-mall-fire-death-toll-rises-gul-plaza-5878486",
+    "summary": "",
+    "timestamp": 1769151300.0,
+    "date": "Jan 23, 06:55"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "BOJ Governor Ueda's comments at news conference",
+    "link": "https://www.channelnewsasia.com/business/boj-governor-uedas-comments-news-conference-5878481",
+    "summary": "",
+    "timestamp": 1769151082.0,
+    "date": "Jan 23, 06:51"
+  },
+  {
+    "source": "France 24",
+    "title": "Live: US, Ukraine and Russia to meet in Abu Dhabi for first trilateral talks",
+    "link": "https://www.france24.com/en/europe/20260123-live-us-ukraine-russia-meet-abu-dhabi-first-trilateral-talks",
+    "summary": "Officials representing Ukraine, Russia and the United States are set to meet in Abu Dhabi on Friday for their first trilateral talks on security issues in a bid to end the war in Ukraine. Diplomatic e...",
+    "timestamp": 1769151016.0,
+    "date": "Jan 23, 06:50"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: total fire ban for Victoria on Saturday as SA officials brace for dangerous conditions",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/23/australia-news-live-sussan-ley-liberals-coalition-nationals-littleproud-hastie-taylor-anthony-albanese-labor-spill-ntwnfb",
+    "summary": "<p>Follow updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/22/three-people-dead-after-shooting-in-nsw-town-lake-cargelligo-as-police-urge-locals-to-stay-inside-n...",
+    "timestamp": 1769150950.0,
+    "date": "Jan 23, 06:49"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Warong Nasi Pariaman closing: Long-time customers mourn loss of 'authentic' nasi padang in Singapore",
+    "link": "https://www.channelnewsasia.com/dining/warong-nasi-pariaman-customers-mourn-loss-authentic-nasi-padang-5873491",
+    "summary": "CNA Lifestyle heard from customers who were surprised and saddened by the impending loss of the 78-year-old Kampong Glam fixture.",
+    "timestamp": 1769150592.0,
+    "date": "Jan 23, 06:43"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "TikTok establishes joint venture to avoid US ban",
+    "link": "https://www.dw.com/en/tiktok-establishes-joint-venture-to-avoid-us-ban/a-75615188?maca=en-rss-en-all-1573-rdf",
+    "summary": "Chinese-owned video platform TikTok has sealed a deal to create a joint venture with American investors. The move allows the popular social app to dodge the threat of being banned in the US.",
+    "timestamp": 1769150520.0,
+    "date": "Jan 23, 06:42"
+  },
+  {
+    "source": "CNBC",
+    "title": "Bank of Japan raises economic growth forecasts ahead of snap election, holds rates at 0.75%",
+    "link": "https://www.cnbc.com/2026/01/23/boj-rate-decision-snap-election-takaichi-gdp.html",
+    "summary": "The BOJ also upgraded its GDP forecast for the 2025 fiscal year to 0.9%, and also raised its GDP projection for the 2026 fiscal year to 1% from 0.7%.",
+    "timestamp": 1769150459.0,
+    "date": "Jan 23, 06:40"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Putintseva embraces role as villain as Turkish fans boo her at Australian Open",
+    "link": "https://www.channelnewsasia.com/sport/putintseva-embraces-role-villain-turkish-fans-boo-her-australian-open-5878466",
+    "summary": "",
+    "timestamp": 1769150225.0,
+    "date": "Jan 23, 06:37"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Teen sensation Mboko sparkles in Melbourne to book Sabalenka matchup",
     "link": "https://www.channelnewsasia.com/sport/teen-sensation-mboko-sparkles-in-melbourne-book-sabalenka-matchup-5878451",
@@ -8,27 +104,11 @@
     "date": "Jan 23, 06:22"
   },
   {
-    "source": "The Guardian",
-    "title": "Australia news live: total fire ban for Victoria on Saturday as SA officials brace for dangerous conditions",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jan/23/australia-news-live-sussan-ley-liberals-coalition-nationals-littleproud-hastie-taylor-anthony-albanese-labor-spill-ntwnfb",
-    "summary": "<p>Follow updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/22/three-people-dead-after-shooting-in-nsw-town-lake-cargelligo-as-police-urge-locals-to-stay-inside-n...",
-    "timestamp": 1769148711.0,
-    "date": "Jan 23, 06:11"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Ericsson's profit beats market view, plans $1.7 billion buyback",
     "link": "https://www.channelnewsasia.com/business/ericssons-profit-beats-market-view-plans-17-billion-buyback-5878431",
     "summary": "",
     "timestamp": 1769148676.0,
-    "date": "Jan 23, 06:11"
-  },
-  {
-    "source": "New York Times",
-    "title": "Trump Says Canada Is No Longer Welcome on Peace Board",
-    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
-    "summary": "",
-    "timestamp": 1769148660.0,
     "date": "Jan 23, 06:11"
   },
   {
@@ -81,8 +161,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "China, Philippines launch rescue missions for distressed cargo ship near Scarborough Shoal",
-    "link": "https://www.channelnewsasia.com/east-asia/china-philippines-south-china-sea-rescue-mission-capsize-5878351",
+    "title": "Two dead after Singapore-flagged vessel capsizes near Scarborough Shoal",
+    "link": "https://www.channelnewsasia.com/east-asia/china-philippines-singapore-flagged-ship-capsize-south-china-sea-5878351",
     "summary": "",
     "timestamp": 1769147160.0,
     "date": "Jan 23, 05:46"
@@ -126,14 +206,6 @@
     "summary": "Trump did not provide a reason for the decision, which comes after Canada's PM Mark Carney warned of a \"rupture\" in the US-led global order.",
     "timestamp": 1769145406.0,
     "date": "Jan 23, 05:16"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Intense heat across south-east Australia could shatter temperature records in coming days",
-    "link": "https://www.theguardian.com/environment/2026/jan/23/intense-heat-across-south-east-australia-could-shatter-temperature-records-in-coming-days",
-    "summary": "<p>High to extreme fire danger expected across several states as inland parts of SA, Victoria, NSW and Queensland may have more than five days above 40C</p><ul><li><p><a href=\"https://www.theguardian....",
-    "timestamp": 1769145326.0,
-    "date": "Jan 23, 05:15"
   },
   {
     "source": "CNA (Asia)",
@@ -256,14 +328,6 @@
     "date": "Jan 23, 04:43"
   },
   {
-    "source": "CNBC",
-    "title": "Bank of Japan raises economic growth forecasts ahead of snap election, holds rates at 0.75%",
-    "link": "https://www.cnbc.com/2026/01/23/boj-rate-decision-snap-election-takaichi-gdp.html",
-    "summary": "The BOJ also upgraded its GDP forecast for the 2025 fiscal year to 0.9%, and also raised its GDP projection for the 2026 fiscal year to 1% from 0.7%.",
-    "timestamp": 1769143308.0,
-    "date": "Jan 23, 04:41"
-  },
-  {
     "source": "NPR",
     "title": "TikTok finalizes deal to form new American entity",
     "link": "https://www.npr.org/2026/01/22/nx-s1-5685456/tiktok-finalizes-deal-to-form-new-american-entity",
@@ -307,7 +371,7 @@
     "source": "France 24",
     "title": "US, Russia and Ukraine to hold security talks in UAE after Putin meeting",
     "link": "https://www.france24.com/en/europe/20260123-us-ukrainian-russian-negotiators-uae-security-talks",
-    "summary": "Ukrainian, US and Russian officials will hold security talks in the United Arab Emirates on Friday, the Kremlin said, after senior US negotiators met President Vladimir Putin in Moscow on a\u00a0US-drafted...",
+    "summary": "Ukrainian, US and Russian officials will hold security talks in the United Arab Emirates on Friday, the Kremlin said. This comes after senior US negotiators met President Vladimir Putin in Moscow to d...",
     "timestamp": 1769139804.0,
     "date": "Jan 23, 03:43"
   },
@@ -344,44 +408,12 @@
     "date": "Jan 23, 03:23"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Woman, 74, charged with repeatedly feeding pigeons in Chai Chee",
-    "link": "https://www.channelnewsasia.com/singapore/woman-feed-pigeons-chai-chee-charged-5878036",
-    "summary": "The woman is accused of feeding pigeons in September and October in 2024, with a lull before her last alleged offence in February 2025.",
-    "timestamp": 1769138469.0,
-    "date": "Jan 23, 03:21"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Sabalenka passes Potapova test to reach Australian Open fourth round",
-    "link": "https://www.channelnewsasia.com/sport/sabalenka-passes-potapova-test-reach-australian-open-fourth-round-5878066",
-    "summary": "",
-    "timestamp": 1769137879.0,
-    "date": "Jan 23, 03:11"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "'Canada doesn't live because of US,' Carney says in Trump retort",
-    "link": "https://www.channelnewsasia.com/world/canada-carney-hits-back-trump-speech-us-5878016",
-    "summary": "\"Canada doesn't live because of the United States. Canada thrives because we are Canadian,\u201d Canadian Prime Minister Mark Carney said in response to Donald Trump\u2019s comment at the World Economic Forum.",
-    "timestamp": 1769137740.0,
-    "date": "Jan 23, 03:09"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Did the US give Greenland back to Denmark? Trump omits history at Davos",
     "link": "https://www.aljazeera.com/news/2026/1/23/did-the-us-give-greenland-back-to-denmark-trump-omits-history-at-davos?traffic_source=rss",
     "summary": "Although the United States defended Greenland during World War II, it never ruled the territory.",
     "timestamp": 1769136053.0,
     "date": "Jan 23, 02:40"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Trump revokes Canada's invitation to join Board of Peace",
-    "link": "https://www.channelnewsasia.com/world/board-peace-donald-trump-mark-carney-5877961",
-    "summary": "Canadian Prime Minister Mark Carney drew international attention this week with comments about a \"rupture\" in the US-led global order.&nbsp;",
-    "timestamp": 1769135520.0,
-    "date": "Jan 23, 02:32"
   },
   {
     "source": "TechCrunch",
@@ -424,18 +456,10 @@
     "date": "Jan 23, 02:12"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Blake Lively and Taylor Swift's text messages exposed in lawsuit against Justin Baldoni",
-    "link": "https://www.channelnewsasia.com/entertainment/blake-lively-taylor-swift-justin-baldoni-it-ends-us-5877546",
-    "summary": "Swift's messages show that before and after their feud became public, she was advising Lively how to use Hollywood's power dynamics to her advantage.",
-    "timestamp": 1769134260.0,
-    "date": "Jan 23, 02:11"
-  },
-  {
     "source": "France 24",
-    "title": "Iran warns 'finger on trigger' as Donald Trump says talks still possible",
+    "title": "Iran warns 'finger on trigger' as Trump says talks still possible",
     "link": "https://www.france24.com/en/asia-pacific/20260123-iran-warns-finger-on-trigger-as-donald-trump-says-talks-still-possible",
-    "summary": "The commander of Iran\u2019s Revolutionary Guards warned Washington on Thursday the force had its \u201cfinger on the trigger\u201d after mass protests, even as US President Donald Trump said Tehran appeared open to...",
+    "summary": "The commander of Iran\u2019s Revolutionary Guards warned Washington on Thursday that the force had its \u201cfinger on the trigger\u201d after mass protests, even as US President Donald Trump said Tehran appeared op...",
     "timestamp": 1769134039.0,
     "date": "Jan 23, 02:07"
   },
@@ -473,9 +497,9 @@
   },
   {
     "source": "France 24",
-    "title": "Trump eases Greenland tensions as Europe braces for what's next",
+    "title": "Europe braces for what's next after Trump eases Greenland tensions",
     "link": "https://www.france24.com/en/europe/20260123-trump-greenland-europe",
-    "summary": "European leaders met for emergency talks on Thursday, expressing relief after\u00a0Donald Trump\u00a0backed away from threats over\u00a0Greenland, but bracing for further shocks. A crisis eased after a framework dea...",
+    "summary": "US President Donald Trump's threats over the vast Arctic island plunged relations between Europe and its key ally Washington to a historic low. But Greenland\u00a0is only part of the picture, as Trump zig-...",
     "timestamp": 1769132397.0,
     "date": "Jan 23, 01:39"
   },
@@ -678,14 +702,6 @@
     "summary": "He says there\u2019s a method to the madness. But European allies wonder whether the United States is reliable anymore.",
     "timestamp": 1769124604.0,
     "date": "Jan 22, 23:30"
-  },
-  {
-    "source": "CNBC",
-    "title": "Capital One is buying startup Brex for $5.15 billion in credit card firm's latest deal",
-    "link": "https://www.cnbc.com/2026/01/22/capital-one-is-buying-startup-brex-for-5point15-billion-in-credit-card-firms-latest-deal.html",
-    "summary": "Capital One's acquisition of Brex is the latest deal under Rich Fairbank, a rare founder-CEO of a major U.S. bank, after its Discover Financial deal last year.",
-    "timestamp": 1769124387.0,
-    "date": "Jan 22, 23:26"
   },
   {
     "source": "CNBC",
@@ -1304,22 +1320,6 @@
     "date": "Jan 22, 17:39"
   },
   {
-    "source": "BBC World",
-    "title": "'It's all about the land': Zelensky says Ukraine to talk to US and Russia",
-    "link": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
-    "summary": "The meeting came as US envoy Steve Witkoff headed to Moscow for a meeting with Russia's Vladimir Putin.",
-    "timestamp": 1769103446.0,
-    "date": "Jan 22, 17:37"
-  },
-  {
-    "source": "NPR",
-    "title": "A vaccine trial is called 'unethical' and a 'unique' opportunity. Is it on or off?",
-    "link": "https://www.npr.org/2026/01/22/g-s1-106571/vaccine-trial-hepatitis-b-guinea-bissau",
-    "summary": "The U.S. is giving $1.6 million to researchers to study how the hepatitis B vaccine affects\u00a0newborns in Guinea-Bissau. Local officials say the trial is suspended. U.S. officials say that's inaccurate.",
-    "timestamp": 1769103360.0,
-    "date": "Jan 22, 17:36"
-  },
-  {
     "source": "CNBC",
     "title": "Trump's latest tariffs U-turn is sparking a global market rally \u2014 and reviving talk of the 'TACO trade'",
     "link": "https://www.cnbc.com/2026/01/22/trump-tariffs-greenland-europe-deal-taco-trade-sell-america.html",
@@ -1334,14 +1334,6 @@
     "summary": "The number of people killed in protests against the Iranian regime has been rising since demonstrations began in late December. An NGO reported on January 20 that more than 4,500 people had been kille...",
     "timestamp": 1769101716.0,
     "date": "Jan 22, 17:08"
-  },
-  {
-    "source": "France 24",
-    "title": "Donald Trump retreats on Greenland threats",
-    "link": "https://www.france24.com/en/donald-trump-retreats-on-greenland-threats",
-    "summary": "President\u00a0Donald Trump\u00a0announced Wednesday that he was scrapping his planned tariffs on eight European nations in an effort to force U.S. control\u00a0over Greenland, pulling a dramatic reversal shortly af...",
-    "timestamp": 1769101610.0,
-    "date": "Jan 22, 17:06"
   },
   {
     "source": "TechCrunch",
@@ -1464,20 +1456,20 @@
     "date": "Jan 22, 13:58"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Davos: Germany's Merz says old world order 'unraveling'",
-    "link": "https://www.dw.com/en/davos-germany-s-merz-says-old-world-order-unraveling/a-75606240?maca=en-rss-en-all-1573-rdf",
-    "summary": "German Chancellor Merz said the world has \"entered an era of great power politics\" where Russia and China challenge the US. In his speech at Davos, Merz said Europe must boost competitiveness and inve...",
-    "timestamp": 1769089980.0,
-    "date": "Jan 22, 13:53"
-  },
-  {
     "source": "BBC World",
     "title": "Japan suspends world's largest nuclear plant hours after restart",
     "link": "https://www.bbc.com/news/articles/cx2yy8z91n4o?at_medium=RSS&at_campaign=rss",
     "summary": "The operator says reactor remains \"stable\" and has no \"radioactive impact outside\".",
     "timestamp": 1769087604.0,
     "date": "Jan 22, 13:13"
+  },
+  {
+    "source": "CNBC",
+    "title": "Top business leaders issue an expletive-laced message on the green backlash",
+    "link": "https://www.cnbc.com/2026/01/22/davos-wef-green-energy-climate-change-trump.html",
+    "summary": "Top business leaders at the World Economic Forum delivered an expletive-laden message on the green backlash.",
+    "timestamp": 1769087155.0,
+    "date": "Jan 22, 13:05"
   },
   {
     "source": "BBC World",
@@ -1534,6 +1526,14 @@
     "summary": "<p>Chow Hang-tung, Lee Cheuk-yan and Albert Ho, who led Tiananmen Square vigils, are accused of inciting subversion</p><p>The national security trial of three pro-democracy activists who organised an ...",
     "timestamp": 1769039106.0,
     "date": "Jan 21, 23:45"
+  },
+  {
+    "source": "BBC World",
+    "title": "EU suspends approval of US trade deal",
+    "link": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
+    "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
+    "timestamp": 1769038870.0,
+    "date": "Jan 21, 23:41"
   },
   {
     "source": "New York Times",
