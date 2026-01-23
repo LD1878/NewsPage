@@ -1,6 +1,94 @@
 [
   {
     "source": "CNBC",
+    "title": "Japan inflation cools to 2.1%, lowest since March 2022, but rice prices loom large ahead of election",
+    "link": "https://www.cnbc.com/2026/01/23/japan-december-inflation-rice-prices-snap-election-sanae-takaichi-boj.html",
+    "summary": "Core inflation touched its lowest level since October 2024, and was in line with expectations",
+    "timestamp": 1769143278.0,
+    "date": "Jan 23, 04:41"
+  },
+  {
+    "source": "CNBC",
+    "title": "Bank of Japan raises economic growth forecasts ahead of snap election, holds rates at 0.75%",
+    "link": "https://www.cnbc.com/2026/01/23/boj-rate-decision-snap-election-takaichi-gdp.html",
+    "summary": "The BOJ also upgraded its GDP forecast for the 2025 fiscal year to 0.9%, and also raised its GDP projection for the 2026 fiscal year to 1% from 0.7%.",
+    "timestamp": 1769143217.0,
+    "date": "Jan 23, 04:40"
+  },
+  {
+    "source": "New York Times",
+    "title": "Live Updates: Trump Says Canada Is No Longer Welcome on Peace Board",
+    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
+    "summary": "",
+    "timestamp": 1769142456.0,
+    "date": "Jan 23, 04:27"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "South Korea repatriates 73 scam suspects from Cambodia in US$33 million online fraud probe",
+    "link": "https://www.channelnewsasia.com/east-asia/south-korea-repatriates-73-scam-suspects-cambodia-fraud-5878176",
+    "summary": "",
+    "timestamp": 1769141820.0,
+    "date": "Jan 23, 04:17"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Actor Andie Chen makes directorial debut with short film about dementia",
+    "link": "https://www.channelnewsasia.com/entertainment/andie-chen-directorial-debut-singapore-dementia-story-5877941",
+    "summary": "Singaporean actor Andie Chen makes his directorial debut with,&nbsp;What Day Is It?, which is part of&nbsp;an anthology of five short films spotlighting dementia.",
+    "timestamp": 1769140960.0,
+    "date": "Jan 23, 04:02"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: total fire ban for Victoria on Saturday as SA officials brace for hot, dangerous conditions",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/23/australia-news-live-sussan-ley-liberals-coalition-nationals-littleproud-hastie-taylor-anthony-albanese-labor-spill-ntwnfb",
+    "summary": "<p>Follow updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/22/three-people-dead-after-shooting-in-nsw-town-lake-cargelligo-as-police-urge-locals-to-stay-inside-n...",
+    "timestamp": 1769140945.0,
+    "date": "Jan 23, 04:02"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Sussan Ley confident she will survive as opposition leader and says door is open to Nationals rejoining Coalition",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/23/sussan-ley-confident-she-will-survive-as-opposition-leader-and-says-door-is-open-to-nationals-rejoining-coalition",
+    "summary": "<p>David Littleproud says it\u2019s not up to him to determine who the Liberal leader is, despite his comments on Thursday that he would not work with Ley</p><ul><li><p>Get our <a href=\"https://www.theguar...",
+    "timestamp": 1769140723.0,
+    "date": "Jan 23, 03:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Brands drop South Korean actor Cha Eun-woo from ads as tax evasion controversy sparks public backlash",
+    "link": "https://www.channelnewsasia.com/entertainment/cha-eun-woo-advertisements-dropped-brands-5877931",
+    "summary": "So far, skincare brand Abib and Shinhan Bank have switched promotional videos featuring Cha to private on YouTube.&nbsp;",
+    "timestamp": 1769140080.0,
+    "date": "Jan 23, 03:48"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "EU leaders seek to preserve ties with US",
+    "link": "https://www.dw.com/en/eu-leaders-seek-to-preserve-ties-with-us/a-75612236?maca=en-rss-en-all-1573-rdf",
+    "summary": "EU wants to revive trade ties with the US, but warned the bloc will stand up for its interests. It also announced after an emergency summit that it will double its investment in Greenland.",
+    "timestamp": 1769139840.0,
+    "date": "Jan 23, 03:44"
+  },
+  {
+    "source": "France 24",
+    "title": "US, Russia and Ukraine to hold security talks in UAE after Putin meeting",
+    "link": "https://www.france24.com/en/europe/20260123-us-ukrainian-russian-negotiators-uae-security-talks",
+    "summary": "Ukrainian, US and Russian officials will hold security talks in the United Arab Emirates on Friday, the Kremlin said, after senior US negotiators met President Vladimir Putin in Moscow on a\u00a0US-drafted...",
+    "timestamp": 1769139804.0,
+    "date": "Jan 23, 03:43"
+  },
+  {
+    "source": "CNBC",
+    "title": "India\u2019s youth are turning concerts into an economy. The money is following",
+    "link": "https://www.cnbc.com/2026/01/23/india-live-entertainment-concert-event-ticketing-boom-young-audiences-2026.html",
+    "summary": "India saw a 17% rise in the live events space in 2025, marking a boom in demand for experiences. This was led by Gen-Z and millennial crowds.",
+    "timestamp": 1769139737.0,
+    "date": "Jan 23, 03:42"
+  },
+  {
+    "source": "CNBC",
     "title": "Asia markets mostly advance as Bank of Japan leaves interest rates on hold",
     "link": "https://www.cnbc.com/2026/01/23/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html",
     "summary": "Asia-Pacific markets rose as investors looked ahead to the Bank of Japan's decision.",
@@ -19,25 +107,9 @@
     "source": "Deutsche Welle",
     "title": "Ukraine updates: Peace talks put to test at UAE",
     "link": "https://www.dw.com/en/ukraine-updates-peace-talks-put-to-test-at-uae/live-75614291?maca=en-rss-en-all-1573-rdf",
-    "summary": "US, Russian and Ukrainian top teams are headed to Abu Dhabi, in the United Arab Emirates, for talks on various aspects of a peace plan to end the war in Ukraine. DW has the latest.",
+    "summary": "US, Russian and Ukrainian top teams are headed to Abu Dhabi, in the UAE, for talks on a peace plan. Volodymyr Zelenskyy said one of the main sticking points in getting a deal remains the issue of land...",
     "timestamp": 1769138820.0,
     "date": "Jan 23, 03:27"
-  },
-  {
-    "source": "CNBC",
-    "title": "Bank of Japan raises economic growth forecasts ahead of snap election, holds rates at 0.75%",
-    "link": "https://www.cnbc.com/2026/01/23/boj-rate-decision-snap-election-takaichi-gdp.html",
-    "summary": "The BOJ also upgraded its GDP forecast for the 2025 fiscal year to 0.9%, and also raised its GDP projection for the 2026 fiscal year to 1% from 0.7%.",
-    "timestamp": 1769138684.0,
-    "date": "Jan 23, 03:24"
-  },
-  {
-    "source": "New York Times",
-    "title": "Live Updates: Trump Says Canada Is No Longer Welcome on Peace Board",
-    "link": "https://www.nytimes.com/live/2026/01/22/us/trump-davos-news",
-    "summary": "",
-    "timestamp": 1769138614.0,
-    "date": "Jan 23, 03:23"
   },
   {
     "source": "Al Jazeera",
@@ -72,22 +144,6 @@
     "date": "Jan 23, 03:09"
   },
   {
-    "source": "CNBC",
-    "title": "Microsoft working to fix Outlook email issues",
-    "link": "https://www.cnbc.com/2026/01/22/microsoft-outlook-outage-email-issues.html",
-    "summary": "People reported issues with Outlook on social media, months after the app went down for over 21 hours.",
-    "timestamp": 1769137394.0,
-    "date": "Jan 23, 03:03"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Australia news live: Liberals and Nationals \u2018do better when in coalition\u2019, Leeser says; 12-year-old shark attack victim remains in critical condition",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jan/23/australia-news-live-sussan-ley-liberals-coalition-nationals-littleproud-hastie-taylor-anthony-albanese-labor-spill-ntwnfb",
-    "summary": "<p>Follow updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/23/sussan-ley-confident-she-will-survive-as-opposition-leader-and-says-door-is-open-to-nationals-rejoi...",
-    "timestamp": 1769136315.0,
-    "date": "Jan 23, 02:45"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Did the US give Greenland back to Denmark? Trump omits history at Davos",
     "link": "https://www.aljazeera.com/news/2026/1/23/did-the-us-give-greenland-back-to-denmark-trump-omits-history-at-davos?traffic_source=rss",
@@ -97,7 +153,7 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Trump withdraws invite for Canada's Carney to join 'Board of Peace'",
+    "title": "Trump revokes Canada's invitation to join Board of Peace",
     "link": "https://www.channelnewsasia.com/world/board-peace-donald-trump-mark-carney-5877961",
     "summary": "Canadian Prime Minister Mark Carney drew international attention this week with comments about a \"rupture\" in the US-led global order.&nbsp;",
     "timestamp": 1769135520.0,
@@ -132,16 +188,8 @@
     "title": "Mark Carney Says Firmly That \u2018Canada Doesn\u2019t Live Because of the United States\u2019",
     "link": "https://www.nytimes.com/2026/01/22/world/canada/carney-trump-canada-speech.html",
     "summary": "The Canadian prime minister spoke after returning from the World Economic Forum where he urged middle powers to team up in resisting President Trump.",
-    "timestamp": 1769135004.0,
+    "timestamp": 1769135005.0,
     "date": "Jan 23, 02:23"
-  },
-  {
-    "source": "CNBC",
-    "title": "Japan inflation cools to 2.1%, lowest since March 2022, but rice prices loom large ahead of election",
-    "link": "https://www.cnbc.com/2026/01/23/japan-december-inflation-rice-prices-snap-election-sanae-takaichi-boj.html",
-    "summary": "Core inflation touched its lowest level since October 2024, and was in line with expectations",
-    "timestamp": 1769134923.0,
-    "date": "Jan 23, 02:22"
   },
   {
     "source": "New York Times",
@@ -186,7 +234,7 @@
   {
     "source": "France 24",
     "title": "Iran warns 'finger on trigger' as Donald Trump says talks still possible",
-    "link": "https://www.france24.com/en/middle-east/20260123-iran-trump-tehran-talks",
+    "link": "https://www.france24.com/en/asia-pacific/20260123-iran-warns-finger-on-trigger-as-donald-trump-says-talks-still-possible",
     "summary": "The commander of Iran\u2019s Revolutionary Guards warned Washington on Thursday the force had its \u201cfinger on the trigger\u201d after mass protests, even as US President Donald Trump said Tehran appeared open to...",
     "timestamp": 1769134039.0,
     "date": "Jan 23, 02:07"
@@ -305,9 +353,9 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Japan PM Takaichi set to dissolve parliament for snap election",
-    "link": "https://www.channelnewsasia.com/east-asia/japan-pm-sanae-takaichi-set-dissolve-parliament-snap-election-feb-8-5877816",
-    "summary": "",
+    "title": "Japan PM Takaichi dissolves parliament for Feb 8 election",
+    "link": "https://www.channelnewsasia.com/east-asia/japan-pm-sanae-takaichi-dissolve-parliament-snap-election-feb-8-5877816",
+    "summary": "Prime Minister Sanae Takaichi has pledged to cut a sales tax on food for a two-year period to \"alleviate the burden\" on people struggling with inflation.",
     "timestamp": 1769130840.0,
     "date": "Jan 23, 01:14"
   },
@@ -480,22 +528,6 @@
     "date": "Jan 23, 00:16"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Oscar nominations snubs and surprises: Paul Mescal and Ariana Grande among biggest oversights",
-    "link": "https://www.channelnewsasia.com/entertainment/oscars-2026-nominations-subs-and-surprises-5876951",
-    "summary": "One of the best surprises was Delroy Lindo\u2019s supporting actor nod for playing the hard-drinking blues great Delta Slim in Sinners. It\u2019s his first ever Oscar nomination and long overdue.&nbsp;",
-    "timestamp": 1769127360.0,
-    "date": "Jan 23, 00:16"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Trump touts 'total access' Greenland deal as NATO asks allies to step up",
-    "link": "https://www.channelnewsasia.com/world/donald-trump-greenland-total-access-nato-allies-step-up-5877751",
-    "summary": "The US president said a new deal was being negotiated that would be \"much more generous to the United States, so much more generous\".",
-    "timestamp": 1769126220.0,
-    "date": "Jan 22, 23:57"
-  },
-  {
     "source": "The Guardian",
     "title": "House rejects resolution that would bar Trump from sending troops to Venezuela",
     "link": "https://www.theguardian.com/us-news/2026/jan/22/house-war-powers-resolution-trump-military-venezuela",
@@ -536,14 +568,6 @@
     "date": "Jan 22, 23:46"
   },
   {
-    "source": "The Guardian",
-    "title": "Sussan Ley confident she will survive as opposition leader and says door is open to Nationals rejoining Coalition",
-    "link": "https://www.theguardian.com/australia-news/2026/jan/23/sussan-ley-confident-she-will-survive-as-opposition-leader-and-says-door-is-open-to-nationals-rejoining-coalition",
-    "summary": "<p>David Littleproud says it\u2019s not up to him to determine who the Liberal leader is, despite his comments on Thursday that he would not work with Ley</p><ul><li><p><a href=\"https://www.theguardian.com...",
-    "timestamp": 1769125103.0,
-    "date": "Jan 22, 23:38"
-  },
-  {
     "source": "CNBC",
     "title": "Friday's big stock stories: What\u2019s likely to move the market in the next trading session",
     "link": "https://www.cnbc.com/2026/01/22/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
@@ -552,19 +576,11 @@
     "date": "Jan 22, 23:35"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Japan Dec core CPI rises 2.4% yr/yr",
-    "link": "https://www.channelnewsasia.com/business/japan-dec-core-cpi-rises-24-yryr-5877746",
-    "summary": "",
-    "timestamp": 1769124743.0,
-    "date": "Jan 22, 23:32"
-  },
-  {
     "source": "New York Times",
     "title": "An Emboldened Trump\u2019s Whipsaw Approach to the World",
     "link": "https://www.nytimes.com/2026/01/22/world/europe/trump-greenland-foreign-policy.html",
     "summary": "He says there\u2019s a method to the madness. But European allies wonder whether the United States is reliable anymore.",
-    "timestamp": 1769124603.0,
+    "timestamp": 1769124604.0,
     "date": "Jan 22, 23:30"
   },
   {
@@ -600,6 +616,14 @@
     "date": "Jan 22, 23:15"
   },
   {
+    "source": "CNBC",
+    "title": "Will AI make or break education? Google DeepMind COO Lila Ibrahim weighs in",
+    "link": "https://www.cnbc.com/video/2026/01/22/ais-impact-on-education-insights-from-deepminds-lila-ibrahim.html",
+    "summary": "AI is changing the way we learn and work. Google DeepMind COO Lila Ibrahim joins \u201cThe Tech Download\u201d to explain the opportunities, risks and why teaching responsible AI use starts now.",
+    "timestamp": 1769122801.0,
+    "date": "Jan 22, 23:00"
+  },
+  {
     "source": "New York Times",
     "title": "RFK Jr. Plan to Test a Vaccine in West African Babies Is Blocked",
     "link": "https://www.nytimes.com/2026/01/22/health/hepatitis-b-vaccine-africa-study.html",
@@ -614,14 +638,6 @@
     "summary": "Buzzwords like social justice and sustainability have vanished as the elite summit seeks Trump\u2019s favor.",
     "timestamp": 1769122274.0,
     "date": "Jan 22, 22:51"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump sues Jamie Dimon, JPMorgan Chase over debanking the suit calls 'political'",
-    "link": "https://www.cnbc.com/2026/01/22/trump-sues-jamie-dimon-jpmorgan-chase.html",
-    "summary": "Chase Bank closed Trump's accounts on the heels of the Jan. 6, 2021, U.S. Capitol riot and the president exiting the White House later that same month.",
-    "timestamp": 1769122054.0,
-    "date": "Jan 22, 22:47"
   },
   {
     "source": "BBC World",
@@ -896,14 +912,6 @@
     "date": "Jan 22, 20:18"
   },
   {
-    "source": "CNBC",
-    "title": "Retail traders keep their hot streak going, buying Tuesday\u2019s dip while Wall Street drove \u2018Sell America\u2019 trade",
-    "link": "https://www.cnbc.com/2026/01/22/retail-traders-dip-buy-trump-greenland.html",
-    "summary": "Individual traders boosted the stock market by continuing to buy the latest selloff \u2014 the same strategy that helped power relentless gains in 2025, data shows.",
-    "timestamp": 1769112814.0,
-    "date": "Jan 22, 20:13"
-  },
-  {
     "source": "BBC World",
     "title": "Trump's son called UK police after seeing woman 'beat up', court hears",
     "link": "https://www.bbc.com/news/articles/cg5gg05y0mlo?at_medium=RSS&at_campaign=rss",
@@ -966,6 +974,14 @@
     "summary": "Google DeepMind CEO Demis Hassabis says the tech giant isn't pressuring him to insert ads into the AI chatbot experience.",
     "timestamp": 1769110861.0,
     "date": "Jan 22, 19:41"
+  },
+  {
+    "source": "CNBC",
+    "title": "Bye-bye Bilt Mastercard: Everything you need to know about the transition to Bilt 2.0 on Feb. 7",
+    "link": "https://www.cnbc.com/select/bilt-mastercard-transition-timeline-what-to-know/",
+    "summary": "Existing Bilt Mastercard cardholders can preorder a Bilt 2.0 card by Jan. 30 for a seamless upgrade.",
+    "timestamp": 1769110037.0,
+    "date": "Jan 22, 19:27"
   },
   {
     "source": "France 24",
@@ -1134,14 +1150,6 @@
     "summary": "Students can prompt Gemini by typing \"I want to take a practice SAT test,\u201d and the AI will provide them with a free practice exam. Gemini then analyzes the results, highlighting strengths and identify...",
     "timestamp": 1769106456.0,
     "date": "Jan 22, 18:27"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "EU leaders seek to preserve ties with US",
-    "link": "https://www.dw.com/en/eu-leaders-seek-to-preserve-ties-with-us/a-75612236?maca=en-rss-en-all-1573-rdf",
-    "summary": "EU wants to revive trade ties with the US but warned the bloc will stand up for its interests. It also announced after an emergency summit that it will double its investment in Greenland.",
-    "timestamp": 1769106240.0,
-    "date": "Jan 22, 18:24"
   },
   {
     "source": "The Guardian",
@@ -1326,14 +1334,6 @@
     "summary": "Waymo is opening its driverless robotaxis to the public in Miami, starting with a 60-square-mile service area and plans to reach the airport \"soon.\"",
     "timestamp": 1769101142.0,
     "date": "Jan 22, 16:59"
-  },
-  {
-    "source": "France 24",
-    "title": "Vampire horror 'Sinners' leads Oscar nominees, followed by 'One Battle After Another'",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20260122-vampire-horror-sinners-leads-oscar-nominees-followed-by-one-battle-after-another",
-    "summary": "The Academy of Motion Picture Arts and Sciences have announced the nominees for the 98th\u00a0Academy Awards, with Ryan Coogler's vampire horror \"Sinners\" leading the charge. Racking up a record 16 nominat...",
-    "timestamp": 1769100782.0,
-    "date": "Jan 22, 16:53"
   },
   {
     "source": "Deutsche Welle",
