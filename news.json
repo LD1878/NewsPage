@@ -1,19 +1,203 @@
 [
   {
     "source": "Deutsche Welle",
-    "title": "DW correspondent arrested in Niger",
-    "link": "https://www.dw.com/en/dw-correspondent-arrested-in-niger/a-75640860?maca=en-rss-en-all-1573-rdf",
-    "summary": "A correspondent for German international broadcaster Deutsche Welle (DW) was arrested on January 23. It comes after a report published on DW Hausa last year.",
-    "timestamp": 1769270640.0,
-    "date": "Jan 24, 16:04"
+    "title": "US-NATO deal: Relief and mistrust in Greenland",
+    "link": "https://www.dw.com/en/us-nato-deal-relief-and-mistrust-in-greenland/a-75641044?maca=en-rss-en-all-1573-rdf",
+    "summary": "A \"framework\" agreement between the US and NATO has defused the dispute over Greenland. There is cautious relief among residents, but also fear of becoming a geopolitical pawn once again.",
+    "timestamp": 1769274540.0,
+    "date": "Jan 24, 17:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "Airlines cancel nearly 10,000 weekend flights as massive winter storm sweeps across U.S.",
+    "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
+    "summary": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers as a massive winter storm swept across the country.",
+    "timestamp": 1769274491.0,
+    "date": "Jan 24, 17:08"
+  },
+  {
+    "source": "France 24",
+    "title": "Man shot by US federal agents in Minneapolis immigration crackdown dies",
+    "link": "https://www.france24.com/en/americas/20260124-us-federal-agents-carry-out-another-horrific-shooting-minneapolis-governor",
+    "summary": "",
+    "timestamp": 1769274350.0,
+    "date": "Jan 24, 17:05"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Marmoush and Semenyo score in City's first league win in nearly a month",
+    "link": "https://www.channelnewsasia.com/sport/marmoush-and-semenyo-score-in-citys-first-league-win-in-nearly-month-5880986",
+    "summary": "",
+    "timestamp": 1769274268.0,
+    "date": "Jan 24, 17:04"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Federal officers involved in Minnesota shooting \u2014 governor",
+    "link": "https://www.dw.com/en/federal-officers-involved-in-minnesota-shooting-governor/a-75641117?maca=en-rss-en-all-1573-rdf",
+    "summary": "Minnesota Governor Tim Walz has accused the federal immigration agents of another \"horrific\" shooting in in Minneapolis.",
+    "timestamp": 1769274120.0,
+    "date": "Jan 24, 17:02"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "LIVE: Villarreal vs Real Madrid \u2013 La Liga",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/1/24/live-villarreal-vs-real-madrid-la-liga?traffic_source=rss",
+    "summary": "Follow our live build-up, with full team news coverage, before our comprehensive text commentary stream.",
+    "timestamp": 1769274067.0,
+    "date": "Jan 24, 17:01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "A new test for AI labs: Are you even trying to make money?",
+    "link": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
+    "summary": "It\u2019s\u00a0getting hard to tell which AI labs. are\u00a0actually trying\u00a0to make money. We created a rating system to help sort it out.",
+    "timestamp": 1769274000.0,
+    "date": "Jan 24, 17:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Two days of peace talks end as Russia continues Ukraine attacks",
+    "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+    "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
+    "timestamp": 1769273815.0,
+    "date": "Jan 24, 16:56"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "US federal agents shoot another person in Minneapolis: Governor",
+    "link": "https://www.aljazeera.com/news/2026/1/24/us-federal-agents-shoot-another-person-in-minneapolis-governor?traffic_source=rss",
+    "summary": "This is a breaking news story.",
+    "timestamp": 1769273805.0,
+    "date": "Jan 24, 16:56"
+  },
+  {
+    "source": "The Verge",
+    "title": "ICE has killed another person in Minneapolis",
+    "link": "https://www.theverge.com/news/867245/ice-has-killed-another-person-in-minneapolis",
+    "summary": "Federal agents in Minneapolis repeatedly punched a man, forced him to the ground, and then shot him multiple times. The man was later pronounced dead. This is just the latest incident of deadly violen...",
+    "timestamp": 1769273672.0,
+    "date": "Jan 24, 16:54"
+  },
+  {
+    "source": "NPR",
+    "title": "Trump threatens Canada with 100% tariffs over its new trade deal with China",
+    "link": "https://www.npr.org/2026/01/24/nx-s1-5687236/canada-china-tariffs-trump",
+    "summary": "The announcement is a reversal for Trump, who initially initially praised the agreement with China as something Canadian Prime Minister Mark Carney \"should be doing.\"",
+    "timestamp": 1769273597.0,
+    "date": "Jan 24, 16:53"
+  },
+  {
+    "source": "CNBC",
+    "title": "Gov. Walz calls on Trump to halt ICE operations in Minnesota after another shooting",
+    "link": "https://www.cnbc.com/2026/01/24/walz-trump-ice-shooting.html",
+    "summary": "\"Minnesota has had it. This is sickening. The President must end this operation. Pull the thousands of violent, untrained officers out of Minnesota,\" Walz said.",
+    "timestamp": 1769273530.0,
+    "date": "Jan 24, 16:52"
   },
   {
     "source": "CNBC",
     "title": "Trump threatens to impose 100% tariff if Canada makes deal with China",
     "link": "https://www.cnbc.com/2026/01/24/trump-tariff-canada-china.html",
     "summary": "In his Truth Social post, Trump\u00a0suggested that China would try to use Canada to try to avoid paying U.S. tariffs.",
-    "timestamp": 1769270429.0,
-    "date": "Jan 24, 16:00"
+    "timestamp": 1769273403.0,
+    "date": "Jan 24, 16:50"
+  },
+  {
+    "source": "France 24",
+    "title": "Man shot by US federal agents in Minneapolis immigration crackdown dies",
+    "link": "https://www.france24.com/en/americas/20260124-us-federal-agents-carry-out-another-horrific-shooting-minneapolis-governor",
+    "summary": "Federal agents deployed in Minneapolis as part of an immigration sweep carried out \"another horrific shooting\", Minnesota Governor Tim Walz said on Saturday, calling on US President Donald Trump to en...",
+    "timestamp": 1769273183.0,
+    "date": "Jan 24, 16:46"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump Threatens Canada With Tariffs as Post-Davos Fallout Continues",
+    "link": "https://www.nytimes.com/2026/01/24/world/canada/trump-canada-tariffs.html",
+    "summary": "President Trump said he would impose tariffs if Canada made \u201ca deal with China,\u201d though there is no sign that those countries are discussing a broad trade agreement.",
+    "timestamp": 1769273180.0,
+    "date": "Jan 24, 16:46"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Augsburg stage 2-1 comeback win to snap hosts Bayern's unbeaten Bundesliga run",
+    "link": "https://www.channelnewsasia.com/sport/augsburg-stage-2-1-comeback-win-snap-hosts-bayerns-unbeaten-bundesliga-run-5880951",
+    "summary": "",
+    "timestamp": 1769272934.0,
+    "date": "Jan 24, 16:42"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Trump will not attend Super Bowl because it's 'too far away,' he tells NY Post",
+    "link": "https://www.channelnewsasia.com/sport/trump-will-not-attend-super-bowl-because-its-too-far-away-he-tells-ny-post-5880956",
+    "summary": "",
+    "timestamp": 1769272740.0,
+    "date": "Jan 24, 16:39"
+  },
+  {
+    "source": "France 24",
+    "title": "French Prime Minister survives two no confidence votes",
+    "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20260124-french-prime-minister-survives-two-no-confidence-votes",
+    "summary": "On Friday - the French Prime Minister survived not one - but two no confidence motions in Parliament. Both the far-left and the far-right were unhappy that Sebastien LeCornu forced through the income ...",
+    "timestamp": 1769272714.0,
+    "date": "Jan 24, 16:38"
+  },
+  {
+    "source": "New York Times",
+    "title": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
+    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
+    "summary": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been \u201cconstructive.\u201d",
+    "timestamp": 1769272671.0,
+    "date": "Jan 24, 16:37"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump threatens Canada with 100% tariffs over China trade deal",
+    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump made the threat in a social media post as tensions rise between the US and its northern neighbour.",
+    "timestamp": 1769272038.0,
+    "date": "Jan 24, 16:27"
+  },
+  {
+    "source": "France 24",
+    "title": "Tehran warn it will treat any US strike as an \"all-out-war\"",
+    "link": "https://www.france24.com/en/tehran-warn-it-will-treat-any-us-strike-as-an-all-out-war",
+    "summary": "Iran will treat any attack \"as an all-out war against us,\" a senior Iranian official said on Friday, ahead of the arrival of a U.S. military aircraft carrier strike group and other assets in the Middl...",
+    "timestamp": 1769271267.0,
+    "date": "Jan 24, 16:14"
+  },
+  {
+    "source": "France 24",
+    "title": "'Brutal' attack on Ukraine amid talks",
+    "link": "https://www.france24.com/en/brutal-attack-on-ukraine-amid-talks",
+    "summary": "The first three-way talks between Russia, Ukraine and the US have ended with no apparent breakthrough, following renewed Russian bombardment of Ukrainian targets. France24 correspondent Gulliver Cragg...",
+    "timestamp": 1769271102.0,
+    "date": "Jan 24, 16:11"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump threatens 100 percent tariff on Canada over China deal",
+    "link": "https://www.aljazeera.com/news/2026/1/24/trump-threatens-100-percent-tariff-on-canada-over-china-deal?traffic_source=rss",
+    "summary": "Donald Trump&#039;s threat comes after Canada reached deal with China last week on trade of agriproducts, electric vehicles.",
+    "timestamp": 1769271098.0,
+    "date": "Jan 24, 16:11"
+  },
+  {
+    "source": "France 24",
+    "title": "US tightens military posture near Iran",
+    "link": "https://www.france24.com/en/us-tightens-military-posture-near-iran",
+    "summary": "As the United States maintains pressure and threats against Iran, the Islamic Republic has warned that \u201cany attack against it will be considered a total war.\u201d Some airlines subsequently announced the ...",
+    "timestamp": 1769270841.0,
+    "date": "Jan 24, 16:07"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "DW correspondent arrested in Niger",
+    "link": "https://www.dw.com/en/dw-correspondent-arrested-in-niger/a-75640860?maca=en-rss-en-all-1573-rdf",
+    "summary": "A correspondent for German international broadcaster Deutsche Welle (DW) was arrested on January 23. It comes after a report published on DW Hausa last year.",
+    "timestamp": 1769270640.0,
+    "date": "Jan 24, 16:04"
   },
   {
     "source": "TechCrunch",
@@ -57,14 +241,6 @@
   },
   {
     "source": "BBC World",
-    "title": "Trump threatens Canada with 100% tariffs over China trade deal",
-    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
-    "summary": "Trump made the threat in a social media post as tensions rise between the US and its northern neighbour.",
-    "timestamp": 1769269230.0,
-    "date": "Jan 24, 15:40"
-  },
-  {
-    "source": "BBC World",
     "title": "Climber delays rope-free skyscraper challenge over rain",
     "link": "https://www.bbc.com/news/articles/c8rm135lnneo?at_medium=RSS&at_campaign=rss",
     "summary": "Alex Honnold is attempting to scale one of the world's tallest buildings, Taipei 101 in Taiwan.",
@@ -78,14 +254,6 @@
     "summary": "Statements following the talks did not indicate that any agreements had been reached, but both Moscow and Kyiv said they were open to further dialogue.",
     "timestamp": 1769269063.0,
     "date": "Jan 24, 15:37"
-  },
-  {
-    "source": "BBC World",
-    "title": "Two days of peace talks end as Russia continues Ukraine attacks",
-    "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-    "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
-    "timestamp": 1769268786.0,
-    "date": "Jan 24, 15:33"
   },
   {
     "source": "CNA (Asia)",
@@ -304,14 +472,6 @@
     "date": "Jan 24, 13:54"
   },
   {
-    "source": "CNBC",
-    "title": "Winter Storm Fern could cause significant power outages",
-    "link": "https://www.cnbc.com/2026/01/24/winter-storm-fern-could-cause-significant-power-outages.html",
-    "summary": "The electric grid in many parts of the U.S. is already under strain due to rising demand from data centers and the slow construction of new power generation.",
-    "timestamp": 1769262807.0,
-    "date": "Jan 24, 13:53"
-  },
-  {
     "source": "France 24",
     "title": "China's top general under investigation",
     "link": "https://www.france24.com/en/china-s-top-general-under-investigation",
@@ -488,14 +648,6 @@
     "date": "Jan 24, 12:31"
   },
   {
-    "source": "New York Times",
-    "title": "Ukraine Expects Answers From Russia as Peace Talks Continue, Zelensky Says",
-    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-    "summary": "Officials from Russia, Ukraine and the United States are meeting in the United Arab Emirates for rare three-way negotiations.",
-    "timestamp": 1769257754.0,
-    "date": "Jan 24, 12:29"
-  },
-  {
     "source": "NPR",
     "title": "Why 3 Catholic cardinals released a statement critical of Trump's foreign policy",
     "link": "https://www.npr.org/2026/01/24/nx-s1-5686372/why-these-catholic-cardinals-released-a-statement-critical-of-the-trumps-foreign-policy",
@@ -664,14 +816,6 @@
     "date": "Jan 24, 10:32"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Tien prepares for clash with Medvedev,\u00a0Sabalenka faces teen titan Mboko",
-    "link": "https://www.channelnewsasia.com/sport/tien-prepares-clash-medvedev-sabalenka-faces-teen-titan-mboko-5880656",
-    "summary": "",
-    "timestamp": 1769250578.0,
-    "date": "Jan 24, 10:29"
-  },
-  {
     "source": "France 24",
     "title": "US officials enter Al-Hol camp in Syria",
     "link": "https://www.france24.com/en/us-officials-enter-al-hol-camp-in-syria",
@@ -696,44 +840,12 @@
     "date": "Jan 24, 10:21"
   },
   {
-    "source": "France 24",
-    "title": "Major cold front hits the United States",
-    "link": "https://www.france24.com/en/major-cold-front-hits-the-united-states",
-    "summary": "US weather forecasters are monitoring an unusually large and intense winter storm that is expected to bring dangerously cold air to more than half of the country through the weekend and into early nex...",
-    "timestamp": 1769249893.0,
-    "date": "Jan 24, 10:18"
-  },
-  {
-    "source": "France 24",
-    "title": "Who Is Gregory Bovino? The official Bbehind Trump\u2019s aggressive border enforcement",
-    "link": "https://www.france24.com/en/who-is-gregory-bovino-the-official-bbehind-trump-s-aggressive-border-enforcement",
-    "summary": "The official overseeing President Trump\u2019s Border Patrol operations is Gregory Bovino, a figure who has publicly defended ICE\u2019s hard-line enforcement approach and drawn attention for wearing a coat cri...",
-    "timestamp": 1769249778.0,
-    "date": "Jan 24, 10:16"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Bulgarians quit Germany, choose remote work",
     "link": "https://www.dw.com/en/bulgarians-quit-germany-choose-remote-work/a-75613408?maca=en-rss-en-all-1573-rdf",
     "summary": "Many highly skilled Bulgarians are moving back to their home country, swayed by the major income boost for remote work.",
     "timestamp": 1769249700.0,
     "date": "Jan 24, 10:15"
-  },
-  {
-    "source": "France 24",
-    "title": "Mass anti-ICE protests in Minnesota",
-    "link": "https://www.france24.com/en/mass-anti-ice-protests-in-minnesota",
-    "summary": "Despite bitter cold with temperatures starting around \u221229 \u00b0C, organisers said up to 50,000 people marched through the streets of Minneapolis and St Paul to demand that immigration enforcement officers...",
-    "timestamp": 1769249695.0,
-    "date": "Jan 24, 10:14"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Second seed Swiatek survives blip to beat Kalinskaya at Australian Open",
-    "link": "https://www.channelnewsasia.com/sport/second-seed-swiatek-survives-blip-beat-kalinskaya-australian-open-5880641",
-    "summary": "",
-    "timestamp": 1769249620.0,
-    "date": "Jan 24, 10:13"
   },
   {
     "source": "New York Times",
@@ -768,27 +880,11 @@
     "date": "Jan 24, 10:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "New digital signs at Serangoon MRT station aim to ease commuter confusion during train breakdowns",
-    "link": "https://www.channelnewsasia.com/singapore/train-disruption-serangoon-station-trial-sbs-transit-smrt-lta-5875496",
-    "summary": "The initiative follows recommendations by the Rail Reliability Taskforce, which called for stronger standard operating procedures to manage service disruptions.",
-    "timestamp": 1769248800.0,
-    "date": "Jan 24, 10:00"
-  },
-  {
     "source": "Al Jazeera",
     "title": "\u2018Change is inevitable\u2019: What is next for Iran?",
     "link": "https://www.aljazeera.com/news/2026/1/24/change-is-inevitable-what-is-next-for-iran?traffic_source=rss",
     "summary": "Without changes and a deal with US to lift sanctions, Iran could be set for further unrest, analysts say.",
     "timestamp": 1769248756.0,
-    "date": "Jan 24, 09:59"
-  },
-  {
-    "source": "France 24",
-    "title": "More than 9,000 flights cancelled as severe winter storm hits much of the US",
-    "link": "https://www.france24.com/en/americas/20260124-more-than-8-000-flights-cancelled-as-severe-winter-storm-us",
-    "summary": "More than 9,000 flights\u00a0have been cancelled as a severe winter storm is expected to wreak havoc across the US, threatening to knock out power and snarl major roadways. Authorities have issued warnings...",
-    "timestamp": 1769248750.0,
     "date": "Jan 24, 09:59"
   },
   {
@@ -798,14 +894,6 @@
     "summary": "From cheap exports to cutting-edge tech: A Chinese battery giant's secretive factory in Germany shows how \"Made in China\" and \"Made in Germany\" are colliding \u2014 and where they can benefit from each oth...",
     "timestamp": 1769247780.0,
     "date": "Jan 24, 09:43"
-  },
-  {
-    "source": "France 24",
-    "title": "Barcola scores as PSG go back on top of Ligue 1",
-    "link": "https://www.france24.com/en/tv-shows/sports/20260124-barcola-scores-as-psg-go-back-on-top-of-ligue-1",
-    "summary": "PSG did just enough to beat Auxerre. Between two Champions League fixtures, the Parisians travelled to Auxerre aiming to regain top spot in the league. The current Ligue 1 champions are closely matche...",
-    "timestamp": 1769247377.0,
-    "date": "Jan 24, 09:36"
   },
   {
     "source": "The Guardian",
@@ -862,14 +950,6 @@
     "summary": "Protesters march in icy conditions against Trump administration&#039;s anti-immigration policies, demanding ICE leave city.",
     "timestamp": 1769242669.0,
     "date": "Jan 24, 08:17"
-  },
-  {
-    "source": "France 24",
-    "title": "Air France resumes service to Dubai, KLM suspends Middle East flights as US forces head to Gulf",
-    "link": "https://www.france24.com/en/europe/20260124-air-france-halts-service-to-dubai-klm-suspends-middle-east-flights",
-    "summary": "Air France resumed its service to Dubai on Saturday after temporarily suspending it the previous day amid heightened US-Iran tensions. Dutch airline KLM\u00a0has\u00a0halted several flights passing over the Mid...",
-    "timestamp": 1769241799.0,
-    "date": "Jan 24, 08:03"
   },
   {
     "source": "The Verge",
@@ -1081,14 +1161,6 @@
   },
   {
     "source": "BBC World",
-    "title": "US braces for 'extremely dangerous' winter storm",
-    "link": "https://www.bbc.com/news/articles/c0r44l05q52o?at_medium=RSS&at_campaign=rss",
-    "summary": "The National Weather Service warns the winter blast \"will pose a life-threatening risk of hypothermia\".",
-    "timestamp": 1769225627.0,
-    "date": "Jan 24, 03:33"
-  },
-  {
-    "source": "BBC World",
     "title": "'A natural partner': US treasury secretary weighs in on Alberta separatism",
     "link": "https://www.bbc.com/news/articles/cy8ylqx0zw4o?at_medium=RSS&at_campaign=rss",
     "summary": "Scott Bessent's comments come amid a war of words between Ottawa and Washington.",
@@ -1118,14 +1190,6 @@
     "summary": "Thousands of people from various groups have shown up for protests in the adjacent cities of Minneapolis and St. Paul to protest against ICE operations.",
     "timestamp": 1769222220.0,
     "date": "Jan 24, 02:37"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Russian \u2018shadow fleet\u2019 tanker diverted to French port by naval forces",
-    "link": "https://www.aljazeera.com/news/2026/1/24/russian-shadow-fleet-tanker-diverted-to-french-port-by-naval-forces?traffic_source=rss",
-    "summary": "French prosecutors say Russia-linked tanker &#039;Grinch&#039; under investigation after interception in western Mediterranean.",
-    "timestamp": 1769221801.0,
-    "date": "Jan 24, 02:30"
   },
   {
     "source": "New York Times",
@@ -1190,22 +1254,6 @@
     "summary": "<p>Police reveal Julian Ingram reported to local officers as part of his bail conditions hours before the shootings</p><ul><li><p><em><strong>Warning: </strong>This article contains references to Indi...",
     "timestamp": 1769212881.0,
     "date": "Jan 24, 00:01"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Russia-Ukraine war: List of key events, day 1,430",
-    "link": "https://www.aljazeera.com/news/2026/1/23/russia-ukraine-war-list-of-key-events-day-1430?traffic_source=rss",
-    "summary": "These are the key developments from day 1,430 of Russia\u2019s war on Ukraine.",
-    "timestamp": 1769212705.0,
-    "date": "Jan 23, 23:58"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "In US ally Thailand, feelings of betrayal after Trump\u2019s visa freeze",
-    "link": "https://www.aljazeera.com/news/2026/1/23/in-us-ally-thailand-feelings-of-betrayal-after-trumps-visa-freeze?traffic_source=rss",
-    "summary": "Thais who planned to build a life in the US express shock at inclusion on list of blacklisted countries.",
-    "timestamp": 1769211883.0,
-    "date": "Jan 23, 23:44"
   },
   {
     "source": "New York Times",
@@ -1280,22 +1328,6 @@
     "date": "Jan 23, 21:33"
   },
   {
-    "source": "CNBC",
-    "title": "Wall Street braced for a private credit meltdown. The risk of one is rising",
-    "link": "https://www.cnbc.com/2026/01/23/wall-street-private-credit-risk-rising.html",
-    "summary": "Private credit is expected to grow from $3.4 trillion in 2025 to an estimated $4.9 trillion by 2029. Wall Street is starting to raise alarms about the risks.",
-    "timestamp": 1769203578.0,
-    "date": "Jan 23, 21:26"
-  },
-  {
-    "source": "NPR",
-    "title": "In one south Minneapolis neighborhood, tragedy repeats but connection endures",
-    "link": "https://www.npr.org/2026/01/23/nx-s1-5682344/south-minneapolis-comes-together-tragedy-after-tragedy",
-    "summary": "South Minneapolis has been at the center of multiple tragedies, from the murder of George Floyd to the killing of Renee Macklin Good. Locals say the events have brought them closer and helped them org...",
-    "timestamp": 1769203082.0,
-    "date": "Jan 23, 21:18"
-  },
-  {
     "source": "TechCrunch",
     "title": "The Rippling/Deel corporate spying scandal may have taken another wild turn",
     "link": "https://techcrunch.com/2026/01/23/the-rippling-deel-corporate-spying-scandal-may-have-taken-another-wild-turn/",
@@ -1336,20 +1368,20 @@
     "date": "Jan 23, 20:00"
   },
   {
-    "source": "The Verge",
-    "title": "Meta is stopping teens from chatting with its AI characters",
-    "link": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
-    "summary": "Meta is \"temporarily pausing\" the ability for teens to chat with its AI characters as it develops a \"new version\" of the characters that will offer a \"better experience.\" The company made the announce...",
-    "timestamp": 1769197859.0,
-    "date": "Jan 23, 19:50"
-  },
-  {
     "source": "New York Times",
     "title": "Peru\u2019s President May Be Ousted Over Secret Meetings with Chinese Businessmen",
     "link": "https://www.nytimes.com/2026/01/23/world/americas/peru-president-chinese-businessmen-meetings.html",
     "summary": "Leaked videos have prompted a scandal involving President Jos\u00e9 Jer\u00ed and two Chinese men under investigation.",
     "timestamp": 1769196826.0,
     "date": "Jan 23, 19:33"
+  },
+  {
+    "source": "BBC World",
+    "title": "Frank Gardner: Not only Americans risked life and limb to serve in Afghanistan",
+    "link": "https://www.bbc.com/news/articles/cj3v2mlvzdvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Brits, Canadians and Danes were among those who saw the toughest fighting, writes the BBC's security correspondent.",
+    "timestamp": 1769194970.0,
+    "date": "Jan 23, 19:02"
   },
   {
     "source": "Deutsche Welle",
@@ -1368,14 +1400,6 @@
     "date": "Jan 23, 18:20"
   },
   {
-    "source": "New York Times",
-    "title": "Prosecutors in Spain End Investigation Into Julio Iglesias",
-    "link": "https://www.nytimes.com/2026/01/23/world/europe/julio-iglesias-abuse-investigation.html",
-    "summary": "Two women accused the singer, 82, of abusing them in the Caribbean and filed a complaint in Spain, but Spanish officials said that they did not have jurisdiction over the claim.",
-    "timestamp": 1769192238.0,
-    "date": "Jan 23, 18:17"
-  },
-  {
     "source": "The Guardian",
     "title": "Canadian Olympic snowboarder turned alleged cocaine kingpin in US custody",
     "link": "https://www.theguardian.com/world/2026/jan/23/ryan-wedding-arrested",
@@ -1390,14 +1414,6 @@
     "summary": "Mette Frederiksen said she was visiting to show \"strong support\" to the people of Greenland. Her visit comes amid a turbulent week in which President Trump backed down on his bid to forcibly annex the...",
     "timestamp": 1769190960.0,
     "date": "Jan 23, 17:56"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Fact check: Fakes spread online amid Syria's power shift",
-    "link": "https://www.dw.com/en/fact-check-fakes-spread-online-amid-syria-s-power-shift/a-75618514?maca=en-rss-en-all-1573-rdf",
-    "summary": "As clashes continue in northern Syria, viral videos make claims about IS relatives escaping, mass border crossings, and unrest. DW Fact check finds that some footage is old, miscaptioned, or unrelated...",
-    "timestamp": 1769189820.0,
-    "date": "Jan 23, 17:37"
   },
   {
     "source": "The Guardian",
@@ -1422,14 +1438,6 @@
     "summary": "Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version ...",
     "timestamp": 1769187600.0,
     "date": "Jan 23, 17:00"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "'Sweet Caroline' singer Neil Diamond turns 85",
-    "link": "https://www.dw.com/en/sweet-caroline-singer-neil-diamond-turns-85/a-75500373?maca=en-rss-en-all-1573-rdf",
-    "summary": "He was a pop icon in the 1970s. Today, one of his songs is experiencing a viral resurgence. From soccer stadiums to TikTok, Neil Diamond's \"Sweet Caroline\" hasn't stopped playing.",
-    "timestamp": 1769186460.0,
-    "date": "Jan 23, 16:41"
   },
   {
     "source": "TechCrunch",
@@ -1502,14 +1510,6 @@
     "summary": "<p><strong>Exclusive: </strong>Comparison of online \u2018per each\u2019 price of 15 fruits and vegetables against price per kilogram found \u2018completely arbitrary\u2019 price variations</p><ul><li><p>Get our <a href=...",
     "timestamp": 1769176812.0,
     "date": "Jan 23, 14:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Tesla discontinues Autopilot in bid to boost adoption of its Full Self-Driving software",
-    "link": "https://techcrunch.com/2026/01/23/tesla-discontinues-autopilot-in-bid-to-boost-adoption-of-its-full-self-driving-software/",
-    "summary": "The company is also currently facing a 30-day suspension of its manufacturing and dealer licenses in California for deceptive marketing about Autopilot's capabilities.",
-    "timestamp": 1769173004.0,
-    "date": "Jan 23, 12:56"
   },
   {
     "source": "BBC World",
