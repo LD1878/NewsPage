@@ -1,11 +1,59 @@
 [
   {
+    "source": "Al Jazeera",
+    "title": "Seven dead, 82 missing after landslide in Indonesia\u2019s Bandung",
+    "link": "https://www.aljazeera.com/news/2026/1/24/seven-dead-82-missing-after-landslide-in-indonesias-bandung?traffic_source=rss",
+    "summary": "Latest disaster comes weeks after deadly floods and landslides left more than 1,000 people dead in Indonesia&#039;s West.",
+    "timestamp": 1769230942.0,
+    "date": "Jan 24, 05:02"
+  },
+  {
+    "source": "New York Times",
+    "title": "An Unlikely Source of Crypto Innovation: Afghanistan",
+    "link": "https://www.nytimes.com/2026/01/24/world/asia/crypto-innovation-afghanistan.html",
+    "summary": "The repressive Taliban government is suspicious of the internet. But a start-up in the country is building blockchain-based tools to transform humanitarian aid.",
+    "timestamp": 1769230867.0,
+    "date": "Jan 24, 05:01"
+  },
+  {
+    "source": "New York Times",
+    "title": "What Europe Learned From the Greenland Crisis",
+    "link": "https://www.nytimes.com/2026/01/24/world/europe/sovereignty-european-union-nato.html",
+    "summary": "Territorial integrity is a core tenet of Europe that is at risk from Russian and American imperialism. Brussels has fought back.",
+    "timestamp": 1769230867.0,
+    "date": "Jan 24, 05:01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Apple iPhone just had its best year in India as the smartphone market stays broadly flat",
+    "link": "https://techcrunch.com/2026/01/23/apple-iphone-just-had-its-best-year-in-india-as-the-smartphone-market-stays-broadly-flat/",
+    "summary": "Apple shipped a record 14 million iPhones in India in 2025 and gained market share.",
+    "timestamp": 1769230800.0,
+    "date": "Jan 24, 05:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Brazil\u2019s Lula says Trump is attempting to \u2018create a new UN\u2019",
+    "link": "https://www.aljazeera.com/news/2026/1/24/brazils-lula-says-trump-is-attempting-to-create-a-new-un?traffic_source=rss",
+    "summary": "Lula&#039;s comments come as Trump invites Netanyahu to join &#039;Board of Peace&#039;, with no mention of Gaza in charter.",
+    "timestamp": 1769229522.0,
+    "date": "Jan 24, 04:38"
+  },
+  {
     "source": "TechCrunch",
     "title": "TikTok users freak out over app\u2019s \u2018immigration status\u2019 collection \u2014 here\u2019s what it means",
     "link": "https://techcrunch.com/2026/01/23/tiktok-users-freak-out-over-apps-immigration-status-collection-heres-what-it-means/",
     "summary": "TikTok users are freaking out over a mention of \"immigration status\" data collection, but lawyers explain the disclosure is related to state privacy laws.",
     "timestamp": 1769229242.0,
     "date": "Jan 24, 04:34"
+  },
+  {
+    "source": "The Guardian",
+    "title": "\u2018Unfathomable\u2019: Australian veterans disgusted by Trump\u2019s claim allied troops \u2018stayed a little back\u2019 from frontline",
+    "link": "https://www.theguardian.com/us-news/2026/jan/24/unfathomable-australian-veterans-disgusted-by-trumps-claim-allied-troops-stayed-a-little-back-from-frontline",
+    "summary": "<p>In casting doubt on Nato\u2019s reliability, US president references Afghanistan campaign \u2013 which involved 40,000 Australian troops and left 47 dead</p><ul><li><p>Get our <a href=\"https://www.theguardia...",
+    "timestamp": 1769228942.0,
+    "date": "Jan 24, 04:29"
   },
   {
     "source": "The Guardian",
@@ -35,7 +83,7 @@
     "source": "The Guardian",
     "title": "Nico Antic, 12, dies in hospital after being attacked by a shark in Sydney",
     "link": "https://www.theguardian.com/australia-news/2026/jan/24/nico-antic-12-dies-in-hospital-after-being-attacked-by-a-shark-in-sydney",
-    "summary": "<p>Family confirms boy has died, describing him as possessing the \u2018most kind and generous spirit\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking ne...",
+    "summary": "<p>Family confirms boy has died almost a week after the attack, describing him as possessing the \u2018most kind and generous spirit\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsle...",
     "timestamp": 1769226729.0,
     "date": "Jan 24, 03:52"
   },
@@ -118,6 +166,14 @@
     "summary": "<p>Rescue efforts at Mount Maunganui site switch to recovery operation that police say could take several days</p><p>Efforts to rescue six people buried by a landslide at a New Zealand holiday park en...",
     "timestamp": 1769221409.0,
     "date": "Jan 24, 02:23"
+  },
+  {
+    "source": "France 24",
+    "title": "Daily Mail: Press or Predator? The lines blur in explosive high-profile trial",
+    "link": "https://www.france24.com/en/daily-mail-press-or-predator-the-lines-blur-in-explosive-high-profile-trial",
+    "summary": "A rare public reckoning is unfolding in the High Court of London. For deeper perspective on this high-profile trial targeting the publishers of Britain's popular Daily Mail tabloid, France 24's Gavin ...",
+    "timestamp": 1769221089.0,
+    "date": "Jan 24, 02:18"
   },
   {
     "source": "CNA (Asia)",
@@ -389,14 +445,6 @@
     "link": "https://www.theverge.com/news/866977/tiktok-deal-congress-china",
     "summary": "TikTok finally closed a deal meant to bring it into compliance with the law that should have banned it a year ago, and the lawmakers who passed that law still don't seem to know what's going on. The c...",
     "timestamp": 1769206123.0,
-    "date": "Jan 23, 22:08"
-  },
-  {
-    "source": "New York Times",
-    "title": "Trump\u2019s Turnabout on Greenland Shows the Limits of His Coercive Powers",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/trumps-greenland-power.html",
-    "summary": "President Trump\u2019s faith in his ability to wring concessions by taking maximalist positions was on full display this week. So were the costs, as he splintered NATO and then undercut his credibility by ...",
-    "timestamp": 1769206108.0,
     "date": "Jan 23, 22:08"
   },
   {
@@ -681,14 +729,6 @@
   },
   {
     "source": "New York Times",
-    "title": "Court Dismisses Bid to Prevent Auction of Nelson Mandela Memorabilia",
-    "link": "https://www.nytimes.com/2026/01/23/world/africa/nelson-mandela-memorabilia-auction.html",
-    "summary": "The anti-apartheid leader\u2019s eldest daughter won the right to sell some of his personal items after a two-year legal battle.",
-    "timestamp": 1769196952.0,
-    "date": "Jan 23, 19:35"
-  },
-  {
-    "source": "New York Times",
     "title": "Peru\u2019s President May Be Ousted Over Secret Meetings with Chinese Businessmen",
     "link": "https://www.nytimes.com/2026/01/23/world/americas/peru-president-chinese-businessmen-meetings.html",
     "summary": "Leaked videos have prompted a scandal involving President Jos\u00e9 Jer\u00ed and two Chinese men under investigation.",
@@ -734,14 +774,6 @@
     "summary": "Forecasters say the storm will dump heavy snow, sleet and freezing rain from the Southern Rockies into New England through Monday.",
     "timestamp": 1769195936.0,
     "date": "Jan 23, 19:18"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Minneapolis businesses close doors for economic blackout protesting ICE",
-    "link": "https://www.aljazeera.com/economy/2026/1/23/minneapolis-businesses-close-doors-for-economic-blackout-protesting-ice?traffic_source=rss",
-    "summary": "More than 700 small businesses, faith organisations, educators walked off the job to protest ICE raids",
-    "timestamp": 1769195685.0,
-    "date": "Jan 23, 19:14"
   },
   {
     "source": "CNA (Asia)",
@@ -798,14 +830,6 @@
     "summary": "Ryan Wedding was among the FBI's top fugitives and faces charges related to drug trafficking and the killing of a federal witness. He reportedly turned himself in at the U.S. embassy in Mexico",
     "timestamp": 1769193325.0,
     "date": "Jan 23, 18:35"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Venezuela\u2019s interim president\u2019s oil law reform to break with Chavez model",
-    "link": "https://www.aljazeera.com/economy/2026/1/23/venezuelas-interim-presidents-oil-law-reform-to-break-with-chavez-model?traffic_source=rss",
-    "summary": "Opposition declined to vote for bill to overhaul oil sector that they had only received just before it was tabled.",
-    "timestamp": 1769193119.0,
-    "date": "Jan 23, 18:31"
   },
   {
     "source": "Deutsche Welle",
@@ -1272,14 +1296,6 @@
     "date": "Jan 23, 14:28"
   },
   {
-    "source": "France 24",
-    "title": "Air pollution in\u00a0India's capital Delhi: An environmental and\u00a0health\u00a0disaster",
-    "link": "https://www.france24.com/en/tv-shows/reporters/20260123-air-pollution-india-capital-delhi-environmental-and-health-disaster",
-    "summary": "In 2024, 40 of the 50 cities ranked as the most polluted in the world\u00a0were located in\u00a0India. Delhi topped the list. Over the past decade, air pollution has become the Indian capital's number one scour...",
-    "timestamp": 1769178264.0,
-    "date": "Jan 23, 14:24"
-  },
-  {
     "source": "CNBC",
     "title": "Trump withdraws 'Board of Peace' invitation to Carney in widening rift with Canada",
     "link": "https://www.cnbc.com/2026/01/23/trump-withdraws-board-of-peace-invitation-to-carney-in-widening-rift-with-canada.html",
@@ -1440,14 +1456,6 @@
     "date": "Jan 23, 10:12"
   },
   {
-    "source": "The Guardian",
-    "title": "Andrew Hastie firms as Liberal leadership challenger amid push for Ley to step aside",
-    "link": "https://www.theguardian.com/australia-news/2026/jan/23/sussan-ley-confident-she-will-survive-as-opposition-leader-and-says-door-is-open-to-nationals-rejoining-coalition",
-    "summary": "<p>Colleagues encourage former soldier to run as Sussan Ley declares she will remain opposition leader after Coalition split</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletter...",
-    "timestamp": 1769152641.0,
-    "date": "Jan 23, 07:17"
-  },
-  {
     "source": "BBC World",
     "title": "Trump withdraws Canada's invitation to  Board of Peace",
     "link": "https://www.bbc.com/news/articles/cn7jjp8gl0jo?at_medium=RSS&at_campaign=rss",
@@ -1518,14 +1526,6 @@
     "summary": "Anduril on Thursday announced its plans to expand its Southern California presence with a major campus in Long Beach, the town where founder Palmer Luckey grew up.",
     "timestamp": 1769131914.0,
     "date": "Jan 23, 01:31"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "OpenAI\u00a0is coming for those sweet enterprise dollars in 2026",
-    "link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
-    "summary": "OpenAI has reportedly appointed Barret Zoph to lead its push into enterprise just a week after Zoph rejoined the company.",
-    "timestamp": 1769129553.0,
-    "date": "Jan 23, 00:52"
   },
   {
     "source": "BBC World",
