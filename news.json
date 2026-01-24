@@ -1,18 +1,90 @@
 [
   {
+    "source": "New York Times",
+    "title": "Despite Trump\u2019s Words, China and Russia Are Not Threatening Greenland",
+    "link": "https://www.nytimes.com/2026/01/24/us/politics/trump-china-russia-greenland.html",
+    "summary": "U.S. and European officials say they are unaware of any intelligence that shows China and Russia are endangering the island, which is protected by the NATO security umbrella.",
+    "timestamp": 1769260744.0,
+    "date": "Jan 24, 13:19"
+  },
+  {
+    "source": "NPR",
+    "title": "Opinion: Mark Carney's warning and its echoes from the past",
+    "link": "https://www.npr.org/2026/01/24/nx-s1-5681320/opinion-mark-carneys-warning-and-its-echoes-from-the-past",
+    "summary": "When he spoke at Davos this week, Canadian Prime Minister Mark Carney referenced a 1978 essay by Vaclav Havel, written when Czechoslovakia was under Soviet control.",
+    "timestamp": 1769259600.0,
+    "date": "Jan 24, 13:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Gemini with Personal Intelligence is awfully familiar",
+    "link": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai",
+    "summary": "By lots of metrics, Gemini is winning. It has raced ahead of OpenAI, become scarily good at creating convincing imagery, and even won Apple's business. So last week's news that it was enabling somethi...",
+    "timestamp": 1769259600.0,
+    "date": "Jan 24, 13:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Get stuff done by yelling at your phone",
+    "link": "https://www.theverge.com/tech/866946/todoist-ramble-nexphone-crossplay-installe",
+    "summary": "Hi, friends! Welcome to Installer No. 113, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, please send hot cocoa to my freezing-cold house, and also you can rea...",
+    "timestamp": 1769259600.0,
+    "date": "Jan 24, 13:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Alpine skiing-Franzoni wins Kitzbuehel downhill with Odermatt second",
+    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-franzoni-wins-kitzbuehel-downhill-odermatt-second-5880751",
+    "summary": "",
+    "timestamp": 1769259539.0,
+    "date": "Jan 24, 12:58"
+  },
+  {
     "source": "CNBC",
-    "title": "Investors came to Davos for AI. They left talking about Greenland",
+    "title": "Investors went to Davos for AI. They left talking about Greenland",
     "link": "https://www.cnbc.com/2026/01/24/davos-ai-greenland-trump-musk-energy-geopolitics.html",
     "summary": "Two Davos's emerged: one chasing AI\u2019s future, the other gripped by Greenland, tariffs and the geopolitical risks reshaping investor playbooks.",
-    "timestamp": 1769257474.0,
-    "date": "Jan 24, 12:24"
+    "timestamp": 1769258856.0,
+    "date": "Jan 24, 12:47"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump\u2019s imperial tantrum",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/1/24/trumps-imperial-tantrum?traffic_source=rss",
+    "summary": "Trump\u2019s imperial rampage - the tweets, the rants, the petulance.",
+    "timestamp": 1769258487.0,
+    "date": "Jan 24, 12:41"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Bangladesh replaced by Scotland at T20 World Cup, reports say",
+    "link": "https://www.channelnewsasia.com/sport/bangladesh-replaced-scotland-t20-world-cup-reports-say-5880721",
+    "summary": "",
+    "timestamp": 1769258005.0,
+    "date": "Jan 24, 12:33"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Where is the US-China AI 'race' heading in 2026?",
+    "link": "https://www.dw.com/en/where-is-the-us-china-ai-race-heading-in-2026/a-75608670?maca=en-rss-en-all-1573-rdf",
+    "summary": "With American tech continuing to dominate developing the frontier of artificial intelligence, China is holding its own with globally popular cheaper models and plans for building an AI-powered economy...",
+    "timestamp": 1769257860.0,
+    "date": "Jan 24, 12:31"
+  },
+  {
+    "source": "New York Times",
+    "title": "Ukraine Expects Answers From Russia as Peace Talks Continue, Zelensky Says",
+    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
+    "summary": "Officials from Russia, Ukraine and the United States are meeting in the United Arab Emirates for rare three-way negotiations.",
+    "timestamp": 1769257754.0,
+    "date": "Jan 24, 12:29"
   },
   {
     "source": "CNA (Asia)",
     "title": "Danish PM says Trump comments on NATO role in Afghanistan 'unacceptable'",
     "link": "https://www.channelnewsasia.com/world/trump-afghanistan-nato-role-comments-unacceptable-denmark-pm-5880691",
-    "summary": "",
-    "timestamp": 1769257463.0,
+    "summary": "Denmark is one of the NATO countries that has suffered the highest losses per capita on the front line in Afghanistan, said Prime Minister Mette Frederiksen.",
+    "timestamp": 1769257440.0,
     "date": "Jan 24, 12:24"
   },
   {
@@ -68,7 +140,7 @@
     "title": "Singapore to invest more than S$1 billion in national AI research plan over 5 years",
     "link": "https://www.channelnewsasia.com/singapore/singapore-invest-over-1-billion-in-national-ai-research-plan-5875861",
     "summary": "The plan focuses on strengthening public artificial intelligence research capabilities, says the Ministry of Digital Development and Information.&nbsp;",
-    "timestamp": 1769255941.0,
+    "timestamp": 1769255940.0,
     "date": "Jan 24, 11:59"
   },
   {
@@ -273,14 +345,6 @@
   },
   {
     "source": "New York Times",
-    "title": "Despite Trump\u2019s Words, China and Russia Are Not Threatening Greenland",
-    "link": "https://www.nytimes.com/2026/01/24/us/politics/trump-china-russia-greenland.html",
-    "summary": "U.S. and European officials say they are unaware of any intelligence that shows China and Russia are endangering the island, which is protected by the NATO security umbrella.",
-    "timestamp": 1769248920.0,
-    "date": "Jan 24, 10:02"
-  },
-  {
-    "source": "New York Times",
     "title": "How a Year of Trump Changed Britain",
     "link": "https://www.nytimes.com/2026/01/24/world/europe/trump-uk-changes.html",
     "summary": "Prime Minister Keir Starmer stood firm over Greenland. But his center-left government and the country as a whole have been buffeted by President Trump.",
@@ -436,14 +500,14 @@
     "title": "What Europe Learned From the Greenland Crisis",
     "link": "https://www.nytimes.com/2026/01/24/world/europe/sovereignty-european-union-nato.html",
     "summary": "Territorial integrity is a core tenet of Europe that is at risk from Russian and American imperialism. Brussels has fought back.",
-    "timestamp": 1769244588.0,
+    "timestamp": 1769244589.0,
     "date": "Jan 24, 08:49"
   },
   {
     "source": "BBC World",
     "title": "Ukraine condemns 'brutal' Russian strikes ahead of second day of peace talks",
     "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-    "summary": "One person died and 23 were injured as trilateral discussions in Abu Dhabi were set to resume.",
+    "summary": "One person died and 35 were injured as trilateral discussions in Abu Dhabi were set to resume.",
     "timestamp": 1769244520.0,
     "date": "Jan 24, 08:48"
   },
@@ -489,7 +553,7 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "China probes deputy military chief Zhang Youxia, general Liu Zhenli over 'serious violations of discipline'",
+    "title": "China probes deputy military chief Zhang Youxia, general Liu Zhenli over 'serious violations of discipline and law'",
     "link": "https://www.channelnewsasia.com/east-asia/china-military-zhang-youxia-liu-zhenli-probe-serious-violations-discipline-5880556",
     "summary": "Zhang, 75, and Liu, 61, are the vice-chairman and member of the Central Military Commission (CMC) respectively.",
     "timestamp": 1769241900.0,
@@ -507,7 +571,7 @@
     "source": "The Verge",
     "title": "The Loch Capsule dishwasher is small, fast, and efficient \u2014 it even sanitizes gadgets",
     "link": "https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house",
-    "summary": "A dishwasher is a luxury item some people can't live without. It's one of the first major kitchen devices I bought just as soon as I could afford one. And now that the kids are grown, it's the applian...",
+    "summary": "A dishwasher is a luxury item some people can't live without. It's one of the first major kitchen devices I bought just as soon as I could afford one, and the appliance I thought I'd miss most in my n...",
     "timestamp": 1769241600.0,
     "date": "Jan 24, 08:00"
   },
@@ -528,28 +592,12 @@
     "date": "Jan 24, 07:56"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Indonesia landslide kills eight, more than 80 missing",
-    "link": "https://www.channelnewsasia.com/asia/indonesia-village-landslide-killed-missing-heavy-rainfall-west-bandung-5880411",
-    "summary": "The landslide, triggered by heavy rainfall, struck a village in the region of West Bandung.",
-    "timestamp": 1769240280.0,
-    "date": "Jan 24, 07:38"
-  },
-  {
     "source": "Al Jazeera",
     "title": "US army says homeland, curbing China priorities; limited support for allies",
     "link": "https://www.aljazeera.com/news/2026/1/24/us-army-says-homeland-curbing-china-priorities-limited-support-for-allies?traffic_source=rss",
     "summary": "A new Pentagon strategy document softens tone on traditional foes, China and Russia.",
     "timestamp": 1769238415.0,
     "date": "Jan 24, 07:06"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Sinner survives as Australian Open bakes in extreme heat",
-    "link": "https://www.channelnewsasia.com/sport/sinner-survives-australian-open-bakes-in-extreme-heat-5880511",
-    "summary": "",
-    "timestamp": 1769238340.0,
-    "date": "Jan 24, 07:05"
   },
   {
     "source": "CNBC",
@@ -577,9 +625,9 @@
   },
   {
     "source": "France 24",
-    "title": "Live: One killed in strikes on Kyiv as Ukraine and Russia hold second day of direct talks in UAE",
+    "title": "Live: Second round of US-brokered Ukraine-Russia talks in Abu Dhabi ends",
     "link": "https://www.france24.com/en/europe/20260124-live-ukraine-and-russia-to-hold-second-day-of-direct-talks-in-uae-one-killed-in-kyiv",
-    "summary": "Negotiators from Russia, Ukraine and the United States meet in Abu Dhabi on Saturday for the second day of negotiations on a peace plan being pushed by US President Donald Trump.\u00a0Russia attacked Ukrai...",
+    "summary": "Negotiators from Russia, Ukraine and the United States met in Abu Dhabi on Saturday for the second day of negotiations on a peace plan being pushed by US President Donald Trump. Russia attacked Ukrain...",
     "timestamp": 1769236409.0,
     "date": "Jan 24, 06:33"
   },
@@ -617,9 +665,9 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "Air France, KLM pause flights to Middle East, including Dubai, Israel",
+    "title": "Air France resumes Dubai flights after temporary suspension",
     "link": "https://www.aljazeera.com/news/2026/1/24/air-france-klm-pause-flights-to-middle-east-including-dubai-israel?traffic_source=rss",
-    "summary": "Air France and KLM announce pauses as Trump says &#039;armada&#039; of US warships heading towards Middle East.",
+    "summary": "Flights were paused after Trump said &#039;armada&#039; of US warships heading towards the Middle East.",
     "timestamp": 1769235061.0,
     "date": "Jan 24, 06:11"
   },
@@ -896,14 +944,6 @@
     "date": "Jan 24, 00:04"
   },
   {
-    "source": "CNBC",
-    "title": "Nvidia director Persis Drell resigns with $26 million worth of stock after decade on board",
-    "link": "https://www.cnbc.com/2026/01/23/nvidia-director-persis-drell-resigns-decade-on-board-26-million-stock.html",
-    "summary": "Nvidia's board now has 10 directors, including CEO Jensen Huang,",
-    "timestamp": 1769213074.0,
-    "date": "Jan 24, 00:04"
-  },
-  {
     "source": "BBC World",
     "title": "Tragic chapter on the trains sends rail superpower Spain into crisis",
     "link": "https://www.bbc.com/news/articles/c0keelnyrvro?at_medium=RSS&at_campaign=rss",
@@ -1136,14 +1176,6 @@
     "date": "Jan 23, 21:13"
   },
   {
-    "source": "Al Jazeera",
-    "title": "UK\u2019s Starmer slams Trump over \u2018insulting\u2019 Afghanistan comments",
-    "link": "https://www.aljazeera.com/news/2026/1/23/frankly-appalling-uks-starmer-slams-trump-over-afghanistan-comments?traffic_source=rss",
-    "summary": "Trump&#039;s comments on NATO allies unlikely to smooth relations as tensions linger after Greenland tariff threats.",
-    "timestamp": 1769202488.0,
-    "date": "Jan 23, 21:08"
-  },
-  {
     "source": "CNBC",
     "title": "Intel stock drops 17%, its worst day since 2024, as manufacturing troubles overshadow earnings beat",
     "link": "https://www.cnbc.com/2026/01/23/intel-stock-earnings-q4-2025-supply.html",
@@ -1232,14 +1264,6 @@
     "date": "Jan 23, 19:02"
   },
   {
-    "source": "New York Times",
-    "title": "Ukrainian, Russian and U.S. Officials Meet in Abu Dhabi for Peace Talks",
-    "link": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
-    "summary": "In the past, Ukrainian and Russian negotiators have relied on Americans to mediate, and it was unclear how the talks would play out.",
-    "timestamp": 1769193745.0,
-    "date": "Jan 23, 18:42"
-  },
-  {
     "source": "NPR",
     "title": "Gladys West, mathematician whose work paved the way for GPS, dies at 95",
     "link": "https://www.npr.org/2026/01/23/nx-s1-5685027/gladys-west-gps-mathematician",
@@ -1312,28 +1336,12 @@
     "date": "Jan 23, 17:56"
   },
   {
-    "source": "NPR",
-    "title": "Weather influencers are going viral. How much should we trust them?",
-    "link": "https://www.npr.org/2026/01/23/nx-s1-5685033/weather-influencers-winter-storm",
-    "summary": "The weather genre online spans a wide range of sources. Experts say that while weather influencers can help fill an information gap, social media platforms tend to prioritize likes over accuracy.",
-    "timestamp": 1769190505.0,
-    "date": "Jan 23, 17:48"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Fact check: Fakes spread online amid Syria's power shift",
     "link": "https://www.dw.com/en/fact-check-fakes-spread-online-amid-syria-s-power-shift/a-75618514?maca=en-rss-en-all-1573-rdf",
     "summary": "As clashes continue in northern Syria, viral videos make claims about IS relatives escaping, mass border crossings, and unrest. DW Fact check finds that some footage is old, miscaptioned, or unrelated...",
     "timestamp": 1769189820.0,
     "date": "Jan 23, 17:37"
-  },
-  {
-    "source": "The Verge",
-    "title": "Hang on, there\u2019s a Trump Phone Ultra coming too?",
-    "link": "https://www.theverge.com/news/866601/trump-mobile-t1-ultra-phone-don-hendrickson-interview",
-    "summary": "Where's the Trump Phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump Phone's whereabouts. As usual, we're still waiting for a response. In the ...",
-    "timestamp": 1769189242.0,
-    "date": "Jan 23, 17:27"
   },
   {
     "source": "The Guardian",
@@ -1358,14 +1366,6 @@
     "summary": "Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version ...",
     "timestamp": 1769187600.0,
     "date": "Jan 23, 17:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Marshall\u2019s new hub connects to multiple Bluetooth speakers without pairing",
-    "link": "https://www.theverge.com/tech/866640/marshall-music-streaming-hub-heddon-bluetooth-auracast-speakers",
-    "summary": "Marshall has announced a new music streaming hub called the Heddon that can broadcast to multiple speakers using the Bluetooth Auracast feature that's finally starting to catch on. Similar to Sennheis...",
-    "timestamp": 1769187241.0,
-    "date": "Jan 23, 16:54"
   },
   {
     "source": "CNBC",
@@ -1398,14 +1398,6 @@
     "summary": "Ukraine, the US and Russia are set to hold their first-ever trilateral meeting to find ways to end the war.",
     "timestamp": 1769185860.0,
     "date": "Jan 23, 16:31"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Germany investigates Russian espionage case",
-    "link": "https://www.dw.com/en/germany-investigates-russian-espionage-case/a-75631642?maca=en-rss-en-all-1573-rdf",
-    "summary": "After identifying a suspected agent, Germany has expelled a Russian embassy employee and summoned the Russian ambassador.",
-    "timestamp": 1769185500.0,
-    "date": "Jan 23, 16:25"
   },
   {
     "source": "TechCrunch",
@@ -1504,14 +1496,6 @@
     "date": "Jan 23, 12:00"
   },
   {
-    "source": "CNBC",
-    "title": "Trump signed his Gaza 'Board of Peace' into being. Here's who's on it \u2014 and who isn't",
-    "link": "https://www.cnbc.com/2026/01/22/who-is-on-trumps-gaza-board-of-peace.html",
-    "summary": "European nations did not attend Trump's \"Board of Peace,\" signing at the World Economic Forum in Davis, Switzerland.",
-    "timestamp": 1769167878.0,
-    "date": "Jan 23, 11:31"
-  },
-  {
     "source": "New York Times",
     "title": "No Beer for You: How British Pubs Fought a Tax Increase",
     "link": "https://www.nytimes.com/2026/01/23/world/europe/uk-pubs-rates-u-turn.html",
@@ -1568,12 +1552,28 @@
     "date": "Jan 22, 23:56"
   },
   {
+    "source": "CNBC",
+    "title": "Lowe's bets on kids, creators and Gen Z as Americans delay homebuying",
+    "link": "https://www.cnbc.com/2026/01/22/lowes-offers-kids-events-loyalty-program-as-americans-buy-homes-later.html",
+    "summary": "The retailer is trying to attract more store and website visits as the U.S. housing market remains sluggish and customers postpone projects.",
+    "timestamp": 1769114211.0,
+    "date": "Jan 22, 20:36"
+  },
+  {
     "source": "The Guardian",
     "title": "ActionAid to rethink child sponsorship as part of plan to \u2018decolonise\u2019 its work",
     "link": "https://www.theguardian.com/global-development/2026/jan/22/actionaid-rethink-child-sponsorship-decolonise-funding",
     "summary": "<p>Development charity\u2019s new co-chief executives signal shift from controversial sponsor a child scheme launched in 1972 to long-term grassroots funding</p><p>Child sponsorship schemes that allow dono...",
     "timestamp": 1769058000.0,
     "date": "Jan 22, 05:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "How my Coinbase account was almost stolen",
+    "link": "https://www.cnbc.com/2026/01/20/how-my-coinbase-account-was-almost-stolen.html",
+    "summary": "A scammer almost convinced me to give him all the money in my Coinbase account.",
+    "timestamp": 1768933741.0,
+    "date": "Jan 20, 18:29"
   },
   {
     "source": "The Guardian",
