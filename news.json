@@ -1,5 +1,101 @@
 [
   {
+    "source": "Deutsche Welle",
+    "title": "DW correspondent arrested in Niger",
+    "link": "https://www.dw.com/en/dw-correspondent-arrested-in-niger/a-75640860?maca=en-rss-en-all-1573-rdf",
+    "summary": "A correspondent for German international broadcaster Deutsche Welle (DW) was arrested on January 23. It comes after a report published on DW Hausa last year.",
+    "timestamp": 1769270640.0,
+    "date": "Jan 24, 16:04"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump threatens to impose 100% tariff if Canada makes deal with China",
+    "link": "https://www.cnbc.com/2026/01/24/trump-tariff-canada-china.html",
+    "summary": "In his Truth Social post, Trump\u00a0suggested that China would try to use Canada to try to avoid paying U.S. tariffs.",
+    "timestamp": 1769270429.0,
+    "date": "Jan 24, 16:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "How PopWheels helped a food cart ditch generators for e-bike batteries",
+    "link": "https://techcrunch.com/2026/01/24/how-popwheels-helped-a-food-cart-ditch-generators-for-e-bike-batteries/",
+    "summary": "PopWheels realized its battery swapping network could be used for more than food delivery workers who need to charge their e-bikes. Now, its planning for an \"aggressive rollout\" this summer.",
+    "timestamp": 1769270400.0,
+    "date": "Jan 24, 16:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Gaming&#8217;s most fun sales data is full of old and obscure games",
+    "link": "https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games",
+    "summary": "Every month, Circana video game analyst Mat Piscatella posts fascinating data about video game sales on Bluesky, highlighting trends like November's historically bad month for game hardware and Battle...",
+    "timestamp": 1769270400.0,
+    "date": "Jan 24, 16:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Iran rejects UN rights resolution condemning protest killings",
+    "link": "https://www.aljazeera.com/news/2026/1/24/iran-rejects-un-rights-resolution-condemning-protest-killings?traffic_source=rss",
+    "summary": "A prosecutor said at least twice more people were killed in Iran in half the time compared with the Srebrenica genocide.",
+    "timestamp": 1769270070.0,
+    "date": "Jan 24, 15:54"
+  },
+  {
+    "source": "New York Times",
+    "title": "Iran\u2019s Leadership Stumbles After War and Unrest",
+    "link": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
+    "summary": "The bloody crackdown offers hints about growing tensions inside the country\u2019s ruling system as the cleric\u2019s rule comes under strain.",
+    "timestamp": 1769269827.0,
+    "date": "Jan 24, 15:50"
+  },
+  {
+    "source": "New York Times",
+    "title": "Xi\u2019s Purge of China\u2019s Military Brings Its Top General Down",
+    "link": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
+    "summary": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks \u201cthe total annihilation of the high command,\u201d one analyst said.",
+    "timestamp": 1769269637.0,
+    "date": "Jan 24, 15:47"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump threatens Canada with 100% tariffs over China trade deal",
+    "link": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump made the threat in a social media post as tensions rise between the US and its northern neighbour.",
+    "timestamp": 1769269230.0,
+    "date": "Jan 24, 15:40"
+  },
+  {
+    "source": "BBC World",
+    "title": "Climber delays rope-free skyscraper challenge over rain",
+    "link": "https://www.bbc.com/news/articles/c8rm135lnneo?at_medium=RSS&at_campaign=rss",
+    "summary": "Alex Honnold is attempting to scale one of the world's tallest buildings, Taipei 101 in Taiwan.",
+    "timestamp": 1769269145.0,
+    "date": "Jan 24, 15:39"
+  },
+  {
+    "source": "CNBC",
+    "title": "U.S.-brokered peace talks break off without a deal after overnight Russian bombardment of Ukraine",
+    "link": "https://www.cnbc.com/2026/01/24/uae-talks-between-russia-ukraine-focused-on-outstanding-elements-.html",
+    "summary": "Statements following the talks did not indicate that any agreements had been reached, but both Moscow and Kyiv said they were open to further dialogue.",
+    "timestamp": 1769269063.0,
+    "date": "Jan 24, 15:37"
+  },
+  {
+    "source": "BBC World",
+    "title": "Two days of peace talks end as Russia continues Ukraine attacks",
+    "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
+    "summary": "There is no apparent breakthrough as the three-way talks conclude and Russia maintains its bombardment.",
+    "timestamp": 1769268786.0,
+    "date": "Jan 24, 15:33"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Buddha statue built in place of Hindu one on disputed Thai-Cambodian border",
+    "link": "https://www.channelnewsasia.com/asia/cambodia-thailand-tensions-statue-buddha-hindu-5880886",
+    "summary": "This comes after Thai forces destroyed a likeness of the Hindu deity Vishnu in a border region known to Thais as An Ma and to Cambodians as An Ses.",
+    "timestamp": 1769268720.0,
+    "date": "Jan 24, 15:32"
+  },
+  {
     "source": "The Guardian",
     "title": "Trump threatens Canada with 100% tariff over possible deal with China",
     "link": "https://www.theguardian.com/us-news/2026/jan/24/trump-canada-tariff-threat-venezuela-oil",
@@ -13,6 +109,14 @@
     "link": "https://www.npr.org/2026/01/24/nx-s1-5687209/deadly-snow-rainfall-afghanistan",
     "summary": "Dozens were killed and hundreds homes destroyed, according to the country's disaster management authority, in storms impacting 15 of Afghanistan's 34 provinces.",
     "timestamp": 1769266805.0,
+    "date": "Jan 24, 15:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "Pursuing early retirement led this financial coach to marriage counseling\u2014here's how he changed his strategy",
+    "link": "https://www.cnbc.com/2026/01/24/pursuing-early-retirement-led-financial-coach-to-marriage-counseling.html",
+    "summary": "Andy Hill encourages couples to define a shared set of dreams and work backward rather than charging toward a savings goal.",
+    "timestamp": 1769266801.0,
     "date": "Jan 24, 15:00"
   },
   {
@@ -48,11 +152,19 @@
     "date": "Jan 24, 14:51"
   },
   {
-    "source": "New York Times",
-    "title": "Xi\u2019s Purge of China\u2019s Military Brings Its Top General Down",
-    "link": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
-    "summary": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks \u201cthe total annihilation of the high command,\u201d one analyst said.",
-    "timestamp": 1769266165.0,
+    "source": "Al Jazeera",
+    "title": "Bangladesh out of T20 World Cup after ICC\u2019s refusal to change venues",
+    "link": "https://www.aljazeera.com/sports/2026/1/24/bangladesh-out-of-t20-world-cup-after-iccs-refusal-to-change-venues?traffic_source=rss",
+    "summary": "Scotland replace Bangladesh after the BCB&#039;s request to relocate its games from India is turned down by the ICC.",
+    "timestamp": 1769266151.0,
+    "date": "Jan 24, 14:49"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Israeli drone strike kills two children collecting firewood in Gaza",
+    "link": "https://www.aljazeera.com/news/2026/1/24/israeli-drone-strike-kills-two-children-collecting-firewood-in-gaza?traffic_source=rss",
+    "summary": "The attack hits civilians gathering firewood near Kamal Adwan Hospital in northern Gaza, sources say.",
+    "timestamp": 1769266146.0,
     "date": "Jan 24, 14:49"
   },
   {
@@ -72,12 +184,28 @@
     "date": "Jan 24, 14:37"
   },
   {
+    "source": "CNBC",
+    "title": "Therapists say they see more workers anxious about AI: It's 'a fear of becoming obsolete'",
+    "link": "https://www.cnbc.com/2026/01/24/ai-artificial-intelligence-worries-therapy.html",
+    "summary": "More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.",
+    "timestamp": 1769265302.0,
+    "date": "Jan 24, 14:35"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Trump threatens Canada with 100% tariff over possible trade deal with China",
     "link": "https://www.channelnewsasia.com/world/donald-trump-mark-carney-tariff-canada-china-trade-deal-5880821",
     "summary": "\"China will eat Canada alive, \u200dcompletely devour it, including \u2060the \u200ddestruction of their businesses, social fabric, and general way of life,\" Trump wrote on Truth \u2060Social.",
     "timestamp": 1769265120.0,
     "date": "Jan 24, 14:32"
+  },
+  {
+    "source": "CNBC",
+    "title": "31-year-old's porta-potty company brings in $4.3 million a year: We've built 'a low-tech, AI-proof business'",
+    "link": "https://www.cnbc.com/2026/01/24/porta-potty-company-owner-how-i-built-a-low-tech-ai-proof-business.html",
+    "summary": "Daniel Tom launched Bay Area Sanitation in 2023 with 100 rentable toilets. Today, the business rents out nearly 2,000 units and brings in millions per year.",
+    "timestamp": 1769265002.0,
+    "date": "Jan 24, 14:30"
   },
   {
     "source": "France 24",
@@ -121,14 +249,6 @@
   },
   {
     "source": "BBC World",
-    "title": "Ukraine condemns 'brutal' Russian strikes as second day of peace talks ends",
-    "link": "https://www.bbc.com/news/articles/cwyr6p30054o?at_medium=RSS&at_campaign=rss",
-    "summary": "One person died and 35 were injured as trilateral discussions in Abu Dhabi were set to resume.",
-    "timestamp": 1769264367.0,
-    "date": "Jan 24, 14:19"
-  },
-  {
-    "source": "BBC World",
     "title": "China places highest-ranking general under investigation",
     "link": "https://www.bbc.com/news/articles/c701kr5zqdqo?at_medium=RSS&at_campaign=rss",
     "summary": "President Xi has been accused of using investigations to purge political rivals.",
@@ -142,14 +262,6 @@
     "summary": "\"Sinners\" actor Delroy Lindo, nominated for his first Oscar award at age 73, has discussed the challenges of being labeled as \"difficult\" earlier in his career.",
     "timestamp": 1769263501.0,
     "date": "Jan 24, 14:05"
-  },
-  {
-    "source": "CNBC",
-    "title": "UAE says talks between Russia and Ukraine focused on 'outstanding elements' of U.S.-proposed peace plan",
-    "link": "https://www.cnbc.com/2026/01/24/uae-talks-between-russia-ukraine-focused-on-outstanding-elements-.html",
-    "summary": "The spokesperson said the talks were held in a 'constructive and positive atmosphere'",
-    "timestamp": 1769263476.0,
-    "date": "Jan 24, 14:04"
   },
   {
     "source": "CNBC",
@@ -648,14 +760,6 @@
     "date": "Jan 24, 10:01"
   },
   {
-    "source": "New York Times",
-    "title": "Iran\u2019s Leadership Stumbles After War and Unrest",
-    "link": "https://www.nytimes.com/2026/01/24/world/middleeast/iran-protests-ayatollah-revolutionary-guards.html",
-    "summary": "The bloody crackdown offers hints about growing tensions inside the country\u2019s ruling system as the cleric\u2019s rule comes under strain.",
-    "timestamp": 1769248852.0,
-    "date": "Jan 24, 10:00"
-  },
-  {
     "source": "NPR",
     "title": "A deadly standoff in 1992 changed federal use-of-force rules. Here's why it matters",
     "link": "https://www.npr.org/2026/01/24/nx-s1-5684002/ice-minnesota-minneapolis-renee-macklin-good-ruby-ridge-idaho-deadly-force",
@@ -686,14 +790,6 @@
     "summary": "More than 9,000 flights\u00a0have been cancelled as a severe winter storm is expected to wreak havoc across the US, threatening to knock out power and snarl major roadways. Authorities have issued warnings...",
     "timestamp": 1769248750.0,
     "date": "Jan 24, 09:59"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "HIGHLIGHTS-Australian Open day seven",
-    "link": "https://www.channelnewsasia.com/sport/highlights-australian-open-day-seven-5880636",
-    "summary": "",
-    "timestamp": 1769248274.0,
-    "date": "Jan 24, 09:51"
   },
   {
     "source": "Deutsche Welle",
@@ -1088,14 +1184,6 @@
     "date": "Jan 24, 00:04"
   },
   {
-    "source": "BBC World",
-    "title": "Tragic chapter on the trains sends rail superpower Spain into crisis",
-    "link": "https://www.bbc.com/news/articles/c0keelnyrvro?at_medium=RSS&at_campaign=rss",
-    "summary": "Spain's vaunted reputation for its high-speed network has been humbled by disaster on the railways.",
-    "timestamp": 1769213037.0,
-    "date": "Jan 24, 00:03"
-  },
-  {
     "source": "The Guardian",
     "title": "\u2018Use extreme caution\u2019: manhunt widens for alleged triple murderer presumed armed in remote NSW",
     "link": "https://www.theguardian.com/australia-news/2026/jan/24/lake-cargelligo-julian-ingram-search-widens-nsw-police-ntwnfb",
@@ -1120,44 +1208,12 @@
     "date": "Jan 23, 23:44"
   },
   {
-    "source": "CNBC",
-    "title": "Going nowhere fast: S&P 500 ends the week down a fraction, with a lot of volatility in between",
-    "link": "https://www.cnbc.com/2026/01/23/going-nowhere-fast-sp-500-ends-volatile-trading-week-off-a-fraction.html",
-    "summary": "A rift between the United States and Europe over Greenland spurred a massive swing this week, but the S&amp;P 500 closed down less than half a percent.",
-    "timestamp": 1769211846.0,
-    "date": "Jan 23, 23:44"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "One survivor reported, two killed in US boat strike in the eastern Pacific",
-    "link": "https://www.aljazeera.com/news/2026/1/23/one-survivor-reported-two-killed-in-us-boat-strike-in-the-eastern-pacific?traffic_source=rss",
-    "summary": "The latest bombing brings the death toll from US boat strikes to 125 since September, raising human rights concerns.",
-    "timestamp": 1769209726.0,
-    "date": "Jan 23, 23:08"
-  },
-  {
     "source": "New York Times",
     "title": "Russia Jails U.S. Navy Veteran for Five Years",
     "link": "https://www.nytimes.com/2026/01/23/world/europe/russia-jails-american-sailor-chuck-zimmerman.html",
     "summary": "Charles Wayne Zimmerman, who had been fulfilling his dream to sail around the world, appears to be the latest American imprisoned as part of Russia\u2019s \u201chostage diplomacy.\u201d",
     "timestamp": 1769209645.0,
     "date": "Jan 23, 23:07"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Will the Board of Peace live up to its name?",
-    "link": "https://www.aljazeera.com/video/inside-story/2026/1/23/will-the-board-of-peace-live-up-to-its-name?traffic_source=rss",
-    "summary": "Newly created body is expected to address conflicts worldwide.",
-    "timestamp": 1769207749.0,
-    "date": "Jan 23, 22:35"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "What does the US withdrawal from the WHO mean for global health?",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/23/what-does-the-us-withdrawal-from-the-who-mean-for-global-health?traffic_source=rss",
-    "summary": "The US completed its withdrawal from the World Health Organization, ending its membership for the first time since 1948.",
-    "timestamp": 1769207428.0,
-    "date": "Jan 23, 22:30"
   },
   {
     "source": "BBC World",
@@ -1232,12 +1288,12 @@
     "date": "Jan 23, 21:26"
   },
   {
-    "source": "CNBC",
-    "title": "S&P 500 ends Friday little changed, but posts second straight losing week amid wild trading",
-    "link": "https://www.cnbc.com/2026/01/22/stock-market-today-live-updates.html",
-    "summary": "The S&amp;P 500 and the Nasdaq Composite ended Friday slightly higher, but both still posted back-to-back losing weeks.",
-    "timestamp": 1769203360.0,
-    "date": "Jan 23, 21:22"
+    "source": "NPR",
+    "title": "In one south Minneapolis neighborhood, tragedy repeats but connection endures",
+    "link": "https://www.npr.org/2026/01/23/nx-s1-5682344/south-minneapolis-comes-together-tragedy-after-tragedy",
+    "summary": "South Minneapolis has been at the center of multiple tragedies, from the murder of George Floyd to the killing of Renee Macklin Good. Locals say the events have brought them closer and helped them org...",
+    "timestamp": 1769203082.0,
+    "date": "Jan 23, 21:18"
   },
   {
     "source": "TechCrunch",
@@ -1254,14 +1310,6 @@
     "summary": "Residents of the Ukrainian capital are facing massive power outages, a lack of water and heat as Russia intensifies attacks on the country's energy grid. As many as 600,000 may have left the city.",
     "timestamp": 1769202780.0,
     "date": "Jan 23, 21:13"
-  },
-  {
-    "source": "CNBC",
-    "title": "Sen. Warren blasts CFPB director for undermining Trump's credit card affordability push",
-    "link": "https://www.cnbc.com/2026/01/23/warren-cfpb-director-letter-undermining-trump-credit-card-affordability.html",
-    "summary": "Sen. Elizabeth Warren seized on contradictions within the Trump administration when it comes to his push to make credit cards more affordable for Americans.",
-    "timestamp": 1769200351.0,
-    "date": "Jan 23, 20:32"
   },
   {
     "source": "TechCrunch",
@@ -1302,30 +1350,6 @@
     "summary": "Leaked videos have prompted a scandal involving President Jos\u00e9 Jer\u00ed and two Chinese men under investigation.",
     "timestamp": 1769196826.0,
     "date": "Jan 23, 19:33"
-  },
-  {
-    "source": "NPR",
-    "title": "At Davos, U.S. allies question a fraying world order",
-    "link": "https://www.npr.org/2026/01/23/nx-s1-5686526/trump-davos-world-order",
-    "summary": "It was a volatile week for trans-Atlantic relations, marked by President Trump statements that unsettled global markets and strained ties with U.S. allies \u2014 on topics ranging from Greenland to Gaza.",
-    "timestamp": 1769196462.0,
-    "date": "Jan 23, 19:27"
-  },
-  {
-    "source": "The Verge",
-    "title": "What TikTok\u2019s new owners mean for your feed",
-    "link": "https://www.theverge.com/tech/866868/tiktok-usds-new-owners-algorithm-explained",
-    "summary": "TikTok is officially under new ownership in the US, and that could spell big changes for the video-sharing app. On January 22nd, ByteDance - TikTok's Chinese parent company - and a group of investors ...",
-    "timestamp": 1769195451.0,
-    "date": "Jan 23, 19:10"
-  },
-  {
-    "source": "BBC World",
-    "title": "Frank Gardner: Not only Americans risked life and limb to serve in Afghanistan",
-    "link": "https://www.bbc.com/news/articles/cj3v2mlvzdvo?at_medium=RSS&at_campaign=rss",
-    "summary": "Brits, Canadians and Danes were among those who saw the toughest fighting, writes the BBC's security correspondent.",
-    "timestamp": 1769194970.0,
-    "date": "Jan 23, 19:02"
   },
   {
     "source": "Deutsche Welle",
@@ -1406,14 +1430,6 @@
     "summary": "He was a pop icon in the 1970s. Today, one of his songs is experiencing a viral resurgence. From soccer stadiums to TikTok, Neil Diamond's \"Sweet Caroline\" hasn't stopped playing.",
     "timestamp": 1769186460.0,
     "date": "Jan 23, 16:41"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Outrage as Trump undermines NATO role in Afghanistan war",
-    "link": "https://www.dw.com/en/outrage-as-trump-undermines-nato-role-in-afghanistan-war/a-75630017?maca=en-rss-en-all-1573-rdf",
-    "summary": "President Trump suggested US allies in NATO were \"off the front lines\" during the war in Afghanistan. London has strongly opposed the suggestion, which comes amid tensions between the US and some NATO...",
-    "timestamp": 1769186100.0,
-    "date": "Jan 23, 16:35"
   },
   {
     "source": "TechCrunch",
@@ -1528,14 +1544,6 @@
     "date": "Jan 23, 05:00"
   },
   {
-    "source": "TechCrunch",
-    "title": "Former Sequoia partner\u2019s new startup uses AI to negotiate your calendar for you",
-    "link": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
-    "summary": "Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia.",
-    "timestamp": 1769135364.0,
-    "date": "Jan 23, 02:29"
-  },
-  {
     "source": "The Guardian",
     "title": "Trump withdraws invitation for Canada to join his global \u2018board of peace\u2019",
     "link": "https://www.theguardian.com/us-news/2026/jan/22/trump-withdraws-invitation-canada",
@@ -1566,14 +1574,6 @@
     "summary": "<p>Development charity\u2019s new co-chief executives signal shift from controversial sponsor a child scheme launched in 1972 to long-term grassroots funding</p><p>Child sponsorship schemes that allow dono...",
     "timestamp": 1769058000.0,
     "date": "Jan 22, 05:00"
-  },
-  {
-    "source": "CNBC",
-    "title": "How my Coinbase account was almost stolen",
-    "link": "https://www.cnbc.com/2026/01/20/how-my-coinbase-account-was-almost-stolen.html",
-    "summary": "A scammer almost convinced me to give him all the money in my Coinbase account.",
-    "timestamp": 1768933741.0,
-    "date": "Jan 20, 18:29"
   },
   {
     "source": "The Guardian",
