@@ -1,11 +1,59 @@
 [
   {
+    "source": "New York Times",
+    "title": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
+    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
+    "summary": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been \u201cconstructive.\u201d",
+    "timestamp": 1769288643.0,
+    "date": "Jan 24, 21:04"
+  },
+  {
     "source": "CNBC",
     "title": "Gov. Walz calls on Trump to halt ICE operations in Minnesota after another fatal shooting",
     "link": "https://www.cnbc.com/2026/01/24/walz-trump-ice-shooting.html",
     "summary": "\"Minnesota has had it. This is sickening. The President must end this operation. Pull the thousands of violent, untrained officers out of Minnesota,\" Walz said.",
-    "timestamp": 1769285981.0,
-    "date": "Jan 24, 20:19"
+    "timestamp": 1769288185.0,
+    "date": "Jan 24, 20:56"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "US federal agents shoot and kill US citizen in Minneapolis",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/24/us-federal-agents-shoot-and-kill-us-citizen-in-minneapolis?traffic_source=rss",
+    "summary": "US federal agents have shot and killed a 37-year-old US citizen in Minneapolis amid an immigration crackdown.",
+    "timestamp": 1769288071.0,
+    "date": "Jan 24, 20:54"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
+    "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
+    "summary": "The US president's praise follows his claim that allied forces avoided the front lines during the Afghanistan conflict.",
+    "timestamp": 1769287714.0,
+    "date": "Jan 24, 20:48"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Slot blames fatigue as Liverpool fail again",
+    "link": "https://www.channelnewsasia.com/sport/slot-blames-fatigue-liverpool-fail-again-5881211",
+    "summary": "",
+    "timestamp": 1769287487.0,
+    "date": "Jan 24, 20:44"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Protests in Iran: Official casualty figures in doubt",
+    "link": "https://www.dw.com/en/protests-in-iran-official-casualty-figures-in-doubt/a-75642949?maca=en-rss-en-all-1573-rdf",
+    "summary": "The number of people killed in the brutal suppression of protests in Iran remains unclear, with reports that the injured are avoiding medical assistance out of fear.",
+    "timestamp": 1769286540.0,
+    "date": "Jan 24, 20:29"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Ceasefire between Syrian army and Kurdish-led forces extended for 15 days",
+    "link": "https://www.aljazeera.com/news/2026/1/24/ceasefire-between-syrian-army-and-kurdish-led-forces-extended-for-15-days?traffic_source=rss",
+    "summary": "Syrian defence ministry says extension aims to help transfer of ISIL prisoners from facilities previously held by SDF.",
+    "timestamp": 1769286355.0,
+    "date": "Jan 24, 20:25"
   },
   {
     "source": "TechCrunch",
@@ -22,14 +70,6 @@
     "summary": "Syria\u2019s government and Kurdish-led forces in the country\u2019s northeast have clashed as President Ahmed al-Sharaa seeks to extend his authority across the entire country.",
     "timestamp": 1769284270.0,
     "date": "Jan 24, 19:51"
-  },
-  {
-    "source": "New York Times",
-    "title": "Ukraine Peace Talks End on Positive Note as Zelensky Teases Future Meeting",
-    "link": "https://www.nytimes.com/2026/01/24/world/europe/ukraine-us-russia-peace-talks.html",
-    "summary": "President Volodymyr Zelensky of Ukraine said that rare three-way negotiations between Ukrainian, Russian and American teams in Abu Dhabi had been \u201cconstructive.\u201d",
-    "timestamp": 1769284239.0,
-    "date": "Jan 24, 19:50"
   },
   {
     "source": "CNA (Asia)",
@@ -110,14 +150,6 @@
     "summary": "The Lebanese man helped helped plan attacks on Jewish and Israeli institutions in Europe, prosecutors say.",
     "timestamp": 1769281029.0,
     "date": "Jan 24, 18:57"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump says UK soldiers in Afghanistan 'among greatest of all warriors'",
-    "link": "https://www.bbc.com/news/articles/c3edwx37pd9o?at_medium=RSS&at_campaign=rss",
-    "summary": "The US president's praise follows his claim that allied forces avoided the front lines during the Afghanistan conflict.",
-    "timestamp": 1769280755.0,
-    "date": "Jan 24, 18:52"
   },
   {
     "source": "CNA (Asia)",
@@ -321,9 +353,9 @@
   },
   {
     "source": "France 24",
-    "title": "Live: Man shot dead by US federal agents in Minneapolis amid immigration crackdown",
+    "title": "Man shot dead by US federal agents in Minneapolis amid immigration crackdown",
     "link": "https://www.france24.com/en/americas/20260124-us-federal-agents-carry-out-another-horrific-shooting-minneapolis-governor",
-    "summary": "Federal immigration agents shot dead a man during an operation in Minneapolis on Saturday, officials said, as police chief Brian O\u2019Hara described an \u201cincredibly volatile scene\u201d and urged residents to ...",
+    "summary": "Federal immigration agents shot dead a man during an operation in Minneapolis on Saturday, officials said, as police chief Brian O\u2019Hara described an \"incredibly volatile scene\" and urged residents to ...",
     "timestamp": 1769273183.0,
     "date": "Jan 24, 16:46"
   },
@@ -748,14 +780,6 @@
     "title": "Why I want my kids to experience ordering food in their school canteens",
     "link": "https://www.channelnewsasia.com/today/voices/children-bento-box-school-order-food-recess-canteen-parenting-social-skills-5875816",
     "summary": "As a parent of two, Ms Jillian Lim worries that an overreliance on prepacked bento boxes in schools will take away precious opportunities for children to practise valuable soft skills in their everyda...",
-    "timestamp": 1769261400.0,
-    "date": "Jan 24, 13:30"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Love your partner, hate their job? Here's how to not let it come between you and your other half",
-    "link": "https://www.channelnewsasia.com/today/adulting/couple-relationship-job-career-conflict-stress-5870246",
-    "summary": "In Singapore's always-on work culture, relationship experts explain how a partner's job can bring up unmet needs and how couples can address them before resentment develops.\n&nbsp;",
     "timestamp": 1769261400.0,
     "date": "Jan 24, 13:30"
   },
@@ -1192,14 +1216,6 @@
     "date": "Jan 24, 05:10"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Seven dead, dozens missing after landslide in Indonesia\u2019s West Bandung",
-    "link": "https://www.aljazeera.com/news/2026/1/24/seven-dead-82-missing-after-landslide-in-indonesias-bandung?traffic_source=rss",
-    "summary": "Latest disaster comes weeks after deadly floods and landslides left more than 1,000 people dead in Indonesia&#039;s west.",
-    "timestamp": 1769230942.0,
-    "date": "Jan 24, 05:02"
-  },
-  {
     "source": "New York Times",
     "title": "An Unlikely Source of Crypto Innovation: Afghanistan",
     "link": "https://www.nytimes.com/2026/01/24/world/asia/crypto-innovation-afghanistan.html",
@@ -1214,14 +1230,6 @@
     "summary": "Apple shipped a record 14 million iPhones in India in 2025 and gained market share.",
     "timestamp": 1769230800.0,
     "date": "Jan 24, 05:00"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Brazil\u2019s Lula says Trump is attempting to \u2018create a new UN\u2019",
-    "link": "https://www.aljazeera.com/news/2026/1/24/brazils-lula-says-trump-is-attempting-to-create-a-new-un?traffic_source=rss",
-    "summary": "Lula&#039;s comments come as Trump invites Netanyahu to join &#039;Board of Peace&#039;, with no mention of Gaza in charter.",
-    "timestamp": 1769229522.0,
-    "date": "Jan 24, 04:38"
   },
   {
     "source": "TechCrunch",
@@ -1422,14 +1430,6 @@
     "summary": "Leaked videos have prompted a scandal involving President Jos\u00e9 Jer\u00ed and two Chinese men under investigation.",
     "timestamp": 1769196826.0,
     "date": "Jan 23, 19:33"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Merz says Germany won't join Trump's 'Board of Peace'",
-    "link": "https://www.dw.com/en/merz-says-germany-won-t-join-trump-s-board-of-peace/a-75633920?maca=en-rss-en-all-1573-rdf",
-    "summary": "German Chancellor Merz said the current form of US President Trump's \"Board of Peace\" prevented Germany from joining for \"constitutional reasons.\" But Merz said he was open to \"new formats\" of coopera...",
-    "timestamp": 1769192520.0,
-    "date": "Jan 23, 18:22"
   },
   {
     "source": "The Guardian",
