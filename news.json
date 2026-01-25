@@ -1,5 +1,117 @@
 [
   {
+    "source": "CNBC",
+    "title": "Flight disruptions from massive winter storm will linger Monday",
+    "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
+    "summary": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers as a massive winter storm swept across the country.",
+    "timestamp": 1769358062.0,
+    "date": "Jan 25, 16:21"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google says it\u2019s fixed Gmail issues with spam and misclassification",
+    "link": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/",
+    "summary": "If your Gmail account doesn\u2019t seem to be working properly today, you\u2019re not alone.",
+    "timestamp": 1769357799.0,
+    "date": "Jan 25, 16:16"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Buendia scores stunning goal as Aston Villa beat Newcastle 2-0",
+    "link": "https://www.channelnewsasia.com/sport/buendia-scores-stunning-goal-aston-villa-beat-newcastle-2-0-5881886",
+    "summary": "",
+    "timestamp": 1769357328.0,
+    "date": "Jan 25, 16:08"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Podcaster Poking at France\u2019s Biggest Secrets",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
+    "summary": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
+    "timestamp": 1769357074.0,
+    "date": "Jan 25, 16:04"
+  },
+  {
+    "source": "The Verge",
+    "title": "Trusting your phone to Abxylute\u2019s mobile controller requires a big leap of faith",
+    "link": "https://www.theverge.com/tech/864821/abxylute-m4-snap-on-mobile-controller-magsafe-magnetic-bluetooth",
+    "summary": "As a retro gaming fan, I was thrilled when Apple opened its App Store to emulators in 2024, but I've yet to find a controller that makes me want to fully embrace retro gaming on my phone. Clamp-on con...",
+    "timestamp": 1769356800.0,
+    "date": "Jan 25, 16:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Bangladesh slams India over fugitive ex-PM Hasina\u2019s first public address",
+    "link": "https://www.aljazeera.com/news/2026/1/25/bangladesh-slams-india-over-fugitive-ex-pm-hasinas-first-public-address?traffic_source=rss",
+    "summary": "Dhaka says it is &#039;shocked&#039; the ousted leader was allowed to speak at a news conference, her first since the 2024 ouster.",
+    "timestamp": 1769356757.0,
+    "date": "Jan 25, 15:59"
+  },
+  {
+    "source": "New York Times",
+    "title": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
+    "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
+    "summary": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say.",
+    "timestamp": 1769356669.0,
+    "date": "Jan 25, 15:57"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "US military moves Navy, Air Force assets to the Middle East: What to know",
+    "link": "https://www.aljazeera.com/news/2026/1/25/us-military-moves-navy-air-force-assets-to-the-middle-east-what-to-know?traffic_source=rss",
+    "summary": "Trump says US &#039;armada&#039; is heading towards the Gulf, raising fears of a military escalation in the region.",
+    "timestamp": 1769356554.0,
+    "date": "Jan 25, 15:55"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "US envoys meet Netanyahu as Israel continues to bomb Gaza",
+    "link": "https://www.aljazeera.com/news/2026/1/25/us-envoys-meet-netanyahu-as-israel-continues-to-bomb-gaza?traffic_source=rss",
+    "summary": "Medical sources in Gaza City say at least one person has been killed and 15 wounded throughout the day.",
+    "timestamp": 1769356494.0,
+    "date": "Jan 25, 15:54"
+  },
+  {
+    "source": "New York Times",
+    "title": "Why Japan\u2019s Leader Won\u2019t Enter the Male-Dominated Sumo Ring",
+    "link": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
+    "summary": "Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues.",
+    "timestamp": 1769356196.0,
+    "date": "Jan 25, 15:49"
+  },
+  {
+    "source": "France 24",
+    "title": "Syria opens humanitarian corridor to Kurdish town of Kobane after ceasefire extended",
+    "link": "https://www.france24.com/en/middle-east/20260125-syria-opens-humanitarian-corridor-to-kurdish-town-kobane-after-ceasefire-extended",
+    "summary": "The United Nations' refugee agency on Sunday said trucks carrying aid were headed for Kobane after the Syrian military agreed to open a humanitarian corridor to the Kurdish-majority town surrounded by...",
+    "timestamp": 1769355869.0,
+    "date": "Jan 25, 15:44"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Woman Who Stands Between Donald Trump and Greenland",
+    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
+    "summary": "Mette Frederiksen, Denmark\u2019s leader, has taken big risks standing up to Mr. Trump. It might just be working \u2014 for now.",
+    "timestamp": 1769355594.0,
+    "date": "Jan 25, 15:39"
+  },
+  {
+    "source": "New York Times",
+    "title": "How Iran Crushed a Citizen Uprising With Lethal Force",
+    "link": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html",
+    "summary": "Protests erupted amid a communications blackout. But as video and witness accounts trickle out, the brutality of the regime\u2019s crackdown is becoming clear.",
+    "timestamp": 1769355007.0,
+    "date": "Jan 25, 15:30"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Atletico ease past Mallorca to climb to third in LaLiga",
+    "link": "https://www.channelnewsasia.com/sport/atletico-ease-past-mallorca-climb-third-in-laliga-5881846",
+    "summary": "",
+    "timestamp": 1769354353.0,
+    "date": "Jan 25, 15:19"
+  },
+  {
     "source": "Al Jazeera",
     "title": "Wave of Israeli attacks kills two in Lebanon in latest ceasefire violation",
     "link": "https://www.aljazeera.com/news/2026/1/25/wave-of-israeli-attacks-kills-two-in-lebanon-in-latest-ceasefire-violation?traffic_source=rss",
@@ -110,14 +222,6 @@
     "summary": "",
     "timestamp": 1769350124.0,
     "date": "Jan 25, 14:08"
-  },
-  {
-    "source": "CNBC",
-    "title": "Airlines cancel more than 14,000 weekend flights as massive winter storm sweeps across the U.S.",
-    "link": "https://www.cnbc.com/2026/01/23/winter-storm-fern-flight-cancellations.html",
-    "summary": "U.S. airlines canceled tens of thousands of flights and waived change fees for travelers as a massive winter storm swept across the country.",
-    "timestamp": 1769349776.0,
-    "date": "Jan 25, 14:02"
   },
   {
     "source": "The Guardian",
@@ -392,14 +496,6 @@
     "date": "Jan 25, 11:50"
   },
   {
-    "source": "New York Times",
-    "title": "The Woman Who Stands Between Donald Trump and Greenland",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/mette-frederiksen-denmark-greenland.html",
-    "summary": "Mette Frederiksen, Denmark\u2019s leader, has taken big risks standing up to Mr. Trump. It might just be working \u2014 for now.",
-    "timestamp": 1769341735.0,
-    "date": "Jan 25, 11:48"
-  },
-  {
     "source": "BBC World",
     "title": "Cosmetic doctor sorry for picking apart singer Troye Sivan's looks on TikTok",
     "link": "https://www.bbc.com/news/articles/czx11kw42jeo?at_medium=RSS&at_campaign=rss",
@@ -464,14 +560,6 @@
     "date": "Jan 25, 11:00"
   },
   {
-    "source": "New York Times",
-    "title": "Why Japan\u2019s Leader Won\u2019t Enter the Male-Dominated Sumo Ring",
-    "link": "https://www.nytimes.com/2026/01/25/world/asia/japan-takaichi-sumo-gender.html",
-    "summary": "Sanae Takaichi, the first woman to lead Japan as prime minister, skipped a sumo awards ceremony, reflecting her cautious approach to gender issues.",
-    "timestamp": 1769338625.0,
-    "date": "Jan 25, 10:57"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Israeli forces kill Palestinian man in occupied West Bank",
     "link": "https://www.aljazeera.com/news/2026/1/25/israeli-forces-kill-palestinian-man-in-occupied-west-bank-10?traffic_source=rss",
@@ -502,14 +590,6 @@
     "summary": "Voting finished in Myanmar's three-stage general election on Sunday with the dominant pro-military party on course for a landslide victory in a junta-run vote that critics say was neither free nor dem...",
     "timestamp": 1769337396.0,
     "date": "Jan 25, 10:36"
-  },
-  {
-    "source": "New York Times",
-    "title": "How Iran Crushed a Citizen Uprising With Lethal Force",
-    "link": "https://www.nytimes.com/2026/01/25/world/middleeast/iran-how-crackdown-was-done.html",
-    "summary": "After scattered protests started last month, Iranians revolted en masse. The security forces cracked down, and the death toll has now reached 5,200.",
-    "timestamp": 1769337288.0,
-    "date": "Jan 25, 10:34"
   },
   {
     "source": "Al Jazeera",
@@ -608,14 +688,6 @@
     "date": "Jan 25, 10:04"
   },
   {
-    "source": "New York Times",
-    "title": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
-    "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
-    "summary": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say.",
-    "timestamp": 1769335325.0,
-    "date": "Jan 25, 10:02"
-  },
-  {
     "source": "France 24",
     "title": "What we know about Alex Pretti, the man shot dead by federal agents in Minneapolis",
     "link": "https://www.france24.com/en/americas/20260125-what-we-know-about-alex-pretti-the-man-shot-dead-by-federal-agents-in-minneapolis",
@@ -712,22 +784,6 @@
     "date": "Jan 25, 09:35"
   },
   {
-    "source": "New York Times",
-    "title": "The Podcaster Poking at France\u2019s Biggest Secrets",
-    "link": "https://www.nytimes.com/2026/01/25/world/europe/philippe-collin-france-podcast-history-world-war-ii.html",
-    "summary": "Philippe Collin makes intricate series that are reshaping how French people understand uncomfortable parts of their history. Millions are tuning in.",
-    "timestamp": 1769332910.0,
-    "date": "Jan 25, 09:21"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Who was Alex Pretti, the nurse shot dead by federal agents in Minneapolis?",
-    "link": "https://www.aljazeera.com/news/2026/1/25/who-was-alex-pretti-the-nurse-shot-dead-by-federal-agents-in-minneapolis?traffic_source=rss",
-    "summary": "Two witnesses said in court filings that the victim did not brandish a gun, refuting claims by the Trump administration.",
-    "timestamp": 1769332867.0,
-    "date": "Jan 25, 09:21"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Japan returns last 2 pandas to China amid strained ties",
     "link": "https://www.dw.com/en/japan-returns-last-2-pandas-to-china-amid-strained-ties/a-75647554?maca=en-rss-en-all-1573-rdf",
@@ -736,28 +792,12 @@
     "date": "Jan 25, 09:14"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Gaza is not a real estate fantasy",
-    "link": "https://www.aljazeera.com/opinions/2026/1/25/gaza-is-not-a-real-estate-fantasy?traffic_source=rss",
-    "summary": "Trump and Kushner\u2019s plans for Gaza are bound to fail. Here is why.",
-    "timestamp": 1769331250.0,
-    "date": "Jan 25, 08:54"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Zverev crushes Cerundolo to reach Australian Open quarter-finals",
     "link": "https://www.channelnewsasia.com/sport/zverev-crushes-cerundolo-reach-australian-open-quarter-finals-5881621",
     "summary": "",
     "timestamp": 1769331193.0,
     "date": "Jan 25, 08:53"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Protesters demand immigration agents leave Minneapolis",
-    "link": "https://www.aljazeera.com/gallery/2026/1/25/protesters-demand-immigration-agents-leave-minneapolis?traffic_source=rss",
-    "summary": "Killing of ICU nurse by US border agent sparks protests in Minneapolis, already tense after earlier shootings.",
-    "timestamp": 1769331041.0,
-    "date": "Jan 25, 08:50"
   },
   {
     "source": "CNA (Asia)",
@@ -777,9 +817,9 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Minneapolis: ICE agents shoot dead nurse Alex Pretti",
-    "link": "https://www.dw.com/en/minneapolis-ice-agents-shoot-dead-nurse-alex-pretti/live-75641710?maca=en-rss-en-all-1573-rdf",
-    "summary": "Democrats are threatening a government shutdown after ICE agents killed Alex Pretti in Minneapolis. Pretti was a 37-year-old US citizen and intensive care nurse. DW has the latest.",
+    "title": "Minneapolis: Alex Pretti's family slams Trump admin 'lies'",
+    "link": "https://www.dw.com/en/minneapolis-alex-pretti-s-family-slams-trump-admin-lies/live-75641710?maca=en-rss-en-all-1573-rdf",
+    "summary": "Protests continue in Minneapolis despite Arctic cold as the family of Alex Pretti slams the Trump administration's efforts to paint him as a \"domestic terrorist\" bent on killing ICE agents. DW has the...",
     "timestamp": 1769330340.0,
     "date": "Jan 25, 08:39"
   },
@@ -816,22 +856,6 @@
     "date": "Jan 25, 06:53"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Gaethje beats Pimblett in brutal UFC slugfest",
-    "link": "https://www.channelnewsasia.com/sport/gaethje-beats-pimblett-in-brutal-ufc-slugfest-5881561",
-    "summary": "",
-    "timestamp": 1769323329.0,
-    "date": "Jan 25, 06:42"
-  },
-  {
-    "source": "France 24",
-    "title": "New wave of protests in Minneapolis after man is killed by federal agents",
-    "link": "https://www.france24.com/en/americas/20260125-protesters-in-minneapolis-demand-ice-leave-after-man-is-killed-by-federal-agents",
-    "summary": "The killing of 37-year-old ICU nurse Alex Pretti by federal immigration agents on Saturday sparked new protests and demands for ICE to end its operations in the city.\u00a0The Trump administration quickly ...",
-    "timestamp": 1769323199.0,
-    "date": "Jan 25, 06:39"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Junta-backed party poised to win Myanmar elections",
     "link": "https://www.dw.com/en/junta-backed-party-poised-to-win-myanmar-elections/a-75646268?maca=en-rss-en-all-1573-rdf",
@@ -862,14 +886,6 @@
     "summary": "A shortage of blood donations in Germany could have dramatic consequences. The situation was critical in mid-January. DW's Marcel F\u00fcrstenau answered a call to donate blood and reported on his experien...",
     "timestamp": 1769320740.0,
     "date": "Jan 25, 05:59"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Alcaraz cruises into Australian Open quarters with Paul win",
-    "link": "https://www.channelnewsasia.com/sport/alcaraz-cruises-australian-open-quarters-paul-win-5881546",
-    "summary": "",
-    "timestamp": 1769320496.0,
-    "date": "Jan 25, 05:54"
   },
   {
     "source": "The Guardian",
@@ -952,14 +968,6 @@
     "date": "Jan 24, 23:37"
   },
   {
-    "source": "TechCrunch",
-    "title": "Gmail is having issues with spam and misclassification",
-    "link": "https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/",
-    "summary": "If your Gmail account doesn\u2019t seem to be working properly today, you\u2019re not alone.",
-    "timestamp": 1769295480.0,
-    "date": "Jan 24, 22:58"
-  },
-  {
     "source": "The Verge",
     "title": "Microsoft handed the government encryption keys for customer data",
     "link": "https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi",
@@ -996,7 +1004,7 @@
     "title": "Syria Announces Cease-Fire Extension, Hours After Truce With Kurds Expired",
     "link": "https://www.nytimes.com/2026/01/24/world/middleeast/syria-kurdish-militia.html",
     "summary": "Syria\u2019s government and Kurdish-led forces in the country\u2019s northeast have clashed as President Ahmed al-Sharaa seeks to extend his authority across the entire country.",
-    "timestamp": 1769291558.0,
+    "timestamp": 1769291559.0,
     "date": "Jan 24, 21:52"
   },
   {
@@ -1181,14 +1189,6 @@
     "link": "https://www.cnbc.com/2026/01/24/pursuing-early-retirement-led-financial-coach-to-marriage-counseling.html",
     "summary": "Andy Hill encourages couples to define a shared set of dreams and work backward rather than charging toward a savings goal.",
     "timestamp": 1769266801.0,
-    "date": "Jan 24, 15:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Get ready for the AI ad-pocalypse",
-    "link": "https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity",
-    "summary": "I'll confess, with no shame whatsoever, that I really love ads. Artsy ones, funny ones, weird ones, emotional ones - TV commercials were my childhood TikTok before any of us were using terms like \"sho...",
-    "timestamp": 1769266800.0,
     "date": "Jan 24, 15:00"
   },
   {
