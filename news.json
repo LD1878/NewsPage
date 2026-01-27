@@ -1,10 +1,218 @@
 [
   {
+    "source": "BBC World",
+    "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
+    "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+    "summary": "If the bill passes the upper house it could take effect by the start of France's new school year in September.",
+    "timestamp": 1769476339.0,
+    "date": "Jan 27, 01:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Australian Open braces for soaring temperatures in Melbourne",
+    "link": "https://www.channelnewsasia.com/sport/australian-open-braces-soaring-temperatures-in-melbourne-5885341",
+    "summary": "",
+    "timestamp": 1769476177.0,
+    "date": "Jan 27, 01:09"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: Adelaide passes 40C as heatwave sweeps east; two dead after light plane crash near Gold Coast",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news-live-out-of-control-victorian-bushfire-threatens-towns-as-intense-heatwave-moves-east",
+    "summary": "<p>Extreme fire weather expected to fuel blazes and pose threat to communities near Great Ocean Road. Follow today\u2019s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newslet...",
+    "timestamp": 1769475963.0,
+    "date": "Jan 27, 01:06"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "French lawmakers pass Bill banning social media for under-15s",
+    "link": "https://www.channelnewsasia.com/world/france-pass-bill-ban-social-media-under-15-5885301",
+    "summary": "",
+    "timestamp": 1769475780.0,
+    "date": "Jan 27, 01:03"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "HIGHLIGHTS-Australian Open day 10",
+    "link": "https://www.channelnewsasia.com/sport/highlights-australian-open-day-10-5885316",
+    "summary": "",
+    "timestamp": 1769475548.0,
+    "date": "Jan 27, 00:59"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump raises US tariffs on South Korea imports to 25%",
+    "link": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump has accused Seoul of \"not living up\" to a trade deal that was reached last year.",
+    "timestamp": 1769475139.0,
+    "date": "Jan 27, 00:52"
+  },
+  {
     "source": "CNBC",
-    "title": "Trump says tariffs on South Korean autos, pharma, to rise to 25% over trade deal approval delay",
+    "title": "Videos of Alex Pretti shooting by federal agents in Minneapolis contradict Trump official claims",
+    "link": "https://www.cnbc.com/2026/01/25/alex-pretti-minneapolis-shooting-videos-trump.html",
+    "summary": "Footage from at least one of the videos appears to show a federal officer disarming the victim before shots are fired.",
+    "timestamp": 1769474802.0,
+    "date": "Jan 27, 00:46"
+  },
+  {
+    "source": "CNBC",
+    "title": "S&P 500 futures are little changed after index rises ahead of this week\u2019s Big Tech earnings: Live updates",
+    "link": "https://www.cnbc.com/2026/01/26/stock-market-today-live-updates.html",
+    "summary": "More than 90 S&amp;P 500 companies are slated to report quarterly results this week.",
+    "timestamp": 1769474704.0,
+    "date": "Jan 27, 00:45"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google pays $68M to settle claims its voice assistant spied on users",
+    "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+    "summary": "Google did not admit wrongdoing in the settlement of the class-action case, which accused the firm of \"unlawful and intentional interception and recording of individuals\u2019 confidential communications w...",
+    "timestamp": 1769474615.0,
+    "date": "Jan 27, 00:43"
+  },
+  {
+    "source": "CNBC",
+    "title": "Health insurers tumble after Trump administration proposes keeping Medicare Advantage rates flat next year",
+    "link": "https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
+    "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth Group plunged in extended trading.",
+    "timestamp": 1769474580.0,
+    "date": "Jan 27, 00:43"
+  },
+  {
+    "source": "New York Times",
+    "title": "Xi\u2019s Purge of the Chinese Military",
+    "link": "https://www.nytimes.com/2026/01/26/world/china-xi-military-purge-israel-hostage-gaza.html",
+    "summary": "The ousting of China\u2019s most senior general has set off fevered speculation.",
+    "timestamp": 1769474522.0,
+    "date": "Jan 27, 00:42"
+  },
+  {
+    "source": "CNBC",
+    "title": "White House eases tone on Pretti killing: Trump 'does not want any Americans to lose their lives'",
+    "link": "https://www.cnbc.com/2026/01/26/trump-tom-homan-minnesota-alex-pretti-ice.html",
+    "summary": "The killing of ICU nurse Alex Pretti by federal agents in Minneapolis, like the fatal shooting of Renee Good by an ICE officer, was caught on video.",
+    "timestamp": 1769474505.0,
+    "date": "Jan 27, 00:41"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Nigeria: Military officers to face trial over coup plot",
+    "link": "https://www.dw.com/en/nigeria-military-officers-to-face-trial-over-coup-plot/a-75669470?maca=en-rss-en-all-1573-rdf",
+    "summary": "The alleged coup plot raises concerns in a region that has already witnessed a series of military takeovers in recent years.",
+    "timestamp": 1769473800.0,
+    "date": "Jan 27, 00:30"
+  },
+  {
+    "source": "CNBC",
+    "title": "Hyundai shares fall after Trump says tariffs on South Korean autos, pharma to rise to 25%",
     "link": "https://www.cnbc.com/2026/01/26/trump-south-korea-tariffs-trade-autos-pharma.html",
     "summary": "South Korean-based automaker Hyundai Motor is the largest importer of new vehicles from that country into the United States.",
-    "timestamp": 1769469573.0,
+    "timestamp": 1769473269.0,
+    "date": "Jan 27, 00:21"
+  },
+  {
+    "source": "France 24",
+    "title": "Trump threatens to raise tariffs on South Korean goods to 25 percent",
+    "link": "https://www.france24.com/en/asia-pacific/20260127-trump-threatens-to-raise-tariffs-on-south-korean-goods-to-25-percent",
+    "summary": "US President Donald Trump has threatened to sharply increase tariffs on South Korean exports, accusing Seoul of failing to honour a trade agreement and raising the prospect of renewed tensions with on...",
+    "timestamp": 1769473214.0,
+    "date": "Jan 27, 00:20"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Japan's leading indicator of service inflation hits 2.6% in December",
+    "link": "https://www.channelnewsasia.com/business/japans-leading-indicator-service-inflation-hits-26-in-december-5885261",
+    "summary": "",
+    "timestamp": 1769472978.0,
+    "date": "Jan 27, 00:16"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Shares in South Korean automakers slide after Trump post on raising tariffs",
+    "link": "https://www.channelnewsasia.com/business/shares-in-south-korean-automakers-slide-after-trump-post-raising-tariffs-5885266",
+    "summary": "",
+    "timestamp": 1769472896.0,
+    "date": "Jan 27, 00:14"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
+    "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
+    "summary": "Ricursive joins Recursive and Unconventional AI in raising massive funds at multi-billion valuations out of the gate.",
+    "timestamp": 1769472795.0,
+    "date": "Jan 27, 00:13"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Rapper Kanye West apologises\u00a0for antisemitic remarks, says he was treated for bipolar disorder",
+    "link": "https://www.channelnewsasia.com/entertainment/kanye-west-ye-apologises-antisemitism-bipolar-5885076",
+    "summary": "The rapper took out a full-page ad in the Wall Street Journal on Monday (Jan 26).&nbsp;",
+    "timestamp": 1769472480.0,
+    "date": "Jan 27, 00:08"
+  },
+  {
+    "source": "BBC World",
+    "title": "Tech giants face landmark trial over social media addiction claims",
+    "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
+    "summary": "Defendants include Meta, which owns Instagram and Facebook, TikTok's owner ByteDance and YouTube parent Google.",
+    "timestamp": 1769472109.0,
+    "date": "Jan 27, 00:01"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia cancels visa of Jewish influencer who previously called for Islam to be banned",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/26/australia-cancels-visa-jewish-influencer-sammy-yahood-islam-banned-ntwnfb",
+    "summary": "<p>Sammy Yahood accuses Labor of \u2018tyranny\u2019 after the government cancelled his visa hours before his flight was due to depart</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026...",
+    "timestamp": 1769471855.0,
+    "date": "Jan 26, 23:57"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Extreme heatwave may break records in Victoria as firefighters warn of bushfire risk in \u2018very dry\u2019 state",
+    "link": "https://www.theguardian.com/environment/2026/jan/27/victoria-melbourne-weather-forecast-fire-danger-extreme-heatwave-bushfire-risk",
+    "summary": "<p>Ouyen and Mildura in northern Victoria forecast to break state\u2019s all-time maximum on Tuesday, as weather warnings issued</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/...",
+    "timestamp": 1769471821.0,
+    "date": "Jan 26, 23:57"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US judge weighs school districts' addiction claims against social media companies",
+    "link": "https://www.channelnewsasia.com/business/us-judge-weighs-school-districts-addiction-claims-against-social-media-companies-5885231",
+    "summary": "",
+    "timestamp": 1769471269.0,
+    "date": "Jan 26, 23:47"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump Briefed on Intelligence Saying Iran\u2019s Government Is Weaker",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/trump-reports-iran-government.html",
+    "summary": "Protests that erupted late last year shook elements of the Iranian government, according to the reports.",
+    "timestamp": 1769471068.0,
+    "date": "Jan 26, 23:44"
+  },
+  {
+    "source": "New York Times",
+    "title": "NATO Chief Says Europe Is \u2018Dreaming\u2019 if It Thinks It Can Defend Itself Without U.S.",
+    "link": "https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html",
+    "summary": "Mark Rutte, the secretary general of the alliance, told members of the European Parliament that President Trump was \u201cdoing a lot of good stuff.\u201d",
+    "timestamp": 1769470241.0,
+    "date": "Jan 26, 23:30"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Minnesota: Mayor says some federal agents to leave Minneapolis amid outrage over protester shootings",
+    "link": "https://www.dw.com/en/minnesota-mayor-says-some-federal-agents-to-leave-minneapolis-amid-outrage-over-protester-shootings/live-75666369?maca=en-rss-en-all-1573-rdf",
+    "summary": "Minneapolis Mayor Jacob Frey said some federal immigration officers will leave the city after a call with Donald Trump. Earlier the president said he is deploying border czar Tom Homan to Minnesota. D...",
+    "timestamp": 1769470200.0,
+    "date": "Jan 26, 23:30"
+  },
+  {
+    "source": "BBC World",
+    "title": "China has purged its highest-ranked military general. Why?",
+    "link": "https://www.bbc.com/news/articles/c8d0l0g8yz5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Zhang Youxia had been seen as a close ally of China's leader, Xi Jinping.",
+    "timestamp": 1769469587.0,
     "date": "Jan 26, 23:19"
   },
   {
@@ -16,28 +224,12 @@
     "date": "Jan 26, 23:12"
   },
   {
-    "source": "CNBC",
-    "title": "Health insurers tumble after Trump administration proposes keeping Medicare Advantage rates flat next year",
-    "link": "https://www.cnbc.com/2026/01/26/health-insurers-tumble-after-trump-proposes-keeping-medicare-rates-flat.html",
-    "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth Group plunged in extended trading.",
-    "timestamp": 1769469149.0,
-    "date": "Jan 26, 23:12"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "How Singapore bag label Tow Tow uses 3D printing to create playful leather designs",
     "link": "https://www.channelnewsasia.com/style-beauty/tow-tow-3d-printed-bags-singapore-5582646",
     "summary": "Instead of traditional hardware, Tow Tow incorporates 3D printing into its lineup of colourful and cheerful bag designs.",
     "timestamp": 1769469110.0,
     "date": "Jan 26, 23:11"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Australia news live: Adelaide passes 40C as heatwave sweeps into Victoria; barred Jewish influencer says visa cancellation an act of \u2018tyranny\u2019",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news-live-out-of-control-victorian-bushfire-threatens-towns-as-intense-heatwave-moves-east",
-    "summary": "<p>Extreme fire weather expected to fuel blazes and pose threat to communities near Great Ocean Road. Follow today\u2019s news live </p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newslet...",
-    "timestamp": 1769468723.0,
-    "date": "Jan 26, 23:05"
   },
   {
     "source": "New York Times",
@@ -64,6 +256,14 @@
     "date": "Jan 26, 22:58"
   },
   {
+    "source": "BBC World",
+    "title": "Deadly US winter storm leaves flights delayed and thousands without power",
+    "link": "https://www.bbc.com/news/articles/cp3z8ek7eqyo?at_medium=RSS&at_campaign=rss",
+    "summary": "At least a dozen people have died in multiple US states possibly due to the storm, officials have said.",
+    "timestamp": 1769467779.0,
+    "date": "Jan 26, 22:49"
+  },
+  {
     "source": "TechCrunch",
     "title": "Some international attendees are skipping 2026 GDC due to safety fears and growing ICE presence",
     "link": "https://techcrunch.com/2026/01/26/some-international-attendees-are-skipping-2026-gdc-due-to-safety-fears-and-growing-ice-presence/",
@@ -80,10 +280,18 @@
     "date": "Jan 26, 22:47"
   },
   {
+    "source": "BBC World",
+    "title": "Former Olympian Ryan Wedding pleads not guilty to drug kingpin charges",
+    "link": "https://www.bbc.com/news/articles/cedweq4lj25o?at_medium=RSS&at_campaign=rss",
+    "summary": "The ex-Olympic snowboarder and accused cartel leader was taken into custody in Mexico last week by the FBI.",
+    "timestamp": 1769467609.0,
+    "date": "Jan 26, 22:46"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Trump says he is raising tariffs on certain South Korean imports to 25%",
-    "link": "https://www.channelnewsasia.com/world/trump-says-he-raising-tariffs-certain-south-korean-imports-25-5885141",
-    "summary": "",
+    "link": "https://www.channelnewsasia.com/world/trump-south-korea-tariffs-hike-auto-5885141",
+    "summary": "The increase for goods such as autos and pharmaceuticals would bring tariff levels from 15 per cent to 25 per cent.",
     "timestamp": 1769467080.0,
     "date": "Jan 26, 22:38"
   },
@@ -96,12 +304,44 @@
     "date": "Jan 26, 22:36"
   },
   {
+    "source": "NPR",
+    "title": "Border Patrol has a history of excessive force. Critics say they're out of their depth",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5687887/border-patrol-has-a-history-of-excessive-force-critics-say-theyre-out-of-their-depth",
+    "summary": "People who study the Border Patrol say it continues to be less well prepared than big city police for handling crowds and situations involving protesters, some of whom are legally armed.",
+    "timestamp": 1769466573.0,
+    "date": "Jan 26, 22:29"
+  },
+  {
+    "source": "BBC World",
+    "title": "'We're all terrified', Minnesotan tells the BBC in tears",
+    "link": "https://www.bbc.com/news/videos/crkr1g5vnveo?at_medium=RSS&at_campaign=rss",
+    "summary": "The BBC's Ana Faguy speaks to residents in the state after the second fatal shooting by federal immigration officers.",
+    "timestamp": 1769466171.0,
+    "date": "Jan 26, 22:22"
+  },
+  {
+    "source": "France 24",
+    "title": "EU, India to sign major trade deal",
+    "link": "https://www.france24.com/en/tv-shows/business/20260126-eu-india-to-sign-major-trade-deal",
+    "summary": "India rolled out the red carpet, hosting top EU leaders as guests of honour at its Republic Day parade, a day before the two sides are expected to sign a free trade agreement at an EU-India summit. Ne...",
+    "timestamp": 1769466112.0,
+    "date": "Jan 26, 22:21"
+  },
+  {
     "source": "New York Times",
     "title": "Israel Says It Will Reopen Gaza-Egypt Border Crossing in Days",
     "link": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
     "summary": "The Rafah crossing will open at the end of Israel\u2019s search for the remains of the last captive in Gaza.",
     "timestamp": 1769465956.0,
     "date": "Jan 26, 22:19"
+  },
+  {
+    "source": "France 24",
+    "title": "EU 'is still very uncomfortable about India-Russia relations', expert says ahead of free trade deal",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20260126-eu-is-still-very-uncomfortable-about-india-russia-relations-expert-says-ahead-of-free-trade-deal",
+    "summary": "The European Union \u2060and India will explore possibilities for Indian participation in European defence initiatives, according to reports. Speaking with FRANCE 24's Sharon Gaffney, Christophe Jaffrelot,...",
+    "timestamp": 1769465866.0,
+    "date": "Jan 26, 22:17"
   },
   {
     "source": "New York Times",
@@ -145,7 +385,7 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Singapore's private-hire drivers resist EV shift despite growing popularity",
+    "title": "What's keeping private-hire drivers away from EVs?",
     "link": "https://www.channelnewsasia.com/singapore/private-hire-drivers-ev-electric-vehicle-cars-grab-gojek-5883846",
     "summary": "Many private-hire drivers remain reluctant to make the switch to electric vehicles, citing concerns over charging times and lost earnings.",
     "timestamp": 1769464800.0,
@@ -192,28 +432,12 @@
     "date": "Jan 26, 21:49"
   },
   {
-    "source": "New York Times",
-    "title": "NATO Chief Says Europe Is \u2018Dreaming\u2019 if It Thinks It Can Defend Itself Without U.S.",
-    "link": "https://www.nytimes.com/2026/01/26/world/europe/nato-chief-europe-greenland-trump-us.html",
-    "summary": "Mark Rutte, the secretary general of the alliance, told members of the European Parliament that President Trump was \u201cdoing a lot of good stuff.\u201d",
-    "timestamp": 1769464017.0,
-    "date": "Jan 26, 21:46"
-  },
-  {
-    "source": "BBC World",
-    "title": "French MPs take first step to ban social media for under-15s",
-    "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-    "summary": "Prime Minister S\u00e9bastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September.",
-    "timestamp": 1769464001.0,
-    "date": "Jan 26, 21:46"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Extreme heatwave may break records in Victoria as firefighters warn of bushfire risk in \u2018very dry\u2019 state",
-    "link": "https://www.theguardian.com/environment/2026/jan/27/victoria-melbourne-weather-forecast-fire-danger-extreme-heatwave-bushfire-risk",
-    "summary": "<p>Ouyen and Mildura in northern Victoria forecast to break state\u2019s all-time maximum on Tuesday, as weather warnings issued</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/...",
-    "timestamp": 1769463974.0,
-    "date": "Jan 26, 21:46"
+    "source": "France 24",
+    "title": "Uganda: Battered Barbra Kyagulanyi tells husband Bobi Wine to stay in hiding",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260126-uganda-battered-barbra-kyagulanyi-tells-husband-bobi-wine-to-stay-in-hiding",
+    "summary": "Muhoozi Kainerugaba, Uganda's military chief, denied accusations that soldiers had been sent to the home of opposition leader Bobi Wine to beat his wife in posts on X. Wine has been in hiding since di...",
+    "timestamp": 1769463845.0,
+    "date": "Jan 26, 21:44"
   },
   {
     "source": "CNA (Asia)",
@@ -264,20 +488,20 @@
     "date": "Jan 26, 21:41"
   },
   {
-    "source": "New York Times",
-    "title": "Xi\u2019s Purge of the Chinese Military",
-    "link": "https://www.nytimes.com/2026/01/26/world/china-xi-military-purge-israel-hostage-gaza.html",
-    "summary": "The ousting of China\u2019s most senior general has set off fevered speculation.",
-    "timestamp": 1769463317.0,
-    "date": "Jan 26, 21:35"
-  },
-  {
     "source": "BBC World",
     "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
     "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
     "summary": "Footage from a hospital in Tehran shows at least 31 bodies piled inside and seven body bags outside.",
     "timestamp": 1769463280.0,
     "date": "Jan 26, 21:34"
+  },
+  {
+    "source": "NPR",
+    "title": "Amid lawsuits and protests, Trump signals changes to Minnesota immigration surge",
+    "link": "https://www.npr.org/2026/01/26/nx-s1-5688835/minnesota-officials-lawsuits-protests-immigration-changes",
+    "summary": "A federal judge on Monday considered the legality of the Trump administration's immigration crackdown in Minneapolis, where backlash has intensified after federal agents shot and killed two U.S. citiz...",
+    "timestamp": 1769463222.0,
+    "date": "Jan 26, 21:33"
   },
   {
     "source": "France 24",
@@ -294,14 +518,6 @@
     "summary": "",
     "timestamp": 1769462502.0,
     "date": "Jan 26, 21:21"
-  },
-  {
-    "source": "BBC World",
-    "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
-    "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
-    "summary": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
-    "timestamp": 1769462319.0,
-    "date": "Jan 26, 21:18"
   },
   {
     "source": "CNA (Asia)",
@@ -329,14 +545,6 @@
   },
   {
     "source": "CNBC",
-    "title": "White House eases tone on Pretti killing: Trump 'does not want any Americans to lose their lives'",
-    "link": "https://www.cnbc.com/2026/01/26/trump-tom-homan-minnesota-alex-pretti-ice.html",
-    "summary": "The killing of ICU nurse Alex Pretti by federal agents in Minneapolis, like the fatal shooting of Renee Good by an ICE officer, was caught on video.",
-    "timestamp": 1769461739.0,
-    "date": "Jan 26, 21:08"
-  },
-  {
-    "source": "CNBC",
     "title": "Nike to cut 775 employees as it accelerates 'automation' at U.S. distribution centers",
     "link": "https://www.cnbc.com/2026/01/26/nike-to-lay-off-775-employees-at-us-distribution-centers.html",
     "summary": "Nike is cutting 775 employees, primarily from jobs at distribution centers in Tennessee and Mississippi.",
@@ -350,14 +558,6 @@
     "summary": "A Booz Allen contractor had leaked confidential tax information that showed how wealthy people like Donald Trump, Elon Musk and Jeff Bezos manage to minimize their tax obligations.",
     "timestamp": 1769461706.0,
     "date": "Jan 26, 21:08"
-  },
-  {
-    "source": "CNBC",
-    "title": "USA Rare Earth shares rally as Commerce Department takes equity stake",
-    "link": "https://www.cnbc.com/2026/01/26/usa-rare-earth-shares-jump-20percent-as-commerce-department-takes-equity-stake.html",
-    "summary": "The capital infusion will help USA Rare Earth advance its plan for a magnet manufacturing plant and a mine at a rare earth deposit in Texas called Round Top.",
-    "timestamp": 1769461620.0,
-    "date": "Jan 26, 21:07"
   },
   {
     "source": "CNBC",
@@ -421,14 +621,6 @@
     "link": "https://www.nytimes.com/2026/01/26/world/asia/taliban-afghanistan-prisoners.html",
     "summary": "Top Afghan officials say they want two American detainees released \u201cas soon as possible,\u201d but the Trump administration says a third one should be included.",
     "timestamp": 1769460094.0,
-    "date": "Jan 26, 20:41"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "US braces for more freezing cold as winter storm leaves at least 29 dead",
-    "link": "https://www.channelnewsasia.com/world/us-storm-new-york-death-winter-snow-cold-mississippi-5885006",
-    "summary": "",
-    "timestamp": 1769460060.0,
     "date": "Jan 26, 20:41"
   },
   {
@@ -512,27 +704,11 @@
     "date": "Jan 26, 19:56"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Saudi Arabia wants 'strong, positive' relationship with UAE after Yemen row",
-    "link": "https://www.channelnewsasia.com/world/saudi-arabia-yemen-poland-uae-gulf-5884966",
-    "summary": "Saudi Arabia's foreign minister says its future relations with&nbsp;the United Arab Emirates (UAE) depend on its ties with Yemen.",
-    "timestamp": 1769457060.0,
-    "date": "Jan 26, 19:51"
-  },
-  {
     "source": "The Verge",
     "title": "Google will settle its Assistant spying lawsuit for $68 million",
     "link": "https://www.theverge.com/news/868078/google-assistant-lawsuit-settlement",
     "summary": "Google could owe you some money, now that it's moving to settle a class-action lawsuit over how it handled recordings captured when its devices were activated by something other than Google Assistant'...",
     "timestamp": 1769456753.0,
-    "date": "Jan 26, 19:45"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Nvidia unveils\u00a0AI models for faster, cheaper weather forecasts",
-    "link": "https://www.channelnewsasia.com/business/nvidia-unveils-ai-models-faster-cheaper-weather-forecasts-5884971",
-    "summary": "",
-    "timestamp": 1769456749.0,
     "date": "Jan 26, 19:45"
   },
   {
@@ -632,14 +808,6 @@
     "date": "Jan 26, 18:47"
   },
   {
-    "source": "New York Times",
-    "title": "Winter Storm Pummels Toronto With Record Snowfall",
-    "link": "https://www.nytimes.com/2026/01/25/world/americas/toronto-snow-winter-storm.html",
-    "summary": "Canada\u2019s biggest city got roughly 22 inches, and giant snow banks are unlikely to melt soon because of colder than usual temperatures.",
-    "timestamp": 1769453205.0,
-    "date": "Jan 26, 18:46"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Death toll from Indonesia landslide rises to 17 as dozens remain missing",
     "link": "https://www.aljazeera.com/news/2026/1/26/death-toll-from-indonesia-landslide-rises-to-17-as-dozens-remain-missing?traffic_source=rss",
@@ -654,22 +822,6 @@
     "summary": "Booz Allen employee Charles Edward Littlejohn also had leaked tax records of Amazon's Jeff Bezos and Tesla chief Elon Musk to a news outlet.",
     "timestamp": 1769452926.0,
     "date": "Jan 26, 18:42"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "US to send largest Winter Games team to Milano Cortina with 232 athletes",
-    "link": "https://www.channelnewsasia.com/sport/us-send-largest-winter-games-team-milano-cortina-232-athletes-5884906",
-    "summary": "",
-    "timestamp": 1769452880.0,
-    "date": "Jan 26, 18:41"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Trump sends border czar, speaks to Minnesota governor",
-    "link": "https://www.channelnewsasia.com/world/trump-walz-border-czar-homan-minnesota-pretti-minneapolis-ice-immigration-5884831",
-    "summary": "The US president has sent a border security official to Minnesota and says he had a \"productive\" call with the governor of the state.",
-    "timestamp": 1769452740.0,
-    "date": "Jan 26, 18:39"
   },
   {
     "source": "BBC World",
@@ -736,14 +888,6 @@
     "date": "Jan 26, 18:10"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "VinFast teams up with Autobrains to develop low-cost self-driving tech",
-    "link": "https://www.channelnewsasia.com/business/vinfast-teams-up-autobrains-develop-low-cost-self-driving-tech-5884841",
-    "summary": "",
-    "timestamp": 1769450839.0,
-    "date": "Jan 26, 18:07"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Germany, France, others rebuke Trump's NATO troop disrespect",
     "link": "https://www.dw.com/en/germany-france-others-rebuke-trump-s-nato-troop-disrespect/a-75666924?maca=en-rss-en-all-1573-rdf",
@@ -790,22 +934,6 @@
     "summary": "Deep snow halted traffic, canceled flights and triggered wide school closures Monday. Authorities reported at least 18 weather-related deaths.",
     "timestamp": 1769450099.0,
     "date": "Jan 26, 17:54"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Alpine skiing-Brignone to race in Crans-Montana ahead of Games",
-    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-brignone-race-in-crans-montana-ahead-games-5884826",
-    "summary": "",
-    "timestamp": 1769449914.0,
-    "date": "Jan 26, 17:51"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Minnesota: Trump sends border czar amid political blame game",
-    "link": "https://www.dw.com/en/minnesota-trump-sends-border-czar-amid-political-blame-game/live-75666369?maca=en-rss-en-all-1573-rdf",
-    "summary": "US President Donald Trump is deploying border czar Tom Homan to Minnesota, as federal and state officials clash over the description of events that led to the killing of Alex Pretti. DW has the latest...",
-    "timestamp": 1769449860.0,
-    "date": "Jan 26, 17:51"
   },
   {
     "source": "TechCrunch",
@@ -1041,14 +1169,6 @@
   },
   {
     "source": "CNBC",
-    "title": "Videos of Alex Pretti shooting by federal agents in Minneapolis contradict Trump official claims",
-    "link": "https://www.cnbc.com/2026/01/25/alex-pretti-minneapolis-shooting-videos-trump.html",
-    "summary": "Footage from at least one of the videos appears to show a federal officer disarming the victim before shots are fired.",
-    "timestamp": 1769444246.0,
-    "date": "Jan 26, 16:17"
-  },
-  {
-    "source": "CNBC",
     "title": "Microsoft reveals second generation of its AI chip in effort to bolster cloud business",
     "link": "https://www.cnbc.com/2026/01/26/microsoft-reveals-maia-200-ai-chip-will-use-it-in-house.html",
     "summary": "With its newest AI chip, Microsoft plans \"wider customer availability\" after its initial product was only used for internal projects.",
@@ -1136,52 +1256,12 @@
     "date": "Jan 26, 15:17"
   },
   {
-    "source": "France 24",
-    "title": "Historic winter storm kills at least in the United States",
-    "link": "https://www.france24.com/en/video/20260126-historic-winter-storm-kills-at-least-in-the-united-states",
-    "summary": "The #snowstorm barrelling through the United States is considered to be one of the worst #winter episodes the country has known in several decades. At least 10 have died. In some area, #temperatures c...",
-    "timestamp": 1769440646.0,
-    "date": "Jan 26, 15:17"
-  },
-  {
-    "source": "France 24",
-    "title": "France's former Senator Jo\u00ebl Guerriau on trial for drugging MP Sandrine Josso",
-    "link": "https://www.france24.com/en/video/20260126-france-s-former-senator-jo%C3%ABl-guerriau-on-trial-for-drugging-mp-sandrine-josso",
-    "summary": "Former French Senator Jo\u00ebl Guerriau is on trial for drugging MP Sandrine Josso with ecstasy, allegedly to rape her. During a search of Guerriau's property, 30 grams of ecstasy were found. If convicted...",
-    "timestamp": 1769440631.0,
-    "date": "Jan 26, 15:17"
-  },
-  {
     "source": "TechCrunch",
     "title": "SpaceX eyes mid-March for first test of upgraded Starship rocket",
     "link": "https://techcrunch.com/2026/01/26/spacex-eyes-mid-march-for-first-test-of-upgraded-starship-rocket/",
     "summary": "The launch date had been up in the air after the rocket's booster stage suffered an explosion during testing in November.",
     "timestamp": 1769440609.0,
     "date": "Jan 26, 15:16"
-  },
-  {
-    "source": "France 24",
-    "title": "Syria: How Damascus tries to secure newly controlled areas",
-    "link": "https://www.france24.com/en/syria-how-damascus-tries-to-secure-newly-controlled-areas",
-    "summary": "Damascus has secured a significant victory with the capture of several newly controlled areas, previously held by Kurdish-led forces, including YPG and PKK. While the ceasefire is mostly holding, secu...",
-    "timestamp": 1769440263.0,
-    "date": "Jan 26, 15:11"
-  },
-  {
-    "source": "France 24",
-    "title": "Israel announces limited Rafah crossing reopening after hostage recovery",
-    "link": "https://www.france24.com/en/israel-announces-limited-rafah-crossing-reopening-after-hostage-recovery",
-    "summary": "Israel announced a 'limited reopening' of the Rafah crossing for pedestrians, contingent on recovering the last hostage\u2019s remains. While the US and others push for a broader reopening, Israel has stat...",
-    "timestamp": 1769440144.0,
-    "date": "Jan 26, 15:09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 plus-one passes at 50% off are already gone",
-    "link": "https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-plus-one-passes-at-50-off-are-already-gone/",
-    "summary": "Register now\u00a0to\u00a0save\u00a0up to $680 on your TechCrunch Disrupt 2026 pass\u00a0and get a +1 ticket at\u00a050% off. Offer\u00a0ends\u00a0this Friday, January 30.",
-    "timestamp": 1769439600.0,
-    "date": "Jan 26, 15:00"
   },
   {
     "source": "Al Jazeera",
@@ -1195,7 +1275,7 @@
     "source": "The Guardian",
     "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
     "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
-    "summary": "<p>Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/jan/26/ukraine-russia-us-greenl...",
+    "summary": "<p>Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week</p><p>Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone...",
     "timestamp": 1769439276.0,
     "date": "Jan 26, 14:54"
   },
@@ -1206,14 +1286,6 @@
     "summary": "A cap that was worn by the Australian cricket legend Don Bradman against India has raised a tidy sum, having been sold to an anonymous bidder. Bradman, the star of the series, had gifted the cap to an...",
     "timestamp": 1769439240.0,
     "date": "Jan 26, 14:54"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Apple\u2019s new AirTag is louder and can be found across longer distances",
-    "link": "https://techcrunch.com/2026/01/26/apples-new-airtag-is-louder-and-can-be-found-across-longer-distances/",
-    "summary": "Apple's new AirTag is louder and supports better finding at longer distances.",
-    "timestamp": 1769438760.0,
-    "date": "Jan 26, 14:46"
   },
   {
     "source": "Al Jazeera",
@@ -1241,7 +1313,7 @@
   },
   {
     "source": "NPR",
-    "title": "Israel has recovered the final hostage remains from Gaza",
+    "title": "Israel finds the last hostage body in Gaza, paving the way for next steps in Trump plan",
     "link": "https://www.npr.org/2026/01/26/g-s1-107340/israel-gaza-hostage-remains-hamas",
     "summary": "The Israeli military says the body of Ran Gvili, a 24-year-old special forces policeman killed while fighting Hamas militants on Oct. 7, 2023, has been found.",
     "timestamp": 1769437056.0,
@@ -1268,14 +1340,6 @@
     "title": "Services Australia has not applied child support law properly and some parents are owed money, report finds",
     "link": "https://www.theguardian.com/australia-news/2026/jan/27/services-australia-has-not-applied-child-support-law-properly-and-some-parents-are-owed-money-report-finds",
     "summary": "<p>Ombudsman says agency knew for years that part of its child support processing not in line with law</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/27/australia-news...",
-    "timestamp": 1769436005.0,
-    "date": "Jan 26, 14:00"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Bunnings accused of \u2018greenwashing\u2019 timber amid concerns about supplier\u2019s illegal logging",
-    "link": "https://www.theguardian.com/australia-news/2026/jan/27/bunnings-accused-of-greenwashing-timber-amid-concerns-about-suppliers-logging",
-    "summary": "<p>The Wilderness Society lodges complaint with consumer watchdog over hardware and garden chain\u2019s sale of timber sourced from NSW Forestry Corporation</p><ul><li><p><a href=\"https://www.theguardian.c...",
     "timestamp": 1769436005.0,
     "date": "Jan 26, 14:00"
   },
@@ -1353,27 +1417,11 @@
   },
   {
     "source": "BBC World",
-    "title": "Kenya's ex-deputy president alleges assassination attempt in church attack",
-    "link": "https://www.bbc.com/news/articles/cpqyxew338po?at_medium=RSS&at_campaign=rss",
-    "summary": "The interior minister condemned the attack, which police say they are investigating.",
-    "timestamp": 1769432309.0,
-    "date": "Jan 26, 12:58"
-  },
-  {
-    "source": "BBC World",
     "title": "Greece biscuit factory fire leaves at least four dead",
     "link": "https://www.bbc.com/news/articles/c89q5q8leeqo?at_medium=RSS&at_campaign=rss",
     "summary": "A search is continuing for one person still missing after a blaze broke out at a biscuit factory near the city of Trikala.",
     "timestamp": 1769431697.0,
     "date": "Jan 26, 12:48"
-  },
-  {
-    "source": "NPR",
-    "title": "Senators call for Alex Pretti death investigation. And, winter storm recovery efforts",
-    "link": "https://www.npr.org/2026/01/26/g-s1-107331/up-first-newsletter-alex-pretti-minneapolis-senate-dhs-funding-icy-weather",
-    "summary": "Minneapolis strikes and protests continue after ICE's fatal shooting of Alex Pretti. And, states work to recover from a massive winter storm that has left widespread power outages and flight chaos.",
-    "timestamp": 1769430694.0,
-    "date": "Jan 26, 12:31"
   },
   {
     "source": "Deutsche Welle",
@@ -1424,22 +1472,6 @@
     "date": "Jan 26, 11:28"
   },
   {
-    "source": "BBC World",
-    "title": "Gold tops $5,000 for first time ever, adding to historic rally",
-    "link": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss",
-    "summary": "Gold is seen as a so-called safe-haven asset that investors buy in times of uncertainty and low interest rates.",
-    "timestamp": 1769425551.0,
-    "date": "Jan 26, 11:05"
-  },
-  {
-    "source": "NPR",
-    "title": "How long do you need to spend in the gym to get strong? Less than you think",
-    "link": "https://www.npr.org/2026/01/26/nx-s1-5686763/strength-training-work-out-schedule-time",
-    "summary": "If you're procrastinating working out, here's one less excuse. Short gym sessions can be enough to build meaningful strength \u2014 as long as you push yourself while you're there.",
-    "timestamp": 1769425200.0,
-    "date": "Jan 26, 11:00"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Media freedom in the spotlight as Kuciak murder case reopens",
     "link": "https://www.dw.com/en/media-freedom-in-the-spotlight-as-kuciak-murder-case-reopens/a-75623291?maca=en-rss-en-all-1573-rdf",
@@ -1454,14 +1486,6 @@
     "summary": "Barbara Kyagulanyi, married to the opposition leader, says she refused to reveal her husband's whereabouts.",
     "timestamp": 1769423493.0,
     "date": "Jan 26, 10:31"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Deadly Indonesian landslide leaves dozens missing",
-    "link": "https://www.dw.com/en/deadly-indonesian-landslide-leaves-dozens-missing/a-75657596?maca=en-rss-en-all-1573-rdf",
-    "summary": "At least 17 people have been confirmed dead after a landslide in Indonesia's West Java province last weekend. More than 20 naval officers are said to be among those who were trapped by the disaster.",
-    "timestamp": 1769422380.0,
-    "date": "Jan 26, 10:13"
   },
   {
     "source": "BBC World",
@@ -1488,28 +1512,12 @@
     "date": "Jan 26, 06:47"
   },
   {
-    "source": "BBC World",
-    "title": "Japanese ex-soldier reaches settlements in landmark sex abuse case",
-    "link": "https://www.bbc.com/news/articles/cr4k2kw500zo?at_medium=RSS&at_campaign=rss",
-    "summary": "Rina Gonoi, a former soldier, was sexually assaulted while serving in Japan's Self-Defense Forces.",
-    "timestamp": 1769409547.0,
-    "date": "Jan 26, 06:39"
-  },
-  {
     "source": "New York Times",
     "title": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
     "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
     "summary": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say.",
     "timestamp": 1769403867.0,
     "date": "Jan 26, 05:04"
-  },
-  {
-    "source": "BBC World",
-    "title": "'This is horrifying' - Minneapolis residents reel from second deadly shooting",
-    "link": "https://www.bbc.com/news/articles/cvg50vv1ezko?at_medium=RSS&at_campaign=rss",
-    "summary": "Two people have been shot dead by federal agents in the city in recent weeks, leaving many angry and frustrated.",
-    "timestamp": 1769399414.0,
-    "date": "Jan 26, 03:50"
   },
   {
     "source": "BBC World",
@@ -1526,14 +1534,6 @@
     "summary": "<p>Zhang Youxia, long seen as Xi Jinping\u2019s closest military ally, reportedly accused of leaking nuclear secrets to US</p><p>China\u2019s military leadership is in turmoil after its most senior general \u2013 a ...",
     "timestamp": 1769391656.0,
     "date": "Jan 26, 01:40"
-  },
-  {
-    "source": "BBC World",
-    "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals",
-    "link": "https://www.bbc.com/news/articles/c20gg729y1yo?at_medium=RSS&at_campaign=rss",
-    "summary": "A leak exposes for the first time the extent of Russia\u2019s misuse of Interpol to request the arrest of critics.",
-    "timestamp": 1769386503.0,
-    "date": "Jan 26, 00:15"
   },
   {
     "source": "New York Times",
