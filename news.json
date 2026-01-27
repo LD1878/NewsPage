@@ -1,25 +1,321 @@
 [
   {
+    "source": "The Verge",
+    "title": "A former Netflix game studio went indie to reach more players",
+    "link": "https://www.theverge.com/entertainment/868711/spry-fox-netflix-game-studio-indie-spirit-crossing",
+    "summary": "When Netflix first acquired cozy game developer Spry Fox in 2022, it made a lot of sense. The studio had been around for over a decade and had several hits with mobile games like Triple Town and Alpha...",
+    "timestamp": 1769538600.0,
+    "date": "Jan 27, 18:30"
+  },
+  {
+    "source": "The Verge",
+    "title": "An app developer is suing Apple for Sherlocking it with Continuity Camera",
+    "link": "https://www.theverge.com/news/868740/apple-reincubate-lawsuit-camo-continuity-camera",
+    "summary": "Reincubate, which makes the Camo and Camo Studio apps for turning your iOS or Android phone into a webcam for your Mac or PC, is suing Apple, alleging anticompetitive conduct and patent infringement. ...",
+    "timestamp": 1769538312.0,
+    "date": "Jan 27, 18:25"
+  },
+  {
     "source": "CNBC",
-    "title": "TikTok agrees to settle as social media addiction trial involving Meta, YouTube moves forward",
+    "title": "Amazon converting some Fresh supermarkets, Go stores to Whole Foods locations",
+    "link": "https://www.cnbc.com/2026/01/27/amazon-fresh-go-supermarkets-whole-foods-convert.html",
+    "summary": "Amazon plans to close its Fresh supermarkets and Go convenience marts, and convert some locations into Whole Foods stores.",
+    "timestamp": 1769538122.0,
+    "date": "Jan 27, 18:22"
+  },
+  {
+    "source": "NPR",
+    "title": "How did Tucker Carlson become one of the far right's most influential voices?",
+    "link": "https://www.npr.org/2026/01/27/nx-s1-5688915/tucker-carlson-hated-by-all-the-right-people-jason-zengerle",
+    "summary": "Writer Jason Zengerle says Carlson had the foresight to see Trump's potential in 2015. Now he's someone the president \"definitely listens to.\" Zengerle's new book is ",
+    "timestamp": 1769538032.0,
+    "date": "Jan 27, 18:20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+    "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman spoke out against ICE enforcement tactics following Minneapolis violence, with one addressing concerns publicly and the other in an internal message.",
+    "timestamp": 1769537959.0,
+    "date": "Jan 27, 18:19"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Minnesota judge orders ICE chief to appear in court",
+    "link": "https://www.aljazeera.com/news/2026/1/27/minnesota-judge-orders-ice-chief-to-appear-in-court?traffic_source=rss",
+    "summary": "Judge orders head of ICE to explain agency&#039;s handling of bond hearings for immigrants it has detained.",
+    "timestamp": 1769537652.0,
+    "date": "Jan 27, 18:14"
+  },
+  {
+    "source": "New York Times",
+    "title": "ICE Agents Will Join Olympics Delegation in Italy. Many Italians are Angry.",
+    "link": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
+    "summary": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy.",
+    "timestamp": 1769537609.0,
+    "date": "Jan 27, 18:13"
+  },
+  {
+    "source": "CNBC",
+    "title": "Silver is retail traders' new obsession as record numbers bet on rally \u2014 and on a crash",
+    "link": "https://www.cnbc.com/2026/01/27/retail-traders-silver-fund-precious-metals.html",
+    "summary": "The iShares Silver Trust (SLV) saw its largest ever flood of new cash from individual investors.",
+    "timestamp": 1769537465.0,
+    "date": "Jan 27, 18:11"
+  },
+  {
+    "source": "NPR",
+    "title": "Scientists shed new light on the brain's role in heart attack",
+    "link": "https://www.npr.org/2026/01/27/nx-s1-5690108/heart-attack-brain-nervous-immune-system",
+    "summary": "Researchers discovered a feedback loop between nerve cells, the immune system and the heart. They think it shows promise as a target for future therapies.",
+    "timestamp": 1769537379.0,
+    "date": "Jan 27, 18:09"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Villa sign striker Abraham from Besiktas",
+    "link": "https://www.channelnewsasia.com/sport/villa-sign-striker-abraham-besiktas-5889221",
+    "summary": "",
+    "timestamp": 1769537378.0,
+    "date": "Jan 27, 18:09"
+  },
+  {
+    "source": "The Verge",
+    "title": "Anker\u2019s foldable 3-in-1 charging station has hit a new low price of $50",
+    "link": "https://www.theverge.com/gadgets/868696/anker-maggo-wireless-charging-station-foldable-3-in-1-lego-roses-deal-sale",
+    "summary": "Buying separate chargers for your phone, watch, and earbuds adds up quickly. Anker\u2019s MagGo Wireless Charging Station (Foldable 3-in-1) replaces all three, and now through January 30th it\u2019s just $49.99...",
+    "timestamp": 1769537291.0,
+    "date": "Jan 27, 18:08"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Judge orders ICE chief to appear in court to explain why detainees have been denied due process",
+    "link": "https://www.channelnewsasia.com/world/minneapolis-us-trump-ice-immigration-agent-protest-lyons-judge-5889136",
+    "summary": "A federal judge has ordered the director of the Immigration and Customs Enforcement (ICE) to attend a court in Minnesota to explain why the Trump administration has failed to hold hearings for detaine...",
+    "timestamp": 1769537080.0,
+    "date": "Jan 27, 18:04"
+  },
+  {
+    "source": "New York Times",
+    "title": "Board of Peace Set to Hand Trump Sweeping Powers Over Gaza",
+    "link": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
+    "summary": "A draft resolution revealed some of the plans for the new international body, which met for the first time last week amid criticism from some U.S. allies.",
+    "timestamp": 1769537017.0,
+    "date": "Jan 27, 18:03"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Nipah virus: India says only 2 cases confirmed as fears rise",
+    "link": "https://www.dw.com/en/nipah-virus-india-says-only-2-cases-confirmed-as-fears-rise/a-75683059?maca=en-rss-en-all-1573-rdf",
+    "summary": "India's government said there were two confirmed cases of Nipah virus since December last year, with all those in contact with the affected people having been quarantined and tested.",
+    "timestamp": 1769536980.0,
+    "date": "Jan 27, 18:03"
+  },
+  {
+    "source": "CNBC",
+    "title": "Forget the 60/40 portfolio. This investor is 70/30 stocks and cash",
+    "link": "https://www.cnbc.com/2026/01/27/forget-the-60/40-portfolio-this-investor-is-70/30-stocks-and-cash.html",
+    "summary": "Ken Mahoney, CEO of Mahoney Asset Management, said investors should hold onto a \"meaningful amount\" of cash this year.",
+    "timestamp": 1769536927.0,
+    "date": "Jan 27, 18:02"
+  },
+  {
+    "source": "CNBC",
+    "title": "The government is barreling toward a partial shutdown over DHS funding. Here's what to expect",
+    "link": "https://www.cnbc.com/2026/01/27/us-government-shutdown-over-dhs-funding.html",
+    "summary": "The U.S. government may partially shutdown on Saturday months after a record 43 day shutdown in 2025.",
+    "timestamp": 1769536926.0,
+    "date": "Jan 27, 18:02"
+  },
+  {
+    "source": "The Verge",
+    "title": "WhatsApp&#8217;s new &#8216;lockdown&#8217; settings add another layer of protection against cyberattacks",
+    "link": "https://www.theverge.com/news/868722/whatsapp-strict-account-settings-cyberattacks",
+    "summary": "WhatsApp is launching new \"Strict Account Settings\" that add even more protections against cyberattacks. The feature is built for people at a high-risk of attacks - such as journalists or public figur...",
+    "timestamp": 1769536867.0,
+    "date": "Jan 27, 18:01"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google\u2019s more affordable AI Plus plan rolls out to all markets, including the U.S.",
+    "link": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
+    "summary": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
+    "timestamp": 1769536839.0,
+    "date": "Jan 27, 18:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "RBC sees a bunch of red flags on Palantir ahead of earnings, sees stock eventually falling 70%",
+    "link": "https://www.cnbc.com/2026/01/27/rbc-sees-a-bunch-of-red-flags-on-palantir-ahead-of-earnings.html",
+    "summary": "RBC said that shares of Palantir are still trading at an \"unfavorable\" risk-reward ratio, despite shedding 9% over the past three months.",
+    "timestamp": 1769536801.0,
+    "date": "Jan 27, 18:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI launches Prism, a new AI workspace for scientists",
+    "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+    "summary": "OpenAI has launched a new scientific workspace program called Prism, which integrates AI into existing standards for composing research papers.",
+    "timestamp": 1769536800.0,
+    "date": "Jan 27, 18:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "Mozilla is building an AI \u2018rebel alliance\u2019 to take on industry heavweights OpenAI, Anthropic",
+    "link": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
+    "summary": "Mozilla is looking to deploy its roughly $1.4 billion in reserves to support \"mission driven\" companies and nonprofits, and is particularly focused on AI.",
+    "timestamp": 1769536789.0,
+    "date": "Jan 27, 17:59"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Amid Trump attacks and weaponized sanctions, Europeans look to rely less on US tech",
+    "link": "https://techcrunch.com/2026/01/27/amid-trump-attacks-and-weaponized-sanctions-europeans-look-to-rely-less-on-us-tech/",
+    "summary": "European governments are looking to move away from U.S. tech and reclaim their digital sovereignty at a time of unpredictability and volatility in the United States.",
+    "timestamp": 1769536607.0,
+    "date": "Jan 27, 17:56"
+  },
+  {
+    "source": "CNBC",
+    "title": "GM expects to top Ford in U.S. vehicle production as it faces up to $4 billion in tariff costs",
+    "link": "https://www.cnbc.com/2026/01/27/gm-plans-to-top-ford-in-us-production-amid-trumps-tariff.html",
+    "summary": "The 2026 tariff costs would be in line with the automaker's $3.1 billion in tariff costs last year, despite the levies not being in effect for all of 2025.",
+    "timestamp": 1769536566.0,
+    "date": "Jan 27, 17:56"
+  },
+  {
+    "source": "CNBC",
+    "title": "Dario Amodei warns AI may cause \u2018unusually painful\u2019 disruption to jobs",
+    "link": "https://www.cnbc.com/2026/01/27/dario-amodei-warns-ai-cause-unusually-painful-disruption-jobs.html",
+    "summary": "\"The pace of progress in AI is much faster than for previous technological revolutions,\" the Antrhopic CEO said in latest comments about AI's impact on jobs.",
+    "timestamp": 1769536560.0,
+    "date": "Jan 27, 17:56"
+  },
+  {
+    "source": "CNBC",
+    "title": "TikTok to settle as social media addiction trial involving Meta, YouTube moves forward",
     "link": "https://www.cnbc.com/2026/01/27/tiktok-settlement-social-media-addiction-meta-youtube.html",
     "summary": "TikTok has agreed to settle with a plaintiff and will no longer be part of a high-profile social media trial kicking off on Tuesday.",
-    "timestamp": 1769534738.0,
-    "date": "Jan 27, 17:25"
+    "timestamp": 1769536468.0,
+    "date": "Jan 27, 17:54"
+  },
+  {
+    "source": "New York Times",
+    "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
+    "summary": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
+    "timestamp": 1769536450.0,
+    "date": "Jan 27, 17:54"
+  },
+  {
+    "source": "BBC World",
+    "title": "TikTok US pushes back on claims it is censoring content",
+    "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Thousands of people claim political content is being suppressed after the US operation was spun off.",
+    "timestamp": 1769536406.0,
+    "date": "Jan 27, 17:53"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Liverpool's Slot eyes Champions League progress amid poor form, injury woe",
+    "link": "https://www.channelnewsasia.com/sport/liverpools-slot-eyes-champions-league-progress-amid-poor-form-injury-woe-5889156",
+    "summary": "",
+    "timestamp": 1769535999.0,
+    "date": "Jan 27, 17:46"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Joelinton ruled out of Newcastle's clash with PSG",
+    "link": "https://www.channelnewsasia.com/sport/joelinton-ruled-out-newcastles-clash-psg-5889161",
+    "summary": "",
+    "timestamp": 1769535920.0,
+    "date": "Jan 27, 17:45"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The price gap between Waymo and Uber is narrowing",
+    "link": "https://techcrunch.com/2026/01/27/the-price-gap-between-waymo-and-uber-is-narrowing/",
+    "summary": "Data collected and analyzed by Obi suggest a shift is underway.",
+    "timestamp": 1769535799.0,
+    "date": "Jan 27, 17:43"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Shein could face EU investigation but no interim measure, commission official says",
+    "link": "https://www.channelnewsasia.com/business/shein-could-face-eu-investigation-no-interim-measure-commission-official-says-5889146",
+    "summary": "",
+    "timestamp": 1769535741.0,
+    "date": "Jan 27, 17:42"
+  },
+  {
+    "source": "BBC World",
+    "title": "'We all know someone who was killed' -  Iran protesters tell BBC of brutal crackdown",
+    "link": "https://www.bbc.com/news/articles/cy8y2jxx9ppo?at_medium=RSS&at_campaign=rss",
+    "summary": "Young Iranians able tell the BBC how they saw friends and other people die as security forces crushed protests earlier this month.",
+    "timestamp": 1769535489.0,
+    "date": "Jan 27, 17:38"
+  },
+  {
+    "source": "CNBC",
+    "title": "LVMH beats earnings expectations as China recovery mounts",
+    "link": "https://www.cnbc.com/2026/01/27/lvmh-q4-2025-earnings-report-sales-luxury.html",
+    "summary": "LVMH beat earnigns expectations for a second straight quarter amid a China recovery that is starting to show up in luxury companies' balance sheets.",
+    "timestamp": 1769535184.0,
+    "date": "Jan 27, 17:33"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "If you live in the UK, you probably won\u2019t be able to visit Pornhub anymore",
+    "link": "https://techcrunch.com/2026/01/27/if-you-live-in-the-uk-you-probably-wont-be-able-to-visit-pornhub-anymore/",
+    "summary": "Pornhub parent company Aylo will restrict access from U.K. users, rather than comply with age verification mandates, which the company said it believes have not succeeded in promoting online safety.",
+    "timestamp": 1769535065.0,
+    "date": "Jan 27, 17:31"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "TikTok says it\u2019s still working to recover its U.S. infrastructure",
+    "link": "https://techcrunch.com/2026/01/27/tiktok-says-its-still-working-to-recover-its-u-s-infrastructure/",
+    "summary": "TikTok says some of the glitches continue but it's making \"significant progress\" in recovering its U.S. infrastructure.",
+    "timestamp": 1769534974.0,
+    "date": "Jan 27, 17:29"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump\u2019s JPMorgan Chase lawsuit revives debanking concerns in US",
+    "link": "https://www.aljazeera.com/economy/2026/1/27/trumps-jpmorgan-chase-lawsuit-revives-debanking-concerns-in-us?traffic_source=rss",
+    "summary": "Workers in &#039;risky&#039; industries and many religious and ethnic groups have been denied access to financial services.",
+    "timestamp": 1769534841.0,
+    "date": "Jan 27, 17:27"
   },
   {
     "source": "TechCrunch",
     "title": "WhatsApp is rolling out a new stricter security setting to protect users from cyber attacts",
     "link": "https://techcrunch.com/2026/01/27/whatsapp-is-rolling-out-a-new-stricter-security-setting-to-protect-users-from-cyber-attacts/",
-    "summary": "Days after Meta was sued by over alleged false privacy claims by its chat app WhatsApp, the company has rolled out a new setting to protect users against cyber attacks. The feature, called Strict\u00a0Acco...",
+    "summary": "Days after Meta was sued over alleged false privacy claims surrounding its chat app WhatsApp, the company has rolled out a new setting to protect users against cyber attacks. The feature, called Stric...",
     "timestamp": 1769534662.0,
     "date": "Jan 27, 17:24"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Revolut launches full banking operations in Mexico in first expansion outside Europe",
+    "link": "https://www.channelnewsasia.com/business/revolut-launches-full-banking-operations-in-mexico-in-first-expansion-outside-europe-5889121",
+    "summary": "",
+    "timestamp": 1769534512.0,
+    "date": "Jan 27, 17:21"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US banks may lose $500 billion to stablecoins by 2028, Standard Chartered warns",
+    "link": "https://www.channelnewsasia.com/business/us-banks-may-lose-500-billion-stablecoins-2028-standard-chartered-warns-5889126",
+    "summary": "",
+    "timestamp": 1769534460.0,
+    "date": "Jan 27, 17:21"
   },
   {
     "source": "Deutsche Welle",
     "title": "ICE agents spark controversy in Italy over Olympics plans",
     "link": "https://www.dw.com/en/ice-agents-spark-controversy-in-italy-over-olympics-plans/a-75683434?maca=en-rss-en-all-1573-rdf",
-    "summary": "A group of American ICE agents are set to travel to Italy and provide additional security to the US delegation during the Winter Olympics. \"It's not like the SS are coming,\" Italy's Foreign Minister A...",
+    "summary": "A group of American ICE agents is set to travel to Italy and provide additional security to the US delegation during the Winter Olympics. \"It's not like the SS are coming,\" Italy's Foreign Minister An...",
     "timestamp": 1769534220.0,
     "date": "Jan 27, 17:17"
   },
@@ -30,14 +326,6 @@
     "summary": "Shares of large Medicare plan providers Humana, CVS Health and UnitedHealth Group plunged in extended trading.",
     "timestamp": 1769534077.0,
     "date": "Jan 27, 17:14"
-  },
-  {
-    "source": "CNBC",
-    "title": "LVMH beats earnings expectations as China recovery mounts",
-    "link": "https://www.cnbc.com/2026/01/27/lvmh-q4-2025-earnings-report-sales-luxury.html",
-    "summary": "LVMH beat earnigns expectations for a second straight quarter amid a China recovery that is starting to show up in luxury companies' balance sheets.",
-    "timestamp": 1769534039.0,
-    "date": "Jan 27, 17:13"
   },
   {
     "source": "CNBC",
@@ -67,7 +355,7 @@
     "source": "Deutsche Welle",
     "title": "Dutch court sentences Eritrean migrant smuggler to 20 years",
     "link": "https://www.dw.com/en/dutch-court-sentences-eritrean-migrant-smuggler-to-20-years/a-75673234?maca=en-rss-en-all-1573-rdf",
-    "summary": "A Dutch court on Tuesday sentenced Eritrean Amanuel W. to 20 years in prison in one of the Netherlands\u2019 largest migrant smuggling cases. Six more suspects are set to attend hearings over the coming da...",
+    "summary": "A Dutch court on Tuesday sentenced Eritrean Amanuel W. to 20 years in prison in one of the Netherlands' largest migrant smuggling cases. Six more suspects are set to attend hearings over the coming da...",
     "timestamp": 1769533680.0,
     "date": "Jan 27, 17:08"
   },
@@ -96,36 +384,12 @@
     "date": "Jan 27, 17:05"
   },
   {
-    "source": "New York Times",
-    "title": "ICE Agents Will Join Olympics Delegation in Italy. Many Italians are Angry.",
-    "link": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
-    "summary": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy.",
-    "timestamp": 1769533452.0,
-    "date": "Jan 27, 17:04"
-  },
-  {
     "source": "France 24",
     "title": "Holocaust survivor, 93, bears witness for her 'messengers of peace'",
     "link": "https://www.france24.com/en/europe/20260127-holocaust-survivor-lili-keller-rosenberg-bears-witness-messengers-of-peace",
     "summary": "Lili Keller-Rosenberg has been sharing her story with young people for more than 40 years. Born into a French Jewish family with Hungarian origins, she was captured in Roubaix when she was 11 years ol...",
     "timestamp": 1769533321.0,
     "date": "Jan 27, 17:02"
-  },
-  {
-    "source": "CNBC",
-    "title": "Mozilla is building an AI \u2018rebel alliance\u2019 to take on industry heavweights OpenAI, Anthropic",
-    "link": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
-    "summary": "Mozilla is looking to deploy its roughly $1.4 billion in reserves to support \"mission driven\" companies and nonprofits, and is particularly focused on AI.",
-    "timestamp": 1769533235.0,
-    "date": "Jan 27, 17:00"
-  },
-  {
-    "source": "New York Times",
-    "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds",
-    "link": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
-    "summary": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
-    "timestamp": 1769533207.0,
-    "date": "Jan 27, 17:00"
   },
   {
     "source": "TechCrunch",
@@ -187,7 +451,7 @@
     "source": "TechCrunch",
     "title": "Indian states weigh Australia-style ban on social media for children",
     "link": "https://techcrunch.com/2026/01/27/indian-states-weigh-australia-style-ban-on-social-media-for-children/",
-    "summary": "Goa and Andhra Pradesh are among Indian states mulling Australia-like social media ban for under-16s.",
+    "summary": "Any move to restrict children's access to social media in India would carry significant implications for global technology companies, for which the South Asian nation is a critical growth market.",
     "timestamp": 1769533081.0,
     "date": "Jan 27, 16:58"
   },
@@ -198,14 +462,6 @@
     "summary": "",
     "timestamp": 1769532964.0,
     "date": "Jan 27, 16:56"
-  },
-  {
-    "source": "CNBC",
-    "title": "GM expects to top Ford in U.S. vehicle production as it faces up to $4 billion in tariff costs",
-    "link": "https://www.cnbc.com/2026/01/27/gm-plans-to-top-ford-in-us-production-amid-trumps-tariff.html",
-    "summary": "The 2026 tariff costs would be in line with the automaker's $3.1 billion in tariff costs last year, despite the levies not being in effect for all of 2025.",
-    "timestamp": 1769532593.0,
-    "date": "Jan 27, 16:49"
   },
   {
     "source": "CNBC",
@@ -238,14 +494,6 @@
     "summary": "After a widely-shared image showing hundreds of bodies piled up in a morgue in Tehran turned out to have been AI-generated, supporters of the Iranian regime have been using the picture to cast doubt o...",
     "timestamp": 1769532073.0,
     "date": "Jan 27, 16:41"
-  },
-  {
-    "source": "CNBC",
-    "title": "Amazon converting Fresh supermarkets, Go stores to Whole Foods locations",
-    "link": "https://www.cnbc.com/2026/01/27/amazon-fresh-go-supermarkets-whole-foods-convert.html",
-    "summary": "Amazon plans to close its Fresh supermarkets and Go convenience marts, and convert some locations into Whole Foods stores.",
-    "timestamp": 1769531987.0,
-    "date": "Jan 27, 16:39"
   },
   {
     "source": "The Verge",
@@ -284,7 +532,7 @@
     "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
     "link": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
     "summary": "Driven by the artificial intelligence frenzy, Microsoft is internally projecting that water use at its data centers will more than double by 2030 from 2020, including in places that face shortages.",
-    "timestamp": 1769531394.0,
+    "timestamp": 1769531395.0,
     "date": "Jan 27, 16:29"
   },
   {
@@ -331,7 +579,7 @@
     "source": "TechCrunch",
     "title": "Amazon is closing its physical Amazon Go and Amazon Fresh stores",
     "link": "https://techcrunch.com/2026/01/27/amazon-is-closing-its-physical-amazon-go-and-amazon-fresh-stores/",
-    "summary": "These retail closures will not impact customers who use Amazon for grocery delivery.",
+    "summary": "Upon closing down some stores in 2024, an Amazon spokesperson said that the company \"couldn't make the economics work with the lease cost.\" These retail closures will not impact customers who use Amaz...",
     "timestamp": 1769530892.0,
     "date": "Jan 27, 16:21"
   },
@@ -339,7 +587,7 @@
     "source": "Deutsche Welle",
     "title": "How does Germany deport people?",
     "link": "https://www.dw.com/en/how-does-germany-deport-people/a-75683771?maca=en-rss-en-all-1573-rdf",
-    "summary": "Germany does not have masked ICE officers or an equivalent agency, but both Chancellor Merz and his predecessor have done all they can to accelerate deportations. Here's how the process works.",
+    "summary": "Germany does not have masked ICE officers or an equivalent agency, but both Chancellor Friedrich Merz and his predecessor have done all they can to accelerate deportations. Here's how the process work...",
     "timestamp": 1769530740.0,
     "date": "Jan 27, 16:19"
   },
@@ -350,14 +598,6 @@
     "summary": "Spain is moving against the European tide with a plan to offer a chance at residency status to hundreds of thousands of undocumented migrants. The move has exposed a deep political divide for the mino...",
     "timestamp": 1769530680.0,
     "date": "Jan 27, 16:18"
-  },
-  {
-    "source": "BBC World",
-    "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
-    "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
-    "summary": "He has been described as an avid outdoorsman who loved mountain biking.",
-    "timestamp": 1769530666.0,
-    "date": "Jan 27, 16:17"
   },
   {
     "source": "Al Jazeera",
@@ -382,22 +622,6 @@
     "summary": "Minnesota state officials have pressed for ICE and other immigration authorities to cease aggressive actions in Minneapolis and elsewhere in the state.",
     "timestamp": 1769529960.0,
     "date": "Jan 27, 16:06"
-  },
-  {
-    "source": "CNBC",
-    "title": "All eyes are on Trump's reaction to the 'mother of all deals' between India and the EU",
-    "link": "https://www.cnbc.com/2026/01/27/trump-reaction-eu-india-trade-deal-fta.html",
-    "summary": "The trade deal is being widely seen as a strategic hedge against volatile U.S. trade policies.",
-    "timestamp": 1769529840.0,
-    "date": "Jan 27, 16:04"
-  },
-  {
-    "source": "CNBC",
-    "title": "Apple shares may be rangebound post earnings. How to use options to wring out profits anyway",
-    "link": "https://www.cnbc.com/2026/01/27/apple-may-be-rangebound-post-earnings-use-options-to-wring-out-profits.html",
-    "summary": "Options are pricing in a move of a little more than $10 in either direction post-earnings, giving a clear sense of the size, even if the direction is unknown.",
-    "timestamp": 1769529823.0,
-    "date": "Jan 27, 16:03"
   },
   {
     "source": "Deutsche Welle",
@@ -438,14 +662,6 @@
     "summary": "Coco Gauff,  who lost to Elina Svitolina in the quarterfinals of the Australian Open, was filmed smashing her racket.",
     "timestamp": 1769529138.0,
     "date": "Jan 27, 15:52"
-  },
-  {
-    "source": "CNBC",
-    "title": "Fatal American Airlines jet, Army helicopter collision result of 'multitude of errors', NTSB members say",
-    "link": "https://www.cnbc.com/2026/01/27/fatal-american-airlines-jet-army-helicopter-collision.html",
-    "summary": "The National Transportation Safety Board is holding a hearing and plans to propose dozens of safety recommendations to address failures before the crash.",
-    "timestamp": 1769528990.0,
-    "date": "Jan 27, 15:49"
   },
   {
     "source": "CNBC",
@@ -491,7 +707,7 @@
     "source": "TechCrunch",
     "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
     "link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
-    "summary": "Designed to autonomously resolve help desk tickets, Risotto has raised $10 million in seed funding in a round led by Bonfire Ventures.",
+    "summary": "\"Our special sauce is the prompt libraries, the eval suites, and the thousands and thousands of real-world examples that the AI gets trained on to ensure it actually does what it's expected to do,\u201d CE...",
     "timestamp": 1769527522.0,
     "date": "Jan 27, 15:25"
   },
@@ -576,14 +792,6 @@
     "date": "Jan 27, 15:15"
   },
   {
-    "source": "The Verge",
-    "title": "You\u2019ll be able to change the color of Virtual Boy games on Nintendo Switch Online",
-    "link": "https://www.theverge.com/tech/868569/nintendo-switch-online-virtual-boy-3d-lineup-launch",
-    "summary": "Following the initial reveal last September, Nintendo has released a new trailer detailing which Virtual Boy games will be available to Switch Online subscribers starting on February 17th alongside re...",
-    "timestamp": 1769526923.0,
-    "date": "Jan 27, 15:15"
-  },
-  {
     "source": "TechCrunch",
     "title": "Samsung\u2019s TriFold phone will cost $2,899 in the US",
     "link": "https://techcrunch.com/2026/01/27/samsungs-trifold-phone-will-cost-2899-in-the-us/",
@@ -598,14 +806,6 @@
     "summary": "The fourth-quarter earnings season will give the megacaps an opportunity to lay out their 2026 spending visions and, in some cases, defend those plans.",
     "timestamp": 1769526472.0,
     "date": "Jan 27, 15:07"
-  },
-  {
-    "source": "CNBC",
-    "title": "Big Tech stocks have been stuck for months. One top tech analyst says it\u2019s time to buy",
-    "link": "https://www.cnbc.com/2026/01/27/big-tech-stocks-have-been-stuck-one-top-analyst-says-its-time-to-buy.html",
-    "summary": "Melius Research's Ben Reitzes sees upside ahead for Nvidia, Broadcom and Microsoft as enthusiasm for makers of components that are in short supply winds down.",
-    "timestamp": 1769526346.0,
-    "date": "Jan 27, 15:05"
   },
   {
     "source": "NPR",
@@ -633,25 +833,9 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Airtable gets into the AI agent game with Superagent",
+    "title": "Airtable jumps into the AI agent game with Superagent",
     "link": "https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/",
     "summary": "SuperAgent is Airtable's first standalone product in its 13-year history, and signals both the company's ambitions and the reality of the current AI moment: every serious software player is racing to ...",
-    "timestamp": 1769526000.0,
-    "date": "Jan 27, 15:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Tesla\u2019s robotaxis are cheaper than Waymo, but the wait times are longer",
-    "link": "https://www.theverge.com/news/867934/tesla-waymo-robotaxi-price-comparison-uber-lyft-obi",
-    "summary": "Tesla's robotaxis are not robotaxis in the sense that they're not fully driverless and still feature safety monitors with access to a kill switch in case anything goes wrong. But the automaker is shak...",
-    "timestamp": 1769526000.0,
-    "date": "Jan 27, 15:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Yahoo Scout looks like a more web-friendly take on AI search",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/868374/yahoo-scout-looks-like-a-more-web-friendly-take-on-ai-search",
-    "summary": "Yahoo's big AI play is, in many ways, actually a return to the company's roots. Three decades ago, Yahoo was known as \"Jerry's guide to the world wide web,\" and was designed as a sort of all-encompass...",
     "timestamp": 1769526000.0,
     "date": "Jan 27, 15:00"
   },
@@ -705,8 +889,8 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Pinterest to lay off 15% of staff to redirect resources to AI",
-    "link": "https://techcrunch.com/2026/01/27/pinterest-to-lay-off-15-of-staff-to-redirect-resources-to-ai/",
+    "title": "Pinterest layoffs impact 15% of staff as resources redirected to AI",
+    "link": "https://techcrunch.com/2026/01/27/pinterest-layoffs-impact-15-of-staff-as-resources-redirected-to-ai/",
     "summary": "Pinterest says it's \"reallocating resources to AI-focused roles and teams that drive AI adoption and execution\" and \"prioritizing AI\u2011powered products and capabilities.\"",
     "timestamp": 1769525087.0,
     "date": "Jan 27, 14:44"
@@ -773,14 +957,6 @@
     "link": "https://www.theguardian.com/world/2026/jan/27/last-of-japan-pandas-leave-china",
     "summary": "<p>Hundreds at zoo in Tokyo say farewell to Lei Lei and Xiao Xiao, as China ends \u2018panda diplomacy\u2019 with Japan</p><p>Hundreds of people have gathered to say farewell to two popular pandas departing Tok...",
     "timestamp": 1769524428.0,
-    "date": "Jan 27, 14:33"
-  },
-  {
-    "source": "The Verge",
-    "title": "Amazon will pay customers $309 million to settle &#8216;no hassle returns&#8217; lawsuit",
-    "link": "https://www.theverge.com/news/868547/amazon-1-billion-settlement-return-refunds",
-    "summary": "Amazon is resolving claims that it incorrectly processed returns with a proposed settlement valued at over $1 billion, as reported earlier by Reuters and Bloomberg Law. The settlement includes $600 mi...",
-    "timestamp": 1769524415.0,
     "date": "Jan 27, 14:33"
   },
   {
@@ -864,14 +1040,6 @@
     "date": "Jan 27, 14:08"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Wax on, wax off: cross-country skis can decide Olympic ambitions",
-    "link": "https://www.channelnewsasia.com/sport/wax-wax-cross-country-skis-can-decide-olympic-ambitions-5888776",
-    "summary": "",
-    "timestamp": 1769522732.0,
-    "date": "Jan 27, 14:05"
-  },
-  {
     "source": "NPR",
     "title": "Has sports betting become part of your daily routine? Tell us about it",
     "link": "https://www.npr.org/2026/01/27/nx-s1-5680145/sports-betting-callout",
@@ -936,30 +1104,6 @@
     "date": "Jan 27, 14:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Exclusive-Kazakhstan's Tengiz oilfield seen recovering less than half its output by February 7, sources say",
-    "link": "https://www.channelnewsasia.com/business/exclusive-kazakhstans-tengiz-oilfield-seen-recovering-less-half-its-output-february-7-sources-say-5888761",
-    "summary": "",
-    "timestamp": 1769522278.0,
-    "date": "Jan 27, 13:57"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Guardiola urges Man City to focus on beating Galatasaray",
-    "link": "https://www.channelnewsasia.com/sport/guardiola-urges-man-city-focus-beating-galatasaray-5888756",
-    "summary": "",
-    "timestamp": 1769521987.0,
-    "date": "Jan 27, 13:53"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "SFA recalls Gerber Arrowroot Biscuits over potential presence of plastic, paper pieces",
-    "link": "https://www.channelnewsasia.com/singapore/sfa-gerber-arrowroot-biscuits-recall-nestle-5888666",
-    "summary": "The move in Singapore follows a voluntary recall of the product initiated by its manufacturer in the US.",
-    "timestamp": 1769521860.0,
-    "date": "Jan 27, 13:51"
-  },
-  {
     "source": "CNBC",
     "title": "'Click to cancel' bills in Congress target consumer subscriptions that are hard to ditch",
     "link": "https://www.cnbc.com/2026/01/27/click-to-cancel-subscriptions-congress.html",
@@ -968,28 +1112,12 @@
     "date": "Jan 27, 13:48"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Barca host Copenhagen with top-eight Champions League spot at stake",
-    "link": "https://www.channelnewsasia.com/sport/barca-host-copenhagen-top-eight-champions-league-spot-stake-5888716",
-    "summary": "",
-    "timestamp": 1769520726.0,
-    "date": "Jan 27, 13:32"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "South Korea's 'fake news' law tests press autonomy",
     "link": "https://www.dw.com/en/south-korea-s-fake-news-law-tests-press-autonomy/a-75677742?maca=en-rss-en-all-1573-rdf",
     "summary": "Critics accuse lawmakers of pushing measures that could stifle a free press, while Seoul says the changes are needed to manage the rapidly evolving media landscape.",
     "timestamp": 1769520540.0,
     "date": "Jan 27, 13:29"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Top\u2011eight scramble dominates Champions League group climax",
-    "link": "https://www.channelnewsasia.com/sport/top-eight-scramble-dominates-champions-league-group-climax-5888706",
-    "summary": "",
-    "timestamp": 1769520361.0,
-    "date": "Jan 27, 13:26"
   },
   {
     "source": "Al Jazeera",
@@ -1040,30 +1168,6 @@
     "date": "Jan 27, 13:05"
   },
   {
-    "source": "CNBC",
-    "title": "Blockbuster social media trial kicks off, with more to come this year",
-    "link": "https://www.cnbc.com/2026/01/27/blockbuster-social-media-trial-kicks-off-with-more-to-come-this-year.html",
-    "summary": "A landmark case against social media giants Meta, Alphabet's YouTube and TikTok is set to begin Tuesday in Los Angeles Superior Court.",
-    "timestamp": 1769518801.0,
-    "date": "Jan 27, 13:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Uber launches an \u2018AV Labs\u2019 division to gather driving data for robotaxi partners",
-    "link": "https://techcrunch.com/2026/01/27/uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners/",
-    "summary": "Uber is not developing its own robotaxis again; instead it plans to collect and offer data. It's a bet that more volume will help autonomous vehicle partners solve the weirdest edge cases.",
-    "timestamp": 1769518800.0,
-    "date": "Jan 27, 13:00"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Snowmakers feel the heat as climate change tests Milano Cortina Winter Games",
-    "link": "https://www.channelnewsasia.com/sport/snowmakers-feel-heat-climate-change-tests-milano-cortina-winter-games-5888671",
-    "summary": "",
-    "timestamp": 1769518769.0,
-    "date": "Jan 27, 12:59"
-  },
-  {
     "source": "BBC World",
     "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
     "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
@@ -1094,22 +1198,6 @@
     "summary": "CBS News Editor-in-Chief Bari Weiss came in with a mandate to reshape coverage. She is set to announce plans for newsroom cuts and the hiring of many new commentators.",
     "timestamp": 1769518343.0,
     "date": "Jan 27, 12:52"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Alcaraz crushes de Minaur to reach Australian semis; Svitolina beats Gauff",
-    "link": "https://www.aljazeera.com/sports/2026/1/27/alcaraz-crushes-de-minaur-to-reach-australian-semis-svitolina-beats-gauff?traffic_source=rss",
-    "summary": "Carlos Alcaraz defeats Alex de Minaur to reach last four at Australian Open while Elina Svitolina sends Coco Gauff home.",
-    "timestamp": 1769518325.0,
-    "date": "Jan 27, 12:52"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Israeli woman watches TV report of her death in Iran protests",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/27/israeli-woman-watches-tv-report-of-her-death-in-iran-protests?traffic_source=rss",
-    "summary": "An Israeli woman was shocked to discover that Israeli media was falsely reporting about her death during Iran protests.",
-    "timestamp": 1769517459.0,
-    "date": "Jan 27, 12:37"
   },
   {
     "source": "NPR",
@@ -1160,14 +1248,6 @@
     "date": "Jan 27, 12:00"
   },
   {
-    "source": "BBC World",
-    "title": "California probes US TikTok over claims it censors anti-Trump content",
-    "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
-    "summary": "Thousands of people claim political content is being suppressed after a deal to spin off the US version of the app was signed last week.",
-    "timestamp": 1769514110.0,
-    "date": "Jan 27, 11:41"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Flooding hammers Mozambique, southern African neighbors",
     "link": "https://www.dw.com/en/flooding-hammers-mozambique-southern-african-neighbors/a-75673858?maca=en-rss-en-all-1573-rdf",
@@ -1182,14 +1262,6 @@
     "summary": "Europe\u2019s nationalist leaders once saw President Trump as an ideological ally. Now, as he threatens European sovereignty, they are seeking distance \u2014 at least for the moment.",
     "timestamp": 1769510374.0,
     "date": "Jan 27, 10:39"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Northwood Space secures a $100M Series B and a $50M Space Force contract",
-    "link": "https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/",
-    "summary": "This is the El Segundo, California-based startup's second raise in less than a year.",
-    "timestamp": 1769509800.0,
-    "date": "Jan 27, 10:30"
   },
   {
     "source": "BBC World",
@@ -1217,33 +1289,9 @@
   },
   {
     "source": "NPR",
-    "title": "Trump heads to Iowa hoping to refocus attention from shootings to the economy",
-    "link": "https://www.npr.org/2026/01/27/nx-s1-5688944/trump-iowa-refocus-attention-shootings-economy",
-    "summary": "More Republicans are calling for an investigation after a second U.S. citizen was shot by a federal agent in Minneapolis.",
-    "timestamp": 1769508000.0,
-    "date": "Jan 27, 10:00"
-  },
-  {
-    "source": "NPR",
-    "title": "Trump to hold de facto midterm kickoff in Iowa focused on the economy, energy prices",
-    "link": "https://www.npr.org/2026/01/27/nx-s1-5688705/trump-iowa-2026-midterm-elections",
-    "summary": "President Trump's rally in Iowa on Tuesday brings his message to a state disproportionately affected by his economic policies and whose voters could help determine control of Congress.",
-    "timestamp": 1769508000.0,
-    "date": "Jan 27, 10:00"
-  },
-  {
-    "source": "NPR",
     "title": "In China, AI is no longer optional for some kids. It's part of the curriculum",
     "link": "https://www.npr.org/2026/01/27/nx-s1-5683821/china-ai-schools-curriculum",
     "summary": "While debate rages in the U.S. about the merits and risks of AI in schools, it's become a state-mandated part of the curriculum in China, as the authorities try to create a pool of AI-savvy profession...",
-    "timestamp": 1769508000.0,
-    "date": "Jan 27, 10:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "\u2018Among the worst we\u2019ve seen\u2019: report slams xAI\u2019s Grok over child safety failures",
-    "link": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
-    "summary": "\u201cWe assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we\u2019ve seen,\u201d Robbie Torney of Common Sense Media said.",
     "timestamp": 1769508000.0,
     "date": "Jan 27, 10:00"
   },
@@ -1360,19 +1408,11 @@
     "date": "Jan 27, 05:01"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "France's lawmakers vote to ban social media for under-15s",
-    "link": "https://www.dw.com/en/france-s-lawmakers-vote-to-ban-social-media-for-under-15s/a-75669653?maca=en-rss-en-all-1573-rdf",
-    "summary": "As social media usage has grown, it has heightened concerns about excessive screen time and its negative impact on child development and mental health.",
-    "timestamp": 1769482020.0,
-    "date": "Jan 27, 02:47"
-  },
-  {
     "source": "New York Times",
     "title": "Canada\u2019s Marineland Whales Could Find New Homes in U.S.",
     "link": "https://www.nytimes.com/2026/01/26/world/canada/canada-marineland-beluga-whales.html",
     "summary": "Marineland, a closed aquatic park in Ontario, had threatened to euthanize its whales after the government denied an application to send them to China.",
-    "timestamp": 1769480970.0,
+    "timestamp": 1769480971.0,
     "date": "Jan 27, 02:29"
   },
   {
@@ -1384,44 +1424,12 @@
     "date": "Jan 27, 02:23"
   },
   {
-    "source": "TechCrunch",
-    "title": "South Korea\u2019s Edenlux set for U.S. debut of eye-strain wellness device",
-    "link": "https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/",
-    "summary": "Edenlux builds wearable tech to protect and train your eyes, inspired by its founder\u2019s personal vision recovery.",
-    "timestamp": 1769477400.0,
-    "date": "Jan 27, 01:30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
-    "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
-    "summary": "SpotDraft now processes over 1 million contracts annually using its AI tool, with contract volumes up 173% year-over-year.",
-    "timestamp": 1769477400.0,
-    "date": "Jan 27, 01:30"
-  },
-  {
     "source": "BBC World",
     "title": "'Major step': French MPs vote in favour of bill to ban social media for under-15s",
     "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
     "summary": "If the bill passes the upper house it could take effect by the start of France's new school year in September.",
     "timestamp": 1769476339.0,
     "date": "Jan 27, 01:12"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google pays $68M to settle claims its voice assistant spied on users",
-    "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
-    "summary": "Google did not admit wrongdoing in the settlement of the class-action case, which accused the firm of \"unlawful and intentional interception and recording of individuals\u2019 confidential communications w...",
-    "timestamp": 1769474615.0,
-    "date": "Jan 27, 00:43"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
-    "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
-    "summary": "Ricursive joins Recursive and Unconventional AI in raising massive funds at multi-billion valuations out of the gate.",
-    "timestamp": 1769472795.0,
-    "date": "Jan 27, 00:13"
   },
   {
     "source": "New York Times",
@@ -1478,14 +1486,6 @@
     "summary": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
     "timestamp": 1769460647.0,
     "date": "Jan 26, 20:50"
-  },
-  {
-    "source": "New York Times",
-    "title": "The Taliban Say They\u2019re Ready to Release U.S. Prisoners. But Which Ones?",
-    "link": "https://www.nytimes.com/2026/01/26/world/asia/taliban-afghanistan-prisoners.html",
-    "summary": "Top Afghan officials say they want two American detainees released \u201cas soon as possible,\u201d but the Trump administration says a third one should be included.",
-    "timestamp": 1769460094.0,
-    "date": "Jan 26, 20:41"
   },
   {
     "source": "The Guardian",
