@@ -1,19 +1,243 @@
 [
   {
+    "source": "The Verge",
+    "title": "Windows 11&#8217;s ability to resume Android apps on your PC is getting closer",
+    "link": "https://www.theverge.com/news/869161/microsoft-windows-11-android-app-resume-feature-release-preview",
+    "summary": "Microsoft is getting ready to improve Windows 11's ability to resume Android apps on a PC. The software giant first introduced its cross-device resume last year, letting Windows 11 users resume OneDri...",
+    "timestamp": 1769599116.0,
+    "date": "Jan 28, 11:18"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "CNA Explains: What is Roblox and Gorebox, and how might they be used for radicalisation?",
+    "link": "https://www.channelnewsasia.com/singapore/roblox-gorebox-online-gaming-platforms-self-radicalisation-isd-5890921",
+    "summary": "Roblox started as a user-driven endeavour, but it has been used for child grooming and radicalisation. CNA\u2019s Fabian Koh takes a closer look at the dangers that lurk on such platforms.",
+    "timestamp": 1769598960.0,
+    "date": "Jan 28, 11:16"
+  },
+  {
+    "source": "The Verge",
+    "title": "Astronomers used AI to find 1,400 \u2018anomalous objects\u2019 from Hubble archives",
+    "link": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
+    "summary": "A pair of astronomers at the European Space Agency (ESA) discovered more than 800 previously undocumented \"astrophysical anomalies\" hiding in Hubble's archives. To do so, researchers David O'Ryan and ...",
+    "timestamp": 1769598937.0,
+    "date": "Jan 28, 11:15"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Environmental crises add to Iran's mounting troubles",
+    "link": "https://www.dw.com/en/environmental-crises-add-to-iran-s-mounting-troubles/a-75523489?maca=en-rss-en-all-1573-rdf",
+    "summary": "Widespread discontent in Iran has sent millions of protesters into the streets. Poor environmental planning embodies one of the government's most existential vulnerabilities.",
+    "timestamp": 1769598840.0,
+    "date": "Jan 28, 11:14"
+  },
+  {
     "source": "CNBC",
-    "title": "SK Hynix doubles 2025 profit as AI memory shortages drive earnings beat",
-    "link": "https://www.cnbc.com/2026/01/28/sk-hynix-smashes-earnings-estimates-as-ai-memory-demand-drives-record-profit.html",
-    "summary": "South Korea's SK Hynix on Wednesday posted record quarterly revenue and profit, to beat estimates.",
-    "timestamp": 1769595792.0,
-    "date": "Jan 28, 10:23"
+    "title": "Greenland will not give in, PM says, as Denmark warns world order as we know it is over",
+    "link": "https://www.cnbc.com/2026/01/28/greenland-trump-nato-denmark-security-defense.html",
+    "summary": "Greenland Prime Minister Jens-Frederik Nielsen on Wednesday issued a defiant message on the Arctic island's future.",
+    "timestamp": 1769598816.0,
+    "date": "Jan 28, 11:13"
+  },
+  {
+    "source": "CNBC",
+    "title": "S&P 500 futures climb ahead of Fed decision, major tech earnings: Live updates",
+    "link": "https://www.cnbc.com/2026/01/27/stock-market-today-live-updates.html",
+    "summary": "The S&amp;P 500 climbed to a new all-time high and closed at a record on Tuesday as traders eagerly awaited earnings from major tech companies.",
+    "timestamp": 1769598692.0,
+    "date": "Jan 28, 11:11"
+  },
+  {
+    "source": "New York Times",
+    "title": "Iran Killed Thousands of Protesters. Here Are Five of Their Stories.",
+    "link": "https://www.nytimes.com/2026/01/28/world/middleeast/iran-protester-deaths.html",
+    "summary": "\u201cHe went out for freedom,\u201d said the cousin of one of those who was killed when Iranian authorities mounted a deadly crackdown on protests across the country.",
+    "timestamp": 1769598637.0,
+    "date": "Jan 28, 11:10"
+  },
+  {
+    "source": "CNBC",
+    "title": "The \u2018strongest currency on earth\u2019 just hit an 11-year high \u2014 and it\u2019s stirring up trouble in Switzerland",
+    "link": "https://www.cnbc.com/2026/01/28/swiss-franc-us-dollar-price-fx-exchange-rate-trump-switzerland-snb-currency.html",
+    "summary": "The Swiss franc is widely viewed as a safe haven asset, rising in value in times of geopolitical or macroeconomic uncertainty.",
+    "timestamp": 1769598426.0,
+    "date": "Jan 28, 11:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Sabalenka and Svitolina set for politically-charged Australian Open semi-final",
+    "link": "https://www.channelnewsasia.com/sport/sabalenka-and-svitolina-set-politically-charged-australian-open-semi-final-5891001",
+    "summary": "",
+    "timestamp": 1769598342.0,
+    "date": "Jan 28, 11:05"
+  },
+  {
+    "source": "CNBC",
+    "title": "Autonomous trucking startup Waabi raises $750 million to expand into robotaxis",
+    "link": "https://www.cnbc.com/2026/01/28/autonomous-startup-waabi-raises-750-million-to-expand-into-robotaxis.html",
+    "summary": "Khosla Ventures, G2 Venture Partners, Uber, Nvidia and Volvo are all investing in Toronto-based, driverless tech startup Waabi.",
+    "timestamp": 1769598001.0,
+    "date": "Jan 28, 11:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Waabi raises $1B and expands into robotaxis with Uber",
+    "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
+    "summary": "Waabi has secured a $750 million Series C round to accelerate autonomous trucking, and another roughly $250 million commitment from Uber to deploy 25,000 robotaxis exclusively on its platform.",
+    "timestamp": 1769598000.0,
+    "date": "Jan 28, 11:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Self-driving truck startup Waabi is teaming up with Uber on robotaxis",
+    "link": "https://www.theverge.com/news/868535/waabi-robotaxi-uber-fundraising-self-driving-truck",
+    "summary": "Waabi, the Toronto-based autonomous trucking startup, is expanding its portfolio to include robotaxis. And it's bringing Uber along for the ride. Raquel Urtasun, the former chief scientist at Uber's n...",
+    "timestamp": 1769598000.0,
+    "date": "Jan 28, 11:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "ICE, Ilhan Omar and Somalis: Unpacking Trump\u2019s obsession with Minnesota",
+    "link": "https://www.aljazeera.com/news/2026/1/28/ice-ilhan-omar-and-somalis-unpacking-trumps-obsession-with-minnesota?traffic_source=rss",
+    "summary": "Congresswoman Omar is sprayed with an unknown liquid while meeting constituents. The motive is unknown.",
+    "timestamp": 1769597665.0,
+    "date": "Jan 28, 10:54"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Winds could still bring haze to Singapore, but weekend rain should suppress hotspots: NEA",
+    "link": "https://www.channelnewsasia.com/singapore/haze-smoke-hotspot-johor-psi-nea-5890961",
+    "summary": "At least one hotspot has been detected in Johor despite&nbsp;cloud cover partially obscuring satellite&nbsp;visibility on Wednesday (Jan 28).",
+    "timestamp": 1769597640.0,
+    "date": "Jan 28, 10:54"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Man arrested after spraying unknown substance on US lawmaker Ilhan Omar at Minneapolis town hall",
+    "link": "https://www.channelnewsasia.com/world/democrat-ilhan-omar-sprayed-unknown-substance-minneapolis-town-hall-man-arrested-5889866",
+    "summary": "&nbsp;Omar continued speaking for about 25 more minutes after the man was ushered out by security, saying she would not be intimidated.",
+    "timestamp": 1769597580.0,
+    "date": "Jan 28, 10:53"
+  },
+  {
+    "source": "The Verge",
+    "title": "Tim Cook had \u2018a good conversation\u2019 with Trump about deescalation",
+    "link": "https://www.theverge.com/news/869155/apple-tim-cook-president-trump-deescalate-minneapolis",
+    "summary": "Apple CEO Tim Cook has spoken out about \"the events in Minneapolis\" after federal agents shot and killed another protester over the weekend, telling employees that he has shared his feelings with Pres...",
+    "timestamp": 1769597534.0,
+    "date": "Jan 28, 10:52"
+  },
+  {
+    "source": "New York Times",
+    "title": "Veteran Indian Politician Among 5 Killed in Plane Crash",
+    "link": "https://www.nytimes.com/2026/01/28/world/asia/india-plane-crash.html",
+    "summary": "Ajit Pawar, the deputy chief minister of Maharashtra State, was on board a charter jet that crashed as it was coming in to land.",
+    "timestamp": 1769597533.0,
+    "date": "Jan 28, 10:52"
+  },
+  {
+    "source": "CNBC",
+    "title": "Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push",
+    "link": "https://www.cnbc.com/2026/01/28/amazon-cuts-16000-jobs-globally-to-undo-pandemic-era-hiring-amid-ai-push.html",
+    "summary": "Amazon said on Wednesday it was cutting 16,000 jobs worldwide in the second major round of layoffs \u2060at the company in three months.",
+    "timestamp": 1769597470.0,
+    "date": "Jan 28, 10:51"
+  },
+  {
+    "source": "CNBC",
+    "title": "LVMH shares plummet 7% as fourth-quarter results lag competitors",
+    "link": "https://www.cnbc.com/2026/01/28/lvmh-earnings-shares-fall-luxury.html",
+    "summary": "LVMH shares plummeted Wednesday after the French luxury conglomerate reported mixed full-year earnings late Tuesday.",
+    "timestamp": 1769597469.0,
+    "date": "Jan 28, 10:51"
+  },
+  {
+    "source": "France 24",
+    "title": "Trump administration seeks de-escalation in Minneapolis amid backlash",
+    "link": "https://www.france24.com/en/trump-administration-seeks-de-escalation-in-minneapolis-amid-backlash",
+    "summary": "US President Donald Trump said on January 27, a \u201cbig investigation\u201d was underway into the killing of protester and ICU nurse Alex Pretti by federal agents in Minneapolis. It marks a shift from the Whi...",
+    "timestamp": 1769597288.0,
+    "date": "Jan 28, 10:48"
+  },
+  {
+    "source": "France 24",
+    "title": "Gulf states try to de-escalate tension as US threatens Iran with military action",
+    "link": "https://www.france24.com/en/gulf-states-try-to-de-escalate-tension-as-us-threatens-iran-with-military-action",
+    "summary": "US President Donald Trump has warned that an \"armada\" is heading towards Tehran, warning the Iranian regime to make a deal. Gulf States are trying to de-escalate tensions, saying they will not allow t...",
+    "timestamp": 1769597070.0,
+    "date": "Jan 28, 10:44"
+  },
+  {
+    "source": "France 24",
+    "title": "Funeral of last Israeli hostage \"is closing a live open wound\"",
+    "link": "https://www.france24.com/en/funeral-of-last-israeli-hostage-is-closing-a-live-open-wound",
+    "summary": "Israel is preparing to bury the last hostage returned from Gaza, marking the end of a painful national saga triggered by Hamas's 2023 attack on October 7. According to Israeli President Isaac Herzog, ...",
+    "timestamp": 1769596922.0,
+    "date": "Jan 28, 10:42"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "France prop Atonio forced to retire after cardiac incident",
+    "link": "https://www.channelnewsasia.com/sport/france-prop-atonio-forced-retire-after-cardiac-incident-5890981",
+    "summary": "",
+    "timestamp": 1769596735.0,
+    "date": "Jan 28, 10:38"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Tech giant ASML announces record orders in boost for AI boom",
+    "link": "https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom?traffic_source=rss",
+    "summary": "Dutch firm says it expects strong growth in 2026, countering fears of an investment bubble.",
+    "timestamp": 1769596544.0,
+    "date": "Jan 28, 10:35"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Amazon cuts 16,000 jobs globally to undo pandemic-era hiring amid AI push",
+    "link": "https://www.channelnewsasia.com/business/amazon-cuts-16000-jobs-globally-undo-pandemic-era-hiring-amid-ai-push-5890951",
+    "summary": "",
+    "timestamp": 1769596400.0,
+    "date": "Jan 28, 10:33"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Israel\u2019s attacks on Gaza fertility clinics shatter dreams of parenthood",
+    "link": "https://www.aljazeera.com/news/2026/1/28/israels-attacks-on-gaza-fertility-clinics-shatter-dreams-of-parenthood?traffic_source=rss",
+    "summary": "Israel&#039;s war has devastated enclave&#039;s reproductive health system; advocates call it a genocidal measure.",
+    "timestamp": 1769596220.0,
+    "date": "Jan 28, 10:30"
+  },
+  {
+    "source": "New York Times",
+    "title": "In Kherson, Ukraine, Every Step Outside Risks Death by Drone",
+    "link": "https://www.nytimes.com/2026/01/28/world/europe/kherson-ukraine-drones-russia.html",
+    "summary": "Russian attacks on civilians in Kherson, in southern Ukraine, have forced important aspects of life to go underground, offering a vision of a postapocalyptic future.",
+    "timestamp": 1769595984.0,
+    "date": "Jan 28, 10:26"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "UK pushes Google to allow sites to opt out of AI overviews",
+    "link": "https://www.channelnewsasia.com/business/uk-pushes-google-allow-sites-opt-out-ai-overviews-5890926",
+    "summary": "",
+    "timestamp": 1769595776.0,
+    "date": "Jan 28, 10:22"
   },
   {
     "source": "CNA (Asia)",
     "title": "British Airways plane loses wheel during takeoff from Las Vegas",
     "link": "https://www.channelnewsasia.com/world/british-airways-plane-loses-wheel-flightradar24-5890806",
     "summary": "Flight BA274 lost its right rear wheel from its main landing gear as it departed Harry Reid International Airport in Las Vegas on Monday (Jan 26).",
-    "timestamp": 1769595765.0,
+    "timestamp": 1769595720.0,
     "date": "Jan 28, 10:22"
+  },
+  {
+    "source": "BBC World",
+    "title": "Three brothers die after falling in frozen Texas pond",
+    "link": "https://www.bbc.com/news/articles/cvg1z091melo?at_medium=RSS&at_campaign=rss",
+    "summary": "Their mother says she tried to rescue them by lifting them out but the ice kept breaking.",
+    "timestamp": 1769595537.0,
+    "date": "Jan 28, 10:18"
   },
   {
     "source": "Deutsche Welle",
@@ -41,9 +265,9 @@
   },
   {
     "source": "BBC World",
-    "title": "Minnesota congresswoman Ilhan Omar attacked with unknown liquid at event",
+    "title": "'I don't let bullies win': US congresswoman Omar defiant after substance thrown at her",
     "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
-    "summary": "Omar was uninjured and continued to speak at the event following the incident.",
+    "summary": "The Minnesota Democrat was uninjured and continued to speak at her event, after being sprayed with an unidentified liquid.",
     "timestamp": 1769595079.0,
     "date": "Jan 28, 10:11"
   },
@@ -113,14 +337,6 @@
   },
   {
     "source": "NPR",
-    "title": "The Trump administration has secretly rewritten nuclear safety rules",
-    "link": "https://www.npr.org/2026/01/28/nx-s1-5677187/nuclear-safety-rules-rewritten-trump",
-    "summary": "The rewrite was done to speed up the construction of a new generation of nuclear reactors. Critics warn it could compromise safety and public trust.",
-    "timestamp": 1769594400.0,
-    "date": "Jan 28, 10:00"
-  },
-  {
-    "source": "NPR",
     "title": "To keep AI out of her classroom, this high school English teacher went analog",
     "link": "https://www.npr.org/2026/01/28/nx-s1-5631779/ai-schools-teachers-students",
     "summary": "Forth Worth teacher Chanea Bond says sticking with pen and paper keeps generative artificial intelligence out of her American literature classes.",
@@ -152,10 +368,26 @@
     "date": "Jan 28, 10:00"
   },
   {
+    "source": "NPR",
+    "title": "The Trump administration has secretly rewritten nuclear safety rules",
+    "link": "https://www.npr.org/2026/01/28/nx-s1-5677187/nuclear-safety-rules-rewritten-trump",
+    "summary": "The rewrite was done to speed up the construction of a new generation of nuclear reactors. Critics warn it could compromise safety and public trust.",
+    "timestamp": 1769594400.0,
+    "date": "Jan 28, 10:00"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Commissioner of Charities opens inquiry into animal shelter Animal Lovers League",
     "link": "https://www.channelnewsasia.com/singapore/animal-lovers-league-commissioner-charities-inquiry-non-compliance-charities-act-5890646",
     "summary": "Separately, the Animal and Veterinary Service says it is working to develop a long-term plan for the care and rehoming of the animals under the charity, which must move out of its current premises in ...",
+    "timestamp": 1769594400.0,
+    "date": "Jan 28, 10:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Google pitches Gemini to students studying for India\u2019s most competitive college entrance exam",
+    "link": "https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/",
+    "summary": "Google's launch of practice tests for JEE follows its recent move to offer full-length SAT practice tests in Gemini.",
     "timestamp": 1769594400.0,
     "date": "Jan 28, 10:00"
   },
@@ -184,6 +416,14 @@
     "date": "Jan 28, 09:56"
   },
   {
+    "source": "France 24",
+    "title": "US dollar extends fall after Trump dismisses concerns over weaker currency",
+    "link": "https://www.france24.com/en/tv-shows/business/20260128-us-dollar-extends-fall-after-trump-dismisses-concerns-over-weaker-currency",
+    "summary": "The US dollar weakened to its lowest level in four years on Tuesday after President Donald Trump responded to a question about the currency's fall by saying he thought it was \"great\". In this edition,...",
+    "timestamp": 1769594198.0,
+    "date": "Jan 28, 09:56"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Japan may hold off on yen intervention for now, ex-BOJ official says",
     "link": "https://www.channelnewsasia.com/business/japan-may-hold-yen-intervention-now-ex-boj-official-says-5890851",
@@ -201,8 +441,8 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "How Germany's skilled worker shortage exposes migration hurdles",
-    "link": "https://www.dw.com/en/how-germany-s-skilled-worker-shortage-exposes-migration-hurdles/a-75206488?maca=en-rss-en-all-1573-rdf",
+    "title": "How Germany's skilled worker gap exposes migration hurdles",
+    "link": "https://www.dw.com/en/how-germany-s-skilled-worker-gap-exposes-migration-hurdles/a-75206488?maca=en-rss-en-all-1573-rdf",
     "summary": "Germany is facing a massive shortage of skilled workers, from nurses to IT specialists. The country needs hundreds of thousands of professionals, but bureaucracy and political hurdles are slowing recr...",
     "timestamp": 1769594040.0,
     "date": "Jan 28, 09:54"
@@ -243,7 +483,7 @@
     "source": "Deutsche Welle",
     "title": "India: Deputy state leader among 5 killed in plane crash",
     "link": "https://www.dw.com/en/india-deputy-state-leader-among-5-killed-in-plane-crash/a-75688923?maca=en-rss-en-all-1573-rdf",
-    "summary": "Ajit Pawar, the deputy chief minister of Maharashtra, the country's wealthiest state, was on board a private plane that crashed in western India. There were no survivors from the crash.",
+    "summary": "Ajit Pawar, the deputy chief minister of Maharashtra, was on board a private plane that crashed in western India. There were no survivors from the crash.",
     "timestamp": 1769593320.0,
     "date": "Jan 28, 09:42"
   },
@@ -304,42 +544,10 @@
     "date": "Jan 28, 09:21"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Man who showed lewd phone note to teens on train gets jail",
-    "link": "https://www.channelnewsasia.com/singapore/man-jail-note-phone-lewd-5890716",
-    "summary": "The note stated: \"I like you\", \"Will you be with me?\", \"Hold my hand\" and a lewd phrase.",
-    "timestamp": 1769591989.0,
-    "date": "Jan 28, 09:19"
-  },
-  {
-    "source": "CNBC",
-    "title": "S&P 500 futures climb ahead of Fed decision, major tech earnings: Live updates",
-    "link": "https://www.cnbc.com/2026/01/27/stock-market-today-live-updates.html",
-    "summary": "The S&amp;P 500 climbed to a new all-time high and closed at a record on Tuesday as traders eagerly awaited earnings from major tech companies.",
-    "timestamp": 1769591651.0,
-    "date": "Jan 28, 09:14"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "\u2018Don\u2019t be afraid to learn\u2019: More seniors upskill, rejoin workforce as Singapore ages",
-    "link": "https://www.channelnewsasia.com/singapore/seniors-older-workers-upskill-rejoin-workforce-super-aged-society-5890641",
-    "summary": "According to SkillsFuture Singapore, those aged 60 and above make up about 22 per cent of people who go for training - higher than their share of the workforce.",
-    "timestamp": 1769591584.0,
-    "date": "Jan 28, 09:13"
-  },
-  {
     "source": "France 24",
     "title": "Iran executes man accused of spying for Israel, judiciary says",
     "link": "https://www.france24.com/en/middle-east/20260128-iran-executes-man-accused-spying-israel-judiciary-says",
     "summary": "Iran executed Hamidreza Sabet Esmailpour on Wednesday for spying for Israel, the judiciary's Mizan news agency said. Authorities arrested Esmailpour in April 2025 for allegedly passing information to ...",
-    "timestamp": 1769591580.0,
-    "date": "Jan 28, 09:13"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Malaysians lampoon minister over stress-gay link: \u2018They never work hard in parliament?\u2019",
-    "link": "https://www.channelnewsasia.com/asia/malaysia-religious-affairs-minister-gay-stress-5890701",
-    "summary": "Malaysian Religious Affairs Minister Zulkifli Hasan has come under fire for claiming in parliament that work stress turns people gay.",
     "timestamp": 1769591580.0,
     "date": "Jan 28, 09:13"
   },
@@ -350,14 +558,6 @@
     "summary": "<p>Bushfires still burning out of control in Victoria as temperatures reached the high 40s in the west of NSW </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/28/austra...",
     "timestamp": 1769591524.0,
     "date": "Jan 28, 09:12"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Elliott weighs tender offer for Toyota Industries, Nikkei reports",
-    "link": "https://www.channelnewsasia.com/business/elliott-weighs-tender-offer-toyota-industries-nikkei-reports-5890761",
-    "summary": "",
-    "timestamp": 1769591374.0,
-    "date": "Jan 28, 09:09"
   },
   {
     "source": "Deutsche Welle",
@@ -400,30 +600,6 @@
     "date": "Jan 28, 09:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Nipah virus: Singapore to conduct temperature screening at airport for flights from affected areas",
-    "link": "https://www.channelnewsasia.com/singapore/cda-monitoring-nipah-virus-infection-outbreak-india-5890681",
-    "summary": "The Manpower Ministry is also stepping up surveillance of newly arrived migrant workers from South Asia as part of the country's initial response to the Nipah virus outbreak in West Bengal.",
-    "timestamp": 1769590800.0,
-    "date": "Jan 28, 09:00"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Taiwan shows off F-16 jets rapid response amid tensions with China",
-    "link": "https://www.channelnewsasia.com/east-asia/taiwan-fighter-f16-fighter-jet-drill-training-china-tensions-5890526",
-    "summary": "",
-    "timestamp": 1769590740.0,
-    "date": "Jan 28, 08:59"
-  },
-  {
-    "source": "CNBC",
-    "title": "LVMH shares plummet 7% as fourth-quarter results lag competitors",
-    "link": "https://www.cnbc.com/2026/01/28/lvmh-earnings-shares-fall-luxury.html",
-    "summary": "LVMH shares plummeted Wednesday after the French luxury conglomerate reported mixed full-year earnings late Tuesday.",
-    "timestamp": 1769590713.0,
-    "date": "Jan 28, 08:58"
-  },
-  {
     "source": "BBC World",
     "title": "South Korea's ex-first lady jailed for 20 months for bribery",
     "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
@@ -462,14 +638,6 @@
     "summary": "A South Korean court on Wednesday sentenced the country's former first lady, Kim Keon Hee, to 20 months in prison for receiving bribes from the Unification Church. Her husband, who has been jailed sep...",
     "timestamp": 1769589365.0,
     "date": "Jan 28, 08:36"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Britain's Starmer heads to China as Western alliances face strain",
-    "link": "https://www.channelnewsasia.com/world/britains-starmer-heads-china-western-alliances-face-strain-5890531",
-    "summary": "",
-    "timestamp": 1769588541.0,
-    "date": "Jan 28, 08:22"
   },
   {
     "source": "Al Jazeera",
@@ -601,7 +769,7 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "LIVE: Gaza \u2018desperate\u2019 as Israel aid blocks hit children hardest, UN says",
+    "title": "LIVE: Gaza under Israel fire as \u2018desperate\u2019 Palestinians seek supplies",
     "link": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-rafah-crossing-reopens-as-israel-keeps-launching-deadly-attacks-on-gaza?traffic_source=rss",
     "summary": "Palestinians &#039;desperate&#039; for Rafah crossing to open as prolonged closures compound widespread suffering, warns the UN.",
     "timestamp": 1769582296.0,
@@ -614,14 +782,6 @@
     "summary": "Madrid points to &#039;positive impact&#039; of migration as it moves to grant 500,000 undocumented people legal status.",
     "timestamp": 1769581960.0,
     "date": "Jan 28, 06:32"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "One family\u2019s daily struggle reflects alarming food shortages in Yemen",
-    "link": "https://www.aljazeera.com/features/2026/1/28/one-familys-struggle-aid-agencies-warn-of-alarming-food-shortages-in-yemen?traffic_source=rss",
-    "summary": "Nasr has no steady employment in Sanaa. He, his wife and five daughters often go to bed hungry.",
-    "timestamp": 1769581607.0,
-    "date": "Jan 28, 06:26"
   },
   {
     "source": "CNBC",
@@ -648,14 +808,6 @@
     "date": "Jan 28, 06:17"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Trump promises to \u2018de-escalate\u2019 Minnesota crisis after Alex Pretti shooting",
-    "link": "https://www.aljazeera.com/news/2026/1/28/trump-promises-to-de-escalate-minnesota-crisis-after-alex-pretti-shooting?traffic_source=rss",
-    "summary": "US president says he still has confidence in Homeland Security Secretary Kristi Noem amid calls for her resignation.",
-    "timestamp": 1769580679.0,
-    "date": "Jan 28, 06:11"
-  },
-  {
     "source": "TechCrunch",
     "title": "Google Photos brings its prompt-based editing feature to India, Australia and Japan",
     "link": "https://techcrunch.com/2026/01/27/google-photos-brings-its-prompt-based-editing-feature-to-india-australia-and-japan/",
@@ -672,28 +824,12 @@
     "date": "Jan 28, 06:00"
   },
   {
-    "source": "CNBC",
-    "title": "Mining stocks have been on a tear, with gold passing $5,000. Analysts are split on what's next",
-    "link": "https://www.cnbc.com/2026/01/28/mining-stocks-have-rallied-the-jurys-out-on-whats-next.html",
-    "summary": "Appetite for mining stocks has cooled over the past six months, according to a Citi note.",
-    "timestamp": 1769580001.0,
-    "date": "Jan 28, 06:00"
-  },
-  {
     "source": "New York Times",
     "title": "How Iran Crushed an Uprising",
     "link": "https://www.nytimes.com/2026/01/27/world/iran-protests-crackdown-eu-india-trade.html",
     "summary": "A visual investigation by The New York Times shows the breadth and ferocity of the regime\u2019s crackdown across the country.",
     "timestamp": 1769579962.0,
     "date": "Jan 28, 05:59"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "India curbs \u2018grocery under 10 minutes\u2019. But riders must still fatally race",
-    "link": "https://www.aljazeera.com/features/2026/1/28/india-curbs-grocery-under-10-minutes-but-riders-must-still-fatally-race?traffic_source=rss",
-    "summary": "India tells platforms to curb 10-minute deliveries amid concerns for workers\u2019 safety but there&#039;s no incentive to comply.",
-    "timestamp": 1769579929.0,
-    "date": "Jan 28, 05:58"
   },
   {
     "source": "France 24",
@@ -785,9 +921,9 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Rwanda sues UK over contentious migrant deal",
-    "link": "https://www.dw.com/en/rwanda-sues-uk-over-contentious-migrant-deal/a-75687005?maca=en-rss-en-all-1573-rdf",
-    "summary": "Rwanda accuses the UK of \"intransigence\" and says London owes it millions of pounds over a controversial migration agreement.",
+    "title": "Rwanda takes UK to court over contentious migrant deal",
+    "link": "https://www.dw.com/en/rwanda-takes-uk-to-court-over-contentious-migrant-deal/a-75687005?maca=en-rss-en-all-1573-rdf",
+    "summary": "Rwanda accuses the UK of \"intransigence\" and says London owes it millions of pounds.",
     "timestamp": 1769569560.0,
     "date": "Jan 28, 03:06"
   },
@@ -814,14 +950,6 @@
     "summary": "Some lawmakers are questioning the crackdown as public anger grows over two citizens killed by federal agents.",
     "timestamp": 1769567366.0,
     "date": "Jan 28, 02:29"
-  },
-  {
-    "source": "CNBC",
-    "title": "Amazon inadvertently announces cloud unit layoffs in email to employees",
-    "link": "https://www.cnbc.com/2026/01/27/amazon-inadvertently-sends-email-to-employees-confirming-wednesday-layoffs.html",
-    "summary": "Amazon sent a notice out to staffers in an apparent error acknowledging \"organizational changes\" at the company.",
-    "timestamp": 1769566516.0,
-    "date": "Jan 28, 02:15"
   },
   {
     "source": "BBC World",
@@ -936,6 +1064,14 @@
     "date": "Jan 27, 23:40"
   },
   {
+    "source": "New York Times",
+    "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
+    "link": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
+    "summary": "Driven by the artificial intelligence frenzy, Microsoft is internally projecting that water use at its data centers will more than double by 2030 from 2020, including in places that face shortages.",
+    "timestamp": 1769556619.0,
+    "date": "Jan 27, 23:30"
+  },
+  {
     "source": "The Verge",
     "title": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech\u2019s new obsession",
     "link": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent",
@@ -982,14 +1118,6 @@
     "summary": "Carney said he and Trump discussed topics ranging from the Ukraine war to \"Arctic security,\" shorthand for the controversy over Greenland.",
     "timestamp": 1769553478.0,
     "date": "Jan 27, 22:37"
-  },
-  {
-    "source": "The Verge",
-    "title": "The winter storm tested power grids straining to accommodate AI data centers",
-    "link": "https://www.theverge.com/report/868859/electricity-rates-power-grid-ai-data-center-winter-storm",
-    "summary": "The colossal winter storm that swept across 34 states left hundreds of thousands of people without electricity. Bitterly cold temperatures lingering after Winter Storm Fern are still testing power gri...",
-    "timestamp": 1769552938.0,
-    "date": "Jan 27, 22:28"
   },
   {
     "source": "France 24",
@@ -1056,28 +1184,12 @@
     "date": "Jan 27, 21:51"
   },
   {
-    "source": "The Verge",
-    "title": "The best fitness trackers and watches we\u2019ve tested",
-    "link": "https://www.theverge.com/22985108/best-fitness-tracker",
-    "summary": "Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you\u2019ve recovered from a hard b...",
-    "timestamp": 1769550675.0,
-    "date": "Jan 27, 21:51"
-  },
-  {
     "source": "France 24",
     "title": "FBI's Patel falsely claims Americans 'cannot bring firearms' to protests",
     "link": "https://www.france24.com/en/fbi-s-kash-patel-falsely-claims-americans-cannot-bring-firearms-to-protests",
     "summary": "FBI Director Kash Patel has been accused of not knowing the law, after falsely claiming protesters cannot carry firearms to demonstrations following the killing of ICU nurse Alex Pretti by ICE agents ...",
     "timestamp": 1769550493.0,
     "date": "Jan 27, 21:48"
-  },
-  {
-    "source": "CNBC",
-    "title": "AppLovin demands short-seller CapitalWatch retract 'conspiratorial' report",
-    "link": "https://www.cnbc.com/2026/01/27/applovin-short-seller-capitalwatch-report.html",
-    "summary": "AppLovin's cease and desist letter to CapitalWatch called the short-seller's accusations of money laundering defamatory and baseless.",
-    "timestamp": 1769550255.0,
-    "date": "Jan 27, 21:44"
   },
   {
     "source": "France 24",
@@ -1094,14 +1206,6 @@
     "summary": "Bluesky is teasing new features  and improvements ranging from the Discover feed to video support.",
     "timestamp": 1769549538.0,
     "date": "Jan 27, 21:32"
-  },
-  {
-    "source": "France 24",
-    "title": "Landslide leaves Sicilian town teetering on cliff edge",
-    "link": "https://www.france24.com/en/landslide-leaves-sicilian-town-teetering-on-cliff-edge",
-    "summary": "More than 1,000 people were evacuated in Sicily after a five-kilometre section of cliff crumbled during a storm, leaving houses perched perilously on the edge, authorities said Monday. Land was contin...",
-    "timestamp": 1769549278.0,
-    "date": "Jan 27, 21:27"
   },
   {
     "source": "BBC World",
@@ -1152,14 +1256,6 @@
     "date": "Jan 27, 20:56"
   },
   {
-    "source": "New York Times",
-    "title": "Trump Vows Higher Tariffs for South Korea Months After Trade Deal",
-    "link": "https://www.nytimes.com/2026/01/27/world/asia/korea-trump-higher-tariff.html",
-    "summary": "President Trump said Seoul was not moving fast enough to implement the agreement, which calls for South Korea to invest billions in the United States.",
-    "timestamp": 1769546989.0,
-    "date": "Jan 27, 20:49"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "ICE on US streets challenges American norms, founding values",
     "link": "https://www.dw.com/en/ice-on-us-streets-challenges-american-norms-founding-values/a-75679947?maca=en-rss-en-all-1573-rdf",
@@ -1184,28 +1280,12 @@
     "date": "Jan 27, 20:38"
   },
   {
-    "source": "France 24",
-    "title": "'Voter rolls could be used to intimidate', professor says as Bondi requests Minnesota records",
-    "link": "https://www.france24.com/en/voter-rolls-could-be-used-to-intimidate-professor-says-as-bondi-requests-minnesota-records",
-    "summary": "Speaking with FRANCE 24's Monte Francis, Nadine Strossen, Professor of Constitutional Law at New York Law School and Former President of the ACLU, says that voter rolls 'could definitely be used to in...",
-    "timestamp": 1769545855.0,
-    "date": "Jan 27, 20:30"
-  },
-  {
     "source": "CNBC",
     "title": "Homebuyers are backing out of deals at the fastest pace in nearly a decade",
     "link": "https://www.cnbc.com/2026/01/27/homebuyers-backing-out-of-deals.html",
     "summary": "More than 16% of signed contracts on homes in December were canceled, as consumers face continued uncertainty in the economy and rising inventory.",
     "timestamp": 1769545691.0,
     "date": "Jan 27, 20:28"
-  },
-  {
-    "source": "France 24",
-    "title": "Israel's Netanyahu says a Palestinian state in Gaza 'will not happen'",
-    "link": "https://www.france24.com/en/israel-s-netanyahu-says-a-palestinian-state-in-gaza-will-not-happen",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu vowed Tuesday that he would not allow the establishment of a Palestinian state in the Gaza Strip, asserting that Israel would maintain security control \"from ...",
-    "timestamp": 1769545325.0,
-    "date": "Jan 27, 20:22"
   },
   {
     "source": "Deutsche Welle",
@@ -1224,14 +1304,6 @@
     "date": "Jan 27, 20:03"
   },
   {
-    "source": "France 24",
-    "title": "French PM Lecornu survives no-confidence votes as budget moves forward",
-    "link": "https://www.france24.com/en/france/20260127-french-pm-lecornu-survives-no-confidence-votes-as-budget-moves-forward",
-    "summary": "French Prime Minister S\u00e9bastien Lecornu on Tuesday survived two new no-confidence votes after forcing his budget through the National Assembly, France's lower house of parliament, clearing a key hurdl...",
-    "timestamp": 1769544165.0,
-    "date": "Jan 27, 20:02"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Minnesota: Trump wants 'honorable' probe into Pretti killing",
     "link": "https://www.dw.com/en/minnesota-trump-wants-honorable-probe-into-pretti-killing/live-75684720?maca=en-rss-en-all-1573-rdf",
@@ -1246,6 +1318,14 @@
     "summary": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy.",
     "timestamp": 1769543993.0,
     "date": "Jan 27, 19:59"
+  },
+  {
+    "source": "New York Times",
+    "title": "How Computer Warfare Is Becoming Part of the Pentagon\u2019s Arsenal",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/pentagon-computer-warfare.html",
+    "summary": "The military tested a new approach in Venezuela and during strikes on Iranian nuclear facilities.",
+    "timestamp": 1769543422.0,
+    "date": "Jan 27, 19:50"
   },
   {
     "source": "Deutsche Welle",
@@ -1272,14 +1352,6 @@
     "date": "Jan 27, 19:40"
   },
   {
-    "source": "The Verge",
-    "title": "Razer\u2019s testing a new tool for customizing its keyboards in your browser",
-    "link": "https://www.theverge.com/tech/868843/razer-synapse-web-beta-browser-chromium-configure-settings",
-    "summary": "Razer has announced the beta release of a new online customization tool compatible with several versions of its Huntsman V3 Pro keyboards at launch. Razer Synapse Web isn't a full replacement for the ...",
-    "timestamp": 1769542699.0,
-    "date": "Jan 27, 19:38"
-  },
-  {
     "source": "CNBC",
     "title": "Silver is retail traders' new obsession as record numbers bet on rally \u2014 and on a crash",
     "link": "https://www.cnbc.com/2026/01/27/retail-traders-silver-fund-precious-metals.html",
@@ -1294,14 +1366,6 @@
     "summary": "<p>Claudia Sheinbaum denied move was response to pressure from the US, after Trump said \u2018zero\u2019 oil would go to Cuba</p><p><a href=\"https://www.theguardian.com/world/mexico\">Mexico</a> has cancelled a ...",
     "timestamp": 1769540279.0,
     "date": "Jan 27, 18:57"
-  },
-  {
-    "source": "The Verge",
-    "title": "Amazon shutters all of its physical Go and Fresh stores",
-    "link": "https://www.theverge.com/news/868800/amazon-go-and-fresh-stores-closed",
-    "summary": "Amazon Go and Fresh physical store locations will soon be no more, with Amazon announcing on Tuesday that it's closing the majority of the stores and converting others into Whole Foods Market location...",
-    "timestamp": 1769540155.0,
-    "date": "Jan 27, 18:55"
   },
   {
     "source": "TechCrunch",
@@ -1352,20 +1416,20 @@
     "date": "Jan 27, 17:56"
   },
   {
+    "source": "New York Times",
+    "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
+    "summary": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
+    "timestamp": 1769536451.0,
+    "date": "Jan 27, 17:54"
+  },
+  {
     "source": "TechCrunch",
     "title": "The price gap between Waymo and Uber is narrowing",
     "link": "https://techcrunch.com/2026/01/27/the-price-gap-between-waymo-and-uber-is-narrowing/",
     "summary": "A trip in a Waymo robotaxi still costs more, on average, than a comparable ride in a human-driven Uber or a Lyft. But that gap is narrowing, according to new data published Tuesday by Obi, a company t...",
     "timestamp": 1769535799.0,
     "date": "Jan 27, 17:43"
-  },
-  {
-    "source": "BBC World",
-    "title": "TikTok settles just before social media addiction trial to begin",
-    "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
-    "summary": "Defendants include Meta, which owns Instagram and Facebook, and YouTube parent Google.",
-    "timestamp": 1769535114.0,
-    "date": "Jan 27, 17:31"
   },
   {
     "source": "TechCrunch",
@@ -1408,28 +1472,12 @@
     "date": "Jan 27, 17:08"
   },
   {
-    "source": "TechCrunch",
-    "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
-    "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
-    "summary": "The tech giant also announced that it's making Gemini 3 the new default model for AI Overviews globally.",
-    "timestamp": 1769533200.0,
-    "date": "Jan 27, 17:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Android phones are getting more anti-theft features",
-    "link": "https://techcrunch.com/2026/01/27/android-phones-are-getting-more-anti-theft-features/",
-    "summary": "Google says Android devices will get new security features, like stronger authentication safeguards and enhanced recovery tools.",
-    "timestamp": 1769533200.0,
-    "date": "Jan 27, 17:00"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Spain to grant legal status to 500,000 undocumented migrants",
-    "link": "https://www.dw.com/en/spain-to-grant-legal-status-to-500-000-undocumented-migrants/a-75682942?maca=en-rss-en-all-1573-rdf",
-    "summary": "Spain is moving against the European tide with a plan to offer a chance at residency status to hundreds of thousands of undocumented migrants. The move has exposed a deep political divide for the mino...",
-    "timestamp": 1769530680.0,
-    "date": "Jan 27, 16:18"
+    "source": "New York Times",
+    "title": "Trinidadian Families File Wrongful Death Lawsuit Over Boat Strike by U.S. Military",
+    "link": "https://www.nytimes.com/2026/01/27/us/politics/trinidad-wrongful-death-lawsuit-boat-strike.html",
+    "summary": "The case tests the Trump administration\u2019s argument that its extrajudicial killings of people suspected of smuggling drugs at sea have been lawful.",
+    "timestamp": 1769531866.0,
+    "date": "Jan 27, 16:37"
   },
   {
     "source": "BBC World",
@@ -1496,36 +1544,12 @@
     "date": "Jan 26, 23:08"
   },
   {
-    "source": "New York Times",
-    "title": "Israel Recovers Body of Ran Gvili From Gaza, Closing a Chapter",
-    "link": "https://www.nytimes.com/2026/01/26/world/middleeast/gaza-hostage-returned-israel.html",
-    "summary": "The recovery of Master Sgt. Ran Gvili\u2019s body paves the way for the next stage of the Gaza cease-fire plan, though the path forward is unclear.",
-    "timestamp": 1769468452.0,
-    "date": "Jan 26, 23:00"
-  },
-  {
-    "source": "New York Times",
-    "title": "Israel Says It Will Reopen Gaza-Egypt Border Crossing in Days",
-    "link": "https://www.nytimes.com/2026/01/26/world/middleeast/israel-gaza-egypt-rafah-crossing.html",
-    "summary": "The Rafah crossing will open at the end of Israel\u2019s search for the remains of the last captive in Gaza.",
-    "timestamp": 1769465957.0,
-    "date": "Jan 26, 22:19"
-  },
-  {
     "source": "BBC World",
     "title": "Trump abandons attack mode as Minneapolis shooting backlash grows",
     "link": "https://www.bbc.com/news/articles/ckgn9q1wp0yo?at_medium=RSS&at_campaign=rss",
     "summary": "The White House has shifted how it talks about Alex Pretti's killing as more Republicans express concern over the deadly encounter.",
     "timestamp": 1769462319.0,
     "date": "Jan 26, 21:18"
-  },
-  {
-    "source": "New York Times",
-    "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate",
-    "link": "https://www.nytimes.com/2026/01/26/world/middleeast/us-warships-gulf-waters-iran-retaliation-threats.html",
-    "summary": "Iran and its militia allies say they will respond aggressively in the region if attacked. A U.S. aircraft carrier and warships are approaching the region.",
-    "timestamp": 1769460647.0,
-    "date": "Jan 26, 20:50"
   },
   {
     "source": "The Guardian",
@@ -1536,36 +1560,12 @@
     "date": "Jan 26, 18:26"
   },
   {
-    "source": "New York Times",
-    "title": "In Xi\u2019s China, Top General\u2019s Fall Shows Precariousness of Power",
-    "link": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html",
-    "summary": "A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping\u2019s military. Now he has been accused of disloyalty to Mr. Xi.",
-    "timestamp": 1769446355.0,
-    "date": "Jan 26, 16:52"
-  },
-  {
-    "source": "New York Times",
-    "title": "In Venezuela, Freeing the Economy, but Nothing Else",
-    "link": "https://www.nytimes.com/2026/01/26/world/americas/venezuela-economy-rodriguez.html",
-    "summary": "Interim leader Delcy Rodr\u00edguez is liberalizing the economy without dismantling her predecessor\u2019s repressive apparatus, raising questions about her aims.",
-    "timestamp": 1769444528.0,
-    "date": "Jan 26, 16:22"
-  },
-  {
     "source": "The Guardian",
     "title": "Hundreds feared dead in attempt to cross Mediterranean during cyclone",
     "link": "https://www.theguardian.com/world/2026/jan/26/hundreds-feared-dead-after-attempting-to-cross-mediterranean-amid-cyclone-harry",
     "summary": "<p>Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week</p><p>Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone...",
     "timestamp": 1769439276.0,
     "date": "Jan 26, 14:54"
-  },
-  {
-    "source": "New York Times",
-    "title": "Shift to Drone Fighting in Ukraine War Means No Winter Lull",
-    "link": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
-    "summary": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields.",
-    "timestamp": 1769438236.0,
-    "date": "Jan 26, 14:37"
   },
   {
     "source": "The Guardian",
