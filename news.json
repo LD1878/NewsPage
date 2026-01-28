@@ -1,18 +1,162 @@
 [
   {
-    "source": "BBC World",
-    "title": "South Korea's ex-first lady jailed 20 months for bribery",
-    "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
-    "summary": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
-    "timestamp": 1769584619.0,
-    "date": "Jan 28, 07:16"
+    "source": "CNBC",
+    "title": "SK Hynix smashes earnings estimates as AI memory demand drives record profit",
+    "link": "https://www.cnbc.com/2026/01/28/sk-hynix-smashes-earnings-estimates-as-ai-memory-demand-drives-record-profit.html",
+    "summary": "South Korea's SK Hynix on Wednesday posted record quarterly revenue and profit, to beat estimates.",
+    "timestamp": 1769588432.0,
+    "date": "Jan 28, 08:20"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Japan-born pandas Xiao Xiao and Lei Lei arrive in China as bilateral ties freeze",
+    "link": "https://www.channelnewsasia.com/east-asia/japan-china-panda-xiao-xiao-lei-lei-arrive-sichuan-5890116",
+    "summary": "Japan-born Xiao Xiao and Lei Lei have \"made a positive contribution to promoting friendship between the peoples of the two countries\", said&nbsp;China's panda research base.",
+    "timestamp": 1769587860.0,
+    "date": "Jan 28, 08:11"
   },
   {
     "source": "CNBC",
-    "title": "Chip giant ASML posts record orders and upbeat 2026 guidance as AI boom continues",
+    "title": "Chip giant ASML surges 7% as AI boom fuels record orders and upbeat 2026 guidance",
     "link": "https://www.cnbc.com/2026/01/28/asml-q4-2025-earnings-report.html",
     "summary": "ASML is experiencing several tailwinds including an expectation of increased chipmaking capacity and continued demand for AI semiconductors.",
-    "timestamp": 1769584568.0,
+    "timestamp": 1769587718.0,
+    "date": "Jan 28, 08:08"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Rise and Fall of South Korean First Lady Kim Keon Hee",
+    "link": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
+    "summary": "Kim Keon Hee is the first former presidential spouse in South Korea to be convicted on a criminal charge. Her downfall began after her husband declared martial law.",
+    "timestamp": 1769587485.0,
+    "date": "Jan 28, 08:04"
+  },
+  {
+    "source": "BBC World",
+    "title": "Zelensky condemns Russian drone strike that killed five on passenger train",
+    "link": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Drones targeted a packed train in north-eastern Ukraine, officials say.",
+    "timestamp": 1769587476.0,
+    "date": "Jan 28, 08:04"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Indonesian government to evaluate MSCI request after stock index tumbled",
+    "link": "https://www.channelnewsasia.com/business/indonesian-government-evaluate-msci-request-after-stock-index-tumbled-5890626",
+    "summary": "",
+    "timestamp": 1769587431.0,
+    "date": "Jan 28, 08:03"
+  },
+  {
+    "source": "The Guardian",
+    "title": "\u2018Air conditioners are struggling\u2019: parts of NSW, Queensland and Victoria swelter amid tumbling heat records",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/28/temperature-records-in-nsw-and-queensland-expected-to-tumble-as-regional-towns-bake-in-40c-plus-temperatures",
+    "summary": "<p>Bushfires still burning out of control in Victoria after state\u2019s maximum daily temperature of 48.9C broke records on Tuesday</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2...",
+    "timestamp": 1769587395.0,
+    "date": "Jan 28, 08:03"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Top Malaysian football officials quit over foreign-born players scandal",
+    "link": "https://www.aljazeera.com/sports/2026/1/28/top-malaysian-football-officials-quit-over-foreign-born-players-scandal?traffic_source=rss",
+    "summary": "Resignations come amid scrutiny of Malaysian football after it fielded foreign-born players in its Asian Cup qualifiers.",
+    "timestamp": 1769586888.0,
+    "date": "Jan 28, 07:54"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "On a quest for Singapore\u2019s best pineapple tarts for Chinese New Year 2026",
+    "link": "https://www.channelnewsasia.com/dining/8days-tries-pineapple-tarts-chinese-new-year-recommends-5889976",
+    "summary": "Out of the 32 brands 8days.sg sampled, only eight ended up on the recommended list&nbsp;this Chinese New Year.&nbsp;",
+    "timestamp": 1769586540.0,
+    "date": "Jan 28, 07:49"
+  },
+  {
+    "source": "NPR",
+    "title": "Mexican president says her country has paused oil shipments to Cuba",
+    "link": "https://www.npr.org/2026/01/28/nx-s1-5691086/mexico-oil-shipments-cuba",
+    "summary": "Mexican President Claudia Sheinbaum said the pause was part of general fluctuations in oil supplies and that it was a \"sovereign decision\" not made under pressure from the United States.",
+    "timestamp": 1769586283.0,
+    "date": "Jan 28, 07:44"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "North Korea\u2019s Kim to outline plans to boost nuclear arsenal",
+    "link": "https://www.aljazeera.com/news/2026/1/28/north-koreas-kim-to-outline-plans-to-boost-nuclear-arsenal?traffic_source=rss",
+    "summary": "Pyongyang expected to release five-year development plan for defence and economy at upcoming congress.",
+    "timestamp": 1769586146.0,
+    "date": "Jan 28, 07:42"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Top Turkish diplomat says Iran ready to negotiate, warns against US attack",
+    "link": "https://www.aljazeera.com/news/2026/1/28/turkiyes-fm-hakan-fidan-says-iran-ready-to-negotiate-over-nuclear-file?traffic_source=rss",
+    "summary": "&#039;It&#039;s wrong to start the war again,&#039; Turkiye&#039;s foreign minister tells Al Jazeera amid escalating US-Iran tensions.",
+    "timestamp": 1769586034.0,
+    "date": "Jan 28, 07:40"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Scott Morrison accused of \u2018deeply ill-informed\u2019 attack on religious freedom after Islam speech",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/28/scott-morrison-muslim-speech-religious-freedoms-ntwnfb",
+    "summary": "<p>Former PM called for national register and accreditation for imams, sparking backlash from Muslim leaders</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/28/australi...",
+    "timestamp": 1769585977.0,
+    "date": "Jan 28, 07:39"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump says Alex Pretti shouldn\u2019t have been carrying a gun",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/trump-says-alex-pretti-shouldnt-have-been-carrying-a-gun?traffic_source=rss",
+    "summary": "US President Donald Trump said Alex Pretti shouldn\u2019t have been carrying a gun, even though he was legally armed.",
+    "timestamp": 1769585781.0,
+    "date": "Jan 28, 07:36"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Sussan Ley says David Littleproud rejected offer of talks this week after Coalition breakup",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/28/sussan-ley-says-david-littleproud-rejected-offer-of-talks-this-week-after-coalition-break-up",
+    "summary": "<p>Liberal leader proposed meeting \u2018without any preconditions\u2019 to discuss two parties\u2019 relationship after last week\u2019s split</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters...",
+    "timestamp": 1769585765.0,
+    "date": "Jan 28, 07:36"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Palestine Action Group plans \u2018national day of protest\u2019 as Herzog visit confirmed \u2013 as it happened",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/28/australia-news-live-anthony-albanese-timor-leste-heatwave-nsw-bushfires-victoria-weather-liberals-leadership-sussan-ley-andrew-hastie-angus-taylor-ntwnfb",
+    "summary": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/28/sussan-ley-says-david-littleproud-rejected-offer-of-talks-this-week-after-coalition-break-up\">S...",
+    "timestamp": 1769585708.0,
+    "date": "Jan 28, 07:35"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Muhyiddin says opposition bloc PN will abolish chairman post, with new \u2018presidential council\u2019 headed by Bersatu",
+    "link": "https://www.channelnewsasia.com/asia/malaysia-perikatan-nasional-pn-chairman-opposition-muhyiddin-yassin-bersatu-pas-5890396",
+    "summary": "Meanwhile, coalition partner Parti Islam Se-Malaysia (PAS) is set to lead the bloc\u2019s executive council.",
+    "timestamp": 1769585568.0,
+    "date": "Jan 28, 07:32"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "What\u2019s on the agenda at the ASEAN Foreign Ministers\u2019 Retreat in Cebu?",
+    "link": "https://www.channelnewsasia.com/asia/asean-foreign-ministers-retreat-meeting-cebu-agenda-preview-5890196",
+    "summary": "On their plate are unresolved challenges including the Myanmar crisis, alongside new uncertainties reshaping the global order.",
+    "timestamp": 1769585340.0,
+    "date": "Jan 28, 07:29"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Rubio set to warn of future military action if Venezuela's new leaders stray from US goals",
+    "link": "https://www.channelnewsasia.com/world/us-venezuela-rubio-warn-future-military-action-stray-goals-5890251",
+    "summary": "Secretary of State Marco Rubio says that the&nbsp;Trump administration is not ruling out&nbsp;additional force, if needed, following a raid to capture former President Nicolas Maduro early this month.",
+    "timestamp": 1769585160.0,
+    "date": "Jan 28, 07:26"
+  },
+  {
+    "source": "BBC World",
+    "title": "South Korea's ex-first lady jailed for 20 months for bribery",
+    "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
+    "timestamp": 1769584619.0,
     "date": "Jan 28, 07:16"
   },
   {
@@ -38,14 +182,6 @@
     "summary": "\"The pace of progress in AI is much faster than for previous technological revolutions,\" the Antrhopic CEO said in latest comments about AI's impact on jobs.",
     "timestamp": 1769584027.0,
     "date": "Jan 28, 07:07"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Australia news live: Sussan Ley says David Littleproud rejected offer for Coalition peace talks this week",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jan/28/australia-news-live-anthony-albanese-timor-leste-heatwave-nsw-bushfires-victoria-weather-liberals-leadership-sussan-ley-andrew-hastie-angus-taylor-ntwnfb",
-    "summary": "<p>Follow today\u2019s news live</p><ul><li><p>Analysis: <a href=\"https://www.theguardian.com/australia-news/2026/jan/28/sussan-ley-liberal-leadership-two-factors-working-in-her-favour\">Sussan Ley has two ...",
-    "timestamp": 1769583833.0,
-    "date": "Jan 28, 07:03"
   },
   {
     "source": "Al Jazeera",
@@ -114,9 +250,9 @@
   {
     "source": "CNA (Asia)",
     "title": "Djokovic through to Australian Open semi-finals after Musetti injury",
-    "link": "https://www.channelnewsasia.com/sport/djokovic-through-australian-open-semi-finals-after-musetti-injury-5890501",
+    "link": "https://www.channelnewsasia.com/sport/novak-djokovic-lorenzo-musetti-quit-australian-open-quarter-final-tennis-match-5890501",
     "summary": "",
-    "timestamp": 1769582950.0,
+    "timestamp": 1769582940.0,
     "date": "Jan 28, 06:49"
   },
   {
@@ -142,14 +278,6 @@
     "summary": "Palestinians &#039;desperate&#039; for Rafah crossing to open as prolonged closures compound widespread suffering, warns the UN.",
     "timestamp": 1769582296.0,
     "date": "Jan 28, 06:38"
-  },
-  {
-    "source": "New York Times",
-    "title": "The Rise and Fall of South Korean First Lady Kim Keon Hee",
-    "link": "https://www.nytimes.com/2026/01/28/world/asia/korea-first-lady-kim-keon-hee-jail.html",
-    "summary": "Kim Keon Hee was unlike any presidential spouse South Korea had seen. Her downfall, on corruption charges, came after her husband declared martial law.",
-    "timestamp": 1769582212.0,
-    "date": "Jan 28, 06:36"
   },
   {
     "source": "CNA (Asia)",
@@ -200,18 +328,18 @@
     "date": "Jan 28, 06:23"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "ASML Q4 bookings beat expectations as chipmakers order more to satisfy AI demand",
-    "link": "https://www.channelnewsasia.com/business/asml-q4-bookings-beat-expectations-chipmakers-order-more-satisfy-ai-demand-5890416",
-    "summary": "",
-    "timestamp": 1769581048.0,
-    "date": "Jan 28, 06:17"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "South Korea: Former first lady sentenced to jail for bribery",
     "link": "https://www.dw.com/en/south-korea-former-first-lady-sentenced-to-jail-for-bribery/a-75687451?maca=en-rss-en-all-1573-rdf",
     "summary": "A South Korean court has sentenced former first lady Kim Keon Hee to 20 months in prison for corruption.",
+    "timestamp": 1769581020.0,
+    "date": "Jan 28, 06:17"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Dutch tech giant ASML to cut around 1,700 jobs even as orders beat expectations",
+    "link": "https://www.channelnewsasia.com/business/asml-cut-1700-jobs-strong-q4-orders-ai-chip-demand-5890416",
+    "summary": "",
     "timestamp": 1769581020.0,
     "date": "Jan 28, 06:17"
   },
@@ -280,28 +408,12 @@
     "date": "Jan 28, 05:59"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Man caused fatal fire in HDB flat by charging PMD battery with incompatible device, gets jail",
-    "link": "https://www.channelnewsasia.com/singapore/22-man-charge-incompatible-pmd-kill-woman-jail-5890221",
-    "summary": "The judge said the young man had demonstrated an \"indifference\" to safety risks and a \"complete disregard\" for the safety of his fellow household occupants.",
-    "timestamp": 1769579940.0,
-    "date": "Jan 28, 05:59"
-  },
-  {
     "source": "Al Jazeera",
     "title": "India curbs \u2018grocery under 10 minutes\u2019. But riders must still fatally race",
     "link": "https://www.aljazeera.com/features/2026/1/28/india-curbs-grocery-under-10-minutes-but-riders-must-still-fatally-race?traffic_source=rss",
     "summary": "India tells platforms to curb 10-minute deliveries amid concerns for workers\u2019 safety but there&#039;s no incentive to comply.",
     "timestamp": 1769579929.0,
     "date": "Jan 28, 05:58"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "JERA considering how to utilise gas portfolio beyond Japan, says CEO",
-    "link": "https://www.channelnewsasia.com/business/jera-considering-how-utilise-gas-portfolio-beyond-japan-says-ceo-5890376",
-    "summary": "",
-    "timestamp": 1769579648.0,
-    "date": "Jan 28, 05:54"
   },
   {
     "source": "CNBC",
@@ -352,30 +464,6 @@
     "date": "Jan 28, 05:38"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "'Are we animals in the zoo?': Swiatek calls for player privacy at Australian Open",
-    "link": "https://www.channelnewsasia.com/sport/are-we-animals-in-zoo-swiatek-calls-player-privacy-australian-open-5890331",
-    "summary": "",
-    "timestamp": 1769578394.0,
-    "date": "Jan 28, 05:33"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Morning Bid: Trump's talk downs the dollar",
-    "link": "https://www.channelnewsasia.com/business/morning-bid-trumps-talk-downs-dollar-5890336",
-    "summary": "",
-    "timestamp": 1769578343.0,
-    "date": "Jan 28, 05:32"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Chelsea urge vigilance after two fans injured ahead of Napoli match",
-    "link": "https://www.channelnewsasia.com/sport/chelsea-urge-vigilance-after-two-fans-injured-ahead-napoli-match-5890316",
-    "summary": "",
-    "timestamp": 1769578120.0,
-    "date": "Jan 28, 05:28"
-  },
-  {
     "source": "The Guardian",
     "title": "Expectations grow for interest rate hike next week after Australia\u2019s inflation jumps to 3.8%",
     "link": "https://www.theguardian.com/australia-news/2026/jan/28/inflation-rate-australia-cpi-rates-abs-data",
@@ -384,27 +472,11 @@
     "date": "Jan 28, 05:22"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Nipah virus: What to know about the disease and the outbreak in India",
-    "link": "https://www.channelnewsasia.com/asia/nipah-virus-what-know-india-outbreak-5890026",
-    "summary": "Some countries in Asia have stepped up airport screening measures after Nipah virus cases emerged in India's West Bengal.",
-    "timestamp": 1769577120.0,
-    "date": "Jan 28, 05:12"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Is Trump\u2019s \u2018Board of Peace\u2019 an effort to curtail Europe\u2019s middle powers?",
     "link": "https://www.aljazeera.com/news/2026/1/28/trumps-board-of-peace-an-effort-to-curtail-middle-powers-says-expert?traffic_source=rss",
     "summary": "Most European countries have declined or demurred on their invitations to the US president&#039;s initiative to rebuild Gaza.",
     "timestamp": 1769577115.0,
-    "date": "Jan 28, 05:11"
-  },
-  {
-    "source": "The Guardian",
-    "title": "NSW school counsellor banned after having jelly shots and engaging in \u2018sexual contact\u2019 with students",
-    "link": "https://www.theguardian.com/australia-news/2026/jan/28/nsw-counsellor-victoria-worsley-banned-sexual-contact-students-ntwnfb",
-    "summary": "<p>Health Care Complaints Commission finds Victoria Worsley poses \u2018a significant and unacceptable risk\u2019</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">break...",
-    "timestamp": 1769577099.0,
     "date": "Jan 28, 05:11"
   },
   {
@@ -424,14 +496,6 @@
     "date": "Jan 28, 05:01"
   },
   {
-    "source": "The Guardian",
-    "title": "Nationals MP\u2019s challenge to Littleproud\u2019s leadership \u2018out of the blue\u2019 and doomed to fail, colleagues say",
-    "link": "https://www.theguardian.com/australia-news/2026/jan/28/colin-boyce-nationals-leadership-challenge-littleproud",
-    "summary": "<p>Colin Boyce to challenge for the leadership next week, saying party was at risk of going off \u2018political cliff\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/28/aus...",
-    "timestamp": 1769576091.0,
-    "date": "Jan 28, 04:54"
-  },
-  {
     "source": "Al Jazeera",
     "title": "UPS says it will shed 30,000 jobs in major cost-cutting drive",
     "link": "https://www.aljazeera.com/economy/2026/1/28/ups-says-it-will-shed-30000-jobs-in-major-cost-cutting-drive?traffic_source=rss",
@@ -441,10 +505,10 @@
   },
   {
     "source": "The Guardian",
-    "title": "China\u2019s ambassador warns Albanese reclaiming Port of Darwin will force Beijing to intervene",
-    "link": "https://www.theguardian.com/australia-news/2026/jan/28/china-ambassador-xiao-qian-port-darwin-warning",
-    "summary": "<p>Xiao Qian hits out at Labor\u2019s policy to force the Chinese-owned company Landbridge to sell its 99-year lease on the port</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/...",
-    "timestamp": 1769574141.0,
+    "title": "Stable genius? How a defective \u2018crying horse\u2019 toy went viral in China",
+    "link": "https://www.theguardian.com/world/2026/jan/28/viral-crying-horse-toy-china",
+    "summary": "<p>Toy becomes a popular symbol of workplace fatigue after manufacturing error gave it a frown instead of a smile</p><p>On 17 February China will celebrate the start of the year of the horse, the zodi...",
+    "timestamp": 1769574122.0,
     "date": "Jan 28, 04:22"
   },
   {
@@ -737,35 +801,11 @@
   },
   {
     "source": "CNBC",
-    "title": "Intel says it will match government's 'Trump Accounts' contribution to kids of employees",
-    "link": "https://www.cnbc.com/2026/01/27/intel-says-it-will-match-governments-trump-accounts-contribution.html",
-    "summary": "The 530A program, often called \"Trump Accounts,\" passed last year as part of the administration's \"big beautiful bill.\"",
-    "timestamp": 1769554524.0,
-    "date": "Jan 27, 22:55"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Trump says US will end support for Iraq if al-Maliki reinstated as PM",
-    "link": "https://www.aljazeera.com/news/2026/1/27/trump-says-us-will-end-support-for-iraq-if-al-maliki-reinstated-as-pm?traffic_source=rss",
-    "summary": "Al-Maliki has been nominated by the largest Shia bloc in parliament as its candidate for PM.",
-    "timestamp": 1769554200.0,
-    "date": "Jan 27, 22:50"
-  },
-  {
-    "source": "CNBC",
     "title": "The government is barreling toward a partial shutdown over DHS funding. Here's what to expect",
     "link": "https://www.cnbc.com/2026/01/27/us-government-shutdown-over-dhs-funding.html",
     "summary": "The U.S. government may partially shutdown on Saturday months after a record 43-day closure in 2025.",
     "timestamp": 1769553741.0,
     "date": "Jan 27, 22:42"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Mexico vows \u2018solidarity\u2019 with Cuba after oil shipment cancellation reports",
-    "link": "https://www.aljazeera.com/news/2026/1/27/mexico-vows-solidarity-with-cuba-after-oil-shipment-cancellation-report?traffic_source=rss",
-    "summary": "The president says Mexico&#039;s decision &#039;to sell or give oil to Cuba for humanitarian reasons&#039; was a &#039;sovereign&#039; one.",
-    "timestamp": 1769553510.0,
-    "date": "Jan 27, 22:38"
   },
   {
     "source": "NPR",
@@ -798,14 +838,6 @@
     "summary": "Nadia Massih is pleased to welcome Heather Mann, Project Officer at UNESCO\u2019s Section for Global Citizenship and Peace Education. On International Holocaust Remembrance Day, Ms. Mann shares her finding...",
     "timestamp": 1769552711.0,
     "date": "Jan 27, 22:25"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Rwanda sues UK over scrapped asylum seeker deal",
-    "link": "https://www.aljazeera.com/news/2026/1/27/rwanda-sues-uk-over-scrapped-asylum-seeker-deal?traffic_source=rss",
-    "summary": "Rwanda began the inter-state arbitration proceedings under the asylum partnership agreement in November.",
-    "timestamp": 1769552437.0,
-    "date": "Jan 27, 22:20"
   },
   {
     "source": "NPR",
@@ -856,14 +888,6 @@
     "date": "Jan 27, 22:01"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Benfica\u2019s Jose to kill Real with love, says Madrid boss \u2018like his child\u2019",
-    "link": "https://www.aljazeera.com/sports/2026/1/27/benficas-jose-to-kill-real-with-love-says-madrid-boss-like-his-child?traffic_source=rss",
-    "summary": "Fiery-tempered and fierce-tongued Jose Mourinho softens his tone as former club Real Madrid face crunch game in Benfica.",
-    "timestamp": 1769551056.0,
-    "date": "Jan 27, 21:57"
-  },
-  {
     "source": "France 24",
     "title": "Sensitive agricultural products excluded from EU - India trade deal",
     "link": "https://www.france24.com/en/tv-shows/business/20260127-sensitive-agricultural-products-excluded-from-eu-india-trade-deal",
@@ -909,14 +933,6 @@
     "link": "https://www.france24.com/en/fbi-s-kash-patel-falsely-claims-americans-cannot-bring-firearms-to-protests",
     "summary": "FBI Director Kash Patel was accused of not knowing the law, after falsely claiming protesters cannot carry firearms to demonstrations, following the killing of ICU nurse Alex Pretti by ICE agents in M...",
     "timestamp": 1769550493.0,
-    "date": "Jan 27, 21:48"
-  },
-  {
-    "source": "BBC World",
-    "title": "Zelensky condemns deadly Russian drone strike on passenger train",
-    "link": "https://www.bbc.com/news/articles/crkrpl4ngdzo?at_medium=RSS&at_campaign=rss",
-    "summary": "At least four people were killed when drones targeted a packed train in north-eastern Ukraine, officials say.",
-    "timestamp": 1769550489.0,
     "date": "Jan 27, 21:48"
   },
   {
@@ -1158,14 +1174,6 @@
     "summary": "Razer has announced the beta release of a new online customization tool compatible with several versions of its Huntsman V3 Pro keyboards at launch. Razer Synapse Web isn't a full replacement for the ...",
     "timestamp": 1769542699.0,
     "date": "Jan 27, 19:38"
-  },
-  {
-    "source": "NPR",
-    "title": "A crackdown on immigration is leading to a sharp drop in U.S. population growth",
-    "link": "https://www.npr.org/2026/01/27/nx-s1-5689943/population-growth-census-immigration-crackdown",
-    "summary": "A sharp drop in net immigration has led to a slowdown in U.S. population growth. The Census Bureau says the population grew only about half as fast in the year ending last June as it did the previous ...",
-    "timestamp": 1769541822.0,
-    "date": "Jan 27, 19:23"
   },
   {
     "source": "France 24",
@@ -1422,14 +1430,6 @@
     "summary": "<p>Mother whose visa application was pending says she will send girl back to US soon accompanied by another relative</p><p>Five-year-old G\u00e9nesis Ester Guti\u00e9rrez Castellanos misses her cousins, classma...",
     "timestamp": 1769524468.0,
     "date": "Jan 27, 14:34"
-  },
-  {
-    "source": "The Guardian",
-    "title": "\u2018I lost part of my heart\u2019: last of Japan\u2019s pandas leave for China as ties fray",
-    "link": "https://www.theguardian.com/world/2026/jan/27/last-of-japan-pandas-leave-china",
-    "summary": "<p>Hundreds at zoo in Tokyo say farewell to Lei Lei and Xiao Xiao, as China ends \u2018panda diplomacy\u2019 with Japan</p><p>Hundreds of people have gathered to say farewell to two popular pandas departing Tok...",
-    "timestamp": 1769524428.0,
-    "date": "Jan 27, 14:33"
   },
   {
     "source": "BBC World",
