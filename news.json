@@ -1,5 +1,333 @@
 [
   {
+    "source": "CNBC",
+    "title": "Meta shares jump 10% on stronger-than-expected revenue forecast",
+    "link": "https://www.cnbc.com/2026/01/28/meta-q4-earnings-report-2025.html",
+    "summary": "Meta\u00a0reported fourth-quarter earnings on Wednesday\u00a0that topped estimates and issued\u00a0stronger-than-expected sales guidance.",
+    "timestamp": 1769639009.0,
+    "date": "Jan 28, 22:23"
+  },
+  {
+    "source": "CNBC",
+    "title": "Microsoft shows gain on OpenAI investment after restructuring as cloud growth slows",
+    "link": "https://www.cnbc.com/2026/01/28/microsoft-msft-q2-earnings-report-2026.html",
+    "summary": "Microsoft\u2019s finances look more favorable after OpenAI completed a restructuring.",
+    "timestamp": 1769638903.0,
+    "date": "Jan 28, 22:21"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Monaco and Juventus through after subdued goalless draw",
+    "link": "https://www.channelnewsasia.com/sport/monaco-and-juventus-through-after-subdued-goalless-draw-5892326",
+    "summary": "",
+    "timestamp": 1769638680.0,
+    "date": "Jan 28, 22:18"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Urban Jurgensen revival: The 252-year-old Danish watch brand enters a new golden age",
+    "link": "https://www.channelnewsasia.com/obsessions/urban-jurgensen-comeback-danish-watch-brand-5881631",
+    "summary": "Once known only to connoisseurs, the independent maison is back in the spotlight, thanks to the unlikely pairing of Finnish master watchmaker, Kari Voutilainen, and American creative from outside the ...",
+    "timestamp": 1769638625.0,
+    "date": "Jan 28, 22:17"
+  },
+  {
+    "source": "CNBC",
+    "title": "Southwest Airlines forecasts surge in 2026 profits after new seat, bag fees take hold",
+    "link": "https://www.cnbc.com/2026/01/28/southwest-airlines-luv-4q-2025-earnings.html",
+    "summary": "",
+    "timestamp": 1769638571.0,
+    "date": "Jan 28, 22:16"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "PSG and Newcastle United face playoffs after Champions League draw",
+    "link": "https://www.channelnewsasia.com/sport/psg-and-newcastle-united-face-playoffs-after-champions-league-draw-5892331",
+    "summary": "",
+    "timestamp": 1769638562.0,
+    "date": "Jan 28, 22:16"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Barcelona beat Copenhagen 4-1 to book last-16 spot",
+    "link": "https://www.channelnewsasia.com/sport/barcelona-beat-copenhagen-4-1-book-last-16-spot-5892336",
+    "summary": "",
+    "timestamp": 1769638500.0,
+    "date": "Jan 28, 22:15"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Man City clinch Champions League last-16 spot with win over Galatasaray",
+    "link": "https://www.channelnewsasia.com/sport/man-city-clinch-champions-league-last-16-spot-win-over-galatasaray-5892341",
+    "summary": "",
+    "timestamp": 1769638431.0,
+    "date": "Jan 28, 22:13"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Bodo/Glimt reach Champions League knockouts after 2-1 comeback win at Atletico Madrid",
+    "link": "https://www.channelnewsasia.com/sport/bodoglimt-reach-champions-league-knockouts-after-2-1-comeback-win-atletico-madrid-5892301",
+    "summary": "",
+    "timestamp": 1769638373.0,
+    "date": "Jan 28, 22:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Liverpool thrash Qarabag 6-0 to cruise through",
+    "link": "https://www.channelnewsasia.com/sport/liverpool-thrash-qarabag-6-0-cruise-through-5892306",
+    "summary": "",
+    "timestamp": 1769638309.0,
+    "date": "Jan 28, 22:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "ServiceNow falls 4% despite better-than-expected fourth-quarter results",
+    "link": "https://www.cnbc.com/2026/01/28/servicenow-now-q4-2025-earnings-report.html",
+    "summary": "ServiceNow announced an expanded partnership with Anthropic about a week after it inked a similar deal with competitor OpenAI.",
+    "timestamp": 1769638287.0,
+    "date": "Jan 28, 22:11"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Kane nets late winner as Bayern end PSV\u2019s hopes with away win",
+    "link": "https://www.channelnewsasia.com/sport/kane-nets-late-winner-bayern-end-psvs-hopes-away-win-5892311",
+    "summary": "",
+    "timestamp": 1769638272.0,
+    "date": "Jan 28, 22:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "Stocks making the biggest moves after hours: Microsoft, Meta, Tesla, Southwest Airlines and more",
+    "link": "https://www.cnbc.com/2026/01/28/stocks-making-the-biggest-moves-after-hours-msft-meta-tsla-luv.html",
+    "summary": "These are the stocks posting the largest moves in extended trading.",
+    "timestamp": 1769638055.0,
+    "date": "Jan 28, 22:07"
+  },
+  {
+    "source": "CNBC",
+    "title": "Powell says Cook Supreme Court case is the most important in the Fed's 113-year history",
+    "link": "https://www.cnbc.com/2026/01/28/powell-cook-fed-court-case.html",
+    "summary": "Treasury Secretary Scott Bessent has called Powell's decision to attend a \"mistake,\" accusing Powell of politicizing the case.",
+    "timestamp": 1769637959.0,
+    "date": "Jan 28, 22:05"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Napoli out of Champions League after 3-2 loss to Chelsea who seal last 16 spot",
+    "link": "https://www.channelnewsasia.com/sport/napoli-out-champions-league-after-3-2-loss-chelsea-who-seal-last-16-spot-5892296",
+    "summary": "",
+    "timestamp": 1769637871.0,
+    "date": "Jan 28, 22:04"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: Coalition \u2018can and should reform\u2019, Paterson says; Aly condemns Morrison\u2019s Islam speech as \u2018abhorrent\u2019",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/29/victoria-bushfires-weather-nsw-protest-laws-coalition-split-sussan-ley-david-littleproud-ntwnfb",
+    "summary": "<p>Shadow finance minister backs Sussan Ley as Liberal leader, saying she has \u2018majority\u2019 party room backing. Follow the latest updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/e...",
+    "timestamp": 1769637862.0,
+    "date": "Jan 28, 22:04"
+  },
+  {
+    "source": "CNBC",
+    "title": "Carvana shares fall 14% following short-seller accusations",
+    "link": "https://www.cnbc.com/2026/01/28/carvana-shares-fall-14percent-following-short-seller-accusations.html",
+    "summary": "Carvana shares closed Wednesday at $410.04, down 14.2% following short-seller accusations of the online used retailer overstating earnings.",
+    "timestamp": 1769637702.0,
+    "date": "Jan 28, 22:01"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "India wants a seat at the global chip table - what\u2019s standing in its way?",
+    "link": "https://www.channelnewsasia.com/india-global-chip-semiconductor-us-export-controls-china-dependence-5890986",
+    "summary": "India wants to reduce its dependence on foreign chips as geopolitics reshape supply chains. In the first of a two-part series on India\u2019s AI push, CNA examines the execution gaps behind years of failed...",
+    "timestamp": 1769637600.0,
+    "date": "Jan 28, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Despite vision loss, she still declutters rental flats to restore dignity to hoarders\u2019 homes",
+    "link": "https://www.channelnewsasia.com/cna-insider/fion-phua-keeping-hope-alive-declutters-rental-flats-hoarders-5890601",
+    "summary": "Fion Phua has been offering help, from household chores to serious decluttering, to vulnerable residents for 40 years. She tells CNA\u2019s On The Red Dot why she cannot look away from their living conditi...",
+    "timestamp": 1769637600.0,
+    "date": "Jan 28, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: India-EU\u2019s \u2018mother of all deals\u2019 is much more than just a trade pact",
+    "link": "https://www.channelnewsasia.com/commentary/india-european-union-trade-deal-significance-5888286",
+    "summary": "The sprawling trade deal sends a positive message in support of rules-based global trade at a time when that appears to be increasingly under strain, says Amitendu Palit from the National University o...",
+    "timestamp": 1769637600.0,
+    "date": "Jan 28, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Pen, paper and 30 years of practice: Older GPs worry mandatory digital records may push them to retirement",
+    "link": "https://www.channelnewsasia.com/singapore/clinics-gp-paper-digital-records-nehr-5886136",
+    "summary": "As Singapore mandates digital health records for all clinics, veteran general practitioners face a difficult choice: invest in new systems or hang up their stethoscopes for good.",
+    "timestamp": 1769637600.0,
+    "date": "Jan 28, 22:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "Tesla to invest $2 billion in xAI, Elon Musk's OpenAI competitor",
+    "link": "https://www.cnbc.com/2026/01/28/tesla-to-invest-2-billion-in-xai-elon-musks-openai-competitor.html",
+    "summary": "In its earnings report on Wednesday, Tesla said it invested $2 billion in xAI, Elon Musk's artificial intelligence startup.",
+    "timestamp": 1769637591.0,
+    "date": "Jan 28, 21:59"
+  },
+  {
+    "source": "CNBC",
+    "title": "Here are the five key takeaways from Wednesday's Fed rate decision",
+    "link": "https://www.cnbc.com/2026/01/28/here-are-the-five-key-takeaways-from-wednesdays-fed-rate-decision.html",
+    "summary": "The Federal Reserve wrapped up a two-day policy meeting Wednesday, delivering pretty much what the market expected.",
+    "timestamp": 1769637589.0,
+    "date": "Jan 28, 21:59"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: Laws alone cannot deal with Grok and sexualised AI images",
+    "link": "https://www.channelnewsasia.com/commentary/ai-sexualised-image-deepfake-women-regulate-grok-x-5890766",
+    "summary": "If we allow the Grok scandal to pass, younger generations will grow up in a digital environment where violation is a risk to be managed, not prevented, says How Kay Lii of SHE.",
+    "timestamp": 1769637540.0,
+    "date": "Jan 28, 21:59"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Tottenham reach Champions League last-16 with win in Frankfurt",
+    "link": "https://www.channelnewsasia.com/sport/tottenham-reach-champions-league-last-16-win-in-frankfurt-5892276",
+    "summary": "",
+    "timestamp": 1769637470.0,
+    "date": "Jan 28, 21:57"
+  },
+  {
+    "source": "BBC World",
+    "title": "Colombia launches search for missing plane carrying 15 people",
+    "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+    "summary": "Contact with the aircraft was lost just minutes before it was due to land in northern Colombia, state airline Satena says.",
+    "timestamp": 1769637272.0,
+    "date": "Jan 28, 21:54"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Tesla invested $2B in Elon Musk\u2019s xAI",
+    "link": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+    "summary": "Elon Musk's AI company xAI  disclosed earlier this month it had raised $20 billion.",
+    "timestamp": 1769637141.0,
+    "date": "Jan 28, 21:52"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "LA Mayor Bass says World Cup visitors welcome, urges White House to echo message",
+    "link": "https://www.channelnewsasia.com/sport/la-mayor-bass-says-world-cup-visitors-welcome-urges-white-house-echo-message-5892261",
+    "summary": "",
+    "timestamp": 1769637087.0,
+    "date": "Jan 28, 21:51"
+  },
+  {
+    "source": "New York Times",
+    "title": "Canada\u2019s New Reality",
+    "link": "https://www.nytimes.com/2026/01/28/world/canada-tariffs-trump-iran-threats.html",
+    "summary": "What can we learn from Canada\u2019s pivot away from the U.S.?",
+    "timestamp": 1769636922.0,
+    "date": "Jan 28, 21:48"
+  },
+  {
+    "source": "The Verge",
+    "title": "The best Xbox controller to buy right now",
+    "link": "https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s",
+    "summary": "We live in a golden age of controllers. The gamepads on the market now are of higher quality, more versatile, and more customizable than anything from even one console generation ago. If you play game...",
+    "timestamp": 1769636814.0,
+    "date": "Jan 28, 21:46"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Elon Musk teases a new image-labeling system for X\u2026 we think?",
+    "link": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
+    "summary": "Elon Musk says X will begin identifying \"manipulated media\" but doesn't share details.",
+    "timestamp": 1769636778.0,
+    "date": "Jan 28, 21:46"
+  },
+  {
+    "source": "CNBC",
+    "title": "Tesla tops estimates for quarter, but wraps up first annual revenue drop on record",
+    "link": "https://www.cnbc.com/2026/01/28/tesla-tsla-2025-q4-earnings.html",
+    "summary": "Tesla's earnings report comes weeks after Elon Musk's automaker reported another decline in vehicle deliveries.",
+    "timestamp": 1769636733.0,
+    "date": "Jan 28, 21:45"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump Threatens Iran With \u2018Massive Armada\u2019 and Presses a Set of Demands",
+    "link": "https://www.nytimes.com/2026/01/28/us/politics/trump-iran-armada.html",
+    "summary": "U.S. and European officials say they have put three demands in front of the Iranians, including a permanent end to all enrichment of uranium.",
+    "timestamp": 1769636681.0,
+    "date": "Jan 28, 21:44"
+  },
+  {
+    "source": "France 24",
+    "title": "Rubio details Trump administration's plan to control sale of Venezuelan oil",
+    "link": "https://www.france24.com/en/americas/20260128-rubio-details-trump-administration-plan-to-control-sale-of-venezuelan-oil",
+    "summary": "The Trump administration plans to handle the sale of tens of millions of barrels of oil from Venezuela and oversee where the money flows,\u00a0Secretary of State Marco Rubio told a Senate hearing on Wednes...",
+    "timestamp": 1769636367.0,
+    "date": "Jan 28, 21:39"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX is coming to the public markets, and secondaries are already on fire",
+    "link": "https://techcrunch.com/video/spacex-is-coming-to-the-public-markets-and-secondaries-are-already-on-fire/",
+    "summary": "paceX is&#160;reportedly lining&#160;up&#160;four major Wall Street banks&#160;for a&#160;2026 IPO&#160;that could provide the&#160;reset&#160;the market needs.&#160; The company just completed a tend...",
+    "timestamp": 1769636129.0,
+    "date": "Jan 28, 21:35"
+  },
+  {
+    "source": "CNBC",
+    "title": "Investors will have to wait a bit longer for any rate cuts this year",
+    "link": "https://www.cnbc.com/2026/01/28/investors-may-have-to-wait-a-bit-longer-for-any-rate-cuts-this-year.html",
+    "summary": "The Fed's first meeting of the year wrapped up Wednesday, showing a more hawkish consensus taking shape among policymakers.",
+    "timestamp": 1769636107.0,
+    "date": "Jan 28, 21:35"
+  },
+  {
+    "source": "France 24",
+    "title": "Fear in Sicilian town as vast landslide risks widening",
+    "link": "https://www.france24.com/en/fear-in-sicilian-town-as-vast-landslide-risks-widening",
+    "summary": "An area of the Sicilian town of Niscemi was declared off limits after a four-kilometre long stretch of the hillside collapsed on Sunday, forcing the evacuation of some 1,500 people. Though there were ...",
+    "timestamp": 1769635955.0,
+    "date": "Jan 28, 21:32"
+  },
+  {
+    "source": "The Verge",
+    "title": "Google adds Gemini AI-powered \u2018auto browse\u2019 to Chrome",
+    "link": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse",
+    "summary": "Google is launching a new \"auto browse\" feature inside Chrome that can perform multi-step tasks on your behalf. The Gemini AI-powered capability is coming to Google AI Pro and Ultra subscribers in the...",
+    "timestamp": 1769635927.0,
+    "date": "Jan 28, 21:32"
+  },
+  {
+    "source": "CNBC",
+    "title": "DoubleLine\u2019s Jeffrey Gundlach sees no more Fed rate cuts under Jerome Powell",
+    "link": "https://www.cnbc.com/2026/01/28/doublelines-jeffrey-gundlach-sees-no-more-fed-rate-cuts-under-jerome-powell.html",
+    "summary": "Powell has just two policy meetings left as chair \u2014 in March and April \u2014 before his term expires.",
+    "timestamp": 1769635884.0,
+    "date": "Jan 28, 21:31"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US Fed holds interest rates steady, defying Trump pressure",
+    "link": "https://www.channelnewsasia.com/business/stocks-us-fed-cut-rate-reserve-powell-trump-5892231",
+    "summary": "Officials vote 10-2 to keep rates at 3.50\u20133.75 per cent, awaiting more economic data.",
+    "timestamp": 1769635784.0,
+    "date": "Jan 28, 21:29"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Israel\u2019s top court delays Gaza press access ruling amid years-long ban",
+    "link": "https://www.aljazeera.com/news/2026/1/28/israels-top-court-delays-gaza-press-access-ruling-amid-years-long-ban?traffic_source=rss",
+    "summary": "Court gives Israeli government until March to justify ban on foreign media from Gaza.",
+    "timestamp": 1769635780.0,
+    "date": "Jan 28, 21:29"
+  },
+  {
     "source": "The Verge",
     "title": "Tesla says production-ready Optimus robot is coming soon",
     "link": "https://www.theverge.com/transportation/869746/tesla-optimus-gen-3-q1-2026-earnings",
@@ -8,28 +336,12 @@
     "date": "Jan 28, 21:28"
   },
   {
-    "source": "CNBC",
-    "title": "Meta shares rise on stronger-than-expected revenue forecast",
-    "link": "https://www.cnbc.com/2026/01/28/meta-q4-earnings-report-2025.html",
-    "summary": "Meta reported fourth-quarter earnings on Wednesday and provided stronger-than-expected sales guidance.",
-    "timestamp": 1769635706.0,
-    "date": "Jan 28, 21:28"
-  },
-  {
-    "source": "CNBC",
-    "title": "Microsoft shows gain on OpenAI investment after restructuring as cloud growth slows",
-    "link": "https://www.cnbc.com/2026/01/28/microsoft-msft-q2-earnings-report-2026.html",
-    "summary": "Microsoft\u2019s finances look more favorable after OpenAI completed a restructuring.",
-    "timestamp": 1769635667.0,
-    "date": "Jan 28, 21:27"
-  },
-  {
-    "source": "CNBC",
-    "title": "Tesla tops estimates for quarter, but wraps up first annual revenue drop on record",
-    "link": "https://www.cnbc.com/2026/01/28/tesla-tsla-2025-q4-earnings.html",
-    "summary": "Tesla's earnings report comes weeks after Elon Musk's automaker reported another decline in vehicle deliveries.",
-    "timestamp": 1769635659.0,
-    "date": "Jan 28, 21:27"
+    "source": "France 24",
+    "title": "Nigerian police fire tear gas, protester injured in Lagos floating slum protests",
+    "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
+    "summary": "In tonight's edition,\u00a0Nigerian police clash with crowds angry about the way that hundreds of homes have been demolished in the Makoko floating village. Also,\u00a0Kigali is suing the UK for the 100 million...",
+    "timestamp": 1769635429.0,
+    "date": "Jan 28, 21:23"
   },
   {
     "source": "The Verge",
@@ -40,26 +352,10 @@
     "date": "Jan 28, 21:23"
   },
   {
-    "source": "CNBC",
-    "title": "IBM jumps 9% on strong fourth-quarter results",
-    "link": "https://www.cnbc.com/2026/01/28/ibm-earnings-q4-2025.html",
-    "summary": "IBM CEO Arvind Krishna said the company's generative artificial intelligence book of business hit more than $12.5 billion.",
-    "timestamp": 1769635394.0,
-    "date": "Jan 28, 21:23"
-  },
-  {
-    "source": "CNBC",
-    "title": "ServiceNow reports better-than-expected fourth-quarter results",
-    "link": "https://www.cnbc.com/2026/01/28/servicenow-now-q4-2025-earnings-report.html",
-    "summary": "ServiceNow announced an expanded partnership with Anthropic about a week after it inked a similar deal with competitor OpenAI.",
-    "timestamp": 1769635284.0,
-    "date": "Jan 28, 21:21"
-  },
-  {
     "source": "TechCrunch",
-    "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman and other big names",
+    "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names",
     "link": "https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/",
-    "summary": "Outtake makes an agentic cybersecurity platform to help enterprises detect identity fraud. Its angel investors are a who's who.",
+    "summary": "Outtake makes an agentic cybersecurity platform to help enterprises detect identity fraud. Its angel investors read like a who's who of tech industry names.",
     "timestamp": 1769635132.0,
     "date": "Jan 28, 21:18"
   },
@@ -80,10 +376,18 @@
     "date": "Jan 28, 21:16"
   },
   {
+    "source": "Al Jazeera",
+    "title": "France says will support EU designation of Iran\u2019s IRGC as \u2018terrorist\u2019 group",
+    "link": "https://www.aljazeera.com/news/2026/1/28/france-says-will-support-eu-designation-of-irans-irgc-as-terrorist-group?traffic_source=rss",
+    "summary": "Foreign minister announces apparent reversal of France&#039;s stance, saying Iran protest crackdown &#039;cannot go unanswered&#039;.",
+    "timestamp": 1769634998.0,
+    "date": "Jan 28, 21:16"
+  },
+  {
     "source": "TechCrunch",
     "title": "Tesla profit tanked 46% in 2025",
     "link": "https://techcrunch.com/2026/01/28/tesla-earnings-profit-q4-2025/",
-    "summary": "The company's sales fell for a second year in a row despite CEO Elon Musk spending years promising 50% annual growth.",
+    "summary": "The company's sales fell for a second year in a row, as Tesla looks to AI and robotics, including a new $2 billion investment in CEO Elon Musk's company xAI.",
     "timestamp": 1769634971.0,
     "date": "Jan 28, 21:16"
   },
@@ -113,43 +417,11 @@
   },
   {
     "source": "The Verge",
-    "title": "Tesla hits a grim milestone: its second straight year of losses",
+    "title": "Tesla hits a grim milestone: its second straight year of decline",
     "link": "https://www.theverge.com/transportation/869603/tesla-q4-2025-earnings-revenue-profit-musk-robotaxis",
     "summary": "Tesla just reported its second consecutive year of declining revenue and profits, further complicating Elon Musk's $1 trillion effort to transform his company into a leader in AI and robotics. Meanwhi...",
     "timestamp": 1769634522.0,
     "date": "Jan 28, 21:08"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Australia news live: Liberal party room backs Ley\u2019s leadership and should \u2018keep the door open\u2019 to reforming Coalition with Nationals, Paterson says",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jan/29/victoria-bushfires-weather-nsw-protest-laws-coalition-split-sussan-ley-david-littleproud-ntwnfb",
-    "summary": "<p>Shadow finance minister says Coalition \u2018can and should reform, regardless of who is leading us\u2019. Follow the latest updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-news...",
-    "timestamp": 1769634478.0,
-    "date": "Jan 28, 21:07"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Tesla to invest $2 billion in Musk's xAI startup",
-    "link": "https://www.channelnewsasia.com/business/tesla-invest-2-billion-in-musks-xai-startup-5892191",
-    "summary": "",
-    "timestamp": 1769634451.0,
-    "date": "Jan 28, 21:07"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Meta expects annual capital expenditures to rise on superintelligence push",
-    "link": "https://www.channelnewsasia.com/business/meta-expects-annual-capital-expenditures-rise-superintelligence-push-5892196",
-    "summary": "",
-    "timestamp": 1769634403.0,
-    "date": "Jan 28, 21:06"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Microsoft edges past cloud growth expectations, fanning AI payoff worries",
-    "link": "https://www.channelnewsasia.com/business/microsoft-edges-past-cloud-growth-expectations-fanning-ai-payoff-worries-5892201",
-    "summary": "",
-    "timestamp": 1769634384.0,
-    "date": "Jan 28, 21:06"
   },
   {
     "source": "BBC World",
@@ -160,11 +432,11 @@
     "date": "Jan 28, 21:05"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Trump battles Minneapolis shooting fallout as agents put on leave",
-    "link": "https://www.channelnewsasia.com/world/minneapolis-us-agents-leave-trump-ice-immigration-agent-protest-5892156",
-    "summary": "The two US Immigration and Customs Enforcement (ICE) agents involved in the shooting of a man in Minneapolis have been put on leave.",
-    "timestamp": 1769634167.0,
+    "source": "France 24",
+    "title": "'Russia exaggerating gains in Ukraine to push for territorial concessions'",
+    "link": "https://www.france24.com/en/russia-exaggerating-gains-in-ukraine-to-push-for-territorial-concessions",
+    "summary": "Speaking with FRANCE 24's Mark Owen, Christina Harward, Russia Deputy Team Lead at the Institute for the Study of War, says that the 'Russian advances are coming at a literal foot-pace' and 'this is n...",
+    "timestamp": 1769634170.0,
     "date": "Jan 28, 21:02"
   },
   {
@@ -176,12 +448,12 @@
     "date": "Jan 28, 21:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Truth Social Funds plans acquisition of God Bless America ETF",
-    "link": "https://www.channelnewsasia.com/business/truth-social-funds-plans-acquisition-god-bless-america-etf-5892166",
-    "summary": "",
-    "timestamp": 1769633600.0,
-    "date": "Jan 28, 20:53"
+    "source": "France 24",
+    "title": "'25 years later we still lack the capacity to act together without the United States'",
+    "link": "https://www.france24.com/en/25-years-later-we-still-lack-the-capacity-to-act-together-without-the-united-states",
+    "summary": "French President Emmanuel Macron said Wednesday a standoff with the US over Greenland was \"a strategic wake-up call for all of Europe\", speaking alongside the leaders of Denmark and the Danish autonom...",
+    "timestamp": 1769633784.0,
+    "date": "Jan 28, 20:56"
   },
   {
     "source": "Al Jazeera",
@@ -208,20 +480,20 @@
     "date": "Jan 28, 20:47"
   },
   {
-    "source": "CNBC",
-    "title": "Powell says Cook Supreme Court case is the most important in the Fed's 113-year history",
-    "link": "https://www.cnbc.com/2026/01/28/powell-cook-fed-court-case.html",
-    "summary": "Federal Reserve Chair Jerome Powell  on Wednesday offered his first explanation into his decision to attend Fed Governor Lisa Cook's Supreme Court hearing.",
-    "timestamp": 1769632902.0,
-    "date": "Jan 28, 20:41"
-  },
-  {
     "source": "TechCrunch",
     "title": "Luminar sale approved despite last-minute mystery bid",
     "link": "https://techcrunch.com/2026/01/28/luminar-sale-approved-despite-last-minute-mystery-bid/",
     "summary": "An unidentified bidder submitted a Hail Mary offer that was \"substantially higher\" than the winning bid at auction. Founder Austin Russell has been circling a bid, but it's not clear he was behind it.",
     "timestamp": 1769632873.0,
     "date": "Jan 28, 20:41"
+  },
+  {
+    "source": "France 24",
+    "title": "American Tiktok users claim app is censoring \u2018Epstein\u2019 and ICE criticism",
+    "link": "https://www.france24.com/en/american-tiktok-users-claim-app-is-censoring-epstein-and-ice-criticism",
+    "summary": "Tiktok recently changed hands in the US, giving a consortium of mainly American investors - run by Trump ally Larry Ellison - control of its US operations. Since then, American Tiktok users claim that...",
+    "timestamp": 1769632761.0,
+    "date": "Jan 28, 20:39"
   },
   {
     "source": "CNBC",
@@ -232,28 +504,12 @@
     "date": "Jan 28, 20:27"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Norris hails 'decent day' after first laps in new McLaren",
-    "link": "https://www.channelnewsasia.com/sport/norris-hails-decent-day-after-first-laps-in-new-mclaren-5892141",
-    "summary": "",
-    "timestamp": 1769631909.0,
-    "date": "Jan 28, 20:25"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Trump yanks permitting process from Democrats after California fires",
     "link": "https://www.aljazeera.com/news/2026/1/28/trump-yanks-permitting-process-from-democrats-after-california-fires?traffic_source=rss",
     "summary": "Democratic officials shot back that Trump has failed to deliver the federal funds needed for rebuilding efforts.",
     "timestamp": 1769631749.0,
     "date": "Jan 28, 20:22"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "US robotaxi group Waymo aims to launch in London by fourth quarter of 2026",
-    "link": "https://www.channelnewsasia.com/business/us-robotaxi-group-waymo-aims-launch-in-london-fourth-quarter-2026-5892121",
-    "summary": "",
-    "timestamp": 1769631176.0,
-    "date": "Jan 28, 20:12"
   },
   {
     "source": "Al Jazeera",
@@ -296,14 +552,6 @@
     "date": "Jan 28, 20:00"
   },
   {
-    "source": "CNBC",
-    "title": "Where to still find solid yields on cash as the Fed holds rate steady",
-    "link": "https://www.cnbc.com/2026/01/28/where-to-still-find-solid-yields-on-cash-as-the-fed-holds-rate-steady.html",
-    "summary": "Some money market funds yield over 3.5%, while certain certificates of deposit offer annual percentage yields of 4%.",
-    "timestamp": 1769630391.0,
-    "date": "Jan 28, 19:59"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "US Fed keeps rates unchanged despite Trump pressure",
     "link": "https://www.dw.com/en/us-fed-keeps-rates-unchanged-despite-trump-pressure/a-75703637?maca=en-rss-en-all-1573-rdf",
@@ -320,36 +568,12 @@
     "date": "Jan 28, 19:52"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Deutsche Bank, DWS eye stake in Fosun-controlled firm, Bloomberg News reports",
-    "link": "https://www.channelnewsasia.com/business/deutsche-bank-dws-eye-stake-in-fosun-controlled-firm-bloomberg-news-reports-5892101",
-    "summary": "",
-    "timestamp": 1769629717.0,
-    "date": "Jan 28, 19:48"
-  },
-  {
-    "source": "CNBC",
-    "title": "Fed has not yet complied with subpoenas as Powell probe continues: Source",
-    "link": "https://www.cnbc.com/2026/01/28/fed-powell-criminal-subpoenas-pirro.html",
-    "summary": "Federal Reserve Chair Jerome Powell says the criminal investigation resulted from frustration by President Donald Trump over interest rate decisions.",
-    "timestamp": 1769629445.0,
-    "date": "Jan 28, 19:44"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "UK's Keir Starmer visits China as Beijing courts US allies",
     "link": "https://www.dw.com/en/uk-s-keir-starmer-visits-china-as-beijing-courts-us-allies/a-75703333?maca=en-rss-en-all-1573-rdf",
     "summary": "Keir Starmer has arrived in China for the first trip by a British prime minister since 2018. He's the latest of a string of Western leaders to visit recently, with German Chancellor Friedrich Merz soo...",
     "timestamp": 1769629440.0,
     "date": "Jan 28, 19:44"
-  },
-  {
-    "source": "CNBC",
-    "title": "Crypto PAC Fairshake touts $193 million war chest as regulatory bill faces first vote",
-    "link": "https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html",
-    "summary": "\"With the midterms approaching, we are united behind our mission with Fairshake continuing to oppose anti-crypto politicians,\" the PAC's spokesperson said.",
-    "timestamp": 1769629281.0,
-    "date": "Jan 28, 19:41"
   },
   {
     "source": "NPR",
@@ -400,14 +624,6 @@
     "date": "Jan 28, 19:21"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Assailant convicted after Barron Trump calls London police to report crime he saw on video",
-    "link": "https://www.channelnewsasia.com/world/barron-donald-trump-call-london-police-russian-man-assault-5892071",
-    "summary": "A call from the US president's son helped UK police to arrest and convict a man for assault caught on a video call.",
-    "timestamp": 1769627991.0,
-    "date": "Jan 28, 19:19"
-  },
-  {
     "source": "Al Jazeera",
     "title": "FBI executes search warrant at Georgia election office over 2020 US vote",
     "link": "https://www.aljazeera.com/news/2026/1/28/fbi-executes-search-warrant-at-georgia-election-office-over-2020-us-vote?traffic_source=rss",
@@ -454,22 +670,6 @@
     "summary": "The organic kids' snack food company may debut as soon as next week. It has issued a price range for shares, an SEC filing shows.",
     "timestamp": 1769627364.0,
     "date": "Jan 28, 19:09"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Exclusive-White House set to meet with banks, crypto companies to broker legislation compromise",
-    "link": "https://www.channelnewsasia.com/business/exclusive-white-house-set-meet-banks-crypto-companies-broker-legislation-compromise-5892066",
-    "summary": "",
-    "timestamp": 1769627295.0,
-    "date": "Jan 28, 19:08"
-  },
-  {
-    "source": "CNBC",
-    "title": "Here's what changed in the new Fed statement",
-    "link": "https://www.cnbc.com/2026/01/28/january-fed-meeting-what-changed-in-new-statement-redline.html",
-    "summary": "This is a comparison of\u00a0Wednesday's\u00a0Federal Open Market Committee statement\u00a0with the one issued after\u00a0the Fed's\u00a0previous policymaking meeting in December.",
-    "timestamp": 1769627293.0,
-    "date": "Jan 28, 19:08"
   },
   {
     "source": "The Guardian",
@@ -544,14 +744,6 @@
     "date": "Jan 28, 18:58"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Syrian leader meets Putin, Russia eyes deal on military bases",
-    "link": "https://www.channelnewsasia.com/world/syria-kurds-turkey-military-russia-putin-bases-middle-east-moscow-5892016",
-    "summary": "Moscow seeks to preserve its remaining military presence as ties with Damascus are rebuilt.",
-    "timestamp": 1769626539.0,
-    "date": "Jan 28, 18:55"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Budapest mayor charged over Pride parade",
     "link": "https://www.dw.com/en/budapest-mayor-charged-over-pride-parade/a-75702827?maca=en-rss-en-all-1573-rdf",
@@ -584,28 +776,12 @@
     "date": "Jan 28, 18:26"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Paqueta moves to Flamengo\u00a0after West Ham agree fee",
-    "link": "https://www.channelnewsasia.com/sport/paqueta-moves-flamengo-after-west-ham-agree-fee-5891981",
-    "summary": "",
-    "timestamp": 1769624730.0,
-    "date": "Jan 28, 18:25"
-  },
-  {
     "source": "The Verge",
     "title": "Spotify says it paid out $11 billion in royalties in 2025",
     "link": "https://www.theverge.com/news/869523/spotify-11-billion-in-royalties",
     "summary": "Today, Spotify announced that it had paid out more than $11 billion to the music industry in 2025. It's an impressive-sounding number that's a full $1 billion more than it paid last year. And, accordi...",
     "timestamp": 1769624527.0,
     "date": "Jan 28, 18:22"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Former Masters champion Reed leaving LIV Golf, cleared for PGA Tour return",
-    "link": "https://www.channelnewsasia.com/sport/former-masters-champion-reed-leaving-liv-golf-cleared-pga-tour-return-5891961",
-    "summary": "",
-    "timestamp": 1769624474.0,
-    "date": "Jan 28, 18:21"
   },
   {
     "source": "Al Jazeera",
@@ -616,28 +792,12 @@
     "date": "Jan 28, 18:17"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Rubio touts progress with Venezuela's new leaders in Senate hearing",
-    "link": "https://www.channelnewsasia.com/world/venezuela-trump-rubio-us-senate-capitol-military-5891846",
-    "summary": "The US Secretary of State tells lawmakers relations are improving and military action is not expected.",
-    "timestamp": 1769624220.0,
-    "date": "Jan 28, 18:17"
-  },
-  {
     "source": "The Verge",
     "title": "Process Zero II will let you do a little processing, if you want",
     "link": "https://www.theverge.com/tech/869354/halide-mark-iii-process-zero-update",
     "summary": "Popular iPhone camera app Halide is debuting a major update today: Halide Mark III. It's been years in the making, and it'll be available as a \"Public Preview,\" letting users get their hands on new fe...",
     "timestamp": 1769623319.0,
     "date": "Jan 28, 18:01"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Exiled Sterling leaves Chelsea by mutual agreement",
-    "link": "https://www.channelnewsasia.com/sport/exiled-sterling-leaves-chelsea-mutual-agreement-5891911",
-    "summary": "",
-    "timestamp": 1769623219.0,
-    "date": "Jan 28, 18:00"
   },
   {
     "source": "TechCrunch",
@@ -680,14 +840,6 @@
     "date": "Jan 28, 17:37"
   },
   {
-    "source": "The Verge",
-    "title": "Apple\u2019s noise-canceling AirPods 4 are down to one of their best prices to date",
-    "link": "https://www.theverge.com/gadgets/869428/apple-airpods-4-active-noise-cancellation-deal-sale",
-    "summary": "The AirPods Pro 3 may be on sale for $199 ($50 off), but that\u2019s still a lot of money. If you want noise cancellation for less, fortunately you can buy the AirPods 4 with Active Noise Cancellation for ...",
-    "timestamp": 1769621806.0,
-    "date": "Jan 28, 17:36"
-  },
-  {
     "source": "BBC World",
     "title": "Deutsche Bank offices raided in money laundering probe",
     "link": "https://www.bbc.com/news/articles/cx20199qzj9o?at_medium=RSS&at_campaign=rss",
@@ -726,14 +878,6 @@
     "summary": "Wounded demonstrators tell the BBC they are relying on medics willing to risk their own safety by treating them at their homes.",
     "timestamp": 1769621288.0,
     "date": "Jan 28, 17:28"
-  },
-  {
-    "source": "CNBC",
-    "title": "Department of Energy announces new efforts to boost nuclear fuel supply chain",
-    "link": "https://www.cnbc.com/2026/01/28/energy-department-efforts-to-boost-nuclear-fuel-supply.html",
-    "summary": "The Department of Energy announced an initiative to build out the nation's nuclear fuel supply chain as interest in the emissions-free power source grows.",
-    "timestamp": 1769621199.0,
-    "date": "Jan 28, 17:26"
   },
   {
     "source": "CNBC",
@@ -782,22 +926,6 @@
     "summary": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
     "timestamp": 1769619830.0,
     "date": "Jan 28, 17:03"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "US seeks interest from states in nuclear waste and reprocessing sites",
-    "link": "https://www.channelnewsasia.com/business/us-seeks-interest-states-in-nuclear-waste-and-reprocessing-sites-5891826",
-    "summary": "",
-    "timestamp": 1769619778.0,
-    "date": "Jan 28, 17:02"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Williams say new F1 car now ready for testing",
-    "link": "https://www.channelnewsasia.com/sport/williams-say-new-f1-car-now-ready-testing-5891831",
-    "summary": "",
-    "timestamp": 1769619724.0,
-    "date": "Jan 28, 17:02"
   },
   {
     "source": "The Guardian",
@@ -905,7 +1033,7 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "LIVE: Benfica vs Real Madrid \u2013 UEFA Champions League",
+    "title": "LIVE: Benfica vs Real Madrid 4-2 \u2013 UEFA Champions League",
     "link": "https://www.aljazeera.com/sports/liveblog/2026/1/28/live-benfica-vs-real-madrid-uefa-champions-league-coverage-commentary-stream?traffic_source=rss",
     "summary": "Follow our live updates, with team news coverage, ahead of our text commentary stream of the UCL league-phase finale.",
     "timestamp": 1769616951.0,
@@ -976,14 +1104,6 @@
     "date": "Jan 28, 15:56"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Nearly 300 evacuated as luxury hotel in French Alps burns",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/nearly-300-evacuated-as-luxury-hotel-in-french-alps-burns?traffic_source=rss",
-    "summary": "A fire tore through a luxury hotel in Courchevel in the French Alps, forcing the evacuation of nearly 300 people.",
-    "timestamp": 1769615767.0,
-    "date": "Jan 28, 15:56"
-  },
-  {
     "source": "New York Times",
     "title": "In Kherson, Ukraine, Every Step Outside Risks Death by Drone",
     "link": "https://www.nytimes.com/2026/01/28/world/europe/kherson-ukraine-drones-russia.html",
@@ -1006,14 +1126,6 @@
     "summary": "A new report has gathered data on battlefield losses from the war in Ukraine, estimating total losses could reach 2 million by April.",
     "timestamp": 1769615580.0,
     "date": "Jan 28, 15:53"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Tyson Fury announces comeback fight in April against Arslanbek Makhmudov",
-    "link": "https://www.aljazeera.com/sports/2026/1/28/tyson-fury-announces-comeback-fight-in-april-against-arslanbek-makhmudov?traffic_source=rss",
-    "summary": "After months of speculation, the ex-heavyweight boxing champion has made his comeback official and will fight April 11.",
-    "timestamp": 1769615508.0,
-    "date": "Jan 28, 15:51"
   },
   {
     "source": "NPR",
@@ -1040,36 +1152,12 @@
     "date": "Jan 28, 15:44"
   },
   {
-    "source": "France 24",
-    "title": "Russia bears brunt of nearly two million casualties in Ukraine war, report says",
-    "link": "https://www.france24.com/en/russia-bears-brunt-of-nearly-two-million-casualties-in-ukraine-war-say-report",
-    "summary": "After nearly four years since Russia's full scale invasion of Ukraine, the war has caused nearly two million military casualties -- killed, wounded or missing -- on both sides, according to a study pu...",
-    "timestamp": 1769614961.0,
-    "date": "Jan 28, 15:42"
-  },
-  {
-    "source": "France 24",
-    "title": "Iran: \u2018Time is running out\u2019 to reach a deal, Trump says",
-    "link": "https://www.france24.com/en/iran-time-is-running-out-to-reach-a-deal-trump-says",
-    "summary": "US President #Trump is keeping the possibility of military action against #Iran on the table, warning that 'time is running out' for #Tehran to reach a deal, as internet access is partially restored a...",
-    "timestamp": 1769614898.0,
-    "date": "Jan 28, 15:41"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Inside the Philippines' struggle for rural health care",
     "link": "https://www.dw.com/en/inside-the-philippines-struggle-for-rural-health-care/a-75696434?maca=en-rss-en-all-1573-rdf",
     "summary": "The Philippines' \"doctors to the barrios\" model shows how workforce shortages, intersected with governance, financing and system design, reveal why rural care remains fragile despite years of reforms.",
     "timestamp": 1769614800.0,
     "date": "Jan 28, 15:40"
-  },
-  {
-    "source": "France 24",
-    "title": "Hamas says ready to transfer Gaza governance to Palestinian technocratic committee",
-    "link": "https://www.france24.com/en/middle-east/20260128-hamas-ready-transfer-gaza-governance-demands-full-reopening-rafah-crossing",
-    "summary": "Hamas is ready for a \"complete transfer of governance\" to a technocratic committee in the Gaza Strip,\u00a0a spokesman for the militant group told AFP on Wednesday, adding that the critical Rafah border cr...",
-    "timestamp": 1769614706.0,
-    "date": "Jan 28, 15:38"
   },
   {
     "source": "BBC World",
@@ -1096,14 +1184,6 @@
     "date": "Jan 28, 15:30"
   },
   {
-    "source": "The Verge",
-    "title": "Beyond Meat\u2019s protein soda might be its last chance and best hope",
-    "link": "https://www.theverge.com/science/869209/beyond-meat-immerse-protein-soda",
-    "summary": "Beyond Meat just launched a new product that's even further from meat than ever before: a protein soda. Beyond Immerse is the company's first product that makes no attempt to replicate meat whatsoever...",
-    "timestamp": 1769614135.0,
-    "date": "Jan 28, 15:28"
-  },
-  {
     "source": "BBC World",
     "title": "China trip will bring benefits to UK, Starmer insists, ahead of Xi meeting",
     "link": "https://www.bbc.com/news/articles/c4gw47prew7o?at_medium=RSS&at_campaign=rss",
@@ -1120,68 +1200,12 @@
     "date": "Jan 28, 15:22"
   },
   {
-    "source": "TechCrunch",
-    "title": "The AI infrastructure boom shows no sign of slowing down",
-    "link": "https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/",
-    "summary": "ASML\u2019s record orders show chipmakers are still betting big on AI data centers.",
-    "timestamp": 1769613695.0,
-    "date": "Jan 28, 15:21"
-  },
-  {
-    "source": "France 24",
-    "title": "German police search Deutsche Bank offices in money-laundering probe",
-    "link": "https://www.france24.com/en/business/20260128-german-police-search-deutsche-bank-offices-in-money-laundering-probe",
-    "summary": "German police searched Deutsche Bank's Frankfurt headquarters and its Berlin office on Wednesday as part of a money-laundering investigation.\u00a0Local media said the probe was connected to suspected offe...",
-    "timestamp": 1769613332.0,
-    "date": "Jan 28, 15:15"
-  },
-  {
-    "source": "France 24",
-    "title": "Killing of US citizens in Minneapolis 'a turning point', former US border chief says",
-    "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260128-killing-of-us-citizens-in-minneapolis-a-turning-point-former-us-border-chief-says",
-    "summary": "Gil Kerlikowske, who served as US Customs and Border Protection commissioner from 2014 to 2017 under President Barack Obama, told FRANCE 24 in an interview that the killing of protesters Renee Good an...",
-    "timestamp": 1769613152.0,
-    "date": "Jan 28, 15:12"
-  },
-  {
     "source": "New York Times",
     "title": "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On",
     "link": "https://www.nytimes.com/2026/01/28/world/europe/ukraine-train-attack.html",
     "summary": "One Ukrainian passenger, who escaped injury after stepping out of a carriage for a cigarette, recalled carrying a bloodied woman away from the burning train.",
     "timestamp": 1769613035.0,
     "date": "Jan 28, 15:10"
-  },
-  {
-    "source": "France 24",
-    "title": "Western alliance in the balance: Europe seeks renewed 'predictability from the US on trade, defence'",
-    "link": "https://www.france24.com/en/western-alliance-in-the-balance-europe-seeks-renewed-predictability-from-the-us-on-trade-defence",
-    "summary": "Delano D'Souza is pleased to welcome Ian Lesser, Author and Senior Director for Foreign and Security Policy at the German Marshall Fund (GMF). In the wake of high-level talks in Davos, amid tariff thr...",
-    "timestamp": 1769612949.0,
-    "date": "Jan 28, 15:09"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Standard Nuclear raises $140M as nuclear power enters its gold rush era",
-    "link": "https://techcrunch.com/2026/01/28/standard-nuclear-raises-140m-as-nuclear-power-enters-its-gold-rush-era/",
-    "summary": "Investors including a16z are betting that nuclear industry suppliers will be the big winners of the AI demand-driven nuclear renaissance.",
-    "timestamp": 1769612857.0,
-    "date": "Jan 28, 15:07"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "LinkedIn will let you show off your vibe-coding chops with a certificate",
-    "link": "https://techcrunch.com/2026/01/28/linkedin-will-let-you-show-off-your-vibe-coding-chops-with-a-certificate/",
-    "summary": "LinkedIn is partnering with Descript, Lovable, Replit, and Relay.app at launch.",
-    "timestamp": 1769612787.0,
-    "date": "Jan 28, 15:06"
-  },
-  {
-    "source": "CNBC",
-    "title": "Amazon laying off about 16,000 corporate workers in latest anti-bureaucracy push",
-    "link": "https://www.cnbc.com/2026/01/28/amazon-layoffs-anti-bureaucracy-ai.html",
-    "summary": "The layoffs mark the second round of mass cuts at Amazon since last October, when the company laid off roughly 14,000 employees across its corporate workforce.",
-    "timestamp": 1769612563.0,
-    "date": "Jan 28, 15:02"
   },
   {
     "source": "BBC World",
@@ -1305,7 +1329,7 @@
   },
   {
     "source": "The Guardian",
-    "title": "\u2018Not radical, it\u2019s fair\u2019: Australian households would receive compensation in proposed \u2018polluter pays levy\u2019 scheme",
+    "title": "\u2018Not radical, it\u2019s fair\u2019: Australian households would receive compensation in proposed \u2018polluter pays\u2019 levy scheme",
     "link": "https://www.theguardian.com/environment/2026/jan/29/australia-polluter-pays-levy-fossil-fuels-rod-sims-ross-garnaut-superpower-institute-report",
     "summary": "<p>Superpower Institute report fleshes out 2024 call from Labor heavyweight Ross Garnaut to re-embrace carbon pricing 12 years after Tony Abbott axed it</p><ul><li><p><a href=\"https://www.theguardian....",
     "timestamp": 1769605271.0,
@@ -1334,14 +1358,6 @@
     "summary": "Kim Keon Hee is the first former presidential spouse in South Korea to be convicted on a criminal charge. Her downfall began after her husband declared martial law.",
     "timestamp": 1769602986.0,
     "date": "Jan 28, 12:23"
-  },
-  {
-    "source": "BBC World",
-    "title": "Why China views the UK visit as part of something bigger",
-    "link": "https://www.bbc.com/news/articles/c3wz2x7ppz7o?at_medium=RSS&at_campaign=rss",
-    "summary": "Sir Keir Starmer is one of a number of world leaders heading to Beijing",
-    "timestamp": 1769602619.0,
-    "date": "Jan 28, 12:16"
   },
   {
     "source": "BBC World",
@@ -1518,22 +1534,6 @@
     "summary": "<p>Claudia Sheinbaum denied move was response to pressure from the US, after Trump said \u2018zero\u2019 oil would go to Cuba</p><p><a href=\"https://www.theguardian.com/world/mexico\">Mexico</a> has cancelled a ...",
     "timestamp": 1769540279.0,
     "date": "Jan 27, 18:57"
-  },
-  {
-    "source": "New York Times",
-    "title": "Board of Peace Set to Hand Trump Sweeping Powers Over Gaza",
-    "link": "https://www.nytimes.com/2026/01/27/world/middleeast/board-of-peace-trump-gaza.html",
-    "summary": "A draft resolution revealed some of the plans for the new international body, which met for the first time last week amid criticism from some U.S. allies.",
-    "timestamp": 1769537018.0,
-    "date": "Jan 27, 18:03"
-  },
-  {
-    "source": "New York Times",
-    "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds",
-    "link": "https://www.nytimes.com/2026/01/27/us/politics/russia-ukraine-casualties.html",
-    "summary": "The number of deaths, injuries and missing is approaching a grim milestone after nearly four years of fighting.",
-    "timestamp": 1769536451.0,
-    "date": "Jan 27, 17:54"
   },
   {
     "source": "The Guardian",
