@@ -1,11 +1,187 @@
 [
   {
     "source": "CNBC",
-    "title": "SK Hynix smashes earnings estimates as AI memory demand drives record profit",
+    "title": "SK Hynix doubles 2025 profit as AI memory shortages drive earnings beat",
     "link": "https://www.cnbc.com/2026/01/28/sk-hynix-smashes-earnings-estimates-as-ai-memory-demand-drives-record-profit.html",
     "summary": "South Korea's SK Hynix on Wednesday posted record quarterly revenue and profit, to beat estimates.",
-    "timestamp": 1769588432.0,
-    "date": "Jan 28, 08:20"
+    "timestamp": 1769592596.0,
+    "date": "Jan 28, 09:29"
+  },
+  {
+    "source": "The Verge",
+    "title": "Google just leaked a first look at Android for PC in action",
+    "link": "https://www.theverge.com/news/869142/google-leak-aluminium-os-android-pc-bug-report-video",
+    "summary": "We've been waiting months for our first look at Android running on a PC in Google's upcoming ChromeOS / Android hybrid platform, codenamed Aluminium OS. Now we've seen it in action, and have Google to...",
+    "timestamp": 1769592361.0,
+    "date": "Jan 28, 09:26"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Man who showed lewd phone note to teens on train gets jail",
+    "link": "https://www.channelnewsasia.com/singapore/man-jail-note-phone-lewd-5890716",
+    "summary": "The note stated: \"I like you\", \"Will you be with me?\", \"Hold my hand\" and a lewd phrase.",
+    "timestamp": 1769591989.0,
+    "date": "Jan 28, 09:19"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "\u2018Don\u2019t be afraid to learn\u2019: More seniors upskill, rejoin workforce as Singapore ages",
+    "link": "https://www.channelnewsasia.com/singapore/seniors-older-workers-upskill-rejoin-workforce-super-aged-society-5890641",
+    "summary": "According to SkillsFuture Singapore, those aged 60 and above make up about 22 per cent of people who go for training - higher than their share of the workforce.",
+    "timestamp": 1769591584.0,
+    "date": "Jan 28, 09:13"
+  },
+  {
+    "source": "France 24",
+    "title": "Iran executes man accused of spying for Israel, judiciary says",
+    "link": "https://www.france24.com/en/middle-east/20260128-iran-executes-man-accused-spying-israel-judiciary-says",
+    "summary": "Iran executed Hamidreza Sabet Esmailpour on Wednesday for spying for Israel, the judiciary's Mizan news agency said. Authorities arrested Esmailpour in April 2025 for allegedly passing information to ...",
+    "timestamp": 1769591580.0,
+    "date": "Jan 28, 09:13"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Malaysians lampoon minister over stress-gay link: \u2018They never work hard in parliament?\u2019",
+    "link": "https://www.channelnewsasia.com/asia/malaysia-religious-affairs-minister-gay-stress-5890701",
+    "summary": "Malaysian Religious Affairs Minister Zulkifli Hasan has come under fire for claiming in parliament that work stress turns people gay.",
+    "timestamp": 1769591580.0,
+    "date": "Jan 28, 09:13"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Elliott weighs tender offer for Toyota Industries, Nikkei reports",
+    "link": "https://www.channelnewsasia.com/business/elliott-weighs-tender-offer-toyota-industries-nikkei-reports-5890761",
+    "summary": "",
+    "timestamp": 1769591374.0,
+    "date": "Jan 28, 09:09"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Germany updates: Shots fired at police during car chase",
+    "link": "https://www.dw.com/en/germany-updates-shots-fired-at-police-during-car-chase/live-75687631?maca=en-rss-en-all-1573-rdf",
+    "summary": "Five people were lightly injured after shots were fired at police during a road pursuit that ended in a car crash Tuesday night. Meanwhile, Germany's parliament is set to mark Holocaust Remembrance Da...",
+    "timestamp": 1769591280.0,
+    "date": "Jan 28, 09:08"
+  },
+  {
+    "source": "BBC World",
+    "title": "Malaysia football officials quit over foreign-born players scandal",
+    "link": "https://www.bbc.com/news/articles/cdx4pdg9w2wo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Football Association of Malaysia executive committee has resigned to pave the way for reforms.",
+    "timestamp": 1769591193.0,
+    "date": "Jan 28, 09:06"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Drought in the east, floods in the south: Africa battered by climate change",
+    "link": "https://www.aljazeera.com/news/2026/1/28/drought-in-the-east-floods-in-the-south-africa-battered-by-climate-change?traffic_source=rss",
+    "summary": "Covering extreme drought and massive flooding in a matter of weeks shows one reporter the toll of the climate crisis.",
+    "timestamp": 1769590998.0,
+    "date": "Jan 28, 09:03"
+  },
+  {
+    "source": "France 24",
+    "title": "'We live in a world of genocide: 120 million forcibly displaced, triple the number after WWII'",
+    "link": "https://www.france24.com/en/we-live-in-a-world-of-genocide-120-million-forcibly-displaced-triple-the-number-after-wwii",
+    "summary": "Mark Owen is pleased to welcome Dr. Raz Segal, Program Director and Associate Professor of Holocaust and Genocide Studies at Stockton University. On International Holocaust Remembrance Day, Dr. Segal ...",
+    "timestamp": 1769590856.0,
+    "date": "Jan 28, 09:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Region on watch as India declares Nipah virus outbreak contained",
+    "link": "https://www.aljazeera.com/news/2026/1/28/india-says-deadly-nipah-virus-contained-after-two-cases-confirmed?traffic_source=rss",
+    "summary": "Several Asian countries have introduced screening measures for arrivals from India, as New Delhi seeks to dampen alarm.",
+    "timestamp": 1769590821.0,
+    "date": "Jan 28, 09:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Nipah virus: Singapore to conduct temperature screening at airport for flights from affected areas",
+    "link": "https://www.channelnewsasia.com/singapore/cda-monitoring-nipah-virus-infection-outbreak-india-5890681",
+    "summary": "The Manpower Ministry is also stepping up surveillance of newly arrived migrant workers from South Asia as part of the country's initial response to the Nipah virus outbreak in West Bengal.",
+    "timestamp": 1769590800.0,
+    "date": "Jan 28, 09:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Taiwan shows off F-16 jets rapid response amid tensions with China",
+    "link": "https://www.channelnewsasia.com/east-asia/taiwan-fighter-f16-fighter-jet-drill-training-china-tensions-5890526",
+    "summary": "",
+    "timestamp": 1769590740.0,
+    "date": "Jan 28, 08:59"
+  },
+  {
+    "source": "CNBC",
+    "title": "LVMH shares plummet 7% as fourth-quarter results lag competitors",
+    "link": "https://www.cnbc.com/2026/01/28/lvmh-earnings-shares-fall-luxury.html",
+    "summary": "LVMH shares plummeted Wednesday after the French luxury conglomerate reported mixed full-year earnings late Tuesday.",
+    "timestamp": 1769590713.0,
+    "date": "Jan 28, 08:58"
+  },
+  {
+    "source": "BBC World",
+    "title": "South Korea's ex-first lady jailed for 20 months for bribery",
+    "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
+    "timestamp": 1769589823.0,
+    "date": "Jan 28, 08:43"
+  },
+  {
+    "source": "France 24",
+    "title": "Champions League: PSG host Newcastle as they aim for top 8",
+    "link": "https://www.france24.com/en/tv-shows/sports/20260128-champions-league-psg-host-newcastle-they-aim-top-8",
+    "summary": "The final day of the Champions League kicks off on Wednesday, with 18 games taking place simultaneously. Paris Saint-Germain are currently in sixth place, while Newcastle are in seventh.",
+    "timestamp": 1769589725.0,
+    "date": "Jan 28, 08:42"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Video: Israeli settlers carry out arson attacks in occupied West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/video-israeli-settlers-carry-out-arson-attacks-in-occupied-west-bank?traffic_source=rss",
+    "summary": "Israeli settlers in the occupied West Bank have set fire to three villages in Masafer Yatta in the occupied West Bank.",
+    "timestamp": 1769589517.0,
+    "date": "Jan 28, 08:38"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Iraq faces return of ex-PM linked to 'Islamic State' rise",
+    "link": "https://www.dw.com/en/iraq-faces-return-of-ex-pm-linked-to-islamic-state-rise/a-75684321?maca=en-rss-en-all-1573-rdf",
+    "summary": "Ex-prime minister Nouri al-Maliki is often seen as responsible for sectarian tensions and military mismanagement that made the \"Islamic State\" possible in Iraq. He's just been nominated as Iraq's next...",
+    "timestamp": 1769589480.0,
+    "date": "Jan 28, 08:38"
+  },
+  {
+    "source": "France 24",
+    "title": "South Korea court sentences ex-first lady to 20 months in prison for corruption",
+    "link": "https://www.france24.com/en/asia-pacific/20260128-south-korea-ex-first-lady-sentenced-20-months-prison-corruption",
+    "summary": "A South Korean court on Wednesday sentenced the country's former first lady, Kim Keon Hee, to 20 months in prison for receiving bribes from the Unification Church. Her husband, who has been jailed sep...",
+    "timestamp": 1769589365.0,
+    "date": "Jan 28, 08:36"
+  },
+  {
+    "source": "CNBC",
+    "title": "Chip giant ASML surges 7% as AI boom fuels record orders and upbeat 2026 guidance",
+    "link": "https://www.cnbc.com/2026/01/28/asml-q4-2025-earnings-report.html",
+    "summary": "ASML is experiencing several tailwinds including an expectation of increased chipmaking capacity and continued demand for AI semiconductors.",
+    "timestamp": 1769588957.0,
+    "date": "Jan 28, 08:29"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Britain's Starmer heads to China as Western alliances face strain",
+    "link": "https://www.channelnewsasia.com/world/britains-starmer-heads-china-western-alliances-face-strain-5890531",
+    "summary": "",
+    "timestamp": 1769588541.0,
+    "date": "Jan 28, 08:22"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "South Sudan launches offensive against opposition forces: What to know",
+    "link": "https://www.aljazeera.com/news/2026/1/28/south-sudan-launches-offensive-against-opposition-forces-what-to-know?traffic_source=rss",
+    "summary": "UN warns against risk of mass violence after reports a senior military leader urged troops to kill civilians in Jonglei.",
+    "timestamp": 1769588297.0,
+    "date": "Jan 28, 08:18"
   },
   {
     "source": "CNA (Asia)",
@@ -16,12 +192,12 @@
     "date": "Jan 28, 08:11"
   },
   {
-    "source": "CNBC",
-    "title": "Chip giant ASML surges 7% as AI boom fuels record orders and upbeat 2026 guidance",
-    "link": "https://www.cnbc.com/2026/01/28/asml-q4-2025-earnings-report.html",
-    "summary": "ASML is experiencing several tailwinds including an expectation of increased chipmaking capacity and continued demand for AI semiconductors.",
-    "timestamp": 1769587718.0,
-    "date": "Jan 28, 08:08"
+    "source": "Al Jazeera",
+    "title": "Djokovic reaches Australian Open semifinal after Musetti retires injured",
+    "link": "https://www.aljazeera.com/sports/2026/1/28/djokovic-reaches-australian-open-semifinal-after-musetti-retires-injured?traffic_source=rss",
+    "summary": "Former champion Novak Djokovic is through to last 4 in Melbourne after frontrunner Lorenzo Musetti suffers groin injury.",
+    "timestamp": 1769587834.0,
+    "date": "Jan 28, 08:10"
   },
   {
     "source": "New York Times",
@@ -49,9 +225,9 @@
   },
   {
     "source": "The Guardian",
-    "title": "\u2018Air conditioners are struggling\u2019: parts of NSW, Queensland and Victoria swelter amid tumbling heat records",
+    "title": "\u2018Air conditioners are struggling\u2019: parts of NSW, Queensland and Victoria swelter as heat records tumble",
     "link": "https://www.theguardian.com/australia-news/2026/jan/28/temperature-records-in-nsw-and-queensland-expected-to-tumble-as-regional-towns-bake-in-40c-plus-temperatures",
-    "summary": "<p>Bushfires still burning out of control in Victoria after state\u2019s maximum daily temperature of 48.9C broke records on Tuesday</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2...",
+    "summary": "<p>Bushfires still burning out of control in Victoria as temperatures reached the high 40s in the west of NSW </p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/28/austra...",
     "timestamp": 1769587395.0,
     "date": "Jan 28, 08:03"
   },
@@ -129,10 +305,10 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Muhyiddin says opposition bloc PN will abolish chairman post, with new \u2018presidential council\u2019 headed by Bersatu",
+    "title": "Ex-PM Muhyiddin says Malaysia\u2019s opposition pact PN to abolish chairman post, introduce new \u2018councils\u2019",
     "link": "https://www.channelnewsasia.com/asia/malaysia-perikatan-nasional-pn-chairman-opposition-muhyiddin-yassin-bersatu-pas-5890396",
-    "summary": "Meanwhile, coalition partner Parti Islam Se-Malaysia (PAS) is set to lead the bloc\u2019s executive council.",
-    "timestamp": 1769585568.0,
+    "summary": "Parti&nbsp;Pribumi Bersatu Malaysia&nbsp;(Bersatu) will head the presidential council while coalition partner Parti Islam Se-Malaysia (PAS) is set to lead the bloc\u2019s executive council.",
+    "timestamp": 1769585520.0,
     "date": "Jan 28, 07:32"
   },
   {
@@ -153,15 +329,7 @@
   },
   {
     "source": "BBC World",
-    "title": "South Korea's ex-first lady jailed for 20 months for bribery",
-    "link": "https://www.bbc.com/news/articles/cevnppplkjjo?at_medium=RSS&at_campaign=rss",
-    "summary": "Kim Keon Hee was also ordered to return a Graff diamond necklace and pay back 12.85m won in cash.",
-    "timestamp": 1769584619.0,
-    "date": "Jan 28, 07:16"
-  },
-  {
-    "source": "BBC World",
-    "title": "Minnesota congresswoman Ilhan Omar attacked with unknown liquid during town hall",
+    "title": "Minnesota congresswoman Ilhan Omar attacked with unknown liquid at event",
     "link": "https://www.bbc.com/news/articles/cn9zpee3llxo?at_medium=RSS&at_campaign=rss",
     "summary": "Omar was uninjured and continued to speak at the event following the incident.",
     "timestamp": 1769584512.0,
@@ -280,27 +448,11 @@
     "date": "Jan 28, 06:38"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "T20 World Cup 2026: dates, past winners and prize money",
-    "link": "https://www.channelnewsasia.com/sport/t20-world-cup-2026-dates-past-winners-and-prize-money-5890481",
-    "summary": "",
-    "timestamp": 1769582187.0,
-    "date": "Jan 28, 06:36"
-  },
-  {
     "source": "Al Jazeera",
     "title": "As Western powers crack down on migrants, Spain embraces 500,000",
     "link": "https://www.aljazeera.com/news/2026/1/28/as-western-powers-crack-down-on-migrants-spain-embraces-500000?traffic_source=rss",
     "summary": "Madrid points to &#039;positive impact&#039; of migration as it moves to grant 500,000 undocumented people legal status.",
     "timestamp": 1769581960.0,
-    "date": "Jan 28, 06:32"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Top Malaysian football officials quit over foreign-born players scandal",
-    "link": "https://www.channelnewsasia.com/sports/malaysian-football-officials-quit-over-foreign-born-players-scandal-5890451",
-    "summary": "The Football Association of Malaysia was fined US$400,000 by FIFA for submitting false documents claiming that seven foreign-born players had Malaysian ancestry.",
-    "timestamp": 1769581920.0,
     "date": "Jan 28, 06:32"
   },
   {
@@ -320,44 +472,12 @@
     "date": "Jan 28, 06:25"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "South Korea court sentences ex-first lady Kim to jail for bribery",
-    "link": "https://www.channelnewsasia.com/east-asia/kim-keon-hee-south-korea-ex-first-lady-court-sentence-jail-bribery-5890046",
-    "summary": "The court cleared Kim Keon Hee on charges of \u200dstock price manipulation and \u2060violating the political funds act.",
-    "timestamp": 1769581380.0,
-    "date": "Jan 28, 06:23"
-  },
-  {
     "source": "Deutsche Welle",
-    "title": "South Korea: Former first lady sentenced to jail for bribery",
+    "title": "South Korea: Former First Lady sentenced to jail for bribery",
     "link": "https://www.dw.com/en/south-korea-former-first-lady-sentenced-to-jail-for-bribery/a-75687451?maca=en-rss-en-all-1573-rdf",
-    "summary": "A South Korean court has sentenced former first lady Kim Keon Hee to 20 months in prison for corruption.",
+    "summary": "A South Korean court has sentenced Kim Keon Hee, the wife of disgraced ex-president Yoon Suk Yeol, to 20 months in prison for corruption.",
     "timestamp": 1769581020.0,
     "date": "Jan 28, 06:17"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Dutch tech giant ASML to cut around 1,700 jobs even as orders beat expectations",
-    "link": "https://www.channelnewsasia.com/business/asml-cut-1700-jobs-strong-q4-orders-ai-chip-demand-5890416",
-    "summary": "",
-    "timestamp": 1769581020.0,
-    "date": "Jan 28, 06:17"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Actress-singer Tasha Low has no regrets about her K-pop trainee days, says she would still choose to go again",
-    "link": "https://www.channelnewsasia.com/entertainment/tasha-low-no-regrets-k-pop-trainee-days-5889846",
-    "summary": "The 32-year-old former Skarf member said she misses her time in Seoul, but is also glad that chapter of her life has passed.",
-    "timestamp": 1769581014.0,
-    "date": "Jan 28, 06:16"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Chanel couture gets a breath of fresh air",
-    "link": "https://www.channelnewsasia.com/obsessions/chanel-haute-couture-matthieu-blazy-debut-paris-5889261",
-    "summary": "Matthieu Blazy\u2019s Chanel couture debut rewired the house codes: sheer suits, featherlight texture and a dream-garden set in Paris.",
-    "timestamp": 1769580977.0,
-    "date": "Jan 28, 06:16"
   },
   {
     "source": "Al Jazeera",
@@ -389,14 +509,6 @@
     "link": "https://www.cnbc.com/2026/01/28/mining-stocks-have-rallied-the-jurys-out-on-whats-next.html",
     "summary": "Appetite for mining stocks has cooled over the past six months, according to a Citi note.",
     "timestamp": 1769580001.0,
-    "date": "Jan 28, 06:00"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Singaporean boy who recreated ISIS attacks, executions in Roblox and Gorebox gets restriction order",
-    "link": "https://www.channelnewsasia.com/singapore/boy-isis-attacks-executions-roblox-gorebox-isd-5890306",
-    "summary": "The boy is the third 14-year-old to be dealt with under the Internal Security Act for terrorism-related activities over the past two years.",
-    "timestamp": 1769580000.0,
     "date": "Jan 28, 06:00"
   },
   {
@@ -496,14 +608,6 @@
     "date": "Jan 28, 05:01"
   },
   {
-    "source": "Al Jazeera",
-    "title": "UPS says it will shed 30,000 jobs in major cost-cutting drive",
-    "link": "https://www.aljazeera.com/economy/2026/1/28/ups-says-it-will-shed-30000-jobs-in-major-cost-cutting-drive?traffic_source=rss",
-    "summary": "Package-delivery giant targets savings of $3bn in 2026 amid push to slash deliveries for Amazon.",
-    "timestamp": 1769574247.0,
-    "date": "Jan 28, 04:24"
-  },
-  {
     "source": "The Guardian",
     "title": "Stable genius? How a defective \u2018crying horse\u2019 toy went viral in China",
     "link": "https://www.theguardian.com/world/2026/jan/28/viral-crying-horse-toy-china",
@@ -544,14 +648,6 @@
     "date": "Jan 28, 03:26"
   },
   {
-    "source": "Al Jazeera",
-    "title": "US president talks up economy amid outrage over Minnesota killings",
-    "link": "https://www.aljazeera.com/economy/2026/1/28/trump-talks-up-strength-of-us-economy-in-advance-of-midterm-elections?traffic_source=rss",
-    "summary": "Trump attempts to shift focus to bread-and-butter issues\u00a0amid outcry\u00a0over two fatal shootings\u00a0by federal agents.",
-    "timestamp": 1769570198.0,
-    "date": "Jan 28, 03:16"
-  },
-  {
     "source": "BBC World",
     "title": "Mexico president asks South Korea for more BTS concerts",
     "link": "https://www.bbc.com/news/articles/cz7y2gy4p24o?at_medium=RSS&at_campaign=rss",
@@ -566,14 +662,6 @@
     "summary": "Rwanda accuses the UK of \"intransigence\" and says London owes it millions of pounds over a controversial migration agreement.",
     "timestamp": 1769569560.0,
     "date": "Jan 28, 03:06"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "US president praises Syrian leader al-Sharaa after offensive against SDF",
-    "link": "https://www.aljazeera.com/news/2026/1/28/trump-praises-syrian-president-al-sharaa-after-offensive-against-sdf?traffic_source=rss",
-    "summary": "Al-Sharaa is due in Moscow on Wednesday to meet with Russian President Vladimir Putin.",
-    "timestamp": 1769568893.0,
-    "date": "Jan 28, 02:54"
   },
   {
     "source": "NPR",
@@ -601,9 +689,9 @@
   },
   {
     "source": "BBC World",
-    "title": "Republicans criticise immigration force but steer clear of Trump attacks",
+    "title": "Republicans wrestle with immigration message after Minneapolis backlash",
     "link": "https://www.bbc.com/news/articles/cj3vp84j1l3o?at_medium=RSS&at_campaign=rss",
-    "summary": "Lawmakers are questioning the crackdown while anger grows over two citizens killed by federal agents.",
+    "summary": "Some lawmakers are questioning the crackdown as public anger grows over two citizens killed by federal agents.",
     "timestamp": 1769567366.0,
     "date": "Jan 28, 02:29"
   },
@@ -638,22 +726,6 @@
     "summary": "The Canadian prime minister said \"there's almost nothing normal in the US\" when asked about trade talks with Washington.",
     "timestamp": 1769563918.0,
     "date": "Jan 28, 01:31"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Minnesota Representative Ilhan Omar attacked during town hall meeting",
-    "link": "https://www.aljazeera.com/news/2026/1/28/minnesota-representative-ilhan-omar-attacked-during-town-hall-meeting?traffic_source=rss",
-    "summary": "Omar was sprayed with an unknown substance during the attack by a man, who was then tackled to the ground.",
-    "timestamp": 1769563762.0,
-    "date": "Jan 28, 01:29"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Russia-Ukraine war: List of key events, day 1,434",
-    "link": "https://www.aljazeera.com/news/2026/1/28/russia-ukraine-war-list-of-key-events-day-1434?traffic_source=rss",
-    "summary": "These are the key developments from day 1,434 of Russia\u2019s war on Ukraine.",
-    "timestamp": 1769563003.0,
-    "date": "Jan 28, 01:16"
   },
   {
     "source": "NPR",
@@ -880,18 +952,10 @@
     "date": "Jan 27, 22:04"
   },
   {
-    "source": "CNBC",
-    "title": "Trump says 'we're going to de-escalate a little bit' in Minnesota after Alex Pretti killing",
-    "link": "https://www.cnbc.com/2026/01/27/alex-pretti-trump-investigation-greg-bovino-homan-minnesota.html",
-    "summary": "Trump and the White House has sought to lower tensions over the shooting deaths of Alex Pretti and Renee Good in Minneapolis.",
-    "timestamp": 1769551260.0,
-    "date": "Jan 27, 22:01"
-  },
-  {
     "source": "France 24",
-    "title": "Sensitive agricultural products excluded from EU - India trade deal",
+    "title": "Sensitive agricultural products excluded from EU-India trade deal",
     "link": "https://www.france24.com/en/tv-shows/business/20260127-sensitive-agricultural-products-excluded-from-eu-india-trade-deal",
-    "summary": "The EU and India have hailed their new free trade agreement as \"the mother of all deals\".\u00a0 While the pact eliminates or significantly reduces tariffs on a vast majority of goods traded between the two...",
+    "summary": "The EU and India have hailed their new free trade agreement as \"the mother of all deals\". While the pact eliminates or significantly reduces tariffs on a vast majority of goods traded between the two ...",
     "timestamp": 1769550885.0,
     "date": "Jan 27, 21:54"
   },
@@ -913,9 +977,9 @@
   },
   {
     "source": "France 24",
-    "title": "Families of Kenyans lured into Russia-Ukraine war seek state intervention for repatriation",
+    "title": "Families of Kenyans lured into Russia-Ukraine war seek state help for repatriation",
     "link": "https://www.france24.com/en/families-of-kenyans-lured-into-russia-ukraine-war-seek-state-intervention-for-repatriation",
-    "summary": "In tonight's edition,\u00a0the families of Kenyans fighting for Russia in its invasion of Ukraine are demanding that their loved ones be brought back home. Also, white farmers in Zimbabwe hire a US lobbyin...",
+    "summary": "In tonight's edition: The families of Kenyans fighting for Russia in its invasion of Ukraine are demanding that their loved ones be brought back home. Also, White farmers in Zimbabwe hire a US lobbyin...",
     "timestamp": 1769550682.0,
     "date": "Jan 27, 21:51"
   },
@@ -1104,28 +1168,12 @@
     "date": "Jan 27, 20:01"
   },
   {
-    "source": "France 24",
-    "title": "London-based Persian TV aims to air 'truth' about Iran protests",
-    "link": "https://www.france24.com/en/london-based-persian-tv-aims-to-air-truth-about-iran-protests",
-    "summary": "It deems itself to be the voice of truth for all Iranians: 'Iran International' is a private Persian-language news channel based in London that has been declared a terrorist organisation by Tehran. Si...",
-    "timestamp": 1769544004.0,
-    "date": "Jan 27, 20:00"
-  },
-  {
     "source": "New York Times",
     "title": "ICE Agents Will Join Olympics Delegation in Italy. Many Italians are Angry.",
     "link": "https://www.nytimes.com/2026/01/27/world/europe/italy-ice-olympics.html",
     "summary": "The Italian government said it had requested clarification from American diplomats after D.H.S. said that ICE agents would help secure the U.S. Olympic delegation next week in northern Italy.",
     "timestamp": 1769543993.0,
     "date": "Jan 27, 19:59"
-  },
-  {
-    "source": "France 24",
-    "title": "Anger as branch of ICE to help with security at Winter Olympics in Italy",
-    "link": "https://www.france24.com/en/anger-as-branch-of-ice-to-help-with-security-at-winter-olympics-in-italy",
-    "summary": "A branch of the US Immigration and Customs Enforcement (ICE) will help with security for the Winter Olympics in Italy, it confirmed Tuesday, sparking anger and warnings they were not welcome. Reports ...",
-    "timestamp": 1769543903.0,
-    "date": "Jan 27, 19:58"
   },
   {
     "source": "New York Times",
@@ -1176,14 +1224,6 @@
     "date": "Jan 27, 19:38"
   },
   {
-    "source": "France 24",
-    "title": "The mother of all deals? EU and India sign trade deal two decades in the making",
-    "link": "https://www.france24.com/en/tv-shows/the-debate/20260127-the-mother-of-all-deals-eu-and-india-sign-trade-deal-two-decades-in-the-making",
-    "summary": "It has been described as the Mother Of All Deals. But will the accords struck between the EU and India lead to a wider sense of a Happy Family? The signing took place with predictable, and some might ...",
-    "timestamp": 1769541487.0,
-    "date": "Jan 27, 19:18"
-  },
-  {
     "source": "BBC World",
     "title": "US to send ICE agents to Winter Olympics, prompting Italian anger",
     "link": "https://www.bbc.com/news/articles/c5y29xzjdzvo?at_medium=RSS&at_campaign=rss",
@@ -1214,14 +1254,6 @@
     "summary": "Hightower's Stephanie Link lays out the case for Starbucks ahead of earnings Wednesday.",
     "timestamp": 1769539438.0,
     "date": "Jan 27, 18:43"
-  },
-  {
-    "source": "The Verge",
-    "title": "A former Netflix game studio went indie to reach more players",
-    "link": "https://www.theverge.com/entertainment/868711/spry-fox-netflix-game-studio-indie-spirit-crossing",
-    "summary": "When Netflix first acquired cozy game developer Spry Fox in 2022, it made a lot of sense. The studio had been around for over a decade and had several hits with mobile games like Triple Town and Alpha...",
-    "timestamp": 1769538600.0,
-    "date": "Jan 27, 18:30"
   },
   {
     "source": "TechCrunch",
@@ -1328,14 +1360,6 @@
     "date": "Jan 27, 17:08"
   },
   {
-    "source": "France 24",
-    "title": "Holocaust survivor, 93, bears witness for young 'messengers of peace'",
-    "link": "https://www.france24.com/en/europe/20260127-holocaust-survivor-lili-keller-rosenberg-bears-witness-messengers-of-peace",
-    "summary": "Lili Keller-Rosenberg has been sharing her story with young people for more than 40 years. Born into a French Jewish family with Hungarian origins, she was captured in Roubaix when she was 11 years ol...",
-    "timestamp": 1769533321.0,
-    "date": "Jan 27, 17:02"
-  },
-  {
     "source": "TechCrunch",
     "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
     "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
@@ -1400,14 +1424,6 @@
     "date": "Jan 27, 15:20"
   },
   {
-    "source": "BBC World",
-    "title": "Rwanda takes legal action against UK over axed migrant deal",
-    "link": "https://www.bbc.com/news/articles/czx32yxnvzro?at_medium=RSS&at_campaign=rss",
-    "summary": "The African nation argues it is owed payments but Downing Street says it will fight the case.",
-    "timestamp": 1769527058.0,
-    "date": "Jan 27, 15:17"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Germany's Green Party under pressure over Mercosur vote",
     "link": "https://www.dw.com/en/germany-s-green-party-under-pressure-over-mercosur-vote/a-75677747?maca=en-rss-en-all-1573-rdf",
@@ -1456,14 +1472,6 @@
     "date": "Jan 27, 13:19"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Plastic emissions could double health damage by 2040",
-    "link": "https://www.dw.com/en/plastic-emissions-could-double-health-damage-by-2040/a-75677138?maca=en-rss-en-all-1573-rdf",
-    "summary": "Plastic pollution could double its harm to human health in the coming decades if current production trends continue, according to a new study that links rising risks directly to the manufacture of new...",
-    "timestamp": 1769518440.0,
-    "date": "Jan 27, 12:54"
-  },
-  {
     "source": "BBC World",
     "title": "Sweden aims to lower age of criminal responsibility to 13 as gangs recruit children",
     "link": "https://www.bbc.com/news/articles/c4gw49gk13xo?at_medium=RSS&at_campaign=rss",
@@ -1478,14 +1486,6 @@
     "summary": "The long-awaited deal comes as both Delhi and Brussels contend with economic and geopolitical pressure from the US.",
     "timestamp": 1769516634.0,
     "date": "Jan 27, 12:23"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Flooding hammers Mozambique, southern African neighbors",
-    "link": "https://www.dw.com/en/flooding-hammers-mozambique-southern-african-neighbors/a-75673858?maca=en-rss-en-all-1573-rdf",
-    "summary": "Weeks of heavy rainfall have caused severe floods across southern Africa, with Mozambique and South Africa among the hardest hit. Rising water has destroyed infrastructure, affecting 1.3 million peopl...",
-    "timestamp": 1769512500.0,
-    "date": "Jan 27, 11:15"
   },
   {
     "source": "New York Times",
