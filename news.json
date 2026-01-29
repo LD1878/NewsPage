@@ -1,10 +1,170 @@
 [
   {
     "source": "CNBC",
+    "title": "Trump backs Senate government funding deal that includes DHS extension",
+    "link": "https://www.cnbc.com/2026/01/29/trump-congress-government-shutdown.html",
+    "summary": "",
+    "timestamp": 1769729008.0,
+    "date": "Jan 29, 23:23"
+  },
+  {
+    "source": "CNBC",
+    "title": "Amazon could invest up to $50 billion in OpenAI in coming weeks, source says",
+    "link": "https://www.cnbc.com/2026/01/29/amazon-openai-investment-jassy-altman.html",
+    "summary": "OpenAI CEO Sam Altman and Amazon CEO Andy Jassy have been speaking directly, according to a source familiar with the discussions.",
+    "timestamp": 1769728310.0,
+    "date": "Jan 29, 23:11"
+  },
+  {
+    "source": "BBC World",
+    "title": "Imran Khan not the only one silenced as Pakistan military stifles dissent",
+    "link": "https://www.bbc.com/news/articles/cwy82yp8xnno?at_medium=RSS&at_campaign=rss",
+    "summary": "The former PM may be silenced but he's far from the only one under pressure as the military stifles dissent.",
+    "timestamp": 1769728262.0,
+    "date": "Jan 29, 23:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "Apple sales surge 16% on \u2018staggering\u2019 iPhone demand",
+    "link": "https://www.cnbc.com/2026/01/29/apple-aapl-earnings-report-q1-2026.html",
+    "summary": "Apple reported fiscal first-quarter earnings on Thursday\u00a0that\u00a0surpassed\u00a0expectations, with revenue soaring\u00a016% on an annual basis.",
+    "timestamp": 1769728137.0,
+    "date": "Jan 29, 23:08"
+  },
+  {
+    "source": "New York Times",
+    "title": "Michael Beck, 65, Dies; First to Report Symptoms of \u2018Havana Syndrome\u2019",
+    "link": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
+    "summary": "As an employee with the N.S.A., he claimed he was exposed to a direct-energy device that led to a diagnosis of Parkinson\u2019s disease at age 45.",
+    "timestamp": 1769728026.0,
+    "date": "Jan 29, 23:07"
+  },
+  {
+    "source": "The Guardian",
+    "title": "News live: Australia closely monitoring Nipah virus spread overseas, Butler says; Nine sells talkback radio stations to Sydney pub billionaire",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/30/national-cabinet-meeting-ndis-health-funding-gun-buyback-scheme-anthony-albanese-mark-butler-labor-coalition-sussan-ley-ntwnfb",
+    "summary": "<p>Federal health minister says Australia has no protocols yet for sick travellers who arrive in country. Follow today\u2019s news updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/em...",
+    "timestamp": 1769727976.0,
+    "date": "Jan 29, 23:06"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Burkina Faso junta dissolves all political parties",
+    "link": "https://www.dw.com/en/burkina-faso-junta-dissolves-all-political-parties/a-75720851?maca=en-rss-en-all-1573-rdf",
+    "summary": "Political parties in Burkina Faso have already been banned from holding public events, but could still operate internally. Now, a decree dissolves them entirely.",
+    "timestamp": 1769727840.0,
+    "date": "Jan 29, 23:04"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "US Justice Department charges man with assault after Ilhan Omar town hall",
+    "link": "https://www.aljazeera.com/news/2026/1/29/us-justice-department-charges-man-with-assault-after-ilhan-omar-town-hall?traffic_source=rss",
+    "summary": "As part of the government&#039;s affidavit, an FBI agent testified to the suspect approaching Omar with a syringe.",
+    "timestamp": 1769727728.0,
+    "date": "Jan 29, 23:02"
+  },
+  {
+    "source": "BBC World",
+    "title": "Why China moved so quickly to execute 11 members of a notorious mafia family",
+    "link": "https://www.bbc.com/news/articles/cd6wegndnjlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The Ming family ran scam compounds along the Chinese border with Myanmar in Shan state.",
+    "timestamp": 1769727625.0,
+    "date": "Jan 29, 23:00"
+  },
+  {
+    "source": "New York Times",
+    "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
+    "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
+    "summary": "Bowing to Trump administration pressure, the new legislation improves conditions for foreign oil companies and opens the way to slash the taxes they pay.",
+    "timestamp": 1769727598.0,
+    "date": "Jan 29, 22:59"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "A coffee lover\u2019s guide to Tokyo: 5 cafes worth travelling for",
+    "link": "https://www.channelnewsasia.com/experiences/tokyo-cafes-coffee-shops-neighbourhood-guide-5888036",
+    "summary": "Planning a Tokyo itinerary? Add these recently opened cafes \u2013 Blue Bottle Toyosu Park Cafe, Alchemist Aoyama, Fuglen Sangubashi, Parklet Meiji Park Market and Single O Yurakucho \u2013 plus nearby sights f...",
+    "timestamp": 1769727180.0,
+    "date": "Jan 29, 22:53"
+  },
+  {
+    "source": "CNBC",
     "title": "Stocks making the biggest moves after hours: Apple, Robinhood, Visa, Sandisk and more",
     "link": "https://www.cnbc.com/2026/01/29/stocks-making-the-biggest-moves-after-hours-aapl-hood-v-sndk.html",
     "summary": "These are the stocks posting the largest moves in extended trading.",
-    "timestamp": 1769725356.0,
+    "timestamp": 1769727030.0,
+    "date": "Jan 29, 22:50"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Elon Musk's SpaceX said to consider merger with Tesla, Bloomberg News reports",
+    "link": "https://www.channelnewsasia.com/business/elon-musks-spacex-said-consider-merger-tesla-bloomberg-news-reports-5895146",
+    "summary": "",
+    "timestamp": 1769726868.0,
+    "date": "Jan 29, 22:47"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Elon Musk\u2019s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+    "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+    "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+    "timestamp": 1769726862.0,
+    "date": "Jan 29, 22:47"
+  },
+  {
+    "source": "CNBC",
+    "title": "Man poses as FBI agent to try to free Luigi Mangione from jail, source says",
+    "link": "https://www.cnbc.com/2026/01/29/luigi-mangione-fbi-jail-murder-mark-anderson.html",
+    "summary": "Luigi Mangione is being held in the notorious Metropolitan Detention Center in Brooklyn, New York, on charges of killing UnitedHealthcare CEO Brian Thompson.",
+    "timestamp": 1769726756.0,
+    "date": "Jan 29, 22:45"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Niger military gov\u2019t says France, Benin, Ivory Coast behind airport attack",
+    "link": "https://www.aljazeera.com/news/2026/1/29/niger-military-govt-says-france-benin-ivory-coast-behind-airport-attack?traffic_source=rss",
+    "summary": "&#039;They should be ready to hear us roar,&#039; says military ruler Tiani, who thanked Russian troops for defending airbase.",
+    "timestamp": 1769726743.0,
+    "date": "Jan 29, 22:45"
+  },
+  {
+    "source": "France 24",
+    "title": "Deadly jihadist attack kills dozens in northeast Nigeria, including soldiers",
+    "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
+    "summary": "Islamic State-aligned militants killed dozens of people, including soldiers, in an overnight attack in northeast Nigeria\u2019s Borno state on Thursday, local sources said. The assault in Sabon Gari unders...",
+    "timestamp": 1769726439.0,
+    "date": "Jan 29, 22:40"
+  },
+  {
+    "source": "France 24",
+    "title": "Russian strikes push Ukraine towards catastrophe, says EU",
+    "link": "https://www.france24.com/en/russian-strikes-push-ukraine-towards-catastrophe-says-eu",
+    "summary": "Russia has stepped up its strikes against Ukraine's power and heating infrastructure, plunging residents into darkness and cold as temperatures have dropped as low as -20C. The EU is looking to step u...",
+    "timestamp": 1769726216.0,
+    "date": "Jan 29, 22:36"
+  },
+  {
+    "source": "NPR",
+    "title": "With his first Grammy nomination, Destin Conrad embraces personal evolution",
+    "link": "https://www.npr.org/2026/01/29/nx-s1-5605583/destin-conrad-love-on-digital-album-grammy-awards",
+    "summary": "Destin Conrad went from teen social media star to a musician touring the world on some of its biggest stages. In 2025, he put out both an R&amp;B and jazz album and earned his first Grammy nomination.",
+    "timestamp": 1769726156.0,
+    "date": "Jan 29, 22:35"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
+    "link": "https://www.bbc.com/news/articles/cvgpd1x00exo?at_medium=RSS&at_campaign=rss",
+    "summary": "Israel has previously cast doubt on figures from the Hamas-run health ministry, which the UN considers reliable.",
+    "timestamp": 1769725415.0,
+    "date": "Jan 29, 22:23"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Lyon top Europa League standings, Roma through to last eight",
+    "link": "https://www.channelnewsasia.com/sport/lyon-top-europa-league-standings-roma-through-last-eight-5895116",
+    "summary": "",
+    "timestamp": 1769725335.0,
     "date": "Jan 29, 22:22"
   },
   {
@@ -24,28 +184,20 @@
     "date": "Jan 29, 22:12"
   },
   {
+    "source": "France 24",
+    "title": "Notion of women as property a 'depravity baked into law'",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20260129-notion-of-women-as-property-and-marital-duty-a-depravity-baked-into-law",
+    "summary": "French MPs on Wednesday unanimously approved a bill seeking to end \"marital duty\", after criticism about its use to ignore sexual consent in marriage and marital rape. Michele Goodwin, Professor of Co...",
+    "timestamp": 1769724709.0,
+    "date": "Jan 29, 22:11"
+  },
+  {
     "source": "TechCrunch",
-    "title": "Amazon is reportedly in talks to invest $50 billion in OpenAI",
+    "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
     "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
     "summary": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
     "timestamp": 1769724669.0,
     "date": "Jan 29, 22:11"
-  },
-  {
-    "source": "The Guardian",
-    "title": "News live: Australia closely monitoring Nipah virus spread overseas, Butler says; Nine sells talkback radio stations to Sydney pub billionaire",
-    "link": "https://www.theguardian.com/australia-news/live/2026/jan/30/national-cabinet-meeting-ndis-health-funding-gun-buyback-scheme-anthony-albanese-mark-butler-labor-coalition-sussan-ley-ntwnfb",
-    "summary": "<p>Federal health minister says Australia has no protocols yet for sick travellers who arrive in country. Follow today\u2019s news updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/em...",
-    "timestamp": 1769724518.0,
-    "date": "Jan 29, 22:08"
-  },
-  {
-    "source": "New York Times",
-    "title": "Venezuelan Lawmakers Approve Sweeping Overhaul of Oil Sector",
-    "link": "https://www.nytimes.com/2026/01/29/world/americas/venezuela-new-law-oil-foreign-companies.html",
-    "summary": "Bowing to Trump administration pressure, the new legislation improves conditions for foreign oil companies and opens the way to slash the taxes they pay.",
-    "timestamp": 1769724474.0,
-    "date": "Jan 29, 22:07"
   },
   {
     "source": "CNBC",
@@ -69,14 +221,6 @@
     "link": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
     "summary": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
     "timestamp": 1769724274.0,
-    "date": "Jan 29, 22:04"
-  },
-  {
-    "source": "CNBC",
-    "title": "Apple sales surge 16% on \u2018staggering\u2019 iPhone demand",
-    "link": "https://www.cnbc.com/2026/01/29/apple-aapl-earnings-report-q1-2026.html",
-    "summary": "Apple reported fiscal first-quarter earnings on Thursday\u00a0that\u00a0surpassed\u00a0expectations, with revenue soaring\u00a016% on an annual basis.",
-    "timestamp": 1769724267.0,
     "date": "Jan 29, 22:04"
   },
   {
@@ -160,20 +304,28 @@
     "date": "Jan 29, 21:54"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Britain's Starmer hails 'good progress' after meeting China's Xi",
-    "link": "https://www.channelnewsasia.com/world/china-starmer-uk-beijing-jinping-talks-ties-us-5895041",
-    "summary": "The UK prime minister says talks in Beijing made headway on trade, visas and closer bilateral ties.",
-    "timestamp": 1769723606.0,
-    "date": "Jan 29, 21:53"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Burkina Faso\u2019s military government dissolves political parties",
     "link": "https://www.aljazeera.com/news/2026/1/29/burkina-faso-military-government-dissolves-political-parties?traffic_source=rss",
     "summary": "Interior Minister says multiplication of political parties has fuelled divisions and weakened social cohesion.",
     "timestamp": 1769723590.0,
     "date": "Jan 29, 21:53"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Britain's Starmer hails 'good progress' after meeting China's Xi",
+    "link": "https://www.channelnewsasia.com/world/china-starmer-uk-beijing-jinping-talks-ties-us-5895041",
+    "summary": "The UK prime minister says talks in Beijing made headway on trade, visas and closer bilateral ties.",
+    "timestamp": 1769723580.0,
+    "date": "Jan 29, 21:53"
+  },
+  {
+    "source": "France 24",
+    "title": "ACROSS AFRICA: The Mothers' of Chibok's story of Sadness and Strength",
+    "link": "https://www.france24.com/en/across-africa-the-mothers-of-chibok-s-story-of-sadness-and-strength",
+    "summary": "Emmy Award-winning Nigerian director Joel Katchi Benson is Georja Calvin-Smith's guest this week. He is still journeying alongside the families marked by the horrifying abduction of their daughters 12...",
+    "timestamp": 1769723558.0,
+    "date": "Jan 29, 21:52"
   },
   {
     "source": "TechCrunch",
@@ -232,12 +384,12 @@
     "date": "Jan 29, 21:37"
   },
   {
-    "source": "CNBC",
-    "title": "Amazon could invest up to $50 billion in OpenAI in coming weeks, source says",
-    "link": "https://www.cnbc.com/2026/01/29/amazon-openai-investment-jassy-altman.html",
-    "summary": "OpenAI CEO Sam Altman and Amazon CEO Andy Jassy have been speaking directly, according to a source familiar with the discussions.",
-    "timestamp": 1769722598.0,
-    "date": "Jan 29, 21:36"
+    "source": "France 24",
+    "title": "Climate change fuelled southern Africa's catastrophic floods",
+    "link": "https://www.france24.com/en/climate-change-fuelled-southern-africa-s-catastrophic-floods",
+    "summary": "In tonight's edition,\u00a0extreme flooding in Southern Africa has submerged towns and killed at least 200 people as scientists say climate change will make supercharged rainfall more likely in the years t...",
+    "timestamp": 1769722528.0,
+    "date": "Jan 29, 21:35"
   },
   {
     "source": "CNBC",
@@ -254,14 +406,6 @@
     "summary": "",
     "timestamp": 1769722152.0,
     "date": "Jan 29, 21:29"
-  },
-  {
-    "source": "CNBC",
-    "title": "Meta soars after proving AI spend while Microsoft struggles to please",
-    "link": "https://www.cnbc.com/2026/01/29/meta-microsoft-stock-earnings-moves-tech.html",
-    "summary": "Meta jumped, while Microsoft plunged post-earnings as investors hunt for signs that big AI investments are paying off.",
-    "timestamp": 1769722067.0,
-    "date": "Jan 29, 21:27"
   },
   {
     "source": "The Guardian",
@@ -369,14 +513,6 @@
   },
   {
     "source": "CNBC",
-    "title": "Senators closing in on funding federal government less than two days from shutdown",
-    "link": "https://www.cnbc.com/2026/01/29/senate-voting-government-spending-shutdown.html",
-    "summary": "Democrats are demanding changes to the way federal immigration agents work after the shooting deaths of two U.S. citizens.",
-    "timestamp": 1769720336.0,
-    "date": "Jan 29, 20:58"
-  },
-  {
-    "source": "CNBC",
     "title": "These bonds trounced cash in 2025, and they could still offer solid returns for investors",
     "link": "https://www.cnbc.com/2026/01/29/these-bonds-trounced-cash-in-2025-and-they-could-still-offer-solid-returns-for-investors.html",
     "summary": "Core bonds put up a solid performance against cash last year, and the category is still a sensible choice in 2026.",
@@ -432,14 +568,6 @@
     "date": "Jan 29, 20:31"
   },
   {
-    "source": "CNBC",
-    "title": "Man posed as FBI agent to get Luigi Mangione out of jail: Court filing",
-    "link": "https://www.cnbc.com/2026/01/29/luigi-mangione-fbi-jail-murder-mark-anderson.html",
-    "summary": "Luigi Mangione is being held in the notorious Metropolitan Detention Center in Brooklyn, New York, on charges of killing UnitedHealthcare CEO Brian Thompson.",
-    "timestamp": 1769718300.0,
-    "date": "Jan 29, 20:25"
-  },
-  {
     "source": "The Verge",
     "title": "The best foldable phone you can buy",
     "link": "https://www.theverge.com/tech/635839/best-foldable-phone",
@@ -462,14 +590,6 @@
     "summary": "The US President says Russia's leader Vladimir Putin has agreed to withhold from attacking Ukraine during its cold spell.",
     "timestamp": 1769717682.0,
     "date": "Jan 29, 20:14"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Cross-country skiing-CAS declines to hear Bolshunov appeal over Olympic exclusion",
-    "link": "https://www.channelnewsasia.com/sport/cross-country-skiing-cas-declines-hear-bolshunov-appeal-over-olympic-exclusion-5894921",
-    "summary": "",
-    "timestamp": 1769717453.0,
-    "date": "Jan 29, 20:10"
   },
   {
     "source": "CNBC",
@@ -521,9 +641,9 @@
   },
   {
     "source": "The Verge",
-    "title": "Elon Musk\u2019s SpaceX and xAI might merge into one company",
+    "title": "Elon Musk might merge SpaceX with Tesla or xAI",
     "link": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
-    "summary": "SpaceX and xAI, which are both led by Elon Musk, are \"in discussions to merge\" ahead of SpaceX's IPO that's planned for later this year, Reuters reports. The merger would help with SpaceX's plans to l...",
+    "summary": "Elon Musk-led SpaceX may merge with another company helmed by Elon Musk. Reuters initially reported Thursday that SpaceX and xAI are \"in discussions to merge\" ahead of SpaceX's IPO that's planned for ...",
     "timestamp": 1769716078.0,
     "date": "Jan 29, 19:47"
   },
@@ -536,20 +656,20 @@
     "date": "Jan 29, 19:45"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "De Kock demolition leads S Africa to T20 series win over West Indies",
-    "link": "https://www.channelnewsasia.com/sport/de-kock-demolition-leads-s-africa-t20-series-win-over-west-indies-5894901",
-    "summary": "",
-    "timestamp": 1769715818.0,
-    "date": "Jan 29, 19:43"
-  },
-  {
     "source": "France 24",
     "title": "French lawmakers back bill to end 'marital duty'",
     "link": "https://www.france24.com/en/french-lawmakers-back-bill-to-end-marital-duty",
     "summary": "French lawmakers on Wednesday unanimously approved a bill seeking to end \"marital duty\", after criticism from women's rights groups about its use to ignore sexual consent in marriage and marital rape....",
     "timestamp": 1769715671.0,
     "date": "Jan 29, 19:41"
+  },
+  {
+    "source": "CNBC",
+    "title": "Waymo will start offering rides to San Francisco airport",
+    "link": "https://www.cnbc.com/2026/01/29/waymo-will-start-offering-rides-to-san-francisco-airport.html",
+    "summary": "Alphabet's Waymo division said it will begin taking some passengers to San Francisco's airport and will expand in the coming months.",
+    "timestamp": 1769715636.0,
+    "date": "Jan 29, 19:40"
   },
   {
     "source": "CNBC",
@@ -566,14 +686,6 @@
     "summary": "French officials will soon be expected to use new French-made video conferencing software as part of an effort to \u201cregain digital independence,\u201d the government said.",
     "timestamp": 1769715086.0,
     "date": "Jan 29, 19:31"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Elon Musk\u2019s SpaceX and xAI in talks to merge, report says",
-    "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
-    "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
-    "timestamp": 1769715059.0,
-    "date": "Jan 29, 19:30"
   },
   {
     "source": "Al Jazeera",
@@ -648,28 +760,12 @@
     "date": "Jan 29, 19:10"
   },
   {
-    "source": "BBC World",
-    "title": "Israeli media cite official accepting Hamas figure of 70,000 war dead",
-    "link": "https://www.bbc.com/news/articles/cvgpd1x00exo?at_medium=RSS&at_campaign=rss",
-    "summary": "Israel has previously cast doubt on figures from the Hamas-run health ministry, which the UN considers reliable.",
-    "timestamp": 1769713820.0,
-    "date": "Jan 29, 19:10"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Why is the Doomsday Clock nearer to midnight than ever before?",
     "link": "https://www.aljazeera.com/video/inside-story/2026/1/29/why-is-the-doomsday-clock-nearer-to-midnight-than-ever-before?traffic_source=rss",
     "summary": "Atomic scientists raise alarm over more global conflict and new risks such as artificial intelligence.",
     "timestamp": 1769713633.0,
     "date": "Jan 29, 19:07"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Study finds greater role for genetics in driving human lifespan",
-    "link": "https://www.channelnewsasia.com/business/study-finds-greater-role-genetics-in-driving-human-lifespan-5894851",
-    "summary": "",
-    "timestamp": 1769713383.0,
-    "date": "Jan 29, 19:03"
   },
   {
     "source": "NPR",
@@ -824,6 +920,14 @@
     "date": "Jan 29, 17:48"
   },
   {
+    "source": "CNBC",
+    "title": "A Waymo hit a child near an elementary school. The NHTSA is investigating",
+    "link": "https://www.cnbc.com/2026/01/29/waymo-nhtsa-crash-child-school.html",
+    "summary": "U.S. regulators are investigating the behavior of Waymo driverless vehicles around schools and school buses",
+    "timestamp": 1769708742.0,
+    "date": "Jan 29, 17:45"
+  },
+  {
     "source": "France 24",
     "title": "Democrats threaten shutdown if White House does not restrict ICE budget",
     "link": "https://www.france24.com/en/democrats-threaten-shutdown-if-white-house-does-not-restrict-ice-budget",
@@ -952,14 +1056,6 @@
     "date": "Jan 29, 16:44"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Hakan Fidan on Iran and Turkiye\u2019s role in global security",
-    "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/1/29/hakan-fidan-on-iran-and-turkiyes-role-in-global-security?traffic_source=rss",
-    "summary": "Turkish foreign minister warns against escalation with Iran, explaining how Ankara sees the future of regional security.",
-    "timestamp": 1769704518.0,
-    "date": "Jan 29, 16:35"
-  },
-  {
     "source": "TechCrunch",
     "title": "Music publishers sue Anthropic for $3B over \u2018flagrant piracy\u2019 of 20,000 works",
     "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
@@ -1000,44 +1096,12 @@
     "date": "Jan 29, 16:24"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Will killings in Minneapolis force another US government shutdown?",
-    "link": "https://www.aljazeera.com/news/2026/1/29/will-killings-by-immigration-agents-cause-another-us-government-shutdown?traffic_source=rss",
-    "summary": "The death of Alex Pretti has prompted a shift among Democratic senators, who are willing to risk a shutdown for reforms.",
-    "timestamp": 1769703770.0,
-    "date": "Jan 29, 16:22"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "The EU takes on Musk's AI that 'undresses' women. Can it protect its citizens?",
     "link": "https://www.dw.com/en/the-eu-takes-on-musk-s-ai-that-undresses-women-can-it-protect-its-citizens/a-75709719?maca=en-rss-en-all-1573-rdf",
     "summary": "The EU is probing Elon Musk\u2019s Grok AI after its deepfake feature generated millions of sexualized images of women and children. Brussels is putting its toughest tech laws to one of their biggest test ...",
     "timestamp": 1769703720.0,
     "date": "Jan 29, 16:22"
-  },
-  {
-    "source": "France 24",
-    "title": "Jewish family brings France to trial over Baghdad embassy",
-    "link": "https://www.france24.com/en/jewish-family-brings-france-to-trial-over-baghdad-embassy",
-    "summary": "A Jewish family is suing France over its embassy in Baghdad. It seeks compensation for what it says is France's use of property and unproper rent pay. The house was seized alongside with other propert...",
-    "timestamp": 1769703514.0,
-    "date": "Jan 29, 16:18"
-  },
-  {
-    "source": "France 24",
-    "title": "Rapper Nicki Minaj says she is Donald Trump's 'number one fan'",
-    "link": "https://www.france24.com/en/video/20260129-rapper-nicki-minaj-says-she-is-donald-trump-s-number-one-fan",
-    "summary": "Rap icon Nicki Minaj declared Wednesday she was Donald Trump's \"number one fan.\" The US president called the provocative singer-songwriter up on stage after she announced her support for so-called \"Tr...",
-    "timestamp": 1769703505.0,
-    "date": "Jan 29, 16:18"
-  },
-  {
-    "source": "CNBC",
-    "title": "Elon Musk says Tesla ending Models S and X production, converting Fremont factory lines to make Optimus robots",
-    "link": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
-    "summary": "On Tesla's fourth-quarter earnings call, CEO Elon Musk said the company is ending production of its Model S and X vehicles.",
-    "timestamp": 1769702859.0,
-    "date": "Jan 29, 16:07"
   },
   {
     "source": "Deutsche Welle",
@@ -1062,30 +1126,6 @@
     "summary": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
     "timestamp": 1769702409.0,
     "date": "Jan 29, 16:00"
-  },
-  {
-    "source": "France 24",
-    "title": "Did NASA really discover a temporary, second moon?",
-    "link": "https://www.france24.com/en/americas/20260129-did-nasa-discover-second-temporary-moon",
-    "summary": "Is a \u201ctemporary second moon\u201d really going to orbit the Earth? That\u2019s the claim made in a number of viral social media posts that feature spectacular AI-generated visuals. Spoiler: contrary to these de...",
-    "timestamp": 1769702198.0,
-    "date": "Jan 29, 15:56"
-  },
-  {
-    "source": "France 24",
-    "title": "Kids, 'non merci': Is France a child-friendly place?",
-    "link": "https://www.france24.com/en/tv-shows/entre-nous/20260129-kids-non-merci-is-france-a-child-friendly-place",
-    "summary": "In this edition of Entre Nous, we take a look at child-free zones\u00a0\u2013 why they are popular and why they also elicit outrage. After the state-owned French railway operator SNCF announced new, kid-free tr...",
-    "timestamp": 1769702031.0,
-    "date": "Jan 29, 15:53"
-  },
-  {
-    "source": "France 24",
-    "title": "Melania Trump documentary dropped by South African distributors ahead of global release",
-    "link": "https://www.france24.com/en/melania-trump-documentary-dropped-by-south-african-distributors-just-ahead-of-release",
-    "summary": "January 29 sees the premiere of the documentary \"Melania\" at the Kennedy Center, a largely unprecedented example of a sitting US first lady commercialising her position. Melania Trump co-produced the ...",
-    "timestamp": 1769701964.0,
-    "date": "Jan 29, 15:52"
   },
   {
     "source": "TechCrunch",
@@ -1393,17 +1433,9 @@
   },
   {
     "source": "NPR",
-    "title": "Big-budget Melania Trump documentary premieres with splashy rollout",
-    "link": "https://www.npr.org/2026/01/29/nx-s1-5689040/big-budget-melania-trump-documentary-premieres-with-splashy-rollout",
-    "summary": "A film about first lady Melania Trump premieres this week, with big presidential promotion.",
-    "timestamp": 1769680800.0,
-    "date": "Jan 29, 10:00"
-  },
-  {
-    "source": "NPR",
-    "title": "Caregivers for the elderly could lose wage protections under Trump proposal",
-    "link": "https://www.npr.org/2026/01/29/nx-s1-5626767/home-care-seniors-trump-labor-overtime",
-    "summary": "The Labor Department has proposed rescinding an Obama-era rule that gave home care workers the right to overtime pay and other wage protections. The administration says the rule made care too costly.",
+    "title": "Trump has sued universities for billions. Here's what the strategy tells us",
+    "link": "https://www.npr.org/2026/01/29/nx-s1-5559293/trump-settlements-colleges-universities",
+    "summary": "Each deal between colleges and the administration is unique, but they have common goals: altering the culture at powerful institutions and making their policies more aligned with President Trump's.",
     "timestamp": 1769680800.0,
     "date": "Jan 29, 10:00"
   },
@@ -1430,14 +1462,6 @@
     "summary": "From Japan to China and the US to Scandinavia, heating with air conditioning has long been standard practice. But now warming homes with AC is catching on in other parts of the world.",
     "timestamp": 1769678340.0,
     "date": "Jan 29, 09:19"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "China executes 11 people tied to Myanmar scam compounds",
-    "link": "https://www.dw.com/en/china-executes-11-people-tied-to-myanmar-scam-compounds/a-75706161?maca=en-rss-en-all-1573-rdf",
-    "summary": "The 11 members of gangs based in northern Myanmar were sentenced to death in September. Beijing has been cracking down on cyberscam compounds in Southeast Asia in recent years.",
-    "timestamp": 1769672580.0,
-    "date": "Jan 29, 07:43"
   },
   {
     "source": "The Guardian",
@@ -1488,36 +1512,12 @@
     "date": "Jan 29, 02:57"
   },
   {
-    "source": "New York Times",
-    "title": "Rubio Says Venezuela Will Submit Monthly Budget to White House",
-    "link": "https://www.nytimes.com/2026/01/28/us/politics/rubio-hearing-venezuela.html",
-    "summary": "Democrats sharply questioned the plan, including the role of Qatar in managing an account funded by the sale of Venezuelan oil.",
-    "timestamp": 1769648775.0,
-    "date": "Jan 29, 01:06"
-  },
-  {
     "source": "BBC World",
     "title": "Watch: How Alex Pretti shooting led Trump to shift course in Minneapolis",
     "link": "https://www.bbc.com/news/videos/cj6wgelw62do?at_medium=RSS&at_campaign=rss",
     "summary": "BBC analysis editor Ros Atkins looks at why tensions have been running so high in the city - and how we got here.",
     "timestamp": 1769641805.0,
     "date": "Jan 28, 23:10"
-  },
-  {
-    "source": "BBC World",
-    "title": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike",
-    "link": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
-    "summary": "The BBC speaks to a person who was aboard a train on which five people died after it was targeted by drones.",
-    "timestamp": 1769619542.0,
-    "date": "Jan 28, 16:59"
-  },
-  {
-    "source": "BBC World",
-    "title": "Moment BA plane to London loses wheel after take-off in Vegas",
-    "link": "https://www.bbc.com/news/videos/c04120yqdq5o?at_medium=RSS&at_campaign=rss",
-    "summary": "Dramatic footage shows wheel falling off a British Airways aircraft shortly after take-off from Harry Reid International airport.",
-    "timestamp": 1769616039.0,
-    "date": "Jan 28, 16:00"
   },
   {
     "source": "New York Times",
