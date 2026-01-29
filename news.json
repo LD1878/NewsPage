@@ -1,11 +1,227 @@
 [
   {
+    "source": "CNBC",
+    "title": "Man posed as FBI agent to get Luigi Mangione out of jail: Court filing",
+    "link": "https://www.cnbc.com/2026/01/29/luigi-mangione-fbi-jail-murder-mark-anderson.html",
+    "summary": "Luigi Mangione is being held in the notorious Metropolitan Detention Center in Brooklyn, New York, on charges of killing UnitedHealthcare CEO Brian Thompson.",
+    "timestamp": 1769718300.0,
+    "date": "Jan 29, 20:25"
+  },
+  {
+    "source": "CNBC",
+    "title": "Senate panel passes crypto CFTC regulation bill",
+    "link": "https://www.cnbc.com/2026/01/29/senate-ag-committee-advances-crypto-bill-to-establish-cftc-regulatory-authority.html",
+    "summary": "The Senate Agriculture Committee voted Thursday to advance its crypto market structure bill to create CFTC regulatory authority over cryptocurrencies.",
+    "timestamp": 1769717976.0,
+    "date": "Jan 29, 20:19"
+  },
+  {
+    "source": "The Verge",
+    "title": "The best foldable phone you can buy",
+    "link": "https://www.theverge.com/tech/635839/best-foldable-phone",
+    "summary": "A foldable phone isn\u2019t for the faint of heart. They\u2019re generally heavier, pricier, and have less capable cameras than a standard slab-style phone. They\u2019re also still not as durable as regular smartpho...",
+    "timestamp": 1769717906.0,
+    "date": "Jan 29, 20:18"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Trump says Putin agreed not to attack freezing Kyiv for a week",
+    "link": "https://www.channelnewsasia.com/world/ukraine-russia-war-trump-attack-cold-kyiv-5894911",
+    "summary": "The US President says Russia's leader Vladimir Putin has agreed to withhold from attacking Ukraine during its cold spell.",
+    "timestamp": 1769717682.0,
+    "date": "Jan 29, 20:14"
+  },
+  {
+    "source": "CNBC",
+    "title": "York Space starts trading at $38 per share as CEO touts 'Golden Dome' potential",
+    "link": "https://www.cnbc.com/2026/01/29/york-space-stock-trading-trump-golden-dome.html",
+    "summary": "CEO Dirk Wallinger said the company is looking to be a key piece of President Trump's 'Golden Dome' missile defense project.",
+    "timestamp": 1769717545.0,
+    "date": "Jan 29, 20:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Cross-country skiing-CAS declines to hear Bolshunov appeal over Olympic exclusion",
+    "link": "https://www.channelnewsasia.com/sport/cross-country-skiing-cas-declines-hear-bolshunov-appeal-over-olympic-exclusion-5894921",
+    "summary": "",
+    "timestamp": 1769717453.0,
+    "date": "Jan 29, 20:10"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: wait times balloon for at-home aged care; national cabinet to discuss NDIS and health funding deal",
+    "link": "https://www.theguardian.com/australia-news/live/2026/jan/30/national-cabinet-meeting-ndis-health-funding-gun-buyback-scheme-anthony-albanese-mark-butler-labor-coalition-sussan-ley-ntwnfb",
+    "summary": "<p>PM will also push states and territories to work out details of looming gun buyback program. Follow today\u2019s news updates live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsle...",
+    "timestamp": 1769717378.0,
+    "date": "Jan 29, 20:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "How CEOs bringing AI agents to work are preparing customers and employees",
+    "link": "https://www.cnbc.com/2026/01/29/how-ceos-bringing-ai-agents-to-work-are-preparing-customers-employees.html",
+    "summary": "As companies increase their AI investments, chatbots and AI agents are often the first place the spending shows up.",
+    "timestamp": 1769717376.0,
+    "date": "Jan 29, 20:09"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Satya Nadella insists people are using Microsoft\u2019s Copilot AI a lot",
+    "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+    "summary": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+    "timestamp": 1769717216.0,
+    "date": "Jan 29, 20:06"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "France moves to ban social media for users under 15",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/france-moves-to-ban-social-media-for-users-under-15?traffic_source=rss",
+    "summary": "France is moving closer to banning social media for users under the age of 15, over growing concerns over mental health.",
+    "timestamp": 1769717098.0,
+    "date": "Jan 29, 20:04"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "TotalEnergies restarts $20bn LNG project in Mozambique after 5-year freeze",
+    "link": "https://www.aljazeera.com/news/2026/1/29/total-restarts-20bn-lng-project-in-mozambique-after-five-year-freeze?traffic_source=rss",
+    "summary": "Operations were paused indefinitely in 2021 due to escalating violence in the region.",
+    "timestamp": 1769717011.0,
+    "date": "Jan 29, 20:03"
+  },
+  {
+    "source": "NPR",
+    "title": "How the West was won: K-pop's great assimilation gambit",
+    "link": "https://www.npr.org/2026/01/29/nx-s1-5685250/kpop-demon-hunters-rose-katseye-grammys",
+    "summary": "The crossover hits stacking Grammy nods this year have little in common with the culture that birthed them \u2014 but they're winning the chart game.",
+    "timestamp": 1769716823.0,
+    "date": "Jan 29, 20:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 12%",
+    "link": "https://www.cnbc.com/2026/01/29/software-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
+    "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-day decline since April 4 during the tariff-triggered downturn.",
+    "timestamp": 1769716767.0,
+    "date": "Jan 29, 19:59"
+  },
+  {
+    "source": "CNBC",
+    "title": "Tesla sold $430 million worth of its Megapack backup batteries to Musk's xAI in 2025",
+    "link": "https://www.cnbc.com/2026/01/29/tesla-sold-430-million-worth-of-its-megapack-batteries-to-xai-in-2025.html",
+    "summary": "In Tesla's annual financial filing, the company said that last year it sold $430 million worth of its energy storage products to xAI, Elon Musk's AI startup.",
+    "timestamp": 1769716369.0,
+    "date": "Jan 29, 19:52"
+  },
+  {
+    "source": "The Verge",
+    "title": "Elon Musk\u2019s SpaceX and xAI might merge into one company",
+    "link": "https://www.theverge.com/tech/870380/elon-musk-space-x-xai-merger",
+    "summary": "SpaceX and xAI, which are both led by Elon Musk, are \"in discussions to merge\" ahead of SpaceX's IPO that's planned for later this year, Reuters reports. The merger would help with SpaceX's plans to l...",
+    "timestamp": 1769716078.0,
+    "date": "Jan 29, 19:47"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Iran slams EU\u2019s \u2018terrorist\u2019 designation for IRGC as hypocritical",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/iran-slams-eus-terrorist-designation-for-irgc-as-hypocritical?traffic_source=rss",
+    "summary": "Iran\u2019s foreign minister labelled the EU as hypocritical after designating the IRGC a &quot;terrorist&quot; organisation.",
+    "timestamp": 1769715928.0,
+    "date": "Jan 29, 19:45"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "De Kock demolition leads S Africa to T20 series win over West Indies",
+    "link": "https://www.channelnewsasia.com/sport/de-kock-demolition-leads-s-africa-t20-series-win-over-west-indies-5894901",
+    "summary": "",
+    "timestamp": 1769715818.0,
+    "date": "Jan 29, 19:43"
+  },
+  {
+    "source": "CNBC",
+    "title": "Waymo will start offering rides to San Francisco airport",
+    "link": "https://www.cnbc.com/2026/01/29/waymo-will-start-offering-rides-to-san-francisco-airport.html",
+    "summary": "Alphabet's Waymo division said it will begin taking some passengers to San Francisco's airport and will expand in the coming months.",
+    "timestamp": 1769715636.0,
+    "date": "Jan 29, 19:40"
+  },
+  {
+    "source": "CNBC",
+    "title": "American Airlines to fly to Venezuela for first time since 2019, marking return of U.S. service",
+    "link": "https://www.cnbc.com/2026/01/29/american-airlines-return-service-venezuela.html",
+    "summary": "American would be the first U.S. carrier to restart service to Venezuela, which had become isolated after airlines cut service to the country in recent years.",
+    "timestamp": 1769715570.0,
+    "date": "Jan 29, 19:39"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trade deficit soared 94% in November and was higher than a year ago, despite tariff efforts",
+    "link": "https://www.cnbc.com/2026/01/29/trade-balance-soared-94percent-in-november-and-was-higher-than-a-year-ago-despite-tariff-efforts.html",
+    "summary": "The U.S. deficit with its global trading partners nearly doubled in November as the shortfall with the European Union swelled.",
+    "timestamp": 1769715186.0,
+    "date": "Jan 29, 19:33"
+  },
+  {
+    "source": "New York Times",
+    "title": "French Government To Replace Zoom and Teams With Visio, a Local Alternative",
+    "link": "https://www.nytimes.com/2026/01/29/world/europe/france-zoom-alternative-visio.html",
+    "summary": "French officials will soon be expected to use new French-made video conferencing software as part of an effort to \u201cregain digital independence,\u201d the government said.",
+    "timestamp": 1769715086.0,
+    "date": "Jan 29, 19:31"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Elon Musk\u2019s SpaceX and xAI in talks to merge, report says",
+    "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
+    "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+    "timestamp": 1769715059.0,
+    "date": "Jan 29, 19:30"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Former Illinois deputy sentenced to 20 years for US killing of Sonya Massey",
+    "link": "https://www.aljazeera.com/news/2026/1/29/former-illinois-deputy-sentenced-to-20-years-for-killing-of-sonya-massey?traffic_source=rss",
+    "summary": "Sean Grayson fatally shot Massey after she called police to her home, in a killing that sparked outrage and protests.",
+    "timestamp": 1769714920.0,
+    "date": "Jan 29, 19:28"
+  },
+  {
+    "source": "New York Times",
+    "title": "Southern Africa Faces Devastating Flooding During Rainy Season",
+    "link": "https://www.nytimes.com/2026/01/29/world/africa/mozambique-south-africa-flood.html",
+    "summary": "More than 100 deaths have been confirmed across South Africa, Zimbabwe and Mozambique, with the rains expected to continue through February.",
+    "timestamp": 1769714793.0,
+    "date": "Jan 29, 19:26"
+  },
+  {
+    "source": "France 24",
+    "title": "Iran rounds up thousands in mass arrest campaign after crushing unrest",
+    "link": "https://www.france24.com/en/iran-rounds-up-thousands-in-mass-arrest-campaign-after-crushing-unrest",
+    "summary": "The crackdown continues in Iran, as shock and fear sweep the country after the regime crushed the bloodiest unrest since the 1979 Islamic Revolution. Security forces have rounded up thousands of peopl...",
+    "timestamp": 1769714704.0,
+    "date": "Jan 29, 19:25"
+  },
+  {
     "source": "The Verge",
     "title": "Apple\u2019s second biggest acquisition ever is an AI company that listens to \u2018silent speech\u2019",
     "link": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
     "summary": "Apple's biggest acquisition ever is still its $3 billion Beats buy in 2014, but now the second biggest deal is bringing in Q.ai, a four-year-old AI audio startup. Apple did not disclose the terms, but...",
     "timestamp": 1769714547.0,
     "date": "Jan 29, 19:22"
+  },
+  {
+    "source": "France 24",
+    "title": "Four more years? Russia-Ukraine war nears two million casualties mark",
+    "link": "https://www.france24.com/en/tv-shows/the-debate/20260129-four-more-years-russia-ukraine-war-nears-two-million-casualties-mark",
+    "summary": "Making Ukrainians freeze in winter wasn\u2019t enough.",
+    "timestamp": 1769714401.0,
+    "date": "Jan 29, 19:20"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Who controls Yemen now and why it matters",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-yem_2026pulsecheck_av_v2-290126?traffic_source=rss",
+    "summary": "Humanitarian crisis worsens in Yemen as power struggles intensify and aid gaps grow.",
+    "timestamp": 1769714225.0,
+    "date": "Jan 29, 19:17"
   },
   {
     "source": "The Verge",
@@ -27,7 +243,7 @@
     "source": "The Guardian",
     "title": "Trump orders immediate reopening of commercial airspace over Venezuela",
     "link": "https://www.theguardian.com/world/2026/jan/29/trump-reopens-commercial-airspace-venezuela",
-    "summary": "<p>Order allows direct flights from US to Venezuela, as major US oil companies already on ground to assess potential operations</p><p><a href=\"https://www.google.co.uk/search?as_q=Donald+Trump&amp;as_...",
+    "summary": "<p>Order allows direct flights from US to Venezuela, as major oil companies already on ground to assess potential operations</p><p><a href=\"https://www.google.co.uk/search?as_q=Donald+Trump&amp;as_epq...",
     "timestamp": 1769713992.0,
     "date": "Jan 29, 19:13"
   },
@@ -38,6 +254,14 @@
     "summary": "Tensions between Iran and the United States continued to ramp up as US President Donald Trump announced that a massive \u201carmada\u201d was heading toward the Persian Gulf. Led by the USS Abraham Lincoln, the...",
     "timestamp": 1769713947.0,
     "date": "Jan 29, 19:12"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "\u2018They picked the wrong state\u2019: how Minneapolis is fighting back",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-usa_mnmutualaid_av_v2-290126?traffic_source=rss",
+    "summary": "Minneapolis mobilizes rapid response networks and mutual aid as protests grow against federal immigration agents.",
+    "timestamp": 1769713829.0,
+    "date": "Jan 29, 19:10"
   },
   {
     "source": "BBC World",
@@ -89,14 +313,6 @@
   },
   {
     "source": "New York Times",
-    "title": "French Government To Replace Zoom and Teams With Visio, a Local Alternative",
-    "link": "https://www.nytimes.com/2026/01/29/world/europe/france-zoom-alternative-visio.html",
-    "summary": "French officials will soon be expected to use new French-made video conferencing software as part of an effort to \u201cregain digital independence,\u201d the government said.",
-    "timestamp": 1769713033.0,
-    "date": "Jan 29, 18:57"
-  },
-  {
-    "source": "New York Times",
     "title": "Svalbard Polar Bears Are Getting Fatter (for Now), Study Finds",
     "link": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
     "summary": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary.",
@@ -112,36 +328,12 @@
     "date": "Jan 29, 18:54"
   },
   {
-    "source": "CNBC",
-    "title": "Data breaches climbed to a record high in 2025. How to protect your personal information",
-    "link": "https://www.cnbc.com/2026/01/29/personal-information-data-breaches.html",
-    "summary": "As reports of new identity compromises climbed in 2025, experts say taking certain steps can help protect your personal information from fraudsters.",
-    "timestamp": 1769712781.0,
-    "date": "Jan 29, 18:53"
-  },
-  {
-    "source": "CNBC",
-    "title": "Senate panel passes crypto CFTC regulation bill",
-    "link": "https://www.cnbc.com/2026/01/29/senate-ag-committee-advances-crypto-bill-to-establish-cftc-regulatory-authority.html",
-    "summary": "The Senate Agriculture Committee voted Thursday to advance its crypto market structure bill to create CFTC regulatory authority over cryptocurrencies.",
-    "timestamp": 1769712774.0,
-    "date": "Jan 29, 18:52"
-  },
-  {
     "source": "NPR",
     "title": "Border czar says he plans to \"draw down\" ICE and CBP operations in Minnesota",
     "link": "https://www.npr.org/2026/01/29/nx-s1-5693019/border-czar-plans-to-draw-down-ice-and-cbp-minnesota",
     "summary": "Tom Homan, who took over leadership of the surge in Minneapolis, says he is working on a plan to reduce the force of federal agents in the Twin Cities.",
     "timestamp": 1769712405.0,
     "date": "Jan 29, 18:46"
-  },
-  {
-    "source": "CNBC",
-    "title": "American Airlines to fly to Venezuela for first time since 2019, marking return of U.S. service",
-    "link": "https://www.cnbc.com/2026/01/29/american-airlines-return-service-venezuela.html",
-    "summary": "American would be the first U.S. carrier to restart service to Venezuela, which had become isolated after airlines cut service to the country in recent years.",
-    "timestamp": 1769712344.0,
-    "date": "Jan 29, 18:45"
   },
   {
     "source": "CNBC",
@@ -280,20 +472,12 @@
     "date": "Jan 29, 17:55"
   },
   {
-    "source": "CNBC",
-    "title": "Software stocks enter bear market on AI disruption fear with ServiceNow plunging 12%",
-    "link": "https://www.cnbc.com/2026/01/29/software-stocks-enter-bear-market-on-ai-disruption-fear-with-servicenow-plunging-11percent-thursday.html",
-    "summary": "The iShares Expanded Tech-Software Sector ETF is on pace for its biggest one-day decline since April 4 during the tariff-triggered downturn.",
-    "timestamp": 1769709293.0,
-    "date": "Jan 29, 17:54"
-  },
-  {
-    "source": "CNBC",
-    "title": "First Brands founder Patrick James and his brother indicted for fraud",
-    "link": "https://www.cnbc.com/2026/01/29/first-brands-founder-patrick-james-and-his-brother-indicted-for-fraud.html",
-    "summary": "The nine-count indictment contains charges including running a continuing financial crimes enterprise, bank fraud, wire fraud and money laundering conspiracy.",
-    "timestamp": 1769709024.0,
-    "date": "Jan 29, 17:50"
+    "source": "CNA (Asia)",
+    "title": "Dedicated Olympic ER and ward for 2026 Games unveiled in Milan",
+    "link": "https://www.channelnewsasia.com/sport/dedicated-olympic-er-and-ward-2026-games-unveiled-in-milan-5894766",
+    "summary": "",
+    "timestamp": 1769709209.0,
+    "date": "Jan 29, 17:53"
   },
   {
     "source": "France 24",
@@ -544,28 +728,12 @@
     "date": "Jan 29, 16:47"
   },
   {
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves midday: ServiceNow, Salesforce, Southwest, Carnival & more",
-    "link": "https://www.cnbc.com/2026/01/29/stocks-making-the-biggest-moves-midday-now-crm-luv-ccl.html",
-    "summary": "These are the stocks posting the largest moves in midday trading.",
-    "timestamp": 1769705167.0,
-    "date": "Jan 29, 16:46"
-  },
-  {
     "source": "France 24",
     "title": "Novelist Boualem Sansal elected to Acad\u00e9mie fran\u00e7aise months after release from Algerian jail",
     "link": "https://www.france24.com/en/france/20260129-novelist-boualem-sansal-elected-academie-francaise-months-after-release-algeria-jail",
     "summary": "French-Algerian writer Boualem Sansal has been elected to the Acad\u00e9mie fran\u00e7aise, the prestigious French language watchdog, two months after he was released from an Algerian prison on humanitarian gro...",
     "timestamp": 1769705071.0,
     "date": "Jan 29, 16:44"
-  },
-  {
-    "source": "The Verge",
-    "title": "Linux gaming developers join forces to form the Open Gaming Collective",
-    "link": "https://www.theverge.com/tech/870159/linux-gaming-open-gaming-collective-bazzite",
-    "summary": "Gaming on Linux has already come a long way over recent years, with improvements to Valve's Proton and more gamers switching to Linux, but the newly-formed Open Gaming Collective (OGC) is aiming to ta...",
-    "timestamp": 1769704611.0,
-    "date": "Jan 29, 16:36"
   },
   {
     "source": "Al Jazeera",
@@ -589,14 +757,6 @@
     "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
     "summary": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
     "timestamp": 1769704229.0,
-    "date": "Jan 29, 16:30"
-  },
-  {
-    "source": "The Verge",
-    "title": "What Netflix&#8217;s Warner Bros. deal could mean for TVs and remotes",
-    "link": "https://www.theverge.com/column/869847/warner-bros-netflix-remote",
-    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. If you're in the market for a new T...",
-    "timestamp": 1769704200.0,
     "date": "Jan 29, 16:30"
   },
   {
@@ -784,14 +944,6 @@
     "date": "Jan 29, 15:35"
   },
   {
-    "source": "CNBC",
-    "title": "Trade balance soared 94% in November and was higher than a year ago, despite tariff efforts",
-    "link": "https://www.cnbc.com/2026/01/29/trade-balance-soared-94percent-in-november-and-was-higher-than-a-year-ago-despite-tariff-efforts.html",
-    "summary": "The U.S. deficit with its global trading partners nearly doubled in November as the shortfall with the European Union swelled.",
-    "timestamp": 1769700736.0,
-    "date": "Jan 29, 15:32"
-  },
-  {
     "source": "France 24",
     "title": "ICE killings rock Sundance and Trump faces backlash as artists and activists take a stand",
     "link": "https://www.france24.com/en/tv-shows/arts24/20260129-ice-killings-rock-sundance-and-trump-faces-backlash-as-artists-and-activists-take-a-stand",
@@ -824,28 +976,12 @@
     "date": "Jan 29, 15:27"
   },
   {
-    "source": "France 24",
-    "title": "What is Iran's Revolutionary Guard, the paramilitary on the EU \"terrorist list\"?",
-    "link": "https://www.france24.com/en/what-is-iran-s-revolutionary-guard-the-paramilitary-on-the-eu-terrorist-list",
-    "summary": "Created in the aftermath of the 1979 Islamic Revolution - the Islamic Revolutionary Guard Corps is now the most powerful organization in Iran. A parallel military force - the regime's armed wing and a...",
-    "timestamp": 1769700342.0,
-    "date": "Jan 29, 15:25"
-  },
-  {
     "source": "NPR",
     "title": "Why these women break the law to sell their eggs for IVF",
     "link": "https://www.npr.org/2026/01/29/g-s1-106920/ivf-eggs-india",
     "summary": "Women in India were told they couldn't be paid for their eggs. The result: a black market for eggs from women in need of money to survive.",
     "timestamp": 1769700244.0,
     "date": "Jan 29, 15:24"
-  },
-  {
-    "source": "CNBC",
-    "title": "Homan: ICE and CBP crafting 'drawdown plan' in Minnesota, admits 'improvements' needed",
-    "link": "https://www.cnbc.com/2026/01/29/homan-trump-minnesota-ice-cbp-pretti.html",
-    "summary": "President Donald Trump sent border czar Tom Homan to Minneapolis after federal agents killed a second U.S. citizen in the city.",
-    "timestamp": 1769700226.0,
-    "date": "Jan 29, 15:23"
   },
   {
     "source": "TechCrunch",
@@ -867,7 +1003,7 @@
     "source": "Al Jazeera",
     "title": "Ukraine receives bodies of 1,000 soldiers from Russia",
     "link": "https://www.aljazeera.com/news/2026/1/29/ukraine-receives-bodies-of-1000-soldiers-from-russia?traffic_source=rss",
-    "summary": "Ukraine and Russia confirm soldier body exchange, enabling families to bury loved ones as the conflict continues.",
+    "summary": "Ukraine and Russia confirm exchange of soldiers&#039; bodies, enabling families to bury loved ones as conflict continues.",
     "timestamp": 1769699840.0,
     "date": "Jan 29, 15:17"
   },
@@ -894,46 +1030,6 @@
     "summary": "",
     "timestamp": 1769699592.0,
     "date": "Jan 29, 15:13"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "US software stocks slump as AI disruption fears take over",
-    "link": "https://www.channelnewsasia.com/business/us-software-stocks-slump-ai-disruption-fears-take-over-5894491",
-    "summary": "",
-    "timestamp": 1769699494.0,
-    "date": "Jan 29, 15:11"
-  },
-  {
-    "source": "France 24",
-    "title": "French luxury brands face growing competition from ultra-fast-fashion",
-    "link": "https://www.france24.com/en/french-luxury-brands-face-growing-competition-from-ultra-fast-fashion",
-    "summary": "Paris fashion week is currently underway with luxury brands showcasing their \"haute couture\" summer collection for the upcoming season. But the industry is now facing increasingly growing competition ...",
-    "timestamp": 1769699469.0,
-    "date": "Jan 29, 15:11"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Serena Williams fuels comeback speculation with TV interview",
-    "link": "https://www.channelnewsasia.com/sport/serena-williams-fuels-comeback-speculation-tv-interview-5894476",
-    "summary": "",
-    "timestamp": 1769699212.0,
-    "date": "Jan 29, 15:06"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "White House \u2018Border Czar\u2019 announces shift in Minnesota tactics",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/white-house-border-czar-announces-shift-in-minnesota-tactics?traffic_source=rss",
-    "summary": "White House \u201cBorder Czar\u201d Tom Homan said federal immigration agents will conduct \u201ctargeted\u201d operations in Minnesota.",
-    "timestamp": 1769698897.0,
-    "date": "Jan 29, 15:01"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "German star latest to take aim at Trump ahead of FIFA World Cup in US",
-    "link": "https://www.aljazeera.com/sports/2026/1/29/german-star-latest-to-take-aim-at-trump-ahead-of-fifa-world-cup-in-us?traffic_source=rss",
-    "summary": "Bayern Munich midfielder and German international Leon Goretzka says European teams are emboldened heading to World Cup.",
-    "timestamp": 1769698789.0,
-    "date": "Jan 29, 14:59"
   },
   {
     "source": "TechCrunch",
@@ -976,14 +1072,6 @@
     "date": "Jan 29, 14:50"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "AI development is biggest economic growth driver, Blackstone says",
-    "link": "https://www.channelnewsasia.com/business/ai-development-biggest-economic-growth-driver-blackstone-says-5894446",
-    "summary": "",
-    "timestamp": 1769698067.0,
-    "date": "Jan 29, 14:47"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Silver: Why the price of 'poor man's gold' has hit a record",
     "link": "https://www.dw.com/en/silver-why-the-price-of-poor-man-s-gold-has-hit-a-record/a-75086411?maca=en-rss-en-all-1573-rdf",
@@ -1000,14 +1088,6 @@
     "date": "Jan 29, 14:41"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "US life expectancy hits record high in 2024, CDC says",
-    "link": "https://www.channelnewsasia.com/world/us-life-expectancy-hits-record-high-in-2024-cdc-says-5894406",
-    "summary": "",
-    "timestamp": 1769697586.0,
-    "date": "Jan 29, 14:39"
-  },
-  {
     "source": "TechCrunch",
     "title": "Google Maps now lets you access Gemini while walking and cycling",
     "link": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
@@ -1016,36 +1096,12 @@
     "date": "Jan 29, 14:30"
   },
   {
-    "source": "CNBC",
-    "title": "\u2018Climate of fear\u2019: ICE violence in Minnesota forces CEOs to weigh the risks of speaking out against Trump",
-    "link": "https://www.cnbc.com/2026/01/29/trump-minnesota-ice-action-ceos-speaking-out.html",
-    "summary": "Minneapolis has become the testing ground for when and how far corporate leaders will wade into escalating political tensions.",
-    "timestamp": 1769696856.0,
-    "date": "Jan 29, 14:27"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Key questions about US military build-up near Iran",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/key-questions-about-us-military-build-up-near-iran?traffic_source=rss",
-    "summary": "Trump is building up a military force in the Middle East, saying the US is ready to strike Iran.",
-    "timestamp": 1769696527.0,
-    "date": "Jan 29, 14:22"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Yemen: WFP stops operations definitively amid Houthi threats",
     "link": "https://www.dw.com/en/yemen-wfp-stops-operations-definitively-amid-houthi-threats/a-75713997?maca=en-rss-en-all-1573-rdf",
     "summary": "The UN's World Food Program is dissolving contracts with staff in Houthi-controlled northern Yemen. It first suspended operations, after more than a decade of internal conflict, in August amid a Houth...",
     "timestamp": 1769696400.0,
     "date": "Jan 29, 14:20"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "What\u2019s UpScrolled, the app gaining popularity after TikTok\u2019s US takeover?",
-    "link": "https://www.aljazeera.com/news/2026/1/29/whats-upscrolled-the-app-gaining-popularity-after-tiktoks-us-takeover?traffic_source=rss",
-    "summary": "Disgruntled TikTok users are flocking to the platform which is promising a \u2018transparent tech&#039; experience.",
-    "timestamp": 1769696142.0,
-    "date": "Jan 29, 14:15"
   },
   {
     "source": "New York Times",
@@ -1067,7 +1123,7 @@
     "source": "The Guardian",
     "title": "Australia spends more on tax breaks for landlords than social housing, homelessness and rent assistance combined",
     "link": "https://www.theguardian.com/australia-news/2026/jan/29/australia-tax-breaks-landlords-more-spending-than-social-housing-homelessness-rent-assistance-combined",
-    "summary": "<p><strong>Exclusive:</strong> Acoss report shows property investors received $12.3bn in tax concessions in 2025, while the share of social housing dropped to a record low</p><ul><li><p>Get our <a hre...",
+    "summary": "<p><strong>Exclusive:</strong> Acoss report shows property investors received $12.3bn in tax concessions in 2025, while the share of social housing dropped to a record low</p><ul><li><p><a href=\"https...",
     "timestamp": 1769695223.0,
     "date": "Jan 29, 14:00"
   },
@@ -1075,7 +1131,7 @@
     "source": "The Guardian",
     "title": "Company handling Australia\u2019s immigration detention playing key role in Trump\u2019s ICE migrant crackdown",
     "link": "https://www.theguardian.com/australia-news/2026/jan/29/australia-immigration-detention-company-involved-trump-ice-migrant-crackdown",
-    "summary": "<p>Albanese government awarded contracts to MTC despite allegations of \u2018gross negligence\u2019 in the US involvement with ICE</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CM...",
+    "summary": "<p>Albanese government awarded contracts to MTC despite allegations of \u2018gross negligence\u2019 in the US involvement with ICE</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan...",
     "timestamp": 1769695222.0,
     "date": "Jan 29, 14:00"
   },
@@ -1083,7 +1139,7 @@
     "source": "The Guardian",
     "title": "\u2018Gobsmacked\u2019: Australian workplace relations department to replace short-term staff with third-party contractor",
     "link": "https://www.theguardian.com/australia-news/2026/jan/29/australian-workplace-relations-department-replacing-short-term-staff-third-party-contractor",
-    "summary": "<p>Workers and union say outsourcing will mean loss of knowledge and experience needed to help \u2018very vulnerable people\u2019 waiting for government payments</p><ul><li><p>Get our <a href=\"https://www.thegu...",
+    "summary": "<p>Workers and union say outsourcing will mean loss of knowledge and experience needed to help \u2018very vulnerable people\u2019 waiting for government payments</p><ul><li><p><a href=\"https://www.theguardian.c...",
     "timestamp": 1769695221.0,
     "date": "Jan 29, 14:00"
   },
@@ -1091,7 +1147,7 @@
     "source": "The Guardian",
     "title": "Nursing a skink: endangered alpine lizard numbers set to rise after Omeo falls pregnant in Victoria",
     "link": "https://www.theguardian.com/environment/2026/jan/29/skink-endangered-alpine-lizard-numbers-alpine-national-park-victoria",
-    "summary": "<p>Eleven guthega skinks could soon become 13 thanks to a captive breeding program in the Alpine national park</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl...",
+    "summary": "<p>Eleven guthega skinks could soon become 13 thanks to a captive breeding program in the Alpine national park</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/30/nation...",
     "timestamp": 1769695220.0,
     "date": "Jan 29, 14:00"
   },
@@ -1102,14 +1158,6 @@
     "summary": "Russia received 38 soldiers' bodies in exchange as part of an agreement between the warring countries.",
     "timestamp": 1769693484.0,
     "date": "Jan 29, 13:31"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Trump border security chief Homan doubles down on Minnesota operations",
-    "link": "https://www.aljazeera.com/news/2026/1/29/trump-border-czar-says-staying-in-minnesota-until-problems-gone?traffic_source=rss",
-    "summary": "Top official promises shift in operations after killings of US citizens, but says Trump not &#039;surrendering&#039; mission.",
-    "timestamp": 1769693329.0,
-    "date": "Jan 29, 13:28"
   },
   {
     "source": "Deutsche Welle",
@@ -1142,14 +1190,6 @@
     "summary": "Chancellor Friedrich Merz called on Europe to stand up in the face of US dominance and condemned Donald Trump's criticism of NATO troops in Afghanistan. DW has more.",
     "timestamp": 1769692140.0,
     "date": "Jan 29, 13:09"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Israel hands over 15 bodies of Palestinians in last stage of captive swap",
-    "link": "https://www.aljazeera.com/news/2026/1/29/israel-hands-over-15-bodies-of-palestinians-in-last-stage-of-captive-swap?traffic_source=rss",
-    "summary": "Palestinians still waiting for the Red Cross to turn over the bodies either in Khan Younis or Gaza City.",
-    "timestamp": 1769691935.0,
-    "date": "Jan 29, 13:05"
   },
   {
     "source": "TechCrunch",
@@ -1288,14 +1328,6 @@
     "date": "Jan 29, 10:00"
   },
   {
-    "source": "NPR",
-    "title": "Big-budget Melania Trump documentary premieres with splashy rollout",
-    "link": "https://www.npr.org/2026/01/29/nx-s1-5689040/big-budget-melania-trump-documentary-premieres-with-splashy-rollout",
-    "summary": "A film about first lady Melania Trump premieres this week, with big presidential promotion.",
-    "timestamp": 1769680800.0,
-    "date": "Jan 29, 10:00"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Why fans are obsessed with 'Bridgerton'",
     "link": "https://www.dw.com/en/why-fans-are-obsessed-with-bridgerton/a-75700861?maca=en-rss-en-all-1573-rdf",
@@ -1326,14 +1358,6 @@
     "summary": "Last year, Deezer introduced an AI-detection tool that automatically tags fully AI-generated music for listeners and removes it from algorithmic and editorial recommendations. The company announced on...",
     "timestamp": 1769673600.0,
     "date": "Jan 29, 08:00"
-  },
-  {
-    "source": "The Guardian",
-    "title": "A cabal of male Liberals signals Ley\u2019s reign is ending. But the day of a colleague\u2019s memorial is obscene timing",
-    "link": "https://www.theguardian.com/australia-news/2026/jan/29/a-cabal-of-male-liberals-signals-leys-reign-is-ending-but-the-day-of-a-colleagues-memorial-is-obscene-timing",
-    "summary": "<p>As images of a secret meeting were splashed all over the media, it became clear the internal plot to oust the leader has descended into political melodrama</p><p>The images of a cabal of rightwing ...",
-    "timestamp": 1769673460.0,
-    "date": "Jan 29, 07:57"
   },
   {
     "source": "Deutsche Welle",
@@ -1382,6 +1406,14 @@
     "summary": "Tehran says its armed forces are ready \"with their fingers on the trigger\" to respond to any aggression.",
     "timestamp": 1769665623.0,
     "date": "Jan 29, 05:47"
+  },
+  {
+    "source": "New York Times",
+    "title": "Canada\u2019s New Reality",
+    "link": "https://www.nytimes.com/2026/01/28/world/canada-tariffs-trump-iran-threats.html",
+    "summary": "What can we learn from Canada\u2019s pivot away from the U.S.?",
+    "timestamp": 1769663740.0,
+    "date": "Jan 29, 05:15"
   },
   {
     "source": "New York Times",
@@ -1448,6 +1480,14 @@
     "date": "Jan 28, 22:59"
   },
   {
+    "source": "New York Times",
+    "title": "Hillary Clinton and Tucker Carlson Speak at Saudi Business Forum",
+    "link": "https://www.nytimes.com/2026/01/28/world/middleeast/hillary-clinton-tucker-carlson-riyadh.html",
+    "summary": "The Democrat and the hard-right commentator found at least one thing to agree upon as they spoke at a conference in Riyadh.",
+    "timestamp": 1769640817.0,
+    "date": "Jan 28, 22:53"
+  },
+  {
     "source": "TechCrunch",
     "title": "Trump energy department loosens rules on nuclear safety",
     "link": "https://techcrunch.com/2026/01/28/trump-energy-department-loosens-rules-on-nuclear-safety/",
@@ -1464,22 +1504,6 @@
     "date": "Jan 28, 22:48"
   },
   {
-    "source": "TechCrunch",
-    "title": "Microsoft gained $7.6B from OpenAI last quarter",
-    "link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
-    "summary": "Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth.",
-    "timestamp": 1769640444.0,
-    "date": "Jan 28, 22:47"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Tesla is killing off the Model S and Model X",
-    "link": "https://techcrunch.com/2026/01/28/tesla-is-killing-off-the-model-s-and-model-x/",
-    "summary": "The company will stop making the pioneering EVs in the second quarter of 2026, CEO Elon Musk announced Wednesday.",
-    "timestamp": 1769640053.0,
-    "date": "Jan 28, 22:40"
-  },
-  {
     "source": "New York Times",
     "title": "Plane Carrying Colombian Politicians Crashes in Area Contested by Rebels",
     "link": "https://www.nytimes.com/2026/01/28/world/americas/colombian-plane-politicians-missing.html",
@@ -1489,35 +1513,11 @@
   },
   {
     "source": "New York Times",
-    "title": "Landslide Leaves Town in Sicily Perched on a Cliff\u2019s Edge",
-    "link": "https://www.nytimes.com/2026/01/28/world/europe/sicily-town-landslide.html",
-    "summary": "\u201cWe are in a movie, in a horror film,\u201d said a resident of Niscemi, where a widening chasm is threatening the town\u2019s historic center.",
-    "timestamp": 1769630764.0,
-    "date": "Jan 28, 20:06"
-  },
-  {
-    "source": "New York Times",
-    "title": "South Africa Cancels Release of \u2018Melania\u2019 Documentary",
-    "link": "https://www.nytimes.com/2026/01/28/world/africa/melania-trump-documentary-south-africa-cancel.html",
-    "summary": "The distributor, which was set to release the film on Friday, said it had canceled the theatrical premiere because of \u201crecent developments,\u201d but declined to specify.",
-    "timestamp": 1769628725.0,
-    "date": "Jan 28, 19:32"
-  },
-  {
-    "source": "New York Times",
     "title": "In Kherson, Ukraine, Every Step Outside Risks Death by Drone",
     "link": "https://www.nytimes.com/2026/01/28/world/europe/kherson-ukraine-drones-russia.html",
     "summary": "Russian attacks on civilians in Kherson, in southern Ukraine, have forced important aspects of life to go underground, offering a vision of a postapocalyptic future.",
     "timestamp": 1769615702.0,
     "date": "Jan 28, 15:55"
-  },
-  {
-    "source": "New York Times",
-    "title": "After Russian Strike Kills Five, Train Sheds Burned Cars and Carries On",
-    "link": "https://www.nytimes.com/2026/01/28/world/europe/ukraine-train-attack.html",
-    "summary": "One Ukrainian passenger, who escaped injury after stepping out of a carriage for a cigarette, recalled carrying a bloodied woman away from the burning train.",
-    "timestamp": 1769613035.0,
-    "date": "Jan 28, 15:10"
   },
   {
     "source": "BBC World",
