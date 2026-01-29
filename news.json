@@ -1,10 +1,290 @@
 [
   {
     "source": "CNA (Asia)",
+    "title": "Blackstone to become New World Development's largest shareholder, Bloomberg reports",
+    "link": "https://www.channelnewsasia.com/business/blackstone-become-new-world-developments-largest-shareholder-bloomberg-reports-5893786",
+    "summary": "",
+    "timestamp": 1769682505.0,
+    "date": "Jan 29, 10:28"
+  },
+  {
+    "source": "NPR",
+    "title": "Senegal and Morocco fined and players banned after African Cup final chaos",
+    "link": "https://www.npr.org/2026/01/29/g-s1-107750/senegal-morocco-fined-african-cup-final-chaos",
+    "summary": "Africa's soccer body issued fines worth more than $1 million and banned Senegal's coach and Senegalese and Morocco players Wednesday following a shambolic African Cup soccer final this month.",
+    "timestamp": 1769682460.0,
+    "date": "Jan 29, 10:27"
+  },
+  {
+    "source": "France 24",
+    "title": "Sicilian town impacted by landslide fears it risks widening as 1,500 evacuated",
+    "link": "https://www.france24.com/en/sicilian-town-impacted-by-landslide-fears-it-risks-widening-as-1-500-evacuated",
+    "summary": "The Sicilian town of Niscemi has been declared a \"red zone\" after a four-kilometre (2.5-mile) long stretch of the hillside collapsed on January 25, forcing the evacuation of some 1,500 people. The tow...",
+    "timestamp": 1769682410.0,
+    "date": "Jan 29, 10:26"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Samsung, SK Hynix warn of squeezed chip supplies for PCs, phones due to AI boom",
+    "link": "https://www.channelnewsasia.com/business/samsung-sk-hynix-warn-squeezed-chip-supplies-pcs-phones-due-ai-boom-5893781",
+    "summary": "",
+    "timestamp": 1769682333.0,
+    "date": "Jan 29, 10:25"
+  },
+  {
+    "source": "France 24",
+    "title": "Starmer and Xi call for deeper ties as Trump shakes up global relations",
+    "link": "https://www.france24.com/en/starmer-and-xi-call-for-deeper-ties-as-trump-shakes-up-global-relations",
+    "summary": "The leaders of Britain and China called Thursday for a \u201ccomprehensive strategic partnership\u201d to deepen ties between their nations at a time of growing global turbulence and uncertainty. Neither Prime ...",
+    "timestamp": 1769682252.0,
+    "date": "Jan 29, 10:24"
+  },
+  {
+    "source": "BBC World",
+    "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
+    "link": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
+    "summary": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti.",
+    "timestamp": 1769682174.0,
+    "date": "Jan 29, 10:22"
+  },
+  {
+    "source": "France 24",
+    "title": "Latest Trump-Iran escalation is \"a new shiny object\" taking focus off Minneapolis",
+    "link": "https://www.france24.com/en/latest-trump-iran-escalation-is-a-new-shiny-object-taking-focus-off-minneapolis",
+    "summary": "U.S. President Donald Trump \u2060urged Iran on Wednesday to come to the table and make a deal on nuclear weapons or the next U.S. attack would be far worse. Tehran responded with a threat to strike back a...",
+    "timestamp": 1769682062.0,
+    "date": "Jan 29, 10:21"
+  },
+  {
+    "source": "France 24",
+    "title": "Tension stays high between Iran and the US as Trump threatens attack",
+    "link": "https://www.france24.com/en/tension-stays-high-between-iran-and-the-us-as-trump-threatens-attack",
+    "summary": "Iran says it will \"respond like never before\" in the event of a US attack. The comments come from the Iranian mission to the UN after Donald Trump renewed his threats on January 28. On social media, t...",
+    "timestamp": 1769681987.0,
+    "date": "Jan 29, 10:19"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Ukraine is facing 'humanitarian catastrophe,' EU warns",
+    "link": "https://www.dw.com/en/ukraine-is-facing-humanitarian-catastrophe-eu-warns/live-75709229?maca=en-rss-en-all-1573-rdf",
+    "summary": "Kaja Kallas, the EU's top diplomat, said Ukraine is facing a humanitarian catastrophe due to Russian bombings. Meanwhile, three people were killed in a Russian drone attack in southern Ukraine, offici...",
+    "timestamp": 1769681880.0,
+    "date": "Jan 29, 10:18"
+  },
+  {
+    "source": "CNBC",
+    "title": "World\u2019s largest sovereign wealth fund posts record $1.4 billion annual return, driven by tech and banking rally",
+    "link": "https://www.cnbc.com/2026/01/29/norway-sovereign-wealth-fund-2025-return-nbim-trillion-oil-stocks-tech-ai-banks-silver.html",
+    "summary": "Norway's $2 trillion sovereign wealth fund holds stakes in many of the world's biggest companies, including Apple, Nvidia and JPMorgan Chase.",
+    "timestamp": 1769681812.0,
+    "date": "Jan 29, 10:16"
+  },
+  {
+    "source": "CNBC",
+    "title": "SAP shares see biggest drop since 2020 after fourth-quarter cloud contract growth disappoints",
+    "link": "https://www.cnbc.com/2026/01/29/sap-earnings-q4-shares-cloud-contract-value.html",
+    "summary": "It's the biggest daily fall since October 26 2020, when stock dropped 22% following disappointing third quarter results",
+    "timestamp": 1769681573.0,
+    "date": "Jan 29, 10:12"
+  },
+  {
+    "source": "New York Times",
+    "title": "U.K.\u2019s Starmer Meets Xi Jinping in Beijing as Ties Warm",
+    "link": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
+    "summary": "Prime Minister Keir Starmer of Britain is seeking to promote economic ties for growth, offering China\u2019s leader, Xi Jinping, a way to court one of America\u2019s allies.",
+    "timestamp": 1769681515.0,
+    "date": "Jan 29, 10:11"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "What we know about the US-proposed Gaza community",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/what-we-know-about-the-us-proposed-gaza-community?traffic_source=rss",
+    "summary": "Israeli and US officials are preparing to build Gaza\u2019s first experimental community.",
+    "timestamp": 1769681489.0,
+    "date": "Jan 29, 10:11"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Shell Indonesia says it is working closely with government after reports of fuel shortages",
+    "link": "https://www.channelnewsasia.com/business/shell-indonesia-says-it-working-closely-government-after-reports-fuel-shortages-5893751",
+    "summary": "",
+    "timestamp": 1769681458.0,
+    "date": "Jan 29, 10:10"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Senegal and Morocco handed fines and bans after AFCON final farce",
+    "link": "https://www.aljazeera.com/sports/2026/1/29/senegal-and-morocco-handed-fines-and-bans-after-afcon-final-farce?traffic_source=rss",
+    "summary": "Fines together total more than $1m, and players from both teams banned after Africa Cup of Nations walk-off and chaos.",
+    "timestamp": 1769681423.0,
+    "date": "Jan 29, 10:10"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Starmer-Xi meeting live: UK prime minister says he wants \u2018more sophisticated\u2019 relationship with China",
+    "link": "https://www.theguardian.com/politics/live/2026/jan/29/starmer-xi-jinping-meeting-uk-china-relationship-live",
+    "summary": "<p>Starmer tells Xi Jinping during Beijing meeting that it has been \u2018too long\u2019 since a British PM has visited China.</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jan/29/xi-starmer-...",
+    "timestamp": 1769681399.0,
+    "date": "Jan 29, 10:09"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "PicPay IPO breaks four-year drought for Brazilian companies",
+    "link": "https://www.channelnewsasia.com/business/picpay-ipo-breaks-four-year-drought-brazilian-companies-5893741",
+    "summary": "",
+    "timestamp": 1769681228.0,
+    "date": "Jan 29, 10:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Supreme Sabalenka crushes Svitolina to reach Australian Open final",
+    "link": "https://www.channelnewsasia.com/sport/supreme-sabalenka-crushes-svitolina-reach-australian-open-final-5893746",
+    "summary": "",
+    "timestamp": 1769681091.0,
+    "date": "Jan 29, 10:04"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Senegal and Morocco fined and banned after AFCON final chaos",
+    "link": "https://www.dw.com/en/senegal-and-morocco-fined-and-banned-after-afcon-final-chaos/a-75708036?maca=en-rss-en-all-1573-rdf",
+    "summary": "Africa's governing football body has issued more than $1 million in fines after the chaotic scenes at the end of the AFCON final. In addition, a number of players and Senegal's coach face bans.",
+    "timestamp": 1769680920.0,
+    "date": "Jan 29, 10:02"
+  },
+  {
+    "source": "France 24",
+    "title": "Champions League: Arsenal finish first place, five English teams in top 8",
+    "link": "https://www.france24.com/en/tv-shows/sports/20260129-champions-league-arsenal-finish-first-place-five-english-teams-in-top-8",
+    "summary": "Kai Havertz scored on his first start for nearly a year as Arsenal completed a flawless league phase campaign, making it eight wins out of eight in the Champions League with victory over Kairat Almaty...",
+    "timestamp": 1769680865.0,
+    "date": "Jan 29, 10:01"
+  },
+  {
+    "source": "NPR",
+    "title": "Trump has sued universities for billions. Here's what the strategy tells us",
+    "link": "https://www.npr.org/2026/01/29/nx-s1-5559293/trump-settlements-colleges-universities",
+    "summary": "Each deal between colleges and the administration is unique, but they have common goals: altering the culture at powerful institutions and making their policies more aligned with President Trump's.",
+    "timestamp": 1769680800.0,
+    "date": "Jan 29, 10:00"
+  },
+  {
+    "source": "NPR",
+    "title": "'Philadelphia,' 'Clueless,' 'The Karate Kid' added to the National Film Registry",
+    "link": "https://www.npr.org/2026/01/29/nx-s1-5686770/national-film-registry-clueless-karate-kid",
+    "summary": "Every year, the National Film Registry adds 25 films to its collection to be preserved for posterity. Selections for 2025 ranges from 'The Thing' to 'White Christmas'",
+    "timestamp": 1769680800.0,
+    "date": "Jan 29, 10:00"
+  },
+  {
+    "source": "NPR",
+    "title": "Big budget Melania Trump documentary premieres with splashy rollout",
+    "link": "https://www.npr.org/2026/01/29/nx-s1-5689040/big-budget-melania-trump-documentary-premieres-with-splashy-rollout",
+    "summary": "A film about First Lady Melania Trump premiere's this week, with big presidential promotion.",
+    "timestamp": 1769680800.0,
+    "date": "Jan 29, 10:00"
+  },
+  {
+    "source": "NPR",
+    "title": "Caregivers for the elderly could lose wage protections under Trump proposal",
+    "link": "https://www.npr.org/2026/01/29/nx-s1-5626767/home-care-seniors-trump-labor-overtime",
+    "summary": "The Labor Department has proposed rescinding an Obama-era rule that gave home care workers the right to overtime pay and other wage protections. The administration says the rule made care too costly.",
+    "timestamp": 1769680800.0,
+    "date": "Jan 29, 10:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Clashes between government troops and Tigrayan forces erupt in Ethiopia",
+    "link": "https://www.aljazeera.com/news/2026/1/29/clashes-between-government-troops-and-tigrayan-forces-erupt-in-ethiopia?traffic_source=rss",
+    "summary": "&#039;Deteriorating&#039; situation causes suspension of flights, security and diplomatic sources say.",
+    "timestamp": 1769680751.0,
+    "date": "Jan 29, 09:59"
+  },
+  {
+    "source": "New York Times",
+    "title": "Netanyahu Says Some Israeli Soldiers Died in Gaza Because of U.S. Arms Delay",
+    "link": "https://www.nytimes.com/2026/01/29/world/middleeast/israel-us-aid-weapons-gaza-biden-netanyahu.html",
+    "summary": "A former Biden administration official rebuked Prime Minister Benjamin Netanyahu over the claim. The Israeli leader has vowed to wean his country off American military aid.",
+    "timestamp": 1769680699.0,
+    "date": "Jan 29, 09:58"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Israel seeks \u2018more exits than entries\u2019 at Gaza\u2019s Rafah as Egypt objects",
+    "link": "https://www.aljazeera.com/news/2026/1/29/israel-seeks-more-exits-than-entries-at-gazas-rafah-as-egypt-objects?traffic_source=rss",
+    "summary": "Demands from Israel fuel fears of engineered displacement of Palestinians from devastated Gaza.",
+    "timestamp": 1769680459.0,
+    "date": "Jan 29, 09:54"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "CNA retains spot among top 10 brands in Singapore: YouGov report",
+    "link": "https://www.channelnewsasia.com/singapore/cna-top-10-brands-singapore-yougov-survey-2025-5893596",
+    "summary": "",
+    "timestamp": 1769680440.0,
+    "date": "Jan 29, 09:54"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Why fans are obsessed with 'Bridgerton'",
+    "link": "https://www.dw.com/en/why-fans-are-obsessed-with-bridgerton/a-75700861?maca=en-rss-en-all-1573-rdf",
+    "summary": "Opulent romance, a diverse cast and plotlines that meld fairytales with a modern zeitgeist: \"Bridgerton\" has redefined the period-piece genre.",
+    "timestamp": 1769680260.0,
+    "date": "Jan 29, 09:51"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US opens probe after Waymo self-driving vehicle strikes child near school, causing minor injuries",
+    "link": "https://www.channelnewsasia.com/business/us-opens-probe-after-waymo-self-driving-vehicle-strikes-child-near-school-causing-minor-injuries-5893696",
+    "summary": "",
+    "timestamp": 1769680222.0,
+    "date": "Jan 29, 09:50"
+  },
+  {
+    "source": "NPR",
+    "title": "Car rams into Chabad headquarters in New York City, damaging doors",
+    "link": "https://www.npr.org/2026/01/29/g-s1-107742/car-rams-into-chabad-headquarters-new-york-city",
+    "summary": "A man was arrested after repeatedly crashing his car into the Chabad Lubavitch world headquarters in New York City on Wednesday night while people were gathered for prayer.",
+    "timestamp": 1769679572.0,
+    "date": "Jan 29, 09:39"
+  },
+  {
+    "source": "NPR",
+    "title": "Starmer and Xi call for deeper UK-China ties as Trump shakes up global relations",
+    "link": "https://www.npr.org/2026/01/29/g-s1-107743/starmer-and-xi-call-for-deeper-uk-china-ties",
+    "summary": "British Prime Minister Keir Starmer and Chinese leader Xi Jinping in Beijing called for a \"comprehensive strategic partnership\" to deepen ties amid global uncertainty.",
+    "timestamp": 1769679511.0,
+    "date": "Jan 29, 09:38"
+  },
+  {
+    "source": "France 24",
+    "title": "South African school turns phone-free hoping to improve pupils' concentration",
+    "link": "https://www.france24.com/en/south-african-school-turns-phone-free-hoping-to-improve-pupils-concentration",
+    "summary": "After noticing that attention deficit disorders had sharply increased among pupils in the past five years, a Cape Town high school decided to turn phone-free. Expecting a backlash, it got none. This c...",
+    "timestamp": 1769679324.0,
+    "date": "Jan 29, 09:35"
+  },
+  {
+    "source": "CNA (Asia)",
     "title": "Motorcyclist injured by burger stall falling from moving lorry in Malaysia",
     "link": "https://www.channelnewsasia.com/asia/motorcyclist-injured-burger-stall-lorry-perak-malaysia-5893421",
     "summary": "As the lorry driver made a turn, the burger stall on the back toppled onto a motorcyclist as he was waiting at a junction.",
     "timestamp": 1769679294.0,
+    "date": "Jan 29, 09:34"
+  },
+  {
+    "source": "CNBC",
+    "title": "Denmark lauds constructive talks with U.S. over Greenland: \u2018Now we are back on track\u2019",
+    "link": "https://www.cnbc.com/2026/01/29/greenland-denmark-us-trump-talks-arctic-security-nato.html",
+    "summary": "Danish Foreign Minister Lars Lokke Rasmussen on Thursday welcomed constructive high-level talks over Greenland's future.",
+    "timestamp": 1769679287.0,
+    "date": "Jan 29, 09:34"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Confusion, anger in post-coup Guinea-Bissau",
+    "link": "https://www.dw.com/en/confusion-anger-in-post-coup-guinea-bissau/a-75666062?maca=en-rss-en-all-1573-rdf",
+    "summary": "The opposition alleges that the ousted president staged his own coup to avoid defeat in the last election. Meanwhile, the country's political institutions have been left in limbo as the country gears ...",
+    "timestamp": 1769679240.0,
     "date": "Jan 29, 09:34"
   },
   {
@@ -20,7 +300,7 @@
     "title": "Former actor Edmund Chen gets jail and driving ban over collision that left motorcyclist with fractures",
     "link": "https://www.channelnewsasia.com/singapore/actor-edmund-chen-sentenced-driving-ban-fine-fracture-5893046",
     "summary": "Chen braked abruptly when he tried to move to another lane on the expressway, resulting in the motorcycle colliding with the rear of Chen's car.",
-    "timestamp": 1769678882.0,
+    "timestamp": 1769678880.0,
     "date": "Jan 29, 09:28"
   },
   {
@@ -32,12 +312,12 @@
     "date": "Jan 29, 09:22"
   },
   {
-    "source": "The Guardian",
-    "title": "Starmer-Xi meeting live: UK prime minister says he wants \u2018more sophisticated\u2019 relationship with China",
-    "link": "https://www.theguardian.com/politics/live/2026/jan/29/starmer-xi-jinping-meeting-uk-china-relationship-live",
-    "summary": "<p>Starmer tells Xi Jinping during Beijing meeting that it has been \u2018too long\u2019 since a British PM has visited China.</p><ul><li><p><a href=\"https://www.theguardian.com/politics/2026/jan/29/xi-starmer-...",
-    "timestamp": 1769678540.0,
-    "date": "Jan 29, 09:22"
+    "source": "Al Jazeera",
+    "title": "Video: US agents placed on leave over Pretti shooting as vigil held",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/video-us-agents-placed-on-leave-over-pretti-shooting-as-vigil-held?traffic_source=rss",
+    "summary": "US federal agents involved in a fatal shooting during an immigration raid are placed on leave. Manuel Rapalo explains.",
+    "timestamp": 1769678374.0,
+    "date": "Jan 29, 09:19"
   },
   {
     "source": "Deutsche Welle",
@@ -62,14 +342,6 @@
     "summary": "",
     "timestamp": 1769677943.0,
     "date": "Jan 29, 09:12"
-  },
-  {
-    "source": "CNBC",
-    "title": "SAP shares see biggest drop since 2020 after fourth-quarter cloud contract growth disappoints",
-    "link": "https://www.cnbc.com/2026/01/29/sap-earnings-q4-shares-cloud-contract-value.html",
-    "summary": "It's the biggest daily fall since October 26 2020, when stock dropped 22% following disappointing third quarter results",
-    "timestamp": 1769677843.0,
-    "date": "Jan 29, 09:10"
   },
   {
     "source": "CNBC",
@@ -168,14 +440,6 @@
     "date": "Jan 29, 08:39"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "India\u2019s clean energy ambitions grow, even as fossil fuels stay in the mix",
-    "link": "https://www.channelnewsasia.com/asia/india-clean-energy-ambitions-grow-fossil-fuels-5893281",
-    "summary": "Analysts say significant investment and infrastructure development are still needed to keep the country\u2019s green plans on track.",
-    "timestamp": 1769675891.0,
-    "date": "Jan 29, 08:38"
-  },
-  {
     "source": "France 24",
     "title": "Live: Sanctioned Russian oil giant Lukoil to sell foreign assets to US investment firm",
     "link": "https://www.france24.com/en/europe/20260129-live-russian-drone-strikes-kill-three-southern-ukraine-governor-says",
@@ -184,28 +448,12 @@
     "date": "Jan 29, 08:32"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Hyundai to recall about 569,000 SUVs in US over faulty deployment of air bags",
-    "link": "https://www.channelnewsasia.com/business/hyundai-recall-about-569000-suvs-in-us-over-faulty-deployment-air-bags-5893446",
-    "summary": "",
-    "timestamp": 1769675157.0,
-    "date": "Jan 29, 08:25"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Is the global economic order unravelling?",
     "link": "https://www.aljazeera.com/video/counting-the-cost/2026/1/29/is-the-global-economic-order-unravelling?traffic_source=rss",
     "summary": "As the US pushes its &#039;America First&#039; agenda, its partners are edging towards China and new alliances are being formed.",
     "timestamp": 1769674878.0,
     "date": "Jan 29, 08:21"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Vietnam, EU vow stronger ties as bloc's chief visits Hanoi",
-    "link": "https://www.channelnewsasia.com/asia/vietnam-eu-vow-stronger-ties-blocs-chief-visits-hanoi-5893116",
-    "summary": "",
-    "timestamp": 1769674740.0,
-    "date": "Jan 29, 08:19"
   },
   {
     "source": "Al Jazeera",
@@ -224,22 +472,6 @@
     "date": "Jan 29, 08:14"
   },
   {
-    "source": "CNBC",
-    "title": "CNBC's Inside India newsletter: EU edges out U.S. in getting India to slash auto tariffs, but can European carmakers win big?",
-    "link": "https://www.cnbc.com/2026/01/29/cnbcs-inside-india-newsletter-eu-edges-out-us-as-new-delhi-readies-to-slash-duties-on-imported-cars.html",
-    "summary": "India has shed import duties on European cars, opening its long-protected auto industry from global competition.",
-    "timestamp": 1769674043.0,
-    "date": "Jan 29, 08:07"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Deezer licenses AI-detection tool to French royalty agency Sacem, plans wider roll-out",
-    "link": "https://www.channelnewsasia.com/business/deezer-licenses-ai-detection-tool-french-royalty-agency-sacem-plans-wider-roll-out-5893391",
-    "summary": "",
-    "timestamp": 1769673803.0,
-    "date": "Jan 29, 08:03"
-  },
-  {
     "source": "Al Jazeera",
     "title": "China executes 11 linked to Myanmar scam operations: State media",
     "link": "https://www.aljazeera.com/news/2026/1/29/china-executes-11-linked-to-myanmar-scam-operations-state-media?traffic_source=rss",
@@ -254,14 +486,6 @@
     "summary": "Last year, Deezer introduced an AI detection tool that automatically tags fully AI-generated music for listeners and removes it from algorithmic and editorial recommendations. The company announced on...",
     "timestamp": 1769673600.0,
     "date": "Jan 29, 08:00"
-  },
-  {
-    "source": "CNBC",
-    "title": "Gold jumps to fresh highs as Asia stock markets mostly rise after U.S. Fed holds rates",
-    "link": "https://www.cnbc.com/2026/01/29/asia-pacific-markets-us-fed-rates-gold-nikkei-225-hsi.html",
-    "summary": "The bullion rose more than 3% on Thursday to breach the $5,500 per ounce mark for the first time.",
-    "timestamp": 1769673466.0,
-    "date": "Jan 29, 07:57"
   },
   {
     "source": "The Guardian",
@@ -286,22 +510,6 @@
     "summary": "The attack in Dilling town comes a day after Sudan&#039;s military declared an end to RSF siege there.",
     "timestamp": 1769673284.0,
     "date": "Jan 29, 07:54"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "China bans 73 people from all football for life, will punish 13 clubs ahead of 2026 season",
-    "link": "https://www.channelnewsasia.com/east-asia/china-football-corruption-ban-2026-season-5893316",
-    "summary": "These include former Chinese Football Association (CFA) president Chen Xuyuan and former national team coach Li Tie.",
-    "timestamp": 1769673020.0,
-    "date": "Jan 29, 07:50"
-  },
-  {
-    "source": "CNBC",
-    "title": "SK Hynix overtakes Samsung in annual profit for the first time as AI reshapes rivalry",
-    "link": "https://www.cnbc.com/2026/01/29/sk-hynix-beats-samsung-2025-profit-ai-memory-hbm.html",
-    "summary": "SK Hynix beats rival Samsung Electronics in profits for 2025 for the first time ever, as the memory maker retains a lead in AI products.",
-    "timestamp": 1769672989.0,
-    "date": "Jan 29, 07:49"
   },
   {
     "source": "Deutsche Welle",
@@ -344,27 +552,11 @@
     "date": "Jan 29, 07:20"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Djokovic eyes semi-final nemesis Sinner at Australian Open",
-    "link": "https://www.channelnewsasia.com/sport/djokovic-eyes-semi-final-nemesis-sinner-australian-open-5893366",
-    "summary": "",
-    "timestamp": 1769671178.0,
-    "date": "Jan 29, 07:19"
-  },
-  {
     "source": "Al Jazeera",
     "title": "\u2018You\u2019re not human:\u2019 A legal limbo for Russian nationals in Ukraine",
     "link": "https://www.aljazeera.com/news/2026/1/29/youre-not-human-a-legal-limbo-for-russian-nationals-in-ukraine?traffic_source=rss",
     "summary": "As some Russians symbolically destroy their passports, others officially part with it through a drawn out process.",
     "timestamp": 1769671012.0,
-    "date": "Jan 29, 07:16"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Microsoft shares fall 6% in Frankfurt after results",
-    "link": "https://www.channelnewsasia.com/business/microsoft-shares-fall-6-in-frankfurt-after-results-5893361",
-    "summary": "",
-    "timestamp": 1769670996.0,
     "date": "Jan 29, 07:16"
   },
   {
@@ -433,14 +625,6 @@
   },
   {
     "source": "BBC World",
-    "title": "Border agents involved in fatal shooting of Alex Pretti placed on leave",
-    "link": "https://www.bbc.com/news/articles/ckgn0w129lqo?at_medium=RSS&at_campaign=rss",
-    "summary": "As Trump and the Minneapolis Mayor spar over social media on immigration law enforcement, the US continues to be roiled by the killing of nurse Alex Pretti.",
-    "timestamp": 1769668421.0,
-    "date": "Jan 29, 06:33"
-  },
-  {
-    "source": "BBC World",
     "title": "China executes 11 members of Myanmar scam mafia",
     "link": "https://www.bbc.com/news/articles/cx2gdrvy9gjo?at_medium=RSS&at_campaign=rss",
     "summary": "China executes 11 members of the Ming family that ran scam centres in Myanmar, state media report.",
@@ -465,8 +649,8 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Colombia: All 15 passengers dead in plane crash",
-    "link": "https://www.dw.com/en/colombia-all-15-passengers-dead-in-plane-crash/a-75705708?maca=en-rss-en-all-1573-rdf",
+    "title": "Colombia plane crash: All 15 passengers on board killed",
+    "link": "https://www.dw.com/en/colombia-plane-crash-all-15-passengers-on-board-killed/a-75705708?maca=en-rss-en-all-1573-rdf",
     "summary": "The aircraft carrying 15 people, including Congressman Diogenes Quintero, made last contact with air traffic control shortly after takeoff.",
     "timestamp": 1769668140.0,
     "date": "Jan 29, 06:29"
@@ -529,22 +713,6 @@
   },
   {
     "source": "New York Times",
-    "title": "U.K.\u2019s Starmer Meets Xi Jinping in Beijing as Ties Warm",
-    "link": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
-    "summary": "Prime Minister Keir Starmer of Britain met with President Xi Jinping of China as he sought to promote business ties with the world\u2019s second-largest economy.",
-    "timestamp": 1769665054.0,
-    "date": "Jan 29, 05:37"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "China warns Australia against taking back control of key port in Darwin",
-    "link": "https://www.aljazeera.com/news/2026/1/29/china-warns-australia-against-taking-back-control-of-key-port-in-darwin?traffic_source=rss",
-    "summary": "China&#039;s envoy says Beijing will &#039;take measures&#039; to defend Chinese firm&#039;s interests if Canberra takes over Port Darwin.",
-    "timestamp": 1769664031.0,
-    "date": "Jan 29, 05:20"
-  },
-  {
-    "source": "New York Times",
     "title": "Canada\u2019s New Reality",
     "link": "https://www.nytimes.com/2026/01/28/world/canada-tariffs-trump-iran-threats.html",
     "summary": "What can we learn from Canada\u2019s pivot away from the U.S.?",
@@ -552,20 +720,12 @@
     "date": "Jan 29, 05:15"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Venezuela\u2019s police, military pledge loyalty to interim President Rodriguez",
-    "link": "https://www.aljazeera.com/news/2026/1/29/venezuelas-police-military-pledge-loyalty-to-interim-president-rodriguez?traffic_source=rss",
-    "summary": "Delcy Rodriguez receives loyalty pledge weeks after dozens killed in US military operation to abduct Nicolas Maduro.",
-    "timestamp": 1769663424.0,
-    "date": "Jan 29, 05:10"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "How does US military build-up off Iran compare to the June 2025 strikes?",
-    "link": "https://www.aljazeera.com/news/2026/1/29/how-does-us-military-build-up-off-iran-compare-to-the-june-2025-strikes?traffic_source=rss",
-    "summary": "And could a sudden deployment of major US naval and air force assets indicate a strike on Iran is imminent?",
-    "timestamp": 1769663176.0,
-    "date": "Jan 29, 05:06"
+    "source": "CNBC",
+    "title": "Samsung\u2019s profit triples, beating estimates as AI chip demand fuels memory shortage",
+    "link": "https://www.cnbc.com/2026/01/29/samsung-record-q4-2025-profit-ai-hbm-ai-memory-chip-shortage.html",
+    "summary": "Samsung Electronics reported an over three-fold surge in fourth-quarter profits, hitting a new record and beating analysts' estimates.",
+    "timestamp": 1769663153.0,
+    "date": "Jan 29, 05:05"
   },
   {
     "source": "New York Times",
@@ -592,14 +752,6 @@
     "date": "Jan 29, 05:01"
   },
   {
-    "source": "Al Jazeera",
-    "title": "China\u2019s Xi Jinping, UK\u2019s Keir Starmer agree to deepen economic ties",
-    "link": "https://www.aljazeera.com/news/2026/1/29/chinas-xi-jinping-uks-kier-starmer-agree-to-deepen-economic-ties?traffic_source=rss",
-    "summary": "British PM Keir Starmer&#039;s China visit is the first by a UK leader in eight years and marks a thaw in frosty relations.",
-    "timestamp": 1769662766.0,
-    "date": "Jan 29, 04:59"
-  },
-  {
     "source": "CNBC",
     "title": "S&P 500 futures are little changed as investors weigh tech giants' earnings: Live updates",
     "link": "https://www.cnbc.com/2026/01/28/stock-market-today-live-updates.html",
@@ -616,14 +768,6 @@
     "date": "Jan 29, 04:35"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Aoun\u2019s tightrope: Daily Israeli attacks and Hezbollah\u2019s refusal to disarm",
-    "link": "https://www.aljazeera.com/features/2026/1/29/aouns-tightrope-daily-israeli-attacks-and-hezbollahs-refusal-to-disarm?traffic_source=rss",
-    "summary": "Pressures on the Lebanese president to disarm the group may soon escalate if his focus on diplomacy doesn&#039;t succeed.",
-    "timestamp": 1769660203.0,
-    "date": "Jan 29, 04:16"
-  },
-  {
     "source": "France 24",
     "title": "Protesters rally at Texas detention centre holding 5-year-old from Minneapolis",
     "link": "https://www.france24.com/en/americas/20260129-protesters-texas-minneapolis-child-immigration",
@@ -638,6 +782,14 @@
     "summary": "<p>This blog has now closed. Read our latest story <a href=\"https://www.theguardian.com/us-news/2026/jan/28/trump-minnesota-immigration-enforcement-raids\">here</a></p><p><strong>Two federal officers f...",
     "timestamp": 1769655451.0,
     "date": "Jan 29, 02:57"
+  },
+  {
+    "source": "CNBC",
+    "title": "Meta's Mark Zuckerberg gets green light from Wall Street to keep pouring money into AI",
+    "link": "https://www.cnbc.com/2026/01/28/metas-zuckerberg-gets-green-light-from-wall-street-to-invest-in-ai.html",
+    "summary": "Meta's stock pop following the company's latest earnings beat is a sign that investors are OK with hefty AI spending as long as the core business stays strong.",
+    "timestamp": 1769652971.0,
+    "date": "Jan 29, 02:16"
   },
   {
     "source": "BBC World",
@@ -665,10 +817,10 @@
   },
   {
     "source": "CNBC",
-    "title": "Gold and silver keep hitting record highs. But is the precious metals market 'broken'?",
-    "link": "https://www.cnbc.com/2026/01/29/gold-and-silver-keep-hitting-record-high-but-the-market-may-be-broken.html",
-    "summary": "Gold and silver prices keep notching fresh records. The question now facing investors is whether the surge reflects genuine demand.",
-    "timestamp": 1769650362.0,
+    "title": "Government shutdown: Republicans consider escape hatch as Congress careens toward deadline",
+    "link": "https://www.cnbc.com/2026/01/28/government-shutdown-republicans-mull-escape-hatch-.html",
+    "summary": "Much of the U.S. government is poised to shut down early Saturday morning unless Congress approves spending measures.",
+    "timestamp": 1769650323.0,
     "date": "Jan 29, 01:32"
   },
   {
@@ -678,14 +830,6 @@
     "summary": "Investors wanted more Azure cloud growth to justify a 66% year-over-year increase in capital expenditures.",
     "timestamp": 1769650138.0,
     "date": "Jan 29, 01:28"
-  },
-  {
-    "source": "CNBC",
-    "title": "Meta\u2019s Reality Labs posts $6.02 billion loss in fourth quarter",
-    "link": "https://www.cnbc.com/2026/01/28/metas-reality-labs-posts-6point02-billion-loss-in-fourth-quarter.html",
-    "summary": "Meta\u2019s Reality Labs posts $6.02 billion loss in fourth quarter.",
-    "timestamp": 1769649125.0,
-    "date": "Jan 29, 01:12"
   },
   {
     "source": "New York Times",
@@ -744,12 +888,20 @@
     "date": "Jan 28, 23:58"
   },
   {
-    "source": "New York Times",
-    "title": "Iraq\u2019s Nominee for Prime Minister Rejects Trump Threats",
-    "link": "https://www.nytimes.com/2026/01/28/world/middleeast/trump-iraq-prime-minister-al-maliki.html",
-    "summary": "Nuri Kamal al-Maliki, a former prime minister, was nominated to lead Iraq once again, but President Trump said he would cut U.S. support if that went ahead.",
-    "timestamp": 1769643611.0,
-    "date": "Jan 28, 23:40"
+    "source": "CNBC",
+    "title": "Here is Jim Cramer's cheat sheet to navigating this stock market",
+    "link": "https://www.cnbc.com/2026/01/28/jim-cramer-cheat-sheet-navigating-this-stock-market.html",
+    "summary": "\"Shortages are true north\" for investors, CNBC's Jim Cramer said Wednesday.",
+    "timestamp": 1769643741.0,
+    "date": "Jan 28, 23:42"
+  },
+  {
+    "source": "CNBC",
+    "title": "Home Depot lays off 800 workers, says corporate employees will return to office 5 days a week",
+    "link": "https://www.cnbc.com/2026/01/28/home-depot-layoffs-return-to-office.html",
+    "summary": "Home Depot is dealing with slower sales as fewer Americans buy houses.",
+    "timestamp": 1769643597.0,
+    "date": "Jan 28, 23:39"
   },
   {
     "source": "CNBC",
@@ -758,14 +910,6 @@
     "summary": "On Tesla's fourth-quarter earnings call, CEO Elon Musk said the company is ending production of its Model S and X vehicles.",
     "timestamp": 1769643498.0,
     "date": "Jan 28, 23:38"
-  },
-  {
-    "source": "CNBC",
-    "title": "Tesla tops estimates for quarter, but wraps up first annual revenue drop on record",
-    "link": "https://www.cnbc.com/2026/01/28/tesla-tsla-2025-q4-earnings.html",
-    "summary": "Tesla's earnings report comes weeks after Elon Musk's automaker reported another decline in vehicle deliveries.",
-    "timestamp": 1769643140.0,
-    "date": "Jan 28, 23:32"
   },
   {
     "source": "The Verge",
@@ -779,7 +923,7 @@
     "source": "The Verge",
     "title": "Windows 11 has reached 1 billion users faster than Windows 10",
     "link": "https://www.theverge.com/news/869889/microsoft-windows-11-1-billion-users",
-    "summary": "Windows 11 now has 1 billion users. Microsoft hit the milestone during the recent holiday quarter, meaning Windows 11 has managed to reach 1 billion users faster than Windows 10 did nearly six years a...",
+    "summary": "Windows 11 now has one billion users. Microsoft hit the milestone during the recent holiday quarter, meaning Windows 11 has managed to reach one billion users faster than Windows 10 did nearly six yea...",
     "timestamp": 1769642234.0,
     "date": "Jan 28, 23:17"
   },
@@ -848,20 +992,20 @@
     "date": "Jan 28, 22:48"
   },
   {
+    "source": "CNBC",
+    "title": "Southwest Airlines forecasts surge in 2026 profits after new seat, bag fees take hold",
+    "link": "https://www.cnbc.com/2026/01/28/southwest-airlines-luv-4q-2025-earnings.html",
+    "summary": "Southwest Airlines said it expects profits to surge this year thanks to solid demand and new policies like assigned seating.",
+    "timestamp": 1769640452.0,
+    "date": "Jan 28, 22:47"
+  },
+  {
     "source": "TechCrunch",
     "title": "Microsoft gained $7.6B from OpenAI last quarter",
     "link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
     "summary": "Microsoft, one of OpenAI's major investors, is benefiting greatly from the AI lab's growth.",
     "timestamp": 1769640444.0,
     "date": "Jan 28, 22:47"
-  },
-  {
-    "source": "NPR",
-    "title": "U.S. allies looking to China for deals as Trump threats them with tariffs",
-    "link": "https://www.npr.org/2026/01/28/nx-s1-5688905/longtime-u-s-allies-are-shifting-trade-to-asia-due-to-trumps-tariffs-and-rhetoric",
-    "summary": "President Trump's tariffs and rhetoric have spurred some longtime U.S. allies to diversify their trade ties away from the U.S. Some are going cap-in-hand to Asian superpowers China and India.",
-    "timestamp": 1769640383.0,
-    "date": "Jan 28, 22:46"
   },
   {
     "source": "The Verge",
@@ -904,6 +1048,14 @@
     "date": "Jan 28, 22:31"
   },
   {
+    "source": "CNBC",
+    "title": "Tesla to invest $2 billion in xAI, Elon Musk's OpenAI competitor",
+    "link": "https://www.cnbc.com/2026/01/28/tesla-to-invest-2-billion-in-xai-elon-musks-openai-competitor.html",
+    "summary": "In its earnings report on Wednesday, Tesla said it invested $2 billion in xAI, Elon Musk's artificial intelligence startup.",
+    "timestamp": 1769639250.0,
+    "date": "Jan 28, 22:27"
+  },
+  {
     "source": "France 24",
     "title": "US embassy angers Danish veterans by removing flags",
     "link": "https://www.france24.com/en/us-embassy-angers-danish-veterans-by-removing-flags",
@@ -913,8 +1065,8 @@
   },
   {
     "source": "France 24",
-    "title": "Xi Jinping's repeated purges cast doubt on his judgment, observer says",
-    "link": "https://www.france24.com/en/tv-shows/a-propos/20260128-xi-jinping-s-repeated-purges-cast-doubt-on-his-judgment-observer-says",
+    "title": "Repeated purges by China's Xi cast doubt on his judgment, observer says",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20260128-repeated-purges-by-china-s-xi-cast-doubt-on-his-judgment-observer-says",
     "summary": "Speaking with FRANCE 24's Sharon Gaffney, Lynette Ong, Distinguished Professor of Chinese Politics at the University of Toronto, says that the removal of General Zhang Youxia, Senior Vice Chairman of ...",
     "timestamp": 1769638137.0,
     "date": "Jan 28, 22:08"
@@ -929,9 +1081,9 @@
   },
   {
     "source": "France 24",
-    "title": "Fed defies Trump to hold interest rates steady",
+    "title": "Federal Reserve defies Trump to hold interest rates steady",
     "link": "https://www.france24.com/en/tv-shows/business/20260128-fed-defies-trump-to-hold-interest-rates-steady",
-    "summary": "The US Federal Reserve has defied pressure from President Donald Trump, by holding interest rates steady. The policy announcement was partly overshadowed by ongoing tensions with the administration. F...",
+    "summary": "The US Federal Reserve has defied pressure from President Donald Trump by holding interest rates steady. The policy announcement was partly overshadowed by ongoing tensions with the administration. Fe...",
     "timestamp": 1769637550.0,
     "date": "Jan 28, 21:59"
   },
@@ -1016,14 +1168,6 @@
     "date": "Jan 28, 21:28"
   },
   {
-    "source": "France 24",
-    "title": "Nigerian police fire tear gas, protester injured in Lagos floating slum protests",
-    "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
-    "summary": "In tonight's edition,\u00a0Nigerian police clash with crowds angry about the way that hundreds of homes have been demolished in the Makoko floating village. Also,\u00a0Kigali is suing the UK for the 100 million...",
-    "timestamp": 1769635429.0,
-    "date": "Jan 28, 21:23"
-  },
-  {
     "source": "The Verge",
     "title": "Microsoft reports strong cloud earnings in Q2 as gaming declines",
     "link": "https://www.theverge.com/news/869493/microsoft-q2-2026-earnings-revenue-profits-windows-xbox-gaming-surface",
@@ -1080,30 +1224,6 @@
     "date": "Jan 28, 21:05"
   },
   {
-    "source": "France 24",
-    "title": "'Russia exaggerating gains in Ukraine to push for territorial concessions'",
-    "link": "https://www.france24.com/en/russia-exaggerating-gains-in-ukraine-to-push-for-territorial-concessions",
-    "summary": "Speaking with FRANCE 24's Mark Owen, Christina Harward, Russia Deputy Team Lead at the Institute for the Study of War, says that the 'Russian advances are coming at a literal foot-pace' and 'this is n...",
-    "timestamp": 1769634170.0,
-    "date": "Jan 28, 21:02"
-  },
-  {
-    "source": "NPR",
-    "title": "For first-time Grammy nominee Michael Mayo, vocal expression is innate",
-    "link": "https://www.npr.org/2026/01/28/nx-s1-5605586/michael-mayo-fly-album-grammy-awards",
-    "summary": "Vocalist Michael Mayo reached new heights through his latest album ",
-    "timestamp": 1769634000.0,
-    "date": "Jan 28, 21:00"
-  },
-  {
-    "source": "France 24",
-    "title": "'25 years later we still lack the capacity to act together without the United States'",
-    "link": "https://www.france24.com/en/25-years-later-we-still-lack-the-capacity-to-act-together-without-the-united-states",
-    "summary": "French President Emmanuel Macron said Wednesday a standoff with the US over Greenland was \"a strategic wake-up call for all of Europe\", speaking alongside the leaders of Denmark and the Danish autonom...",
-    "timestamp": 1769633784.0,
-    "date": "Jan 28, 20:56"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Minnesota: Agents in Pretti shooting placed on leave \u2014 media",
     "link": "https://www.dw.com/en/minnesota-agents-in-pretti-shooting-placed-on-leave-media/live-75703608?maca=en-rss-en-all-1573-rdf",
@@ -1118,14 +1238,6 @@
     "summary": "An unidentified bidder submitted a Hail Mary offer that was \"substantially higher\" than the winning bid at auction. Founder Austin Russell has been circling a bid, but it's not clear he was behind it.",
     "timestamp": 1769632873.0,
     "date": "Jan 28, 20:41"
-  },
-  {
-    "source": "France 24",
-    "title": "American TikTok users claim app is censoring 'Epstein' and ICE criticism",
-    "link": "https://www.france24.com/en/american-tiktok-users-claim-app-is-censoring-epstein-and-ice-criticism",
-    "summary": "TikTok recently changed hands in the US, giving a consortium of mainly American investors \u2013 run by Trump ally Larry Ellison \u2013 control of its US operations. Since then, American TikTok users claim that...",
-    "timestamp": 1769632761.0,
-    "date": "Jan 28, 20:39"
   },
   {
     "source": "New York Times",
@@ -1144,36 +1256,12 @@
     "date": "Jan 28, 19:59"
   },
   {
-    "source": "NPR",
-    "title": "The FBI conducts a search at the Fulton County election office in Georgia",
-    "link": "https://www.npr.org/2026/01/28/nx-s1-5691764/fulton-county-fbi-search-election",
-    "summary": "The FBI would not clarify whether the action is tied to the 2020 election, but last month the Department of Justice announced it's suing Fulton County for records related to the election.",
-    "timestamp": 1769629049.0,
-    "date": "Jan 28, 19:37"
-  },
-  {
-    "source": "France 24",
-    "title": "US agents involved in fatal shooting of Alex Pretti in Minneapolis placed on leave",
-    "link": "https://www.france24.com/en/americas/20260128-us-agents-involved-in-fatal-shooting-of-alex-pretti-in-minneapolis-placed-on-leave",
-    "summary": "Two federal agents involved in the fatal shooting of Minneapolis protester Alex Pretti have been placed on administrative leave, a spokesperson for Customs and Border Patrol confirmed on Wednesday, de...",
-    "timestamp": 1769629047.0,
-    "date": "Jan 28, 19:37"
-  },
-  {
     "source": "New York Times",
     "title": "South Africa Cancels Release of \u2018Melania\u2019 Documentary",
     "link": "https://www.nytimes.com/2026/01/28/world/africa/melania-trump-documentary-south-africa-cancel.html",
     "summary": "The distributor, which was set to release the film on Friday, said it had canceled the theatrical premiere because of \u201crecent developments,\u201d but declined to specify.",
     "timestamp": 1769628725.0,
     "date": "Jan 28, 19:32"
-  },
-  {
-    "source": "France 24",
-    "title": "Why Spain is offering amnesty to 500,000 undocumented migrants",
-    "link": "https://www.france24.com/en/europe/20260128-why-spain-is-offering-amnesty-to-500-000-undocumented-migrants",
-    "summary": "As countries on both sides of the Atlantic ramp up deportations of undocumented migrants, Spain\u2019s left-wing government is preparing to give legal status to hundreds of thousands of irregular workers. ...",
-    "timestamp": 1769628703.0,
-    "date": "Jan 28, 19:31"
   },
   {
     "source": "TechCrunch",
@@ -1190,22 +1278,6 @@
     "summary": "The organic kids' snack food company may debut as soon as next week. It has issued a price range for shares, an SEC filing shows.",
     "timestamp": 1769627364.0,
     "date": "Jan 28, 19:09"
-  },
-  {
-    "source": "NPR",
-    "title": "Fed holds interest rates steady, taking a pause from rate cuts to assess the economy",
-    "link": "https://www.npr.org/2026/01/28/nx-s1-5690136/federal-reserve-interest-rates-jobs-labor-inflation",
-    "summary": "The central bank cut rates at its three previous meetings in an effort to support the job market. But with inflation still elevated, the Fed is cautious about additional rate cuts.",
-    "timestamp": 1769627171.0,
-    "date": "Jan 28, 19:06"
-  },
-  {
-    "source": "NPR",
-    "title": "Trump's National Guard deployments could cost over $1 billion this year, CBO projects",
-    "link": "https://www.npr.org/2026/01/28/nx-s1-5690394/national-guard-deployments-cost-cbo",
-    "summary": "The operation in Washington, D.C. alone is projected to cost upwards of $660 million if it runs through the end of this year as expected, according to new data released by the nonpartisan Congressiona...",
-    "timestamp": 1769626843.0,
-    "date": "Jan 28, 19:00"
   },
   {
     "source": "CNBC",
@@ -1288,14 +1360,6 @@
     "date": "Jan 28, 17:28"
   },
   {
-    "source": "CNBC",
-    "title": "Trump lowered 'temperature' on Minnesota, wants to avoid shutdown: Bessent",
-    "link": "https://www.cnbc.com/2026/01/28/trump-ice-minnesota-government-shutdown-bessent.html",
-    "summary": "President Donald Trump is contacting lawmakers and \"urging them not to shut down the government,\" Treasury Secretary Scott Bessent told CNBC.",
-    "timestamp": 1769620971.0,
-    "date": "Jan 28, 17:22"
-  },
-  {
     "source": "BBC World",
     "title": "Panic on crowded Ukraine train - passenger describes moment of Russian drone strike",
     "link": "https://www.bbc.com/news/articles/cgjwpq4pggjo?at_medium=RSS&at_campaign=rss",
@@ -1312,28 +1376,12 @@
     "date": "Jan 28, 16:30"
   },
   {
-    "source": "NPR",
-    "title": "Inside the Trump administration's effort to reverse climate change policies",
-    "link": "https://www.npr.org/2026/01/28/nx-s1-5690358/inside-the-trump-administrations-effort-to-reverse-climate-change-policies",
-    "summary": "President Trump calls global warming \"a hoax.\" As the U.S. faces more severe storms and extreme weather events, the ",
-    "timestamp": 1769617586.0,
-    "date": "Jan 28, 16:26"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Court faults Netherlands over Caribbean island climate risks",
     "link": "https://www.dw.com/en/court-faults-netherlands-over-caribbean-island-climate-risks/a-75699359?maca=en-rss-en-all-1573-rdf",
     "summary": "Judges have ruled that the Dutch government has been failing to adequately protect its citizens on the island of Bonaire from climate threats.",
     "timestamp": 1769616720.0,
     "date": "Jan 28, 16:12"
-  },
-  {
-    "source": "CNBC",
-    "title": "Southwest ends open seating after 54 years. Here's what the last flight was like",
-    "link": "https://www.cnbc.com/2026/01/28/southwest-airlines-ends-open-seating.html",
-    "summary": "Southwest Airlines replaced open seating with assigned seats after more than 50 years.",
-    "timestamp": 1769616566.0,
-    "date": "Jan 28, 16:09"
   },
   {
     "source": "New York Times",
@@ -1368,36 +1416,12 @@
     "date": "Jan 28, 15:53"
   },
   {
-    "source": "NPR",
-    "title": "Here's what to know about the $50 billion states are getting for rural health",
-    "link": "https://www.npr.org/2026/01/28/nx-s1-5690370/rural-health-fund-states-hospitals",
-    "summary": "To satisfy Republicans opposed to last summer's cuts to health care, the Trump administration launched an ambitious 5-year initiative known as the Rural Health Transformation Program.",
-    "timestamp": 1769615272.0,
-    "date": "Jan 28, 15:47"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Scientific research in the Arctic has been a global collaboration for decades. Some researchers fear Trump's Greenland grab is threatening their work.",
     "link": "https://www.dw.com/en/scientific-research-in-the-arctic-has-been-a-global-collaboration-for-decades-some-researchers-fear-trump-s-greenland-grab-is-threatening-their-work/a-75695021?maca=en-rss-en-all-1573-rdf",
     "summary": "Science in the Arctic \u2014 and Greenland \u2014 is on the frontline of pressing challenges facing humanity, like climate change and genetics. Some researchers worry international collaboration is at risk.",
     "timestamp": 1769615160.0,
     "date": "Jan 28, 15:46"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Inside the Philippines' struggle for rural health care",
-    "link": "https://www.dw.com/en/inside-the-philippines-struggle-for-rural-health-care/a-75696434?maca=en-rss-en-all-1573-rdf",
-    "summary": "The Philippines' \"doctors to the barrios\" model shows how workforce shortages, intersected with governance, financing and system design, reveal why rural care remains fragile despite years of reforms.",
-    "timestamp": 1769614800.0,
-    "date": "Jan 28, 15:40"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Israel holds funeral for last remaining Gaza hostage",
-    "link": "https://www.dw.com/en/israel-holds-funeral-for-last-remaining-gaza-hostage/a-75696407?maca=en-rss-en-all-1573-rdf",
-    "summary": "Ran Gvili's funeral marks the end of a painful chapter in Israel and could see the start of the second phase of the Gaza ceasefire.",
-    "timestamp": 1769614320.0,
-    "date": "Jan 28, 15:32"
   },
   {
     "source": "New York Times",
@@ -1422,30 +1446,6 @@
     "summary": "The EU foreign policy chief's remarks come days after Nato's secretary general said Europe needed the US for its defence.",
     "timestamp": 1769611556.0,
     "date": "Jan 28, 14:45"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "CDU, Merz target 'lifestyle part-time' work in Germany",
-    "link": "https://www.dw.com/en/cdu-merz-target-lifestyle-part-time-work-in-germany/a-75695779?maca=en-rss-en-all-1573-rdf",
-    "summary": "A proposal from the economic wing of Germany\u2019s CDU to place tighter restrictions on part-time contracts has come under heavy scrutiny. Chancellor Merz has repeatedly criticized the German work ethic i...",
-    "timestamp": 1769611440.0,
-    "date": "Jan 28, 14:44"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Should Europe worry about euro strength and dollar weakness?",
-    "link": "https://www.dw.com/en/should-europe-worry-about-euro-strength-and-dollar-weakness/a-75696199?maca=en-rss-en-all-1573-rdf",
-    "summary": "The euro has reached its highest level against the US dollar since 2021. That has consequences for European companies and consumers, but few think the European Central Bank should intervene yet.",
-    "timestamp": 1769611320.0,
-    "date": "Jan 28, 14:42"
-  },
-  {
-    "source": "CNBC",
-    "title": "The \u2018strongest currency on earth\u2019 just hit an 11-year high \u2014 and it\u2019s stirring up trouble in Switzerland",
-    "link": "https://www.cnbc.com/2026/01/28/swiss-franc-us-dollar-price-fx-exchange-rate-trump-switzerland-snb-currency.html",
-    "summary": "The Swiss franc is widely viewed as a safe haven asset, rising in value in times of geopolitical or macroeconomic uncertainty.",
-    "timestamp": 1769606694.0,
-    "date": "Jan 28, 13:24"
   },
   {
     "source": "BBC World",
