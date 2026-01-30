@@ -1,27 +1,155 @@
 [
   {
     "source": "CNBC",
-    "title": "Luigi Mangione won't face death penalty in CEO murder case, federal judge rules",
-    "link": "https://www.cnbc.com/2026/01/30/luigi-mangione-death-penalty-unitedhealth-thompson-doj.html",
-    "summary": "Luigi Mangione is accusing of fatally shooting UnitedHealthcare CEO Brian Thompson on a New York City street in December 2024.",
-    "timestamp": 1769808218.0,
-    "date": "Jan 30, 21:23"
+    "title": "Fireblocks CEO\u00a0says North Korea-linked job recruitment scam\u00a0targeted LinkedIn profiles",
+    "link": "https://www.cnbc.com/2026/01/30/fireblocks-north-korea-hackers-crypto-job-scam.html",
+    "summary": "CEO Michael Shaulov\u00a0said hackers, especially those with ties to North Korea, have been evolving at \"lightspeed\" because of AI.",
+    "timestamp": 1769811246.0,
+    "date": "Jan 30, 22:14"
+  },
+  {
+    "source": "The Guardian",
+    "title": "More than 200 killed in coltan mine collapse in eastern DRC, officials say",
+    "link": "https://www.theguardian.com/world/2026/jan/30/more-than-200-killed-in-coltan-mine-collapse-in-eastern-drc-officials-say",
+    "summary": "<p>Rubaya mine produces about 15% of the world\u2019s coltan, which is processed into tantalum, used in mobile phones</p><p>More than 200 people were killed this week in a collapse at the Rubaya coltan min...",
+    "timestamp": 1769811117.0,
+    "date": "Jan 30, 22:11"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Informant told FBI that Jeffrey Epstein had a \u2018personal hacker\u2019",
+    "link": "https://techcrunch.com/2026/01/30/informant-told-fbi-that-jeffrey-epstein-had-a-personal-hacker/",
+    "summary": "A document published by the Justice Department quotes an FBI informant in 2017 that alleged Jeffrey Epstein had a \u201cpersonal hacker.\u201d",
+    "timestamp": 1769810640.0,
+    "date": "Jan 30, 22:04"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Thoma Bravo explores sale of identity software firm Imprivata, sources say",
+    "link": "https://www.channelnewsasia.com/business/thoma-bravo-explores-sale-identity-software-firm-imprivata-sources-say-5897566",
+    "summary": "",
+    "timestamp": 1769810554.0,
+    "date": "Jan 30, 22:02"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: What's at stake as MOE mulls exam reforms?",
+    "link": "https://www.channelnewsasia.com/commentary/singapore-education-reform-high-stakes-exam-psle-5896146",
+    "summary": "Any examination-related reform will be closely watched by parents, educators and the private tutoring industry, says NIE\u2019s Jason Tan.",
+    "timestamp": 1769810400.0,
+    "date": "Jan 30, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: Why it would be a big mistake for the US to go to war with Iran",
+    "link": "https://www.channelnewsasia.com/commentary/us-iran-war-middle-east-iraq-afghanistan-trump-foreign-policy-5896361",
+    "summary": "An all-out conflict with Iran would almost certainly be long and drag in other countries in the Middle East, says an academic.",
+    "timestamp": 1769810340.0,
+    "date": "Jan 30, 21:59"
+  },
+  {
+    "source": "France 24",
+    "title": "Thousands march in cities across US in 'national shutdown' against immigration crackdown",
+    "link": "https://www.france24.com/en/americas/20260130-pictures-thousands-march-cities-across-usanational-shutdown-immigration-crackdown-ice",
+    "summary": "Thousands of protesters took to the streets of Minneapolis and other US cities on Friday in a show of anger over the immigration crackdown carried out by the Trump administration. The turnout came in ...",
+    "timestamp": 1769810319.0,
+    "date": "Jan 30, 21:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Luigi Mangione will not face death penalty after US judge dismisses murder charge",
+    "link": "https://www.channelnewsasia.com/world/luigi-mangione-will-not-face-death-penalty-after-us-judge-dismisses-murder-charge-5897531",
+    "summary": "A US judge has ruled Luigi Mangione will not face the death penalty if convicted of killing UnitedHealthcare CEO Brian Thompson.",
+    "timestamp": 1769809554.0,
+    "date": "Jan 30, 21:45"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Iran says ready for \u2018fair\u2019 talks with US but not \u2018under shadow of threats\u2019",
+    "link": "https://www.aljazeera.com/news/2026/1/30/iran-says-ready-for-fair-talks-with-us-but-not-under-shadow-of-threats?traffic_source=rss",
+    "summary": "Iran&#039;s foreign minister says missile programme not up for negotiation as Trump says sending more ships to the region.",
+    "timestamp": 1769809505.0,
+    "date": "Jan 30, 21:45"
+  },
+  {
+    "source": "BBC World",
+    "title": "Iran wants to make deal rather than face military action, Trump says",
+    "link": "https://www.bbc.com/news/articles/cd9ew2kwj0lo?at_medium=RSS&at_campaign=rss",
+    "summary": "Tehran has said it will never negotiate on its missile and defence systems, but that it is open to talks.",
+    "timestamp": 1769809431.0,
+    "date": "Jan 30, 21:43"
+  },
+  {
+    "source": "France 24",
+    "title": "Islamic State group claims responsibilty for a deadly attack on Niger's airport in the capital",
+    "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260130-islamic-state-group-claims-responsibilty-for-a-deadly-attack-on-niger-s-airport-in-the-capital",
+    "summary": "In tonight's edition: the Islamic State group claims responsibilty for a deadly attack on Niger's airport in the capital. The ruling military \u00a0accuses Benin, France and Ivory Coast of sponsoring the a...",
+    "timestamp": 1769809392.0,
+    "date": "Jan 30, 21:43"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "US Justice Department releases more Epstein files",
+    "link": "https://www.dw.com/en/us-justice-department-releases-more-epstein-files/a-75736606?maca=en-rss-en-all-1573-rdf",
+    "summary": "The US Department of Justice has said it released 3 million more pages of documents from the Epstein files. Some Democratic politicians have questioned whether all the files have been made public as l...",
+    "timestamp": 1769809380.0,
+    "date": "Jan 30, 21:43"
+  },
+  {
+    "source": "BBC World",
+    "title": "Former CNN host Don Lemon faces charges after anti-ICE protest at Minnesota church",
+    "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
+    "summary": "Lemon says he was just doing his job as a journalist reporting on the protests at the church.",
+    "timestamp": 1769809308.0,
+    "date": "Jan 30, 21:41"
+  },
+  {
+    "source": "CNBC",
+    "title": "Eli Lilly CEO says Medicare coverage of obesity drugs could 'change the game' for upcoming pill launch",
+    "link": "https://www.cnbc.com/2026/01/30/eli-lilly-ceo-david-ricks-medicare-coverage-obesity-pills.html",
+    "summary": "Lilly CEO Dave Ricks is confident in the ability of the company's pill to compete and is preparing for a \"full launch\" in the second quarter.",
+    "timestamp": 1769809144.0,
+    "date": "Jan 30, 21:39"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Exclusive-SpaceX generated about $8 billion in profit last year ahead of IPO, sources say",
+    "link": "https://www.channelnewsasia.com/business/exclusive-spacex-generated-about-8-billion-in-profit-last-year-ahead-ipo-sources-say-5897526",
+    "summary": "",
+    "timestamp": 1769808978.0,
+    "date": "Jan 30, 21:36"
+  },
+  {
+    "source": "CNBC",
+    "title": "Palantir and these other stocks reporting next week have earnings momentum at their back",
+    "link": "https://www.cnbc.com/2026/01/30/palantir-and-other-names-reporting-next-week-boast-earnings-momentum-.html",
+    "summary": "The list of companies where analysts have lately lifted estimates includes Ralph Lauren and Palantir.",
+    "timestamp": 1769808771.0,
+    "date": "Jan 30, 21:32"
   },
   {
     "source": "CNBC",
     "title": "S&P 500 falls for third straight day as speculative silver trade unwinds, but ends month positive",
     "link": "https://www.cnbc.com/2026/01/29/stock-market-today-live-updates.html",
     "summary": "President Donald Trump named former Fed Governor Kevin Warsh his replacement pick to take over the U.S. central bank.",
-    "timestamp": 1769808082.0,
-    "date": "Jan 30, 21:21"
+    "timestamp": 1769808708.0,
+    "date": "Jan 30, 21:31"
   },
   {
     "source": "CNBC",
-    "title": "Palantir and these other stocks reporting next week have earnings momentum at their back",
-    "link": "https://www.cnbc.com/2026/01/30/palantir-and-other-names-reporting-next-week-boast-earnings-momentum-.html",
-    "summary": "The list of companies where analysts have lately lifted estimates include Ralph Lauren and Palantir.",
-    "timestamp": 1769808014.0,
-    "date": "Jan 30, 21:20"
+    "title": "Blue Origin shutters New Shepard rocket program to focus on moon lander development",
+    "link": "https://www.cnbc.com/2026/01/30/blue-origin-shutters-new-shepard-rocket-program-to-focus-on-moon-lander-development.html",
+    "summary": "Blue Origin on Friday said it was \"pausing\" flights of its New Shepard rocket for at least two years, effectively cancelling the company's space tourism vehicle.",
+    "timestamp": 1769808703.0,
+    "date": "Jan 30, 21:31"
+  },
+  {
+    "source": "NPR",
+    "title": "Blue Origin pauses space tourism flights to focus on lunar lander",
+    "link": "https://www.npr.org/2026/01/30/nx-s1-5694644/blue-origin-pauses-space-tourism-flights-to-focus-on-lunar-lander",
+    "summary": "Blue Origin, owned by billionaire Jeff Bezos, says it's stopping human spaceflights for at least two years. The move will allow it to \"shift resources\" to the company's lunar landing capabilities.",
+    "timestamp": 1769808441.0,
+    "date": "Jan 30, 21:27"
   },
   {
     "source": "CNA (Asia)",
@@ -33,7 +161,7 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Actress Catherine O'hara dies at 71",
+    "title": "Actress Catherine O'Hara dies at 71",
     "link": "https://www.dw.com/en/actress-catherine-o-hara-dies-at-71/a-75736335?maca=en-rss-en-all-1573-rdf",
     "summary": "Catherine O'Hara was famous for starring roles in the series \"Schitt's Creek\" and the movie \"Home Alone.\"",
     "timestamp": 1769807700.0,
@@ -115,7 +243,7 @@
     "source": "NPR",
     "title": "Texas A&M University cancels programs in women's and gender studies",
     "link": "https://www.npr.org/2026/01/30/nx-s1-5694604/texas-a-m-cancels-womens-gender-studies",
-    "summary": "The university said it had also modified hundreds of courses and cancelled six in efforts to eliminate teaching related to Diversity, Equity and Inclusion.",
+    "summary": "The university said it had also modified hundreds of courses and cancelled six in efforts to eliminate teaching related to diversity, equity and inclusion.",
     "timestamp": 1769806492.0,
     "date": "Jan 30, 20:54"
   },
@@ -144,14 +272,6 @@
     "date": "Jan 30, 20:45"
   },
   {
-    "source": "CNBC",
-    "title": "Eli Lilly CEO says Medicare coverage of obesity drugs could 'change the game' for upcoming pill launch",
-    "link": "https://www.cnbc.com/2026/01/30/eli-lilly-ceo-david-ricks-medicare-coverage-obesity-pills.html",
-    "summary": "Lilly CEO Dave Ricks is confident in the ability of the company's pill to compete and is preparing for a \"full launch\" in the second quarter.",
-    "timestamp": 1769805855.0,
-    "date": "Jan 30, 20:44"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Ukraine updates: Kremlin says Trump asked Putin not to hit Kyiv until Feb. 1",
     "link": "https://www.dw.com/en/ukraine-updates-kremlin-says-trump-asked-putin-not-to-hit-kyiv-until-feb-1/live-75726689?maca=en-rss-en-all-1573-rdf",
@@ -174,14 +294,6 @@
     "summary": "Deadly ICE raids and a surge of deepfake videos are making it harder than ever to tell real violence from AI\u2011generated fiction. Our investigation reveals how false clips drown out evidence of fatal en...",
     "timestamp": 1769805540.0,
     "date": "Jan 30, 20:39"
-  },
-  {
-    "source": "CNBC",
-    "title": "Fireblocks CEO\u00a0says North Korea-linked job recruitment scam\u00a0targeted LinkedIn profiles",
-    "link": "https://www.cnbc.com/2026/01/30/fireblocks-north-korea-hackers-crypto-job-scam.html",
-    "summary": "CEO Michael Shaulov\u00a0said hackers, especially those with ties to North Korea, have been evolving at \"lightspeed\" because of AI.",
-    "timestamp": 1769805440.0,
-    "date": "Jan 30, 20:37"
   },
   {
     "source": "CNA (Asia)",
@@ -576,14 +688,6 @@
     "date": "Jan 30, 17:53"
   },
   {
-    "source": "NPR",
-    "title": "Brown University pays out first workforce grants under deal with Trump",
-    "link": "https://www.npr.org/2026/01/30/nx-s1-5693777/brown-university-workforce-grants-deal-with-trump",
-    "summary": "The Ivy League school is giving $1.5 million to a community college and to a nonprofit apprenticeship program.",
-    "timestamp": 1769795439.0,
-    "date": "Jan 30, 17:50"
-  },
-  {
     "source": "Al Jazeera",
     "title": "US Department of Justice releases 3 million new Epstein documents",
     "link": "https://www.aljazeera.com/news/2026/1/30/us-department-of-justice-releases-three-million-new-epstein-documents?traffic_source=rss",
@@ -598,14 +702,6 @@
     "summary": "Luigi Mangione will not face the death penalty over the killing of UnitedHealthcare CEO Brian Thompson after a US judge on Friday dismissed murder and weapons charges against the suspect, foiling the ...",
     "timestamp": 1769795226.0,
     "date": "Jan 30, 17:47"
-  },
-  {
-    "source": "BBC World",
-    "title": "Former CNN host Don Lemon arrested after anti-ICE protest at Minnesota church",
-    "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
-    "summary": "Lemon says he was just doing his job as a journalist reporting on the protests at the church.",
-    "timestamp": 1769795099.0,
-    "date": "Jan 30, 17:44"
   },
   {
     "source": "CNBC",
@@ -928,22 +1024,6 @@
     "date": "Jan 30, 16:18"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Djokovic sets up Alcaraz showdown for Australian Open title",
-    "link": "https://www.channelnewsasia.com/sport/djokovic-sets-up-alcaraz-showdown-australian-open-title-5897136",
-    "summary": "",
-    "timestamp": 1769789793.0,
-    "date": "Jan 30, 16:16"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Uhlaender files CAS appeal in last hope for Olympic skeleton spot",
-    "link": "https://www.channelnewsasia.com/sport/uhlaender-files-cas-appeal-in-last-hope-olympic-skeleton-spot-5897141",
-    "summary": "",
-    "timestamp": 1769789698.0,
-    "date": "Jan 30, 16:14"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "US eyes the Red Sea as Landau visits Africa",
     "link": "https://www.dw.com/en/us-eyes-the-red-sea-as-landau-visits-africa/a-75731780?maca=en-rss-en-all-1573-rdf",
@@ -984,14 +1064,6 @@
     "date": "Jan 30, 16:05"
   },
   {
-    "source": "France 24",
-    "title": "Dua Lipa, Demi Moore and Victoria Beckham front row as Paris Couture enters a new era",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20260130-dua-lipa-demi-moore-and-victoria-beckham-front-row-as-paris-couture-enters-a-new-era",
-    "summary": "Paris is in full glamour mode as Haute Couture Week takes over the fashion capital and arts24\u00a0is front row for every defining moment. From headline-making celebrity appearances by Dua Lipa, Demi Moore...",
-    "timestamp": 1769789089.0,
-    "date": "Jan 30, 16:04"
-  },
-  {
     "source": "The Guardian",
     "title": "Islamic State claims attack on international airport and airbase in Niger",
     "link": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
@@ -1008,28 +1080,12 @@
     "date": "Jan 30, 15:57"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Sandisk surges as robust AI demand powers blowout forecast",
-    "link": "https://www.channelnewsasia.com/business/sandisk-surges-robust-ai-demand-powers-blowout-forecast-5897086",
-    "summary": "",
-    "timestamp": 1769788621.0,
-    "date": "Jan 30, 15:57"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Iran: A mosaic state rife with internal conflicts",
     "link": "https://www.dw.com/en/iran-a-mosaic-state-rife-with-internal-conflicts/a-75729983?maca=en-rss-en-all-1573-rdf",
     "summary": "Iran is a multi-ethnic state \u2014 yet its leadership has failed to find an answer to recurring protests, minority grievances and deepening environmental crises.",
     "timestamp": 1769787780.0,
     "date": "Jan 30, 15:43"
-  },
-  {
-    "source": "France 24",
-    "title": "Syria and Kurdish-led forces agree on ceasefire and phased integration deal",
-    "link": "https://www.france24.com/en/syria-and-kurdish-led-forces-agree-on-ceasefire-and-phased-integration-deal",
-    "summary": "The Syrian government \u2060and US-backed Kurdish forces have declared an integration deal.The agreement comes after government forces captured swathes of northern and eastern Syria from the Kurds this mon...",
-    "timestamp": 1769787191.0,
-    "date": "Jan 30, 15:33"
   },
   {
     "source": "Al Jazeera",
@@ -1056,14 +1112,6 @@
     "date": "Jan 30, 15:11"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Galaxy cluster observed forming surprisingly early in universe's history",
-    "link": "https://www.channelnewsasia.com/business/galaxy-cluster-observed-forming-surprisingly-early-in-universes-history-5896961",
-    "summary": "",
-    "timestamp": 1769785334.0,
-    "date": "Jan 30, 15:02"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "EU asylum policy: What changes for refugees in Germany?",
     "link": "https://www.dw.com/en/eu-asylum-policy-what-changes-for-refugees-in-germany/a-75728293?maca=en-rss-en-all-1573-rdf",
@@ -1086,14 +1134,6 @@
     "summary": "Ariel Seidman has been declared persona non grata by South Africa's foreign ministry. He has been given 72 hours to leave the country.",
     "timestamp": 1769784960.0,
     "date": "Jan 30, 14:56"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Man United's Dorgu faces weeks on the sidelines after injury at Arsenal, Carrick says",
-    "link": "https://www.channelnewsasia.com/sport/man-uniteds-dorgu-faces-weeks-sidelines-after-injury-arsenal-carrick-says-5896936",
-    "summary": "",
-    "timestamp": 1769784668.0,
-    "date": "Jan 30, 14:51"
   },
   {
     "source": "New York Times",
@@ -1136,14 +1176,6 @@
     "date": "Jan 30, 14:30"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Zverev slams Alcaraz timeout after loss in longest Australian Open semi",
-    "link": "https://www.aljazeera.com/sports/2026/1/30/zverev-slams-alcaraz-timeout-after-loss-in-longest-in-australian-open-semi-final?traffic_source=rss",
-    "summary": "Spain&#039;s Carlos Alcaraz beat Germany&#039;s Alexander Zverev over five hours but the latter is upset by officiating of injury.",
-    "timestamp": 1769782901.0,
-    "date": "Jan 30, 14:21"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Philippines: Are terror laws being used to silence critics?",
     "link": "https://www.dw.com/en/philippines-are-terror-laws-being-used-to-silence-critics/a-75729580?maca=en-rss-en-all-1573-rdf",
@@ -1169,17 +1201,17 @@
   },
   {
     "source": "The Guardian",
-    "title": "Australia\u2019s grid now relies on renewable energy as much as coal. Those who doubted it look foolish",
-    "link": "https://www.theguardian.com/environment/2026/jan/31/australias-grid-now-relies-on-renewable-energy-as-much-as-coal-those-who-doubted-it-look-foolish",
-    "summary": "<p>Solar met the majority of electricity demand between 9am and 6pm in the past week as much of the country cranked air conditioners</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-ne...",
+    "title": "Day and night, there\u2019s no relief: five ways this heatwave is one of Australia\u2019s worst on record",
+    "link": "https://www.theguardian.com/environment/2026/jan/31/day-and-night-theres-no-relief-five-ways-this-heatwave-is-one-of-australias-worst-on-record",
+    "summary": "<p>Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia\u2019s \u2018most significant\u2019 heatwaves </p><ul><li><p>Get our <a href=\"https://www.theguardian....",
     "timestamp": 1769781623.0,
     "date": "Jan 30, 14:00"
   },
   {
     "source": "The Guardian",
-    "title": "Day and night, there\u2019s no relief: five ways this heatwave is one of Australia\u2019s worst on record",
-    "link": "https://www.theguardian.com/environment/2026/jan/31/day-and-night-theres-no-relief-five-ways-this-heatwave-is-one-of-australias-worst-on-record",
-    "summary": "<p>Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia\u2019s \u2018most significant\u2019 heatwaves </p><ul><li><p>Get our <a href=\"https://www.theguardian....",
+    "title": "Australia\u2019s grid now relies on renewable energy as much as coal. Those who doubted it look foolish",
+    "link": "https://www.theguardian.com/environment/2026/jan/31/australias-grid-now-relies-on-renewable-energy-as-much-as-coal-those-who-doubted-it-look-foolish",
+    "summary": "<p>Solar met the majority of electricity demand between 9am and 6pm in the past week as much of the country cranked air conditioners</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-ne...",
     "timestamp": 1769781623.0,
     "date": "Jan 30, 14:00"
   },
@@ -1241,14 +1273,6 @@
   },
   {
     "source": "BBC World",
-    "title": "Panama voids Hong Kong-based firm's canal port contracts",
-    "link": "https://www.bbc.com/news/articles/c338ygzl7meo?at_medium=RSS&at_campaign=rss",
-    "summary": "The move follows Donald Trump's previous claim the US was taking the crucial Panama canal \"back\" from China.",
-    "timestamp": 1769778965.0,
-    "date": "Jan 30, 13:16"
-  },
-  {
-    "source": "BBC World",
     "title": "At least 170 killed in air strikes during Myanmar's widely criticised election, UN says",
     "link": "https://www.bbc.com/news/articles/cg5gl8grv66o?at_medium=RSS&at_campaign=rss",
     "summary": "The UN said \"credible sources\" had counted more than 400 strikes in the same period.",
@@ -1286,14 +1310,6 @@
     "summary": "<p>US president warns against closer ties with China during British PM\u2019s trip to secure lower tariffs and better market access</p><p>Donald Trump has warned the UK against doing business with China, j...",
     "timestamp": 1769776757.0,
     "date": "Jan 30, 12:39"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Trump nominates ex-Federal Reserve Governor Kevin Warsh to head the US central bank",
-    "link": "https://www.dw.com/en/trump-nominates-ex-federal-reserve-governor-kevin-warsh-to-head-the-us-central-bank/a-75729920?maca=en-rss-en-all-1573-rdf",
-    "summary": "If confirmed by the US Senate, Kevin Warsh, a former Federal Reserve Governor, will become the next chair of the Federal Reserve System (FRS), the US central bank.",
-    "timestamp": 1769776380.0,
-    "date": "Jan 30, 12:33"
   },
   {
     "source": "The Guardian",
@@ -1560,14 +1576,6 @@
     "date": "Jan 29, 18:58"
   },
   {
-    "source": "TechCrunch",
-    "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
-    "link": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/",
-    "summary": "Waymo's SFO win comes as the company faces criticism and concerns about safety in some of the cities it operates.",
-    "timestamp": 1769709343.0,
-    "date": "Jan 29, 17:55"
-  },
-  {
     "source": "New York Times",
     "title": "Trump Warns Iran With Military Muscle, but Risks a Regional War",
     "link": "https://www.nytimes.com/2026/01/29/world/europe/trump-iran-threats.html",
@@ -1590,13 +1598,5 @@
     "summary": "<p>Fifty killed in one incident as Italian authorities estimate 380 people may have drowned last week</p><p>Up to 380 people may have drowned attempting to cross the Mediterranean last week as Cyclone...",
     "timestamp": 1769439276.0,
     "date": "Jan 26, 14:54"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Crocodile warnings as floods devastate southern Africa",
-    "link": "https://www.theguardian.com/world/2026/jan/26/crocodile-warnings-floods-devastate-southern-africa",
-    "summary": "<p>More than 100 people killed and hundreds of thousands displaced in South Africa, Mozambique and Zimbabwe</p><p>Devastating floods have killed more than 100 people in southern Africa since the begin...",
-    "timestamp": 1769435091.0,
-    "date": "Jan 26, 13:44"
   }
 ]
