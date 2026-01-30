@@ -1,19 +1,203 @@
 [
   {
+    "source": "CNBC",
+    "title": "Indonesian stock exchange CEO resigns after $84 billion market wipe out",
+    "link": "https://www.cnbc.com/2026/01/30/indonesian-stock-exchange-ceo-resigns-after-84-billion-market-wipe-out-.html",
+    "summary": "The rout was triggered by an announcement on Tuesday by index provider MSCI, warning of a potential downgrade of the country to \"frontier\" market status.",
+    "timestamp": 1769751727.0,
+    "date": "Jan 30, 05:42"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Indonesia committed to measures to boost stock market transparency, minister says",
+    "link": "https://www.channelnewsasia.com/business/indonesia-committed-measures-boost-stock-market-transparency-minister-says-5895881",
+    "summary": "",
+    "timestamp": 1769751246.0,
+    "date": "Jan 30, 05:34"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Secret Sauce in \u2018Heated Rivalry\u2019? Canada.",
+    "link": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
+    "summary": "The global television phenomenon is full of Canadian iconography and subsidized by Canadian taxpayers. On Thursday, it came home to celebrate.",
+    "timestamp": 1769750950.0,
+    "date": "Jan 30, 05:29"
+  },
+  {
     "source": "The Guardian",
-    "title": "Australia news live: two adults and two children found dead in Perth home in suspected murder-suicide",
+    "title": "Australia news live: Andrew Hastie pulls out of Liberal leadership contention, saying \u2018I do not have the support needed\u2019",
     "link": "https://www.theguardian.com/australia-news/live/2026/jan/30/national-cabinet-meeting-ndis-health-funding-gun-buyback-scheme-anthony-albanese-mark-butler-labor-coalition-sussan-ley-ntwnfb",
-    "summary": "<p>Follow today\u2019s news updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/30/federal-state-hospital-funding-deal-ndis-growth\">Albanese strikes $25bn deal with stat...",
-    "timestamp": 1769745490.0,
-    "date": "Jan 30, 03:58"
+    "summary": "<p>Follow today\u2019s news updates live</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/jan/30/four-people-including-two-children-found-dead-in-perth-in-suspected-murder-suicide\">Fo...",
+    "timestamp": 1769750527.0,
+    "date": "Jan 30, 05:22"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Can Bangladesh\u2019s Awami League survive election ban, ex-PM Hasina\u2019s exile?",
+    "link": "https://www.aljazeera.com/features/2026/1/30/can-bangladeshs-awami-league-survive-election-ban-ex-pm-hasinas-exile?traffic_source=rss",
+    "summary": "The party that ruled Bangladesh with an iron fist won&#039;t be on the ballot in February, and its future is uncertain.",
+    "timestamp": 1769749960.0,
+    "date": "Jan 30, 05:12"
+  },
+  {
+    "source": "New York Times",
+    "title": "Panama Court Strikes Down Hong Kong Firm\u2019s Canal Contract",
+    "link": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
+    "summary": "President Trump has said he wants American control of the canal, putting the longtime ports operator, CK Hutchison, in the cross-hairs of the U.S.-China trade conflict.",
+    "timestamp": 1769749904.0,
+    "date": "Jan 30, 05:11"
+  },
+  {
+    "source": "New York Times",
+    "title": "South Korean Stocks, Kospi Index Are Trading at a Record High",
+    "link": "https://www.nytimes.com/2026/01/30/world/asia/south-korea-stock-boom-kospi.html",
+    "summary": "Spurred by government policies and the global A.I. boom, the market\u2019s value has jumped by hundreds of billions of dollars. Individual investors have piled in.",
+    "timestamp": 1769749264.0,
+    "date": "Jan 30, 05:01"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Jobseekers using Careers & Skills Passport portal more likely to be shortlisted: SkillsFuture",
+    "link": "https://www.channelnewsasia.com/singapore/skillsfuture-career-skills-passport-portal-jobseekers-shortlisted-5895751",
+    "summary": "More than 2.3 million job applications have been made through the platform as of November last year.",
+    "timestamp": 1769749080.0,
+    "date": "Jan 30, 04:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Man gets jail for asking nurse to 'help' him in the toilet, exposing himself",
+    "link": "https://www.channelnewsasia.com/singapore/patient-asked-nurse-suggestive-toilet-jail-5895731",
+    "summary": "Once he was in the toilet with the nurse, the patient said in a low voice:&nbsp;\"As a man, I have my own personal needs, and I need you to help me.\"",
+    "timestamp": 1769748795.0,
+    "date": "Jan 30, 04:53"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Netizens push back on Trump's claims that China doesn't use wind power with photos of turbines",
+    "link": "https://www.channelnewsasia.com/asia/china-trump-wind-power-netizens-5895641",
+    "summary": "US President Donald Trump claimed on Jan 21 at the World Economic Forum in Davos, Switzerland, that China does not use wind power despite producing most of the world\u2019s turbines, prompting China to def...",
+    "timestamp": 1769748643.0,
+    "date": "Jan 30, 04:50"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Police probe over 200 suspected scammers and money mules; more than S$7.6 million lost",
+    "link": "https://www.channelnewsasia.com/singapore/scams-money-mules-police-investigate-ecommerce-spf-5895606",
+    "summary": "The amount lost was across more than 700 scam cases, said the police.",
+    "timestamp": 1769748252.0,
+    "date": "Jan 30, 04:44"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump says Russia to pause bombing Kyiv during extreme winter conditions",
+    "link": "https://www.aljazeera.com/news/2026/1/30/trump-says-russia-to-pause-bombing-kyiv-during-extreme-winter-conditions?traffic_source=rss",
+    "summary": "Ukraine&#039;s Zelenskyy welcomes possible pause after Russian attacks leave homes without heat in plummeting temperatures.",
+    "timestamp": 1769748191.0,
+    "date": "Jan 30, 04:43"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Sussan Ley unveils all-Liberal interim shadow cabinet and gives Nationals an ultimatum",
+    "link": "https://www.theguardian.com/australia-news/2026/jan/30/sussan-ley-unveils-liberal-interim-shadow-cabinet",
+    "summary": "<p>Nationals given eight days to reconcile with party before opposition leader appoints permanent Liberal-only frontbench</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/ja...",
+    "timestamp": 1769748139.0,
+    "date": "Jan 30, 04:42"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "ASEAN does not recognise Myanmar\u2019s elections \u2018as of now\u2019: Philippine FM",
+    "link": "https://www.aljazeera.com/news/2026/1/30/asean-does-not-recognise-myanmars-elections-as-of-now-philippine-fm?traffic_source=rss",
+    "summary": "Philippine Foreign Secretary Lazaro says ASEAN member states have &#039;not endorsed&#039; the election in military-run Myanmar.",
+    "timestamp": 1769747676.0,
+    "date": "Jan 30, 04:34"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Trump says \u2018very dangerous\u2019 for UK to do business with China, after Starmer hails progress in Beijing",
+    "link": "https://www.theguardian.com/world/2026/jan/30/trump-dangerous-uk-china-starmer-xi-jinping-beijing",
+    "summary": "<p>US president warns Keir Starmer over closer ties with China during British PM\u2019s trip to secure lower tariffs and better access to Chinese market</p><p>Donald Trump has warned the UK against doing b...",
+    "timestamp": 1769747558.0,
+    "date": "Jan 30, 04:32"
+  },
+  {
+    "source": "CNBC",
+    "title": "Gold rally stalls as prices drop 4% after a sharp run-up; Asia-Pacific stock markets trade mixed",
+    "link": "https://www.cnbc.com/2026/01/30/asia-pacific-markets-today-friday-nikkei-225-kospi-jakarta-composite-index-us-shutdown-deal-trump.html",
+    "summary": "Asia-Pacific markets traded mixed after U.S. President Donald Trump said that he will announce his choice for the next Federal Reserve chair on Friday.",
+    "timestamp": 1769747513.0,
+    "date": "Jan 30, 04:31"
   },
   {
     "source": "The Guardian",
     "title": "Four people, including two children, found dead in Perth in suspected murder-suicide",
     "link": "https://www.theguardian.com/australia-news/2026/jan/30/four-people-including-two-children-found-dead-in-perth-in-suspected-murder-suicide",
-    "summary": "<p>WA police say both children had \u2018significant health challenges\u2019 and had engaged with care services</p><p></p><p>Two adults and two children have been found dead in the Perth suburb of Mosman Park t...",
-    "timestamp": 1769745200.0,
-    "date": "Jan 30, 03:53"
+    "summary": "<p>WA police say both Mosman Park children had \u2018significant health challenges\u2019 and had engaged with care services</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/jan/30/nat...",
+    "timestamp": 1769747418.0,
+    "date": "Jan 30, 04:30"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump reportedly says 'very dangerous' for UK to do business with China as Starmer seeks diplomatic reset",
+    "link": "https://www.cnbc.com/2026/01/30/trump-china-uk-starmer-visit-xi-canada-carney.html",
+    "summary": "Starmer is on a 4-day visit to China this week, the first trip by a British leader in eight years, signaling an attempt at resetting the bilateral ties.",
+    "timestamp": 1769747332.0,
+    "date": "Jan 30, 04:28"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Palau lawmakers vote to block controversial Trump deal to resettle migrants from US",
+    "link": "https://www.theguardian.com/world/2026/jan/30/palau-pacific-country-blocks-trump-migrant-deal",
+    "summary": "<p>A plan to resettle third-country nationals from the US to the Pacific nation faces an uncertain future amid unease over the deal</p><p>A controversial Trump administration deal to relocate deportee...",
+    "timestamp": 1769747248.0,
+    "date": "Jan 30, 04:27"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Street robbers steal US$2.7 million in cash in rare Tokyo heist",
+    "link": "https://www.channelnewsasia.com/east-asia/japan-robbery-2-7-million-cash-suitcases-theft-ueno-station-5895706",
+    "summary": "The thieves used pepper spray and grabbed luggage containing the money near Ueno station.",
+    "timestamp": 1769747160.0,
+    "date": "Jan 30, 04:26"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Trump threatens tariffs on countries selling oil to Cuba",
+    "link": "https://www.dw.com/en/trump-threatens-tariffs-on-countries-selling-oil-to-cuba/a-75721218?maca=en-rss-en-all-1573-rdf",
+    "summary": "The move, aimed at cutting off oil supplies to Cuba, could further aggravate an already deep energy crisis in the Caribbean island.",
+    "timestamp": 1769746800.0,
+    "date": "Jan 30, 04:20"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Lady Gaga pauses Tokyo concert to speak out against ICE: 'My heart is aching'",
+    "link": "https://www.channelnewsasia.com/entertainment/lady-gaga-speaks-out-against-ice-tokyo-concert-5895636",
+    "summary": "On&nbsp;Thursday (Jan 29), American pop star Lady Gaga halted her show to condemn ICE immigration enforcement agents during her concert in Tokyo, Japan.",
+    "timestamp": 1769746740.0,
+    "date": "Jan 30, 04:19"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "13 ex-Certis officers charged with offences including pocketing items, possessing vapes and contraband cigarettes",
+    "link": "https://www.channelnewsasia.com/singapore/certis-enforcement-officers-charged-vapes-cigarettes-stolen-items-cpib-hsa-customs-5893681",
+    "summary": "The accused, all Singaporeans, were working as enforcement officers at the time of the alleged offences.",
+    "timestamp": 1769746200.0,
+    "date": "Jan 30, 04:10"
+  },
+  {
+    "source": "France 24",
+    "title": "Trump threatens new tariffs on countries supplying Cuba with oil",
+    "link": "https://www.france24.com/en/americas/20260130-trump-threatens-new-tariffs-countries-supplying-cuba-oil",
+    "summary": "US President Donald Trump on Thursday threatened new tariffs on countries supplying oil to Cuba, stepping up pressure on the Communist-run island and longtime US adversary. An executive order issued u...",
+    "timestamp": 1769745943.0,
+    "date": "Jan 30, 04:05"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "UN Chief calls out US and China's power struggle",
+    "link": "https://www.dw.com/en/un-chief-calls-out-us-and-china-s-power-struggle/a-75721214?maca=en-rss-en-all-1573-rdf",
+    "summary": "UN Chief Antonio Guterres warned against unilateralism by the US and the emerging US\u2011China duopoly urging 'multipolarity.'",
+    "timestamp": 1769745660.0,
+    "date": "Jan 30, 04:01"
   },
   {
     "source": "CNA (Asia)",
@@ -22,14 +206,6 @@
     "summary": "The scheme will launch in April with 1,000 return points across major supermarkets and high-footfall areas. The aim is to double that number within the first year of operations.",
     "timestamp": 1769743914.0,
     "date": "Jan 30, 03:31"
-  },
-  {
-    "source": "CNBC",
-    "title": "Gold rally stalls as prices drop 4% after a sharp run-up; Asia-Pacific stock markets trade mixed",
-    "link": "https://www.cnbc.com/2026/01/30/asia-pacific-markets-today-friday-nikkei-225-kospi-jakarta-composite-index-us-shutdown-deal-trump.html",
-    "summary": "Asia-Pacific markets traded mixed after U.S. President Donald Trump said that he will announce his choice for the next Federal Reserve chair on Friday.",
-    "timestamp": 1769743665.0,
-    "date": "Jan 30, 03:27"
   },
   {
     "source": "CNA (Asia)",
@@ -49,6 +225,14 @@
   },
   {
     "source": "CNA (Asia)",
+    "title": "Panama court voids CK Hutchison port contracts",
+    "link": "https://www.channelnewsasia.com/business/panama-ck-hutchison-port-contracts-void-court-5895631",
+    "summary": "The lawsuit to cancel the contracts was brought before the Panamanian high court last year on allegations that it was based on unconstitutional laws and that the Hong Kong business was not paying taxe...",
+    "timestamp": 1769742780.0,
+    "date": "Jan 30, 03:13"
+  },
+  {
+    "source": "CNA (Asia)",
     "title": "American sprinter Richardson arrested for speeding in Florida",
     "link": "https://www.channelnewsasia.com/sport/american-sprinter-richardson-arrested-speeding-in-florida-5895626",
     "summary": "",
@@ -60,14 +244,14 @@
     "title": "Man released from jail early due to error, surrenders to serve time as State Courts conducts 'thorough review'",
     "link": "https://www.channelnewsasia.com/singapore/man-released-early-jail-error-state-courts-5895486",
     "summary": "Mr Muhammad Fathurrahman Mohd Adzlan returned to jail four days later to complete his sentence.",
-    "timestamp": 1769742342.0,
+    "timestamp": 1769742300.0,
     "date": "Jan 30, 03:05"
   },
   {
     "source": "CNA (Asia)",
     "title": "Indonesia stock exchange CEO resigns after US$80 billion market rout",
     "link": "https://www.channelnewsasia.com/asia/indonesia-stock-exchange-ceo-iman-rachman-resign-msci-5895556",
-    "summary": "",
+    "summary": "The Jakarta Composite Index saw a two-day selloff after concerns were raised about ownership and trading transparency, with&nbsp;index provider MSCI warning of a downgrade.&nbsp;",
     "timestamp": 1769742180.0,
     "date": "Jan 30, 03:03"
   },
@@ -77,14 +261,6 @@
     "link": "https://www.cnbc.com/2026/01/29/trump-says-he-will-announce-a-replacement-for-powell-as-fed-chair-friday-morning.html",
     "summary": "President Donald Trump said Thursday that he will be naming his pick Friday for the new Federal Reserve chair.",
     "timestamp": 1769742119.0,
-    "date": "Jan 30, 03:01"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump reportedly says 'very dangerous' for UK to do business with China as Starmer seeks diplomatic reset",
-    "link": "https://www.cnbc.com/2026/01/30/trump-china-uk-starmer-visit-xi-canada-carney.html",
-    "summary": "Starmer is on a 4-day visit to China this week, the first trip by a British leader in eight years, signaling an attempt at resetting the bilateral ties.",
-    "timestamp": 1769742105.0,
     "date": "Jan 30, 03:01"
   },
   {
@@ -224,14 +400,6 @@
     "date": "Jan 30, 01:55"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Sandisk forecasts profit surge, secures supply deal as AI fuels storage demand",
-    "link": "https://www.channelnewsasia.com/business/sandisk-forecasts-profit-surge-secures-supply-deal-ai-fuels-storage-demand-5895421",
-    "summary": "",
-    "timestamp": 1769737706.0,
-    "date": "Jan 30, 01:48"
-  },
-  {
     "source": "BBC World",
     "title": "Republicans and Democrats reach funding package deal, US president says",
     "link": "https://www.bbc.com/news/articles/cn9zp0nyvxdo?at_medium=RSS&at_campaign=rss",
@@ -272,43 +440,11 @@
     "date": "Jan 30, 01:33"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Consensus Hong Kong 2026: Building the future of the digital asset industry",
-    "link": "https://www.channelnewsasia.com/advertorial/consensus-hong-kong-2026-building-future-digital-asset-industry-5872201",
-    "summary": "The Web3 conference brings together global decision-makers to explore opportunities in digital finance and emerging technologies.",
-    "timestamp": 1769736600.0,
-    "date": "Jan 30, 01:30"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Lawyer for Alan Jones tells court witnesses could clear broadcaster\u2019s name of sexual abuse allegations",
-    "link": "https://www.theguardian.com/media/2026/jan/30/alan-jones-sexual-abuse-allegations-lawyer-claims-disputed-ntwnfb",
-    "summary": "<p>Former broadcaster, 84, has pleaded not guilty to 25 charges of indecent assault and two charges of sexual touching against nine alleged victims over 17 years</p><ul><li><p><a href=\"https://www.the...",
-    "timestamp": 1769736204.0,
-    "date": "Jan 30, 01:23"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Taiwan completes first undersea trial for domestically made submarine",
-    "link": "https://www.channelnewsasia.com/east-asia/taiwan-completes-first-undersea-trial-submarine-narwhal-5895301",
-    "summary": "",
-    "timestamp": 1769736180.0,
-    "date": "Jan 30, 01:23"
-  },
-  {
     "source": "CNBC",
     "title": "Trump, two sons, Trump Org sue IRS, Treasury for $10 billion over tax records leak",
     "link": "https://www.cnbc.com/2026/01/29/trump-sues-irs-and-treasury-for-10-billion-over-leak-of-tax-records.html",
     "summary": "The Miami federal court lawsuit says the IRS and Treasury failed to prevent the leak of Trumps tax records by former IRS employee Charles Littlejohn.",
     "timestamp": 1769736081.0,
-    "date": "Jan 30, 01:21"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "ASEAN does not recognise Myanmar's elections, which military-backed party claims to have won",
-    "link": "https://www.channelnewsasia.com/asia/asean-does-not-recognise-myanmar-elections-5895366",
-    "summary": "",
-    "timestamp": 1769736060.0,
     "date": "Jan 30, 01:21"
   },
   {
@@ -344,30 +480,6 @@
     "date": "Jan 30, 00:59"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "A fashionable welcome to the Year of the Horse",
-    "link": "https://www.channelnewsasia.com/advertorial/fashionable-welcome-year-horse-5877971",
-    "summary": "Longchamp marks Chinese New Year with a limited-edition capsule collection featuring festive hues, a refreshed design and playful in-store moments.",
-    "timestamp": 1769734564.0,
-    "date": "Jan 30, 00:56"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Bad Bunny, Kendrick Lamar or Lady Gaga could make Grammys history",
-    "link": "https://www.channelnewsasia.com/entertainment/grammy-awards-2026-album-year-5893886",
-    "summary": "If Bad Bunny won, it would be the first Spanish-language album to win in the category since the Grammys began 68 years ago.&nbsp;If Lamar wins for GNX, he would be the first solo male rapper to win th...",
-    "timestamp": 1769733921.0,
-    "date": "Jan 30, 00:45"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "With Trump allies watching, Canada oil hub faces separatist bid",
-    "link": "https://www.channelnewsasia.com/world/canada-alberta-province-oil-hub-separatist-movement-5895291",
-    "summary": "A separatist movement in Canada's oil-rich province of Alberta is opposed to the previous government's climate-conscious policies.&nbsp;",
-    "timestamp": 1769733738.0,
-    "date": "Jan 30, 00:42"
-  },
-  {
     "source": "The Guardian",
     "title": "Woman faints after being caned 140 times under Indonesian province\u2019s sharia law",
     "link": "https://www.theguardian.com/world/2026/jan/30/indonesia-sharia-law-woman-caned-140-times-faints",
@@ -381,14 +493,6 @@
     "link": "https://www.cnbc.com/2026/01/29/apple-aapl-earnings-report-q1-2026.html",
     "summary": "Apple reported fiscal first-quarter earnings on Thursday\u00a0that\u00a0surpassed\u00a0expectations, with revenue soaring\u00a016% on an annual basis.",
     "timestamp": 1769733411.0,
-    "date": "Jan 30, 00:36"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Carney says he expects US administration to respect Canadian sovereignty",
-    "link": "https://www.channelnewsasia.com/world/canada-alberta-separatists-carney-sovereignty-us-trump-5895296",
-    "summary": "",
-    "timestamp": 1769733360.0,
     "date": "Jan 30, 00:36"
   },
   {
@@ -421,14 +525,6 @@
     "link": "https://www.bbc.com/news/articles/c4g0y6yp2vno?at_medium=RSS&at_campaign=rss",
     "summary": "He allegedly told jail officers that he had paperwork \"signed by a judge\" to free the accused killer, a complaint states.",
     "timestamp": 1769731727.0,
-    "date": "Jan 30, 00:08"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Democrats, White House strike spending deal that would avert government shutdown",
-    "link": "https://www.channelnewsasia.com/world/democrat-white-house-spending-deal-avert-us-government-shutdown-5895241",
-    "summary": "",
-    "timestamp": 1769731680.0,
     "date": "Jan 30, 00:08"
   },
   {
@@ -656,14 +752,6 @@
     "date": "Jan 29, 21:54"
   },
   {
-    "source": "New York Times",
-    "title": "NATO to Hold Military Exercise Without U.S., Its Largest Member",
-    "link": "https://www.nytimes.com/2026/01/29/world/europe/nato-military-exercise-spain-germany.html",
-    "summary": "The operation, Steadfast Dart, comes as President Trump has been accused of undermining the alliance and will be watched closely to see how well the allies manage without their most important partner.",
-    "timestamp": 1769723641.0,
-    "date": "Jan 29, 21:54"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Burkina Faso\u2019s military government dissolves political parties",
     "link": "https://www.aljazeera.com/news/2026/1/29/burkina-faso-military-government-dissolves-political-parties?traffic_source=rss",
@@ -686,14 +774,6 @@
     "summary": "Activists behind the general strike are calling for \"no work, no school, and no shopping\" amid a push to defund ICE, which has escalated raids in U.S. cities, killing several people, including two U.S...",
     "timestamp": 1769723355.0,
     "date": "Jan 29, 21:49"
-  },
-  {
-    "source": "New York Times",
-    "title": "A Global Pop Music Melting Pot",
-    "link": "https://www.nytimes.com/2026/01/29/world/bad-bunny-grammys-pop-britain-china.html",
-    "summary": "The era of American dominance is over. Music now comes from artists everywhere listening to each other.",
-    "timestamp": 1769723077.0,
-    "date": "Jan 29, 21:44"
   },
   {
     "source": "CNBC",
@@ -766,14 +846,6 @@
     "summary": "Sexual and gender-based violence \"is being used systematically to terrorise the population\" in Haiti's stricken capital Port-au-Prince, Doctors Without Borders said Thursday in a report based on 10 ye...",
     "timestamp": 1769721202.0,
     "date": "Jan 29, 21:13"
-  },
-  {
-    "source": "New York Times",
-    "title": "Canada Signs Auto Deal With South Korea, Moving Further from the U.S.",
-    "link": "https://www.nytimes.com/2026/01/29/world/canada/canada-south-korea-auto-deal-tariffs.html",
-    "summary": "The agreement, while scarce on details, is the latest step by Prime Minister Mark Carney to reduce Canada\u2019s reliance on trade with the U.S.",
-    "timestamp": 1769721036.0,
-    "date": "Jan 29, 21:10"
   },
   {
     "source": "CNBC",
@@ -928,14 +1000,6 @@
     "date": "Jan 29, 19:31"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Former Illinois deputy sentenced to 20 years for US killing of Sonya Massey",
-    "link": "https://www.aljazeera.com/news/2026/1/29/former-illinois-deputy-sentenced-to-20-years-for-killing-of-sonya-massey?traffic_source=rss",
-    "summary": "Sean Grayson fatally shot Massey after she called police to her home, in a killing that sparked outrage and protests.",
-    "timestamp": 1769714920.0,
-    "date": "Jan 29, 19:28"
-  },
-  {
     "source": "France 24",
     "title": "Iran rounds up thousands in mass arrest campaign after crushing unrest",
     "link": "https://www.france24.com/en/iran-rounds-up-thousands-in-mass-arrest-campaign-after-crushing-unrest",
@@ -958,14 +1022,6 @@
     "summary": "Making Ukrainians freeze in winter wasn\u2019t enough.",
     "timestamp": 1769714401.0,
     "date": "Jan 29, 19:20"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Who controls Yemen now and why it matters",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-yem_2026pulsecheck_av_v2-290126?traffic_source=rss",
-    "summary": "Humanitarian crisis worsens in Yemen as power struggles intensify and aid gaps grow.",
-    "timestamp": 1769714225.0,
-    "date": "Jan 29, 19:17"
   },
   {
     "source": "The Verge",
@@ -992,14 +1048,6 @@
     "date": "Jan 29, 19:12"
   },
   {
-    "source": "Al Jazeera",
-    "title": "\u2018They picked the wrong state\u2019: how Minneapolis is fighting back",
-    "link": "https://www.aljazeera.com/video/the-take-2/2026/1/29/aje-onl-usa_mnmutualaid_av_v2-290126?traffic_source=rss",
-    "summary": "Minneapolis mobilizes rapid response networks and mutual aid as protests grow against federal immigration agents.",
-    "timestamp": 1769713829.0,
-    "date": "Jan 29, 19:10"
-  },
-  {
     "source": "NPR",
     "title": "Medicare Advantage insurers face new curbs on overcharges in Trump plan",
     "link": "https://www.npr.org/2026/01/29/nx-s1-5691896/medicare-advantage-health-insurance-trump-oz-cms-upcoding",
@@ -1022,14 +1070,6 @@
     "summary": "Tom Homan, who took over leadership of the surge in Minneapolis, says he is working on a plan to reduce the force of federal agents in the Twin Cities.",
     "timestamp": 1769712405.0,
     "date": "Jan 29, 18:46"
-  },
-  {
-    "source": "CNBC",
-    "title": "Apartment rents just dropped to the lowest level in 4 years",
-    "link": "https://www.cnbc.com/2026/01/29/apartment-rents-just-dropped-to-the-lowest-level-in-4-years.html",
-    "summary": "Apartment rents are falling sharply due to weaker economic conditions and growing job losses.",
-    "timestamp": 1769712310.0,
-    "date": "Jan 29, 18:45"
   },
   {
     "source": "The Verge",
@@ -1120,14 +1160,6 @@
     "date": "Jan 29, 17:36"
   },
   {
-    "source": "The Guardian",
-    "title": "Starmer announces visa-free travel to China after talks with Xi in Beijing \u2013 UK politics live",
-    "link": "https://www.theguardian.com/politics/live/2026/jan/29/starmer-xi-jinping-meeting-uk-china-relationship-live",
-    "summary": "<p>Downing Street gives no date for when the agreement of 30 days of visa-free travel will come into force</p><p>For more context on today\u2019s <strong>Starmer</strong>-<strong>Xi</strong> meeting, China...",
-    "timestamp": 1769707935.0,
-    "date": "Jan 29, 17:32"
-  },
-  {
     "source": "TechCrunch",
     "title": "I built marshmallow castles in Google\u2019s new AI-world generator",
     "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
@@ -1158,14 +1190,6 @@
     "summary": "A living legend in Senegal, wrestler Modou L\u00f4, undisputed champion and 'king of the arenas', is training in Paris alongside professional boxer Souleymane Cissokho. The session offers a break from rout...",
     "timestamp": 1769706959.0,
     "date": "Jan 29, 17:15"
-  },
-  {
-    "source": "France 24",
-    "title": "IRGC terrorist designation: Mirroring US policy, EU crosses Islamic regime's 'red line'",
-    "link": "https://www.france24.com/en/video/20260129-irgc-terrorist-designation-mirroring-us-policy-eu-crosses-islamic-regime-s-red-line-5",
-    "summary": "Nadia Massih welcomes Ali Vaez, Int'l Crisis Group's Iran Project Director and Senior Adviser to the President. As the EU formally designates Iran\u2019s Revolutionary Guards as a terrorist organisation, t...",
-    "timestamp": 1769706639.0,
-    "date": "Jan 29, 17:10"
   },
   {
     "source": "The Verge",
@@ -1336,14 +1360,6 @@
     "date": "Jan 29, 14:20"
   },
   {
-    "source": "The Guardian",
-    "title": "Xi-Starmer meeting: Chinese leader tells PM he hopes both countries can \u2018rise above differences\u2019",
-    "link": "https://www.theguardian.com/politics/2026/jan/29/xi-starmer-china-uk-meeting-chinese-leader-rise-above-differences-sophisticated",
-    "summary": "<p>China agrees visa waiver for British citizens as countries sign agreements on closer economic cooperation</p><p>The Chinese leader, Xi Jinping, has said the UK\u2019s relationship with his country has g...",
-    "timestamp": 1769695324.0,
-    "date": "Jan 29, 14:02"
-  },
-  {
     "source": "BBC World",
     "title": "Ukraine receives 1,000 bodies in latest soldier swap with Russia",
     "link": "https://www.bbc.com/news/articles/cp9jl8vxdy9o?at_medium=RSS&at_campaign=rss",
@@ -1462,22 +1478,6 @@
     "summary": "India has shed import duties on European cars, opening its long-protected auto industry from global competition.",
     "timestamp": 1769680626.0,
     "date": "Jan 29, 09:57"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Why fans are obsessed with 'Bridgerton'",
-    "link": "https://www.dw.com/en/why-fans-are-obsessed-with-bridgerton/a-75700861?maca=en-rss-en-all-1573-rdf",
-    "summary": "Opulent romance, a diverse cast and plotlines that meld fairytales with a modern zeitgeist: \"Bridgerton\" has redefined the period-piece genre.",
-    "timestamp": 1769680260.0,
-    "date": "Jan 29, 09:51"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Confusion, anger in post-coup Guinea-Bissau",
-    "link": "https://www.dw.com/en/confusion-anger-in-post-coup-guinea-bissau/a-75666062?maca=en-rss-en-all-1573-rdf",
-    "summary": "The country's opposition alleges that the ousted president staged his own coup to avoid admitting defeat in the last election. Meanwhile, political institutions are in limbo.",
-    "timestamp": 1769679240.0,
-    "date": "Jan 29, 09:34"
   },
   {
     "source": "BBC World",
