@@ -1,35 +1,203 @@
 [
   {
-    "source": "NPR",
-    "title": "Voices from Iran: women defy fear in the face of brutal crackdown",
-    "link": "https://www.npr.org/2026/01/30/nx-s1-5688912/iran-women-crackdown",
-    "summary": "Amid Iran's deadly crackdown, three women share their stories of resistance, fear and an unyielding hope for freedom.",
-    "timestamp": 1769797729.0,
-    "date": "Jan 30, 18:28"
+    "source": "CNBC",
+    "title": "Former Google engineer found guilty of espionage and theft of AI tech",
+    "link": "https://www.cnbc.com/2026/01/30/former-google-engineer-found-guilty-of-espionage-and-theft-of-ai-tech.html",
+    "summary": "The case marks the first conviction on AI-related economic espionage charges in the U.S., according to the Department of Justice.",
+    "timestamp": 1769801516.0,
+    "date": "Jan 30, 19:31"
   },
   {
     "source": "CNBC",
-    "title": "Silver drops 30%, gold tumbles as Trump\u2019s Fed chair pick eases central bank independence fear",
-    "link": "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html",
-    "summary": "Gold and silver prices plunged on Friday, following weeks of gains as investors poured money into safe havens.",
-    "timestamp": 1769797702.0,
-    "date": "Jan 30, 18:28"
-  },
-  {
-    "source": "CNBC",
-    "title": "Dow tumbles 500 points as Apple shares decline, speculative silver trade unwinds: Live updates",
+    "title": "Dow tumbles nearly 200 points as Apple shares decline, speculative silver trade unwinds: Live updates",
     "link": "https://www.cnbc.com/2026/01/29/stock-market-today-live-updates.html",
     "summary": "President Donald Trump named former Fed Governor Kevin Warsh his replacement pick to take over the U.S. central bank.",
-    "timestamp": 1769797581.0,
-    "date": "Jan 30, 18:26"
+    "timestamp": 1769801382.0,
+    "date": "Jan 30, 19:29"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "US-Iran tensions: Arab States and Israel navigate strategic tightrope",
+    "link": "https://www.dw.com/en/us-iran-tensions-arab-states-and-israel-navigate-strategic-tightrope/a-75732540?maca=en-rss-en-all-1573-rdf",
+    "summary": "Amid ongoing diplomatic efforts to avert a wider conflict in the Middle East, Saudi Arabia, the Gulf states and Israel are prioritizing their own interests as regional tensions between the US and Iran...",
+    "timestamp": 1769801100.0,
+    "date": "Jan 30, 19:25"
   },
   {
     "source": "New York Times",
     "title": "Panamanian Court Strikes Down Hong Kong Firm\u2019s Canal Contract",
     "link": "https://www.nytimes.com/2026/01/30/business/panama-canal-ck-hutchison.html",
     "summary": "The ruling delivers a victory to President Trump, who has said he wants the U.S. to control the canal, and a blow to the longtime ports operator, CK Hutchison.",
-    "timestamp": 1769797502.0,
-    "date": "Jan 30, 18:25"
+    "timestamp": 1769801098.0,
+    "date": "Jan 30, 19:24"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "IMF projects Bangladesh's GDP to rebound to 4.7% in fiscal 2026",
+    "link": "https://www.channelnewsasia.com/business/imf-projects-bangladeshs-gdp-rebound-47-in-fiscal-2026-5897366",
+    "summary": "",
+    "timestamp": 1769800884.0,
+    "date": "Jan 30, 19:21"
+  },
+  {
+    "source": "CNBC",
+    "title": "Catherine O'Hara, Emmy-winning comedian of 'Schitt's Creek' and 'SCTV' fame, dies at 71",
+    "link": "https://www.cnbc.com/2026/01/30/catherine-ohara-schitts-creek-home-alone-dies.html",
+    "summary": "",
+    "timestamp": 1769800777.0,
+    "date": "Jan 30, 19:19"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump Moves to Cut All Oil to Cuba as U.S. Takes Aim at Its Government",
+    "link": "https://www.nytimes.com/2026/01/30/world/americas/trump-oil-cuba-government.html",
+    "summary": "President Trump\u2019s threat to impose tariffs on any country that delivers oil to Cuba appeared to be directed largely at Mexico, the only nation that has sent any meaningful fuel shipments to the island...",
+    "timestamp": 1769800502.0,
+    "date": "Jan 30, 19:15"
+  },
+  {
+    "source": "CNBC",
+    "title": "This dividend fund is one of Morningstar's best for 2026.\u00a0Here are its manager\u2019s top stock picks",
+    "link": "https://www.cnbc.com/2026/01/30/-top-stock-picks-from-the-manager-of-a-dividend-fund-morningstar-calls-one-of-the-best.html",
+    "summary": "\"If you can keep them in the market and then capture enough of the upside over time, you can really help people build wealth ...,\" the fund manager said.",
+    "timestamp": 1769800443.0,
+    "date": "Jan 30, 19:14"
+  },
+  {
+    "source": "CNBC",
+    "title": "More Jeffrey Epstein files being released by DOJ, Blanche says",
+    "link": "https://www.cnbc.com/2026/01/30/jeffrey-epstein-files-doj.html",
+    "summary": "\"We did not protect President Trump ... or anybody,\" Deputy Attorney General Todd Blanche said as he revealed there would be no more release of Epstein files.",
+    "timestamp": 1769800401.0,
+    "date": "Jan 30, 19:13"
+  },
+  {
+    "source": "The Verge",
+    "title": "There\u2019s a social network for AI agents, and it\u2019s getting weird",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
+    "summary": "Yes, you read that right. \"Moltbook\" is a social network of sorts for AI agents, particularly ones offered by OpenClaw (a viral AI assistant project that was formerly known as Moltbot, and before that...",
+    "timestamp": 1769800295.0,
+    "date": "Jan 30, 19:11"
+  },
+  {
+    "source": "BBC World",
+    "title": "Three reasons for the record rise in gold prices, and one why they are falling",
+    "link": "https://www.bbc.com/news/articles/c87r2700dq8o?at_medium=RSS&at_campaign=rss",
+    "summary": "Gold has fallen from recent highs but there are several reasons investors are still finding refuge in the precious metal.",
+    "timestamp": 1769800283.0,
+    "date": "Jan 30, 19:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "American Express, credit card provider to the wealthy, wants even more high spenders",
+    "link": "https://www.cnbc.com/2026/01/30/american-express-credit-card-high-spenders.html",
+    "summary": "AmEx's strategy shift is the latest example of the K-shaped economy, in which wealthy consumers continue to spend freely while others rein in their expenses",
+    "timestamp": 1769800179.0,
+    "date": "Jan 30, 19:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "The hottest retail investor picks since the meme stock craze shook up Wall Street",
+    "link": "https://www.cnbc.com/2026/01/30/retail-investors-meme-stocks-gamestop-wall-street.html",
+    "summary": "While the GameStop episode became a defining moment for mom-and-pop traders, it overshadowed the names they've bought in the biggest sums since.",
+    "timestamp": 1769800037.0,
+    "date": "Jan 30, 19:07"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Israel broadly accepts Gaza ministry death toll \u2014 reports",
+    "link": "https://www.dw.com/en/israel-broadly-accepts-gaza-ministry-death-toll-reports/a-75735374?maca=en-rss-en-all-1573-rdf",
+    "summary": "Israeli officials appeared to accept that some 70,000 Palestinians have died in the war in Gaza. Israel had long disputed the figures from Gaza's health ministry, saying the agency was run by Hamas.",
+    "timestamp": 1769800020.0,
+    "date": "Jan 30, 19:07"
+  },
+  {
+    "source": "The Verge",
+    "title": "We finally heard from Trump Mobile\u2026 and they immediately ghosted us",
+    "link": "https://www.theverge.com/tech/870934/trump-mobile-executive-team-don-hendrickson",
+    "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. As usual, we're still waiting for a response. In the ...",
+    "timestamp": 1769799995.0,
+    "date": "Jan 30, 19:06"
+  },
+  {
+    "source": "CNBC",
+    "title": "Luigi Mangione won't face death penalty in CEO murder case, federal judge rules",
+    "link": "https://www.cnbc.com/2026/01/30/luigi-mangione-death-penalty-unitedhealth-thompson-doj.html",
+    "summary": "Luigi Mangione is accusing of fatally shooting UnitedHealthcare CEO Brian Thompson on a New York City street in December 2024.",
+    "timestamp": 1769799640.0,
+    "date": "Jan 30, 19:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Uber is literally in the driver\u2019s seat when it comes to AV bets",
+    "link": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
+    "summary": "Self-driving truck startup&#160;Waabi&#8217;s billion-dollar fundraise&#160;isn&#8217;t&#160;just about trucks.&#160;&#160; The deal, for $750 million up front plus another $250 million from Uber tied...",
+    "timestamp": 1769799377.0,
+    "date": "Jan 30, 18:56"
+  },
+  {
+    "source": "CNBC",
+    "title": "Silver drops 30%, gold tumbles 10% as Trump Warsh pick eases Fed independence fear, triggers dollar rally",
+    "link": "https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html",
+    "summary": "Gold and silver prices plunged on Friday, following weeks of gains as investors poured money into safe havens.",
+    "timestamp": 1769799154.0,
+    "date": "Jan 30, 18:52"
+  },
+  {
+    "source": "The Verge",
+    "title": "Dyson\u2019s powerful 360 Vis Nav robot vacuum is nearly 75 percent off today",
+    "link": "https://www.theverge.com/gadgets/870256/dyson-360-vis-nav-robot-vacuum-lego-lotr-balrog-deal-sale",
+    "summary": "In case you missed it, we recently overhauled our guides to the best budget robot vacuums and the best mopping vacs, both of which feature a slate of new picks from Roborock, Narwal, Dreame, and other...",
+    "timestamp": 1769798932.0,
+    "date": "Jan 30, 18:48"
+  },
+  {
+    "source": "France 24",
+    "title": "Catherine O'Hara, 'Schitt's Creek' and 'Home Alone' star, dies at 71",
+    "link": "https://www.france24.com/en/culture/20260130-catherine-o-hara-schitt-s-creek-and-home-alone-star-dies-at-71",
+    "summary": "Catherine O'Hara, the Emmy-winning Canadian and American actress who starred as Kevin's beleaguered mother in \u201cHome Alone\u201d, has died at the age of 71, her agents announced on Friday.",
+    "timestamp": 1769798879.0,
+    "date": "Jan 30, 18:47"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US Senate races to limit shutdown fallout as Trump-backed deal stalls",
+    "link": "https://www.channelnewsasia.com/world/us-senate-trump-democrat-minneapolis-immigration-enforcement-shutdown-5897261",
+    "summary": "A dispute over immigration enforcement following two fatal shootings pushes the US government towards a shutdown.",
+    "timestamp": 1769798838.0,
+    "date": "Jan 30, 18:47"
+  },
+  {
+    "source": "CNBC",
+    "title": "Stocks making the biggest moves midday: Newmont, Apple, Sandisk, Deckers Outdoor & more",
+    "link": "https://www.cnbc.com/2026/01/30/stocks-making-the-biggest-moves-midday-nem-aapl-sndk-deck.html",
+    "summary": "These are the stocks posting the largest moves midday.",
+    "timestamp": 1769798401.0,
+    "date": "Jan 30, 18:40"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Confusion grows over state of US-Iran negotiations",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/30/confusion-grows-over-state-of-us-iran-negotiations?traffic_source=rss",
+    "summary": "The US and Iran both say they want a diplomatic solution to their standoff and regional players are increasingly active.",
+    "timestamp": 1769798194.0,
+    "date": "Jan 30, 18:36"
+  },
+  {
+    "source": "CNBC",
+    "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
+    "link": "https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html",
+    "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump\u2019s pick to lead the Federal Reserve. Here\u2019s his background, views and why it matters.",
+    "timestamp": 1769797738.0,
+    "date": "Jan 30, 18:28"
+  },
+  {
+    "source": "NPR",
+    "title": "Voices from Iran: women defy fear in the face of brutal crackdown",
+    "link": "https://www.npr.org/2026/01/30/nx-s1-5688912/iran-women-crackdown",
+    "summary": "Amid Iran's deadly crackdown, three women share their stories of resistance, fear and an unyielding hope for freedom.",
+    "timestamp": 1769797729.0,
+    "date": "Jan 30, 18:28"
   },
   {
     "source": "CNA (Asia)",
@@ -53,6 +221,14 @@
     "link": "https://www.theverge.com/podcast/870717/tim-cook-melania-minneapolis-tiktok-vergecast",
     "summary": "What responsibility do you have to speak up about bad things happening in the world? Does that responsibility change when speaking up might affect your business? What about if you're a sports creator,...",
     "timestamp": 1769796564.0,
+    "date": "Jan 30, 18:09"
+  },
+  {
+    "source": "BBC World",
+    "title": "Mali lawmaker jailed in Ivory Coast for insulting president",
+    "link": "https://www.bbc.com/news/articles/c74vgxp0zr4o?at_medium=RSS&at_campaign=rss",
+    "summary": "Prosecutors say Mamadou Hawa Gassama described Alassane Ouattara as a \"tyrant\" and \"an enemy of Mali\".",
+    "timestamp": 1769796560.0,
     "date": "Jan 30, 18:09"
   },
   {
@@ -96,36 +272,12 @@
     "date": "Jan 30, 17:59"
   },
   {
-    "source": "CNBC",
-    "title": "Luigi Mangione won't face death penalty in CEO murder case, federal judge rules",
-    "link": "https://www.cnbc.com/2026/01/30/luigi-mangione-death-penalty-unitedhealth-thompson-doj.html",
-    "summary": "Luigi Mangione is accusing of fatally shooting UnitedHealthcare CEO Brian Thompson on a New York City street in December 2024.",
-    "timestamp": 1769795933.0,
-    "date": "Jan 30, 17:58"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "German economy grew in latest quarter, but challenges remain",
     "link": "https://www.dw.com/en/german-economy-grew-in-latest-quarter-but-challenges-remain/a-75731942?maca=en-rss-en-all-1573-rdf",
     "summary": "Germany's struggling economy grew toward the end of 2025, but the good news was tempered by simultaneous rises in inflation and unemployment.",
     "timestamp": 1769795580.0,
     "date": "Jan 30, 17:53"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "US-Iran tensions: Arab States and Israel navigate strategic tightrope",
-    "link": "https://www.dw.com/en/us-iran-tensions-arab-states-and-israel-navigate-strategic-tightrope/a-75732540?maca=en-rss-en-all-1573-rdf",
-    "summary": "Amid ongoing diplomatic efforts to avert a wider conflict in the Middle East, Saudi Arabia, the Gulf states and Israel are prioritizing their own interests as regional tensions between the US and Iran...",
-    "timestamp": 1769795580.0,
-    "date": "Jan 30, 17:53"
-  },
-  {
-    "source": "CNBC",
-    "title": "This Microsoft options trade creates an income stream while awaiting a snapback",
-    "link": "https://www.cnbc.com/2026/01/30/putting-on-a-microsoft-trade-using-options-to-create-an-income-stream.html",
-    "summary": "Microsoft's stock tumbled more than 12% at the low point of the day to $421 on Thursday, slicing off more than $400 billion in market value.",
-    "timestamp": 1769795457.0,
-    "date": "Jan 30, 17:50"
   },
   {
     "source": "NPR",
@@ -142,14 +294,6 @@
     "summary": "Deputy Attorney General Todd Blanche says Friday&#039;s release fulfills a requirement established by congressional law.",
     "timestamp": 1769795396.0,
     "date": "Jan 30, 17:49"
-  },
-  {
-    "source": "CNBC",
-    "title": "Former CNN anchor Don Lemon arrested by feds over Minnesota activities, lawyer says",
-    "link": "https://www.cnbc.com/2026/01/30/don-lemon-arrest-doj-minnesota.html",
-    "summary": "Lemon's \"constitutionally protected work in Minneapolis was no different than what he has always done,\" his lawyer, Abbe Lowell, said.",
-    "timestamp": 1769795294.0,
-    "date": "Jan 30, 17:48"
   },
   {
     "source": "France 24",
@@ -184,14 +328,6 @@
     "date": "Jan 30, 17:44"
   },
   {
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves midday: Newmont, Apple, Sandisk, Deckers Outdoor & more",
-    "link": "https://www.cnbc.com/2026/01/30/stocks-making-the-biggest-moves-midday-nem-aapl-sndk-deck.html",
-    "summary": "These are the stocks posting the largest moves midday.",
-    "timestamp": 1769795035.0,
-    "date": "Jan 30, 17:43"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "US Justice Dept releasing new batch of Epstein files",
     "link": "https://www.channelnewsasia.com/world/epstein-files-documents-trump-republican-us-justice-department-5897196",
@@ -214,14 +350,6 @@
     "summary": "",
     "timestamp": 1769794730.0,
     "date": "Jan 30, 17:38"
-  },
-  {
-    "source": "CNBC",
-    "title": "Pro Talks: Investor Shannon Saccocia talks whether geopolitics could upend market rally in 2026",
-    "link": "https://www.cnbc.com/video/2026/01/30/pro-talks-investor-shannon-saccocia-talks-whether-geopolitics-could-upend-market-rally-in-2026.html",
-    "summary": "Shannon Saccocia, chief investment officer at Neuberger Berman, sits down with CNBC's Dominic Chu to discuss the major investing themes she is keeping an eye on in 2026. She talks the future of the AI...",
-    "timestamp": 1769794649.0,
-    "date": "Jan 30, 17:37"
   },
   {
     "source": "CNA (Asia)",
@@ -278,14 +406,6 @@
     "summary": "Judge rules out capital punishment, but 27-year-old still faces federal stalking charges and state-level murder charges.",
     "timestamp": 1769793833.0,
     "date": "Jan 30, 17:23"
-  },
-  {
-    "source": "CNBC",
-    "title": "More Jeffrey Epstein files being released by DOJ, Blanche says",
-    "link": "https://www.cnbc.com/2026/01/30/jeffrey-epstein-files-doj.html",
-    "summary": "\"We did not protect President Trump ... or anybody,\" Deputy  Attorney Todd Blanche said as he revealed there would be no more release of Epstein files.",
-    "timestamp": 1769793744.0,
-    "date": "Jan 30, 17:22"
   },
   {
     "source": "CNBC",
@@ -398,14 +518,6 @@
     "summary": "A judge dismisses two federal counts against the 27-year-old, but he still faces state murder charges.",
     "timestamp": 1769792536.0,
     "date": "Jan 30, 17:02"
-  },
-  {
-    "source": "CNBC",
-    "title": "Exxon CEO says Venezuela needs to transition to democracy for oil investment to make sense",
-    "link": "https://www.cnbc.com/2026/01/30/exxon-ceo-says-venezuela-needs-to-transition-to-democracy-for-oil-investment.html",
-    "summary": "ExxonMobil CEO Darren Woods in a CNBC interview stood by comments on Venezuela's oil industry that angered President Donald Trump.",
-    "timestamp": 1769792442.0,
-    "date": "Jan 30, 17:00"
   },
   {
     "source": "Al Jazeera",
@@ -595,17 +707,9 @@
     "source": "Deutsche Welle",
     "title": "US eyes the Red Sea as Landau visits Africa",
     "link": "https://www.dw.com/en/us-eyes-the-red-sea-as-landau-visits-africa/a-75731780?maca=en-rss-en-all-1573-rdf",
-    "summary": "Washington says a visit by Deputy Secretary of State Christopher Landau to Africa aims at strengthening bilateral ties, but the timing raises questions about America's interests in the Red Sea corrido...",
+    "summary": "Washington says a visit by Deputy Secretary of State Christopher Landau to Africa aims to strengthen bilateral ties, but the timing raises questions about America's interests in the Red Sea corridor.",
     "timestamp": 1769789520.0,
     "date": "Jan 30, 16:12"
-  },
-  {
-    "source": "CNBC",
-    "title": "Sen. Tillis will oppose Trump Fed chair pick Warsh until Powell probe resolved",
-    "link": "https://www.cnbc.com/2026/01/30/fed-warsh-tillis-trump-powell-doj.html",
-    "summary": "Federal Reserve Chair Jerome Powell has said the DOJ's criminal investigation of him stems from frustration by President Trump over interest rate decisions.",
-    "timestamp": 1769789501.0,
-    "date": "Jan 30, 16:11"
   },
   {
     "source": "Al Jazeera",
@@ -648,22 +752,6 @@
     "date": "Jan 30, 16:04"
   },
   {
-    "source": "The Verge",
-    "title": "Don Lemon has been arrested for covering an anti-ICE protest",
-    "link": "https://www.theverge.com/policy/870765/don-lemon-arrest-ice-protest",
-    "summary": "Don Lemon, a former CNN anchor turned independent journalist, was arrested on Thursday night by federal agents in Los Angeles, who alleged that he had violated federal law while covering an anti-ICE p...",
-    "timestamp": 1769788762.0,
-    "date": "Jan 30, 15:59"
-  },
-  {
-    "source": "The Verge",
-    "title": "Cold weather in Florida is pushing back the Artemis II launch",
-    "link": "https://www.theverge.com/science/870767/nasa-artemis-ii-mission-launch-delay-sls-space-launch-system-orion-moon",
-    "summary": "As a result of cold weather and windy conditions moving through Florida, NASA is now targeting Monday, February 2nd for a wet dress rehearsal of the Artemis II Space Launch System (SLS) rocket. Depend...",
-    "timestamp": 1769788743.0,
-    "date": "Jan 30, 15:59"
-  },
-  {
     "source": "The Guardian",
     "title": "Islamic State claims attack on international airport and airbase in Niger",
     "link": "https://www.theguardian.com/world/2026/jan/30/niger-airport-airbase-attack-islamic-state",
@@ -686,14 +774,6 @@
     "summary": "",
     "timestamp": 1769788621.0,
     "date": "Jan 30, 15:57"
-  },
-  {
-    "source": "The Verge",
-    "title": "Tesla throws in the towel on car sales",
-    "link": "https://www.theverge.com/transportation/870332/tesla-throws-in-the-towel-on-car-sales",
-    "summary": "Is Tesla still a car company? It's a question we've been asking ourselves more frequently over the past year, especially as the company's car business shrinks and Elon Musk continues to push the messa...",
-    "timestamp": 1769788272.0,
-    "date": "Jan 30, 15:51"
   },
   {
     "source": "NPR",
@@ -758,22 +838,6 @@
     "summary": "It&#039;s the latest of several measures that rights groups say are shrinking the civic space in the Sahel nation.",
     "timestamp": 1769786744.0,
     "date": "Jan 30, 15:25"
-  },
-  {
-    "source": "BBC World",
-    "title": "Three reasons for the record rise in gold prices, and one why they are falling",
-    "link": "https://www.bbc.com/news/articles/c87r2700dq8o?at_medium=RSS&at_campaign=rss",
-    "summary": "Gold has fallen from recent highs but there are several reasons investors are still finding refuge in the precious metal.",
-    "timestamp": 1769786672.0,
-    "date": "Jan 30, 15:24"
-  },
-  {
-    "source": "France 24",
-    "title": "US and Iran have \"little wriggle room\" as tensions remain high",
-    "link": "https://www.france24.com/en/us-and-iran-have-little-wriggle-room-as-tensions-remain-high",
-    "summary": "Iran's foreign minister was in Turkey on January 30 as Ankara led a diplomatic push to mediate between Tehran and Washington, after US President Donald Trump cooled threats of an imminent strike on th...",
-    "timestamp": 1769786550.0,
-    "date": "Jan 30, 15:22"
   },
   {
     "source": "Deutsche Welle",
@@ -1056,22 +1120,6 @@
     "date": "Jan 30, 13:37"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "A third-generation Orang Asli farmer tells why harvesting mussels in the Johor Strait is \u2018not easy\u2019",
-    "link": "https://www.channelnewsasia.com/today/in-pixels/mussel-farming-johor-strait-orang-asli-harvest-livelihood-5893906",
-    "summary": "",
-    "timestamp": 1769779800.0,
-    "date": "Jan 30, 13:30"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Whose space is it anyway? When public spaces become sites of contention",
-    "link": "https://www.channelnewsasia.com/today/big-read/urban-spaces-design-architecture-restrict-nudge-behaviours-5893441",
-    "summary": "Experts and users agree that public space is not just a physical construct, but a cultural one, shaped by consideration for others and ongoing negotiation between planners, managers and everyday users...",
-    "timestamp": 1769779800.0,
-    "date": "Jan 30, 13:30"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Giant Hind Rajab portrait unveiled in Spain for anniversary of her killing",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/1/30/giant-hind-rajab-portrait-unveiled-in-spain-for-anniversary-of-her-killing?traffic_source=rss",
@@ -1102,22 +1150,6 @@
     "summary": "The UN said \"credible sources\" had counted more than 400 strikes in the same period.",
     "timestamp": 1769778745.0,
     "date": "Jan 30, 13:12"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Netherlands watchdog probing Roblox over risks to children",
-    "link": "https://www.aljazeera.com/news/2026/1/30/netherlands-watchdog-probing-roblox-over-risks-to-children?traffic_source=rss",
-    "summary": "Regulator launches investigation into US gaming platform over potential risks to underage users in the EU.",
-    "timestamp": 1769778725.0,
-    "date": "Jan 30, 13:12"
-  },
-  {
-    "source": "CNBC",
-    "title": "Ford to record $600 million pretax pension charge in fourth quarter",
-    "link": "https://www.cnbc.com/2026/01/30/ford-q4-earnings-pension-charge.html",
-    "summary": "Ford will report a pretax charge of $600 million in its fourth quarter results due to adjustments to employee pension plans and other postretirement benefits.",
-    "timestamp": 1769778199.0,
-    "date": "Jan 30, 13:03"
   },
   {
     "source": "CNBC",
@@ -1208,6 +1240,14 @@
     "date": "Jan 30, 11:54"
   },
   {
+    "source": "BBC World",
+    "title": "Inside Syrian camp holding wives and children of suspected IS fighters",
+    "link": "https://www.bbc.com/news/videos/c3ve0xd451go?at_medium=RSS&at_campaign=rss",
+    "summary": "Kurdish-run prisons hold about 8,000 suspected IS fighters and around 34,000 of their family members in camps.",
+    "timestamp": 1769773088.0,
+    "date": "Jan 30, 11:38"
+  },
+  {
     "source": "Deutsche Welle",
     "title": "Ukraine updates: Kremlin says Trump asked Putin not to hit Kyiv until Feb 1",
     "link": "https://www.dw.com/en/ukraine-updates-kremlin-says-trump-asked-putin-not-to-hit-kyiv-until-feb-1/live-75726689?maca=en-rss-en-all-1573-rdf",
@@ -1256,14 +1296,6 @@
     "date": "Jan 30, 10:29"
   },
   {
-    "source": "BBC World",
-    "title": "Worried families in India urge return of crew on ship seized by Iran",
-    "link": "https://www.bbc.com/news/articles/cdrenj55gdvo?at_medium=RSS&at_campaign=rss",
-    "summary": "Iran seized the oil tanker with 18 crew members, including 16 Indians, in December alleging it had illegal diesel.",
-    "timestamp": 1769768567.0,
-    "date": "Jan 30, 10:22"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Germany news: Hamburg police investigating subway deaths",
     "link": "https://www.dw.com/en/germany-news-hamburg-police-investigating-subway-deaths/live-75724858?maca=en-rss-en-all-1573-rdf",
@@ -1302,14 +1334,6 @@
     "summary": "Preparations for the 2026 Winter Olympics in Milan and Cortina have been far from perfect. Should the Olympics hosting model be changed?",
     "timestamp": 1769765040.0,
     "date": "Jan 30, 09:24"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Cyprus to Greenland: Could UK military bases guide US moves?",
-    "link": "https://www.dw.com/en/cyprus-to-greenland-could-uk-military-bases-guide-us-moves/a-75722208?maca=en-rss-en-all-1573-rdf",
-    "summary": "Following recent reports that President Trump may be interested in establishing US military bases in Greenland along the lines of British Sovereign Base Areas in Cyprus, DW looks at the history and st...",
-    "timestamp": 1769764980.0,
-    "date": "Jan 30, 09:23"
   },
   {
     "source": "The Guardian",
@@ -1377,22 +1401,6 @@
   },
   {
     "source": "New York Times",
-    "title": "Michael Beck, 65, Dies; First to Report Symptoms of \u2018Havana Syndrome\u2019",
-    "link": "https://www.nytimes.com/2026/01/29/us/michael-beck-dead.html",
-    "summary": "As an employee with the N.S.A., he claimed he was exposed to a direct-energy device that led to a diagnosis of Parkinson\u2019s disease at the age of 45.",
-    "timestamp": 1769738143.0,
-    "date": "Jan 30, 01:55"
-  },
-  {
-    "source": "BBC World",
-    "title": "Republicans and Democrats reach funding package deal, US president says",
-    "link": "https://www.bbc.com/news/articles/cn9zp0nyvxdo?at_medium=RSS&at_campaign=rss",
-    "summary": "Funding for DHS will continue at its current amount for two weeks while both sides work out a new deal to fund the agency, according to US media reports.",
-    "timestamp": 1769737689.0,
-    "date": "Jan 30, 01:48"
-  },
-  {
-    "source": "New York Times",
     "title": "In Beijing, Starmer and Xi Seek a Way Around a Volatile U.S.",
     "link": "https://www.nytimes.com/2026/01/28/world/asia/china-starmer-xi-jinping.html",
     "summary": "Prime Minister Keir Starmer of Britain is seeking to promote economic ties for growth, offering China\u2019s leader, Xi Jinping, a way to court one of America\u2019s allies.",
@@ -1430,6 +1438,14 @@
     "summary": "Almost 30 years after he died, the Nigerian will posthumously receive a Lifetime Achievement Award.",
     "timestamp": 1769731993.0,
     "date": "Jan 30, 00:13"
+  },
+  {
+    "source": "BBC World",
+    "title": "BBC visits oil region at heart of Trump plan to 'Make Venezuela Great Again'",
+    "link": "https://www.bbc.com/news/articles/ckgnp8n40reo?at_medium=RSS&at_campaign=rss",
+    "summary": "Amid rusting oil pumps and rigs, once affluent Venezuelan oil towns place their hope in US investment.",
+    "timestamp": 1769731398.0,
+    "date": "Jan 30, 00:03"
   },
   {
     "source": "TechCrunch",
@@ -1550,22 +1566,6 @@
     "summary": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
     "timestamp": 1769704229.0,
     "date": "Jan 29, 16:30"
-  },
-  {
-    "source": "BBC World",
-    "title": "France moves to abolish concept of marital duty to have sex",
-    "link": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
-    "summary": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" \u2013 the notion that marriage means a duty to have sex.",
-    "timestamp": 1769702441.0,
-    "date": "Jan 29, 16:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "India is teaching Google how AI in education can scale",
-    "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
-    "summary": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
-    "timestamp": 1769700571.0,
-    "date": "Jan 29, 15:29"
   },
   {
     "source": "New York Times",
