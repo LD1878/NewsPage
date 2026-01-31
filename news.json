@@ -1,6 +1,94 @@
 [
   {
     "source": "CNBC",
+    "title": "A 'staggering' number of people bought new iPhones last quarter\u2014analysts explain why, and whether it'll happen again soon",
+    "link": "https://www.cnbc.com/2026/01/31/analysts-apples-staggering-iphone-sales-are-from-pent-up-demand.html",
+    "summary": "Apple CEO Tim Cook called the surge in demand for iPhones in the latest quarter \"staggering.\" Analysts say multiple factors can help explain why.",
+    "timestamp": 1769868901.0,
+    "date": "Jan 31, 14:15"
+  },
+  {
+    "source": "CNBC",
+    "title": "Flying without a Real ID? You may owe $45 \u2014 or more \u2014 starting Feb. 1",
+    "link": "https://www.cnbc.com/2026/01/31/real-id-fee-tsa.html",
+    "summary": "The Transportation Security Administration is imposing a fee for travelers who try to fly without a Real ID or another acceptable form of identification.",
+    "timestamp": 1769868901.0,
+    "date": "Jan 31, 14:15"
+  },
+  {
+    "source": "CNBC",
+    "title": "Activist Dan Loeb dusts off his poison pen as he seeks a board refresh at CoStar Group",
+    "link": "https://www.cnbc.com/2026/01/31/activist-dan-loeb-dusts-off-his-poison-pen-as-he-seeks-a-board-refresh-at-costar-group.html",
+    "summary": "Investors are seeing shades of yesteryear's Dan Loeb in a letter he recently wrote to the CoStar board.",
+    "timestamp": 1769868578.0,
+    "date": "Jan 31, 14:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "Software shares are among the most oversold stocks in the S&P 500",
+    "link": "https://www.cnbc.com/2026/01/31/software-shares-are-among-the-most-oversold-stocks-in-the-sp-500.html",
+    "summary": "Software giants such as Intuit and Palantir were among this week's most oversold stocks. Memory stocks topped CNBC's screen of overbought names.",
+    "timestamp": 1769868453.0,
+    "date": "Jan 31, 14:07"
+  },
+  {
+    "source": "CNBC",
+    "title": "Goldman says buy these five stocks ahead of earnings before it's too late",
+    "link": "https://www.cnbc.com/2026/01/31/goldmans-five-stocks-to-buy-before-earnings.html",
+    "summary": "Goldman Sachs said this week there are still plenty of quality buying opportunities ahead of earnings.",
+    "timestamp": 1769868308.0,
+    "date": "Jan 31, 14:05"
+  },
+  {
+    "source": "CNBC",
+    "title": "Use up your credit card points now, expert says\u2014no matter if a 10% interest rate cap is enacted",
+    "link": "https://www.cnbc.com/2026/01/31/use-up-your-credit-card-points-now-expert-says.html",
+    "summary": "You may want to spend your credit card points now, expert says \u2014 but not because of the potential for a 10% interest rate cap.",
+    "timestamp": 1769868001.0,
+    "date": "Jan 31, 14:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "The best communicators do 3 simple things in job interviews\u2014they make you a 'very, very attractive' candidate, says expert",
+    "link": "https://www.cnbc.com/2026/01/31/the-best-communicators-do-these-simple-things-in-job-interviews-says-expert-charles-duhigg.html",
+    "summary": "Your ability to communicate your skills in a job interview is crucial. \"Supercommunicators\" author Charles Duhigg shares three tips for candidates.",
+    "timestamp": 1769868001.0,
+    "date": "Jan 31, 14:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Cassette Boy forces you to see its world in a whole new way",
+    "link": "https://www.theverge.com/games/867020/cassette-boy-review-pc-playstation-xbox-nintendo-switch",
+    "summary": "It's no secret that Cassette Boy is inspired by the classics. It's a top-down adventure game in the vein of a retro Legend of Zelda, while your home base is a small town like in an older Pok&#233;mon ...",
+    "timestamp": 1769868000.0,
+    "date": "Jan 31, 14:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "New Melbourne queen Rybakina happy to find highest level again",
+    "link": "https://www.channelnewsasia.com/sport/new-melbourne-queen-rybakina-happy-find-highest-level-again-5898306",
+    "summary": "",
+    "timestamp": 1769867677.0,
+    "date": "Jan 31, 13:54"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Drone strikes in Ethiopia\u2019s Tigray kill one amid fears of renewed conflict",
+    "link": "https://www.aljazeera.com/news/2026/1/31/drone-strikes-in-ethiopias-tigray-kill-one-amid-fears-of-renewed-conflict?traffic_source=rss",
+    "summary": "The attack comes amid fears of a return to conflict following clashes between government troops and Tigrayan forces.",
+    "timestamp": 1769867385.0,
+    "date": "Jan 31, 13:49"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "US journalists arrested for covering anti-ICE protest at church",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/31/us-journalists-arrested-for-covering-anti-ice-protest-at-church?traffic_source=rss",
+    "summary": "Two journalists were arrested and taken to court in the US for covering an anti-ICE protest inside a Minnesota church.",
+    "timestamp": 1769867378.0,
+    "date": "Jan 31, 13:49"
+  },
+  {
+    "source": "CNBC",
     "title": "Powerful storm threatens East Coast including parts unaccustomed to heavy snow",
     "link": "https://www.cnbc.com/2026/01/31/winter-storm-threatens-east-coast-regions-not-used-to-heavy-snow.html",
     "summary": "In Myrtle Beach, South Carolina, 6 inches of snow was expected. The city has no snow removal equipment, Mayor Mark Kruea said.",
@@ -30,6 +118,22 @@
     "summary": "While taking extended time off work might have an impact on one\u2019s finances and career progression, it might be a necessity \u2013 and a better option than quitting work.",
     "timestamp": 1769866200.0,
     "date": "Jan 31, 13:30"
+  },
+  {
+    "source": "BBC World",
+    "title": "Israeli air strikes kill at least 27 Palestinians in Gaza, rescue officials say",
+    "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
+    "summary": "Israel's military confirmed the strikes, which come during a ceasefire that Israel and Hamas accuse each other of breaking.",
+    "timestamp": 1769866196.0,
+    "date": "Jan 31, 13:29"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Sabalenka \u2018really upset\u2019 at blowing Australian Open final chances",
+    "link": "https://www.aljazeera.com/sports/2026/1/31/sabalenka-really-upset-at-blowing-australian-open-final-chances?traffic_source=rss",
+    "summary": "Following back-to-back Australian Open wins, Aryna Sabalenka has now lost consecutive finals with Elena Rybakina defeat.",
+    "timestamp": 1769866049.0,
+    "date": "Jan 31, 13:27"
   },
   {
     "source": "CNA (Asia)",
@@ -75,7 +179,7 @@
     "source": "Deutsche Welle",
     "title": "Iran: Explosion hits Bandar Abbas Port \u2014 reports",
     "link": "https://www.dw.com/en/iran-explosion-hits-bandar-abbas-port-reports/a-75740142?maca=en-rss-en-all-1573-rdf",
-    "summary": "The reported blast comes amid heightened US-Iran tensions.",
+    "summary": "The reported blast in the Iranian city of Bandar Abbas comes amid heightened US-Iran tensions. The cause of the explosion is still unknown.",
     "timestamp": 1769864940.0,
     "date": "Jan 31, 13:09"
   },
@@ -182,14 +286,6 @@
     "summary": "",
     "timestamp": 1769860980.0,
     "date": "Jan 31, 12:03"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukrainians brace for -20C despite energy truce: 'It will be a catastrophe'",
-    "link": "https://www.bbc.com/news/articles/c75xg17rr1xo?at_medium=RSS&at_campaign=rss",
-    "summary": "Already facing electricity cuts, civilians are struggling to keep warm in their own homes as temperatures are set to plummet.",
-    "timestamp": 1769860920.0,
-    "date": "Jan 31, 12:02"
   },
   {
     "source": "NPR",
@@ -313,8 +409,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Exclusive-Olympics\u2013Cortina cable car will not be ready in time for Winter Games start, letter shows",
-    "link": "https://www.channelnewsasia.com/sport/exclusive-olympics-cortina-cable-car-will-not-be-ready-in-time-winter-games-start-letter-shows-5898121",
+    "title": "Exclusive-Olympics\u2013Cortina cable car will not be ready in time for start of Winter Games, letter shows",
+    "link": "https://www.channelnewsasia.com/sport/exclusive-olympics-cortina-cable-car-will-not-be-ready-in-time-start-winter-games-letter-shows-5898121",
     "summary": "",
     "timestamp": 1769857324.0,
     "date": "Jan 31, 11:02"
@@ -358,14 +454,6 @@
     "summary": "This Sunday will mark five years since the military re-took control in Myanmar in a coup that ousted elected leader Aung San Suu Kyi. The military celebrated the anniversary by declaring a sweeping wi...",
     "timestamp": 1769856324.0,
     "date": "Jan 31, 10:45"
-  },
-  {
-    "source": "CNBC",
-    "title": "Iran president says Trump, Netanyahu and Europe stirred tensions in protests",
-    "link": "https://www.cnbc.com/2026/01/31/iran-president-says-trump-netanyahu-europe-stirred-tensions.html",
-    "summary": "Iran's president says the U.S. and its allies have 'provided people with the means to \"tear the nation apart\"",
-    "timestamp": 1769856226.0,
-    "date": "Jan 31, 10:43"
   },
   {
     "source": "New York Times",
@@ -414,14 +502,6 @@
     "summary": "Officials from the far-right Alternative for Germany (AfD) party have been openly rubbing shoulders with Austrian right-wing extremist Martin Sellner. This, despite reservations over his Identitarian ...",
     "timestamp": 1769854440.0,
     "date": "Jan 31, 10:14"
-  },
-  {
-    "source": "CNBC",
-    "title": "Modi ally proposes social media ban for India's teens as global debate grows",
-    "link": "https://www.cnbc.com/2026/01/31/modi-ally-proposes-social-media-ban-for-indias-teens.html",
-    "summary": "An ally of Indian Prime Minister Narendra Modi has proposed a bill to ban social media for children in the world's biggest market for Meta and YouTube",
-    "timestamp": 1769854271.0,
-    "date": "Jan 31, 10:11"
   },
   {
     "source": "Al Jazeera",
@@ -672,14 +752,6 @@
     "date": "Jan 31, 07:38"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "History awaits as Djokovic and Alcaraz meet in Australian Open final",
-    "link": "https://www.channelnewsasia.com/sport/history-awaits-djokovic-and-alcaraz-meet-in-australian-open-final-5898041",
-    "summary": "",
-    "timestamp": 1769844991.0,
-    "date": "Jan 31, 07:36"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Children among 28 Palestinians killed by Israeli forces across Gaza",
     "link": "https://www.aljazeera.com/news/2026/1/31/israeli-forces-kill-12-palestinians-across-gaza-attacks-reported-in-rafah?traffic_source=rss",
@@ -720,36 +792,12 @@
     "date": "Jan 31, 06:55"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Shipping giant Maersk to take over Panama Canal ports after court ruling",
-    "link": "https://www.aljazeera.com/news/2026/1/31/shipping-giant-maersk-to-take-over-panama-canal-ports-after-court-ruling?traffic_source=rss",
-    "summary": "Danish company will replace Hong Kong-based firm after Trump claimed strategic waterway was controlled by China.",
-    "timestamp": 1769841851.0,
-    "date": "Jan 31, 06:44"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Wave of Israeli air strikes hit southern Lebanon despite ceasefire",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/31/wave-of-israeli-air-strikes-hit-southern-lebanon-despite-ceasefire?traffic_source=rss",
-    "summary": "Israeli air strikes pound areas in southern Lebanon in violation of the November 2024 ceasefire with Hezbollah.",
-    "timestamp": 1769841767.0,
-    "date": "Jan 31, 06:42"
-  },
-  {
     "source": "France 24",
     "title": "Live: Explosion reported at Iran's southern port of Bandar Abbas, cause unclear",
     "link": "https://www.france24.com/en/asia-pacific/20260131-live-us-approves-major-arms-sales-to-israel-saudi-arabia-as-tensions-mount-with-iran",
     "summary": "An \u200dexplosion \u200boccurred \u2060at Iran's\u00a0southern port of Bandar Abbas \u200bon \u200dSaturday, \u200bIranian media\u00a0reported, without giving \u200ba cause for the blast. Iranian army chief Amir Hatami warned against any attack...",
     "timestamp": 1769840989.0,
     "date": "Jan 31, 06:29"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Venezuela\u2019s acting President Delcy Rodriguez announces prisoner amnesty",
-    "link": "https://www.aljazeera.com/news/2026/1/31/venezuelas-acting-president-delcy-rodriguez-announces-prisoner-amnesty?traffic_source=rss",
-    "summary": "Rodriguez calls for healing &#039;wounds left by political confrontation&#039; and says notorious El Helicoide prison to shut.",
-    "timestamp": 1769840232.0,
-    "date": "Jan 31, 06:17"
   },
   {
     "source": "BBC World",
@@ -888,14 +936,6 @@
     "date": "Jan 31, 01:37"
   },
   {
-    "source": "CNBC",
-    "title": "Amazon asks FCC for extension for Leo satellite internet service",
-    "link": "https://www.cnbc.com/2026/01/30/amazon-asks-fcc-to-extend-satellite-limit-as-it-buys-more-spacex-rides.html",
-    "summary": "The company needs to bring more of its satellites online so it can begin offering an internet-from-space service that was recently rebranded as Amazon Leo.",
-    "timestamp": 1769822803.0,
-    "date": "Jan 31, 01:26"
-  },
-  {
     "source": "BBC World",
     "title": "Former CNN host Don Lemon charged in anti-ICE protest at Minnesota church",
     "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
@@ -992,12 +1032,12 @@
     "date": "Jan 30, 23:30"
   },
   {
-    "source": "CNBC",
-    "title": "Cramer\u2019s week ahead: Earnings from Eli Lilly, Alphabet and Amazon. Plus, jobs data",
-    "link": "https://www.cnbc.com/2026/01/30/cramers-week-ahead-earnings-eli-lilly-alphabet-amazon-jobs-data.html",
-    "summary": "AMD, Alphabet and Amazon are among the heavyweight companies reporting earnings in the week ahead.",
-    "timestamp": 1769815069.0,
-    "date": "Jan 30, 23:17"
+    "source": "New York Times",
+    "title": "Trump Moves to Cut All Oil to Cuba as U.S. Targets Its Government",
+    "link": "https://www.nytimes.com/2026/01/30/world/americas/trump-oil-cuba-government.html",
+    "summary": "President Trump\u2019s threat to impose tariffs on any country that delivers oil to Cuba appeared to be directed largely at Mexico, the only nation that has sent any meaningful fuel shipments to the island...",
+    "timestamp": 1769813241.0,
+    "date": "Jan 30, 22:47"
   },
   {
     "source": "The Verge",
@@ -1056,14 +1096,6 @@
     "date": "Jan 30, 21:43"
   },
   {
-    "source": "CNBC",
-    "title": "Palantir and these other stocks reporting next week have earnings momentum at their back",
-    "link": "https://www.cnbc.com/2026/01/30/palantir-and-other-names-reporting-next-week-boast-earnings-momentum-.html",
-    "summary": "The list of companies where analysts have lately lifted estimates includes Ralph Lauren and Palantir.",
-    "timestamp": 1769808771.0,
-    "date": "Jan 30, 21:32"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Canadian actress Catherine O'Hara dies at 71",
     "link": "https://www.dw.com/en/canadian-actress-catherine-o-hara-dies-at-71/a-75736335?maca=en-rss-en-all-1573-rdf",
@@ -1094,14 +1126,6 @@
     "summary": "As President Trump warns that \u201cwe have a lot of very big, very powerful ships sailing to Iran right now,\u201d our national security correspondent David E. Sanger breaks down what to know.",
     "timestamp": 1769807172.0,
     "date": "Jan 30, 21:06"
-  },
-  {
-    "source": "CNBC",
-    "title": "Earnings, jobs loom large in the week ahead for a discerning market. Here's what's coming up",
-    "link": "https://www.cnbc.com/2026/01/30/earnings-jobs-loom-large-next-week-for-a-discerning-stock-market.html",
-    "summary": "Alphabet and Amazon are the next big tech titans that will see their income statements scrutinized, with January's nonfarm payrolls also on tap.",
-    "timestamp": 1769807028.0,
-    "date": "Jan 30, 21:03"
   },
   {
     "source": "The Verge",
@@ -1206,14 +1230,6 @@
     "summary": "The deputy attorney general said it was a \u201cstandard investigation\u201d after Pretti's fatal shooting in Minneapolis.",
     "timestamp": 1769801025.0,
     "date": "Jan 30, 19:23"
-  },
-  {
-    "source": "The Verge",
-    "title": "There\u2019s a social network for AI agents, and it\u2019s getting weird",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
-    "summary": "Yes, you read that right. \"Moltbook\" is a social network of sorts for AI agents, particularly ones offered by OpenClaw (a viral AI assistant project that was formerly known as Moltbot, and before that...",
-    "timestamp": 1769800295.0,
-    "date": "Jan 30, 19:11"
   },
   {
     "source": "Deutsche Welle",
@@ -1376,14 +1392,6 @@
     "date": "Jan 30, 14:37"
   },
   {
-    "source": "New York Times",
-    "title": "Iran Rules Out Talks With U.S. Until Trump\u2019s Threats Stop",
-    "link": "https://www.nytimes.com/2026/01/30/world/europe/iran-trump-us-threats-turkey.html",
-    "summary": "Iran\u2019s foreign minister ruled out direct talks unless President Trump stops threatening to attack it. He also said Iran would not discuss its ballistic missiles.",
-    "timestamp": 1769783486.0,
-    "date": "Jan 30, 14:31"
-  },
-  {
     "source": "The Guardian",
     "title": "South Africa expels top Israeli diplomat over \u2018insulting attacks\u2019 on president",
     "link": "https://www.theguardian.com/world/2026/jan/30/south-africa-expels-israel-diplomat-insults-president",
@@ -1494,14 +1502,6 @@
     "summary": "The swift advance of Moscow\u2019s forces into the town of Huliaipole showcases a central challenge for Kyiv: how to defend 700 miles with too few troops.",
     "timestamp": 1769767220.0,
     "date": "Jan 30, 10:00"
-  },
-  {
-    "source": "CNBC",
-    "title": "World leaders flock to Beijing, hedging against U.S. disruptions",
-    "link": "https://www.cnbc.com/2026/01/30/china-beijing-trade-tariffs-trump-starmer-carney.html",
-    "summary": "Nations that avoided China in recent years are now sending their leaders to Beijing for meetings with Chinese President Xi Jinping.",
-    "timestamp": 1769765964.0,
-    "date": "Jan 30, 09:39"
   },
   {
     "source": "New York Times",
