@@ -1,6 +1,94 @@
 [
   {
     "source": "CNBC",
+    "title": "Bitcoin dips below $78,000 as market digests silver sell-off, Trump's Fed chair pick",
+    "link": "https://www.cnbc.com/2026/01/31/bitcoin-dips-below-78000-after-silver-selloff.html",
+    "summary": "Bitcoin and Ethereum plunged following wide swings in the commodities market.",
+    "timestamp": 1769889562.0,
+    "date": "Jan 31, 19:59"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Bundesliga leaders Bayern Munich held 2-2 at Hamburg",
+    "link": "https://www.channelnewsasia.com/sport/bundesliga-leaders-bayern-munich-held-2-2-hamburg-5898601",
+    "summary": "",
+    "timestamp": 1769889515.0,
+    "date": "Jan 31, 19:58"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Belarus: Snow and cold used to torture political prisoners",
+    "link": "https://www.dw.com/en/belarus-snow-and-cold-used-to-torture-political-prisoners/a-75717969?maca=en-rss-en-all-1573-rdf",
+    "summary": "Former political prisoners tell DW that winter in Belarus prisons is brutal during cold, snowy winters like this one \u2014 because snow and freezing temperatures are used by guards to torment them.",
+    "timestamp": 1769889420.0,
+    "date": "Jan 31, 19:57"
+  },
+  {
+    "source": "New York Times",
+    "title": "Danes Who Fought Alongside US Troops March Against Trump\u2019s Comments",
+    "link": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
+    "summary": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
+    "timestamp": 1769888806.0,
+    "date": "Jan 31, 19:46"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Chelsea fight back from 2-0 down to beat West Ham",
+    "link": "https://www.channelnewsasia.com/sport/chelsea-fight-back-2-0-down-beat-west-ham-5898576",
+    "summary": "",
+    "timestamp": 1769888657.0,
+    "date": "Jan 31, 19:44"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Waymo seeking about $16 billion near $110 billion valuation, Bloomberg News reports",
+    "link": "https://www.channelnewsasia.com/business/waymo-seeking-about-16-billion-near-110-billion-valuation-bloomberg-news-reports-5898566",
+    "summary": "",
+    "timestamp": 1769888380.0,
+    "date": "Jan 31, 19:39"
+  },
+  {
+    "source": "The Verge",
+    "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
+    "link": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
+    "summary": "SpaceX filed a request with the FCC on Friday seeking approval to put a constellation of 1 million data center satellites into orbit. While the FCC is unlikely to approve a network that expansive, Spa...",
+    "timestamp": 1769888316.0,
+    "date": "Jan 31, 19:38"
+  },
+  {
+    "source": "BBC World",
+    "title": "Five killed in gas explosions in Iran, officials say",
+    "link": "https://www.bbc.com/news/articles/cd9ew5p3zvko?at_medium=RSS&at_campaign=rss",
+    "summary": "A four-year-old is among the dead after separate blasts were reported on Saturday.",
+    "timestamp": 1769887876.0,
+    "date": "Jan 31, 19:31"
+  },
+  {
+    "source": "New York Times",
+    "title": "Russia Is Finding the Gaps in Ukraine\u2019s Front Line",
+    "link": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
+    "summary": "The swift advance of Moscow\u2019s forces into the town of Huliaipole showcases a central challenge for Kyiv: how to defend 700 miles with too few troops.",
+    "timestamp": 1769887812.0,
+    "date": "Jan 31, 19:30"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Peter Kornbluh: Is Trump pushing a new imperialism in Latin America?",
+    "link": "https://www.aljazeera.com/video/upfront/2026/1/31/peter-kornbluh-is-trump-pushing-a-new-imperialism-in-latin-america?traffic_source=rss",
+    "summary": "Peter Kornbluh speaks to Marc Lamont Hill on Trump\u2019s abduction of Venezuela\u2019s president and fallout for Latin America.",
+    "timestamp": 1769887800.0,
+    "date": "Jan 31, 19:30"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Napoli edge Fiorentina as injuries problems mount",
+    "link": "https://www.channelnewsasia.com/sport/napoli-edge-fiorentina-injuries-problems-mount-5898556",
+    "summary": "",
+    "timestamp": 1769887372.0,
+    "date": "Jan 31, 19:22"
+  },
+  {
+    "source": "CNBC",
     "title": "Federal judge denies bid to end ICE Operation Metro Surge in Minnesota",
     "link": "https://www.cnbc.com/2026/01/31/federal-judge-denies-bid-to-end-ice-operation-metro-surge-in-minnesota.html",
     "summary": "The crackdown \"has had, and will likely continue to have, profound and even heartbreaking, consequences,\" U.S. District Judge Menendez said in the ruling.",
@@ -14,14 +102,6 @@
     "summary": "Over 500 people have been killed under the ceasefire between Israel and Hamas, according to Gaza health officials.&nbsp;",
     "timestamp": 1769886473.0,
     "date": "Jan 31, 19:07"
-  },
-  {
-    "source": "New York Times",
-    "title": "Danes Who Fought Alongside US Troops March Against Trump\u2019s Comments",
-    "link": "https://www.nytimes.com/2026/01/31/world/europe/denmark-military-march-us-troops.html",
-    "summary": "In the latest anti-American gathering in Denmark, veterans who went to war alongside U.S. troops took to the streets of Copenhagen.",
-    "timestamp": 1769886116.0,
-    "date": "Jan 31, 19:01"
   },
   {
     "source": "The Guardian",
@@ -78,6 +158,14 @@
     "summary": "The talks come just a day before a second round of US-mediated talks between Russia and Ukraine in Abu Dhabi.",
     "timestamp": 1769883914.0,
     "date": "Jan 31, 18:25"
+  },
+  {
+    "source": "BBC World",
+    "title": "Federal judge denies request to block ICE surge in Minnesota",
+    "link": "https://www.bbc.com/news/articles/c78vgnz3z6eo?at_medium=RSS&at_campaign=rss",
+    "summary": "A judge said ICE activity could have \"heartbreaking\" effects but said the state hadn't proven its case.",
+    "timestamp": 1769883718.0,
+    "date": "Jan 31, 18:21"
   },
   {
     "source": "BBC World",
@@ -145,7 +233,7 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "An undying trend: How vampires like those in \"Sinners\" hold a mirror to society",
+    "title": "An undying trend: How vampires like those in 'Sinners' hold a mirror to society",
     "link": "https://www.dw.com/en/an-undying-trend-how-vampires-like-those-in-sinners-hold-a-mirror-to-society/a-75681267?maca=en-rss-en-all-1573-rdf",
     "summary": "As the horror movie \"Sinners\" stands poised to sweep the Oscars, we take a look at how and why the vampire genre has long captivated audiences \u2014 from folklore to film. Is this trend truly immortal?",
     "timestamp": 1769880900.0,
@@ -552,28 +640,12 @@
     "date": "Jan 31, 13:30"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Taking no-pay leave? There are financial and career repercussions, but here's why and how to do it",
-    "link": "https://www.channelnewsasia.com/today/adulting/no-pay-leave-financial-career-how-why-5893006",
-    "summary": "While taking extended time off work might have an impact on one\u2019s finances and career progression, it might be a necessity \u2013 and a better option than quitting work.",
-    "timestamp": 1769866200.0,
-    "date": "Jan 31, 13:30"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Sabalenka \u2018really upset\u2019 at blowing Australian Open final chances",
     "link": "https://www.aljazeera.com/sports/2026/1/31/sabalenka-really-upset-at-blowing-australian-open-final-chances?traffic_source=rss",
     "summary": "Following back-to-back Australian Open wins, Aryna Sabalenka has now lost consecutive finals with Elena Rybakina defeat.",
     "timestamp": 1769866049.0,
     "date": "Jan 31, 13:27"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Britain, Japan agree to deepen defence and security cooperation",
-    "link": "https://www.channelnewsasia.com/asia/keir-starmer-sanae-takaichi-britain-japan-defence-security-cooperation-5898271",
-    "summary": "British Prime Minister Keir Starmer arrived in Tokyo after a four-day visit in China, where he followed in the footsteps of other Western leaders looking to counter an increasingly volatile US.",
-    "timestamp": 1769865900.0,
-    "date": "Jan 31, 13:25"
   },
   {
     "source": "New York Times",
@@ -648,28 +720,12 @@
     "date": "Jan 31, 13:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Sabalenka rues another Melbourne Park miss as hardcourt aura fades",
-    "link": "https://www.channelnewsasia.com/sport/sabalenka-rues-another-melbourne-park-miss-hardcourt-aura-fades-5898251",
-    "summary": "",
-    "timestamp": 1769863958.0,
-    "date": "Jan 31, 12:52"
-  },
-  {
     "source": "BBC World",
     "title": "Israel eyes regime change in Iran - and is counting on Trump to make it happen",
     "link": "https://www.bbc.com/news/articles/c78egvpkm77o?at_medium=RSS&at_campaign=rss",
     "summary": "Analysts believe PM Netanyahu is urging the US towards maximalist strikes.",
     "timestamp": 1769863928.0,
     "date": "Jan 31, 12:52"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "One killed, 14 hurt in blast in Iran's Bandar Abbas; gas leak identified by fire chief as cause",
-    "link": "https://www.channelnewsasia.com/world/iran-explosion-bandar-abbas-investigation-5898221",
-    "summary": "The explosion reportedly occurred at an eight-storey building, destroying two floors, several vehicles, and shops.",
-    "timestamp": 1769863140.0,
-    "date": "Jan 31, 12:39"
   },
   {
     "source": "Deutsche Welle",
@@ -832,14 +888,6 @@
     "date": "Jan 31, 10:14"
   },
   {
-    "source": "Al Jazeera",
-    "title": "\u2018Like judgement day\u2019: Sudanese doctor recounts escape from el-Fasher",
-    "link": "https://www.aljazeera.com/news/2026/1/31/like-judgment-day-sudanese-doctor-recounts-escape-from-el-fasher?traffic_source=rss",
-    "summary": "Physician who fled the city&#039;s last functioning hospital recounts RSF assault on the capital of North Darfur province.",
-    "timestamp": 1769854134.0,
-    "date": "Jan 31, 10:08"
-  },
-  {
     "source": "France 24",
     "title": "Blockade, strikes: What are the US military's options in Iran?",
     "link": "https://www.france24.com/en/video/20260131-blockade-strikes-what-are-the-us-military-s-options-in-iran",
@@ -899,7 +947,7 @@
     "source": "Deutsche Welle",
     "title": "Pakistan: Dozens killed in 'coordinated' Balochistan attacks",
     "link": "https://www.dw.com/en/pakistan-dozens-killed-in-coordinated-balochistan-attacks/a-75737955?maca=en-rss-en-all-1573-rdf",
-    "summary": "Officials have said at least ten security personnel and 37 militants were killed in southwestern Balochistan province. Pakistan has been battling a separatist insurgency in the region for decades.",
+    "summary": "Officials have said at least 15 security personnel and 92 militants were killed in southwestern Balochistan province. Pakistan has been battling a separatist insurgency in the region for decades.",
     "timestamp": 1769853300.0,
     "date": "Jan 31, 09:55"
   },
@@ -1224,28 +1272,12 @@
     "date": "Jan 30, 21:06"
   },
   {
-    "source": "The Verge",
-    "title": "Sonos\u2019 Super Bowl sale knocks hundreds off its audio gear",
-    "link": "https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub",
-    "summary": "Sonos isn\u2019t exactly synonymous with the Super Bowl, although the brand discounts its gear every year around this time like clockwork. It\u2019s knocking 20 percent off many of its marquee products, includi...",
-    "timestamp": 1769806719.0,
-    "date": "Jan 30, 20:58"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Berlin hospital raises alarm over serious winter injuries",
     "link": "https://www.dw.com/en/berlin-hospital-raises-alarm-over-serious-winter-injuries/a-75736287?maca=en-rss-en-all-1573-rdf",
     "summary": "Berlin's Charit\u00e9 hospital wrote out a social media post to raise concerns about the high number of injuries linked to icy conditions.",
     "timestamp": 1769806560.0,
     "date": "Jan 30, 20:56"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Germany news: Hamburg police investigating subway deaths",
-    "link": "https://www.dw.com/en/germany-news-hamburg-police-investigating-subway-deaths/live-75724858?maca=en-rss-en-all-1573-rdf",
-    "summary": "Police in the city of Hamburg are probing a suspected homicide after two people were hit by an underground train. Meanwhile, a survey has found that many Germans who work part-time do so voluntarily. ...",
-    "timestamp": 1769805540.0,
-    "date": "Jan 30, 20:39"
   },
   {
     "source": "New York Times",
@@ -1280,28 +1312,12 @@
     "date": "Jan 30, 19:41"
   },
   {
-    "source": "BBC World",
-    "title": "Civil rights investigation opened into Alex Pretti shooting",
-    "link": "https://www.bbc.com/news/articles/c5yvw89p3p1o?at_medium=RSS&at_campaign=rss",
-    "summary": "The deputy attorney general said it was a \u201cstandard investigation\u201d after Pretti's fatal shooting in Minneapolis.",
-    "timestamp": 1769801025.0,
-    "date": "Jan 30, 19:23"
-  },
-  {
     "source": "TechCrunch",
     "title": "Uber is literally in the driver\u2019s seat when it comes to AV bets",
     "link": "https://techcrunch.com/video/uber-is-literally-in-the-drivers-seat-when-it-comes-to-av-bets/",
     "summary": "Self-driving truck startup&#160;Waabi&#8217;s billion-dollar fundraise&#160;isn&#8217;t&#160;just about trucks.&#160;&#160; The deal, for $750 million up front plus another $250 million from Uber tied...",
     "timestamp": 1769799377.0,
     "date": "Jan 30, 18:56"
-  },
-  {
-    "source": "CNBC",
-    "title": "Everything you need to know about Kevin Warsh, Trump's pick to lead the Federal Reserve",
-    "link": "https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html",
-    "summary": "Kevin Warsh, a former Fed governor, has emerged as Donald Trump\u2019s pick to lead the Federal Reserve. Here\u2019s his background, views and why it matters.",
-    "timestamp": 1769797738.0,
-    "date": "Jan 30, 18:28"
   },
   {
     "source": "BBC World",
@@ -1472,14 +1488,6 @@
     "date": "Jan 30, 13:37"
   },
   {
-    "source": "BBC World",
-    "title": "At least 170 killed in air strikes during Myanmar's widely criticised election, UN says",
-    "link": "https://www.bbc.com/news/articles/cg5gl8grv66o?at_medium=RSS&at_campaign=rss",
-    "summary": "The UN said \"credible sources\" had counted more than 400 strikes in the same period.",
-    "timestamp": 1769778745.0,
-    "date": "Jan 30, 13:12"
-  },
-  {
     "source": "The Guardian",
     "title": "Trump says \u2018very dangerous\u2019 for UK to do business with China, after Starmer hails progress in Beijing",
     "link": "https://www.theguardian.com/world/2026/jan/30/trump-dangerous-uk-china-starmer-xi-jinping-beijing",
@@ -1510,14 +1518,6 @@
     "summary": "A number of companies have found themselves facing questions about their work with Immigration and Customs Enforcement amid the agency\u2019s intense operation in Minnesota.",
     "timestamp": 1769767418.0,
     "date": "Jan 30, 10:03"
-  },
-  {
-    "source": "New York Times",
-    "title": "Russia Is Finding the Gaps in Ukraine\u2019s Front Line",
-    "link": "https://www.nytimes.com/2026/01/30/world/europe/ukraine-war-zaporizhzhia-huliaipole.html",
-    "summary": "The swift advance of Moscow\u2019s forces into the town of Huliaipole showcases a central challenge for Kyiv: how to defend 700 miles with too few troops.",
-    "timestamp": 1769767220.0,
-    "date": "Jan 30, 10:00"
   },
   {
     "source": "New York Times",
