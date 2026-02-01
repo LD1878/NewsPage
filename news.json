@@ -1,19 +1,115 @@
 [
   {
+    "source": "BBC World",
+    "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
+    "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+    "summary": "Seven others were reported injured in the strike near a bus carrying the workers on Sunday.",
+    "timestamp": 1769980398.0,
+    "date": "Feb 01, 21:13"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Atletico Madrid agree deal to sign Lookman from Atalanta",
+    "link": "https://www.channelnewsasia.com/sport/atletico-madrid-agree-deal-sign-lookman-atalanta-5899726",
+    "summary": "",
+    "timestamp": 1769980337.0,
+    "date": "Feb 01, 21:12"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Secret Egyptian Air Base Powering Sudan\u2019s Drone War",
+    "link": "https://www.nytimes.com/2026/02/01/world/africa/egypt-sudan-drones.html",
+    "summary": "The covert base offers new evidence of how the Sudanese conflict is morphing into a theater for high-tech warfare, driven by foreign interests.",
+    "timestamp": 1769979916.0,
+    "date": "Feb 01, 21:05"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: gunshot analysis inspires fresh search for fugitive Dezi Freeman; Littleproud faces leadership spill attempt",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/02/australia-news-live-desi-freeman-porepunkah-shooting-search-nationals-leadership-spill-littleproud-liberals-sussan-ley-angus-taylor-andrew-hastie-ntwnfb",
+    "summary": "<p>Over 100 police and volunteers join five-day search in Mount Buffalo national park. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sf...",
+    "timestamp": 1769979569.0,
+    "date": "Feb 01, 20:59"
+  },
+  {
+    "source": "CNBC",
+    "title": "More winter weather leads to heavy snow, canceled flights and, in Florida, falling iguanas",
+    "link": "https://www.cnbc.com/2026/01/31/winter-storm-threatens-east-coast-regions-not-used-to-heavy-snow.html",
+    "summary": "In Myrtle Beach, South Carolina, 6 inches of snow was expected. The city has no snow removal equipment, Mayor Mark Kruea said.",
+    "timestamp": 1769979513.0,
+    "date": "Feb 01, 20:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Texas Democrat's win a 'wake-up call' for Republicans ahead of 2026 elections",
+    "link": "https://www.channelnewsasia.com/world/texas-democrats-win-wake-up-call-republicans-ahead-2026-elections-5899666",
+    "summary": "Ahead of the 2026 midterms, Democrats flipped a Texas Senate seat held by double digits after being held by Republicans for the past 35 years.&nbsp;",
+    "timestamp": 1769979444.0,
+    "date": "Feb 01, 20:57"
+  },
+  {
+    "source": "The Guardian",
+    "title": "\u2018Frustrated\u2019 by slow pace of gambling ads reform, Labor caucus wants Wells to act",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/02/government-gambling-ads-reform-labor-wells",
+    "summary": "<p>Documents released under FoI show Wells\u2019 department worried about how gambling reforms would affect sporting codes and media companies</p><ul><li><p><a href=\"https://www.theguardian.com/australia-n...",
+    "timestamp": 1769978380.0,
+    "date": "Feb 01, 20:39"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Real Madrid's Bellingham out for a month with hamstring injury",
+    "link": "https://www.channelnewsasia.com/sport/real-madrids-bellingham-out-month-hamstring-injury-5899706",
+    "summary": "",
+    "timestamp": 1769978227.0,
+    "date": "Feb 01, 20:37"
+  },
+  {
+    "source": "CNBC",
+    "title": "United Arab Emirates' 'Spy Sheikh' bought secret stake in Trump crypto company: WSJ",
+    "link": "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html",
+    "summary": "\u201cThis is corruption, plain and simple,\" said Massachusetts Sen. Elizabeth Warren, the top Democrat on the Senate Banking Committee.",
+    "timestamp": 1769978193.0,
+    "date": "Feb 01, 20:36"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Gaza patients in limbo amid Israel\u2019s \u2018pilot reopening\u2019 of Rafah crossing",
+    "link": "https://www.aljazeera.com/features/2026/2/1/gaza-patients-in-limbo-amid-israels-pilot-reopening-of-rafah-crossing?traffic_source=rss",
+    "summary": "The Rafah crossing\u2019s pilot opening begins amid confusion as Gaza\u2019s patients face unclear criteria, limited travel slots.",
+    "timestamp": 1769978137.0,
+    "date": "Feb 01, 20:35"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Why Tether\u2019s CEO is everywhere right now",
+    "link": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
+    "summary": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
+    "timestamp": 1769977941.0,
+    "date": "Feb 01, 20:32"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "How far will China go to back Iran if the US strikes?",
+    "link": "https://www.dw.com/en/how-far-will-china-go-to-back-iran-if-the-us-strikes/a-75741327?maca=en-rss-en-all-1573-rdf",
+    "summary": "As tensions between Washington and Tehran remain high, China\u2019s role is under growing scrutiny. How far would Beijing go to support Iran \u2014 and where are the limits if conflict broke out with the US?",
+    "timestamp": 1769977500.0,
+    "date": "Feb 01, 20:25"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Tens of thousands back Czech president amid cabinet dispute",
+    "link": "https://www.dw.com/en/tens-of-thousands-back-czech-president-amid-cabinet-dispute/a-75754342?maca=en-rss-en-all-1573-rdf",
+    "summary": "A large rally in Prague showed support for Czech President Petr Pavel, who accused the country's top diplomat of blackmail. The row centers on Pavel's refusal to appoint a controversial candidate as e...",
+    "timestamp": 1769977500.0,
+    "date": "Feb 01, 20:25"
+  },
+  {
     "source": "Deutsche Welle",
     "title": "Handball: Germany lose to Denmark in Euro final",
     "link": "https://www.dw.com/en/handball-germany-lose-to-denmark-in-euro-final/a-75754340?maca=en-rss-en-all-1573-rdf",
     "summary": "Germany fell at the final hurdle at the European Men's Handball Championship, losing to co-hosts and favorites Denmark in the final. Two German players made the tournament all-star team.",
     "timestamp": 1769976540.0,
     "date": "Feb 01, 20:09"
-  },
-  {
-    "source": "CNBC",
-    "title": "U.S. special envoy for Iraq Mark Savaya no longer in the post, sources say",
-    "link": "https://www.cnbc.com/2026/02/01/us-special-envoy-for-iraq-mark-savaya-no-longer-in-post-reuters.html",
-    "summary": "Mark Savaya, named by U.S. \u2060President Donald Trump as special envoy for Iraq in October, is no longer in that role, sources familiar with the move told Reuters.",
-    "timestamp": 1769976515.0,
-    "date": "Feb 01, 20:08"
   },
   {
     "source": "CNA (Asia)",
@@ -30,22 +126,6 @@
     "summary": "",
     "timestamp": 1769975942.0,
     "date": "Feb 01, 19:59"
-  },
-  {
-    "source": "BBC World",
-    "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
-    "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-    "summary": "Seven others were reported injured in the strike near a bus carrying the workers on Sunday.",
-    "timestamp": 1769975883.0,
-    "date": "Feb 01, 19:58"
-  },
-  {
-    "source": "CNBC",
-    "title": "United Arab Emirates' 'Spy Sheikh' bought secret stake in Trump crypto company: WSJ",
-    "link": "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html",
-    "summary": "\u201cThis is corruption, plain and simple,\" said Massachusetts Sen. Elizabeth Warren, the top Democrat on the Senate Banking Committee.",
-    "timestamp": 1769975148.0,
-    "date": "Feb 01, 19:45"
   },
   {
     "source": "CNA (Asia)",
@@ -584,28 +664,12 @@
     "date": "Feb 01, 14:53"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Death toll from Swiss New Year bar fire rises to 41",
-    "link": "https://www.channelnewsasia.com/world/death-toll-swiss-new-year-bar-fire-rises-41-5899401",
-    "summary": "",
-    "timestamp": 1769957350.0,
-    "date": "Feb 01, 14:49"
-  },
-  {
     "source": "France 24",
     "title": "Venezuela frees prominent human rights activist Javier Tarazona",
     "link": "https://www.france24.com/en/americas/20260201-venezuelan-human-rights-activist-javier-tarazona-freed-prisoner-release",
     "summary": "Prominent Venezuelan human rights activist Javier Tarazona was released after more than four years in jail, a legal rights group said Sunday.\u00a0Tarazona was arrested in July 2021, and is the latest in a...",
     "timestamp": 1769957234.0,
     "date": "Feb 01, 14:47"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Alcaraz denies Djokovic at Melbourne Park fortress to complete career Grand Slam",
-    "link": "https://www.channelnewsasia.com/sport/alcaraz-denies-djokovic-melbourne-park-fortress-complete-career-grand-slam-5899421",
-    "summary": "",
-    "timestamp": 1769957214.0,
-    "date": "Feb 01, 14:46"
   },
   {
     "source": "Deutsche Welle",
@@ -664,14 +728,6 @@
     "date": "Feb 01, 14:22"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Pakistan seeks out perpetrators after deadly separatist attacks",
-    "link": "https://www.channelnewsasia.com/asia/pakistan-seeks-out-perpetrators-after-deadly-separatist-attacks-5899371",
-    "summary": "",
-    "timestamp": 1769955480.0,
-    "date": "Feb 01, 14:18"
-  },
-  {
     "source": "Al Jazeera",
     "title": "These are the Palestinians that Israel killed during Gaza\u2019s \u2018ceasefire\u2019",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/2/1/these-are-the-palestinians-that-israel-killed-during-gazas?traffic_source=rss",
@@ -691,24 +747,8 @@
     "source": "The Guardian",
     "title": "Spotlight remains on a Coalition in chaos as parliament returns, with splits and spills looming over policy",
     "link": "https://www.theguardian.com/australia-news/2026/feb/01/spotlight-remains-on-a-coalition-in-chaos-as-parliament-returns-with-splits-and-spills-looming-over-policy",
-    "summary": "<p>Labor set to take advantage of shambles with blistering attacks in question time as Sussan Ley presides over barest opposition benches since 1943 </p><p>Normally this column focuses on the agenda f...",
+    "summary": "<p>Labor set to take advantage of shambles with blistering attacks in question time as Sussan Ley presides over barest opposition benches since 1943</p><ul><li><p><a href=\"https://www.theguardian.com/...",
     "timestamp": 1769954435.0,
-    "date": "Feb 01, 14:00"
-  },
-  {
-    "source": "The Guardian",
-    "title": "\u2018Frustrated\u2019 by slow pace of gambling ads reform, Labor caucus wants Wells to act",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/02/government-gambling-ads-reform-labor-wells",
-    "summary": "<p>Documents released under FoI show Wells\u2019 department worried about how gambling reforms would affect sporting codes and media companies</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/ema...",
-    "timestamp": 1769954434.0,
-    "date": "Feb 01, 14:00"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Real estate agents in Australia using apps that leave millions of lease documents at risk, digital researcher says",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/02/real-estate-agents-in-australia-using-apps-that-leave-millions-of-lease-documents-at-risk-digital-researcher-says",
-    "summary": "<p>\u2018This is a blatant and disturbing disregard for the law and for people\u2019s security,\u2019 digital rights advocate says</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cva...",
-    "timestamp": 1769954432.0,
     "date": "Feb 01, 14:00"
   },
   {
@@ -721,10 +761,10 @@
   },
   {
     "source": "The Guardian",
-    "title": "Man convicted of child sexual abuse working as NSW touch football referee for juniors thanks to legal \u2018loophole\u2019",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/02/man-convicted-child-sexual-abuse-nsw-touch-football-referee-juniors-legal-loophole-ntwnfb",
-    "summary": "<p>Safety advocates want laws strengthened to ensure child sexual abuse offenders cannot referee children\u2019s sport</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_...",
-    "timestamp": 1769954428.0,
+    "title": "Real estate agents in Australia using apps that leave millions of lease documents at risk, digital researcher says",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/02/real-estate-agents-in-australia-using-apps-that-leave-millions-of-lease-documents-at-risk-digital-researcher-says",
+    "summary": "<p><strong>Exclusive:</strong> \u2018This is a blatant and disturbing disregard for the law and for people\u2019s security,\u2019 digital rights advocate says</p><ul><li><p><a href=\"https://www.theguardian.com/austr...",
+    "timestamp": 1769954432.0,
     "date": "Feb 01, 14:00"
   },
   {
@@ -886,14 +926,6 @@
     "summary": "Mr. Mountbatten-Windsor was stripped of his royal titles in October by his brother King Charles III because of growing questions around his links to Mr. Epstein.",
     "timestamp": 1769948359.0,
     "date": "Feb 01, 12:19"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Khamenei warns US of \u2018regional war\u2019 if Iran is attacked",
-    "link": "https://www.aljazeera.com/news/2026/2/1/khamenei-warns-us-of-regional-war-if-iran-is-attacked?traffic_source=rss",
-    "summary": "Iran&#039;s supreme leader accuses the US of aiming to seize his country&#039;s oil and natural gas resources.",
-    "timestamp": 1769948222.0,
-    "date": "Feb 01, 12:17"
   },
   {
     "source": "BBC World",
@@ -1304,28 +1336,12 @@
     "date": "Jan 31, 17:54"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Israeli strikes kill more than 30 Palestinians in Gaza",
-    "link": "https://www.dw.com/en/israeli-strikes-kill-more-than-30-palestinians-in-gaza/a-75742841?maca=en-rss-en-all-1573-rdf",
-    "summary": "A wave of strikes hit different locations across Gaza, including apartments and tents, a day before the Rafah border is set to reopen.",
-    "timestamp": 1769881620.0,
-    "date": "Jan 31, 17:47"
-  },
-  {
     "source": "BBC World",
     "title": "Pedro Pascal and Meryl Streep lead tributes to Catherine O'Hara",
     "link": "https://www.bbc.com/news/articles/czejk8pnk82o?at_medium=RSS&at_campaign=rss",
     "summary": "The Canadian comedic actress died in Los Angeles on Friday at the age of 71 following a brief illness.",
     "timestamp": 1769881308.0,
     "date": "Jan 31, 17:41"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "An undying trend: How vampires like those in 'Sinners' hold a mirror to society",
-    "link": "https://www.dw.com/en/an-undying-trend-how-vampires-like-those-in-sinners-hold-a-mirror-to-society/a-75681267?maca=en-rss-en-all-1573-rdf",
-    "summary": "As the horror movie \"Sinners\" stands poised to sweep the Oscars, we take a look at how and why the vampire genre has long captivated audiences \u2014 from folklore to film. Is this trend truly immortal?",
-    "timestamp": 1769880900.0,
-    "date": "Jan 31, 17:35"
   },
   {
     "source": "BBC World",
@@ -1412,14 +1428,6 @@
     "title": "How Europe Is Moving to Reduce Dependence on Trump",
     "link": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
     "summary": "Since President Trump made threats about Greenland, the continent\u2019s leaders have debated the rapid deterioration of U.S. ties in policy papers and at dinner.",
-    "timestamp": 1769835667.0,
-    "date": "Jan 31, 05:01"
-  },
-  {
-    "source": "New York Times",
-    "title": "U.S. Allies Are Drawing Closer to China, but on Beijing\u2019s Terms",
-    "link": "https://www.nytimes.com/2026/01/31/world/asia/trump-xi-starmer-carney.html",
-    "summary": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security.",
     "timestamp": 1769835667.0,
     "date": "Jan 31, 05:01"
   },
@@ -1526,14 +1534,6 @@
     "summary": "<p>Island country only has oil enough to last 15-20 days, and 12-hour blackouts have become commonplace</p><p><a href=\"https://www.theguardian.com/world/mexico\">Mexico</a>\u2019s president, <a href=\"https:...",
     "timestamp": 1769796490.0,
     "date": "Jan 30, 18:08"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Anthropic brings agentic plug-ins to Cowork",
-    "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
-    "summary": "The company says you can use plug-ins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets m...",
-    "timestamp": 1769796000.0,
-    "date": "Jan 30, 18:00"
   },
   {
     "source": "CNBC",
