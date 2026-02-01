@@ -1,5 +1,85 @@
 [
   {
+    "source": "Deutsche Welle",
+    "title": "Handball: Germany lose to Denmark in Euro final",
+    "link": "https://www.dw.com/en/handball-germany-lose-to-denmark-in-euro-final/a-75754340?maca=en-rss-en-all-1573-rdf",
+    "summary": "Germany fell at the final hurdle at the European Men's Handball Championship, losing to co-hosts and favorites Denmark in the final. Two German players made the tournament all-star team.",
+    "timestamp": 1769976540.0,
+    "date": "Feb 01, 20:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "U.S. special envoy for Iraq Mark Savaya no longer in the post, sources say",
+    "link": "https://www.cnbc.com/2026/02/01/us-special-envoy-for-iraq-mark-savaya-no-longer-in-post-reuters.html",
+    "summary": "Mark Savaya, named by U.S. \u2060President Donald Trump as special envoy for Iraq in October, is no longer in that role, sources familiar with the move told Reuters.",
+    "timestamp": 1769976515.0,
+    "date": "Feb 01, 20:08"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Banton, Brook help England battle past Sri Lanka to clinch series win",
+    "link": "https://www.channelnewsasia.com/sport/banton-brook-help-england-battle-past-sri-lanka-clinch-series-win-5899686",
+    "summary": "",
+    "timestamp": 1769976076.0,
+    "date": "Feb 01, 20:01"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Man City and Villa slip up in title race, Man Utd win again",
+    "link": "https://www.channelnewsasia.com/sport/man-city-and-villa-slip-up-in-title-race-man-utd-win-again-5899691",
+    "summary": "",
+    "timestamp": 1769975942.0,
+    "date": "Feb 01, 19:59"
+  },
+  {
+    "source": "BBC World",
+    "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
+    "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
+    "summary": "Seven others were reported injured in the strike near a bus carrying the workers on Sunday.",
+    "timestamp": 1769975883.0,
+    "date": "Feb 01, 19:58"
+  },
+  {
+    "source": "CNBC",
+    "title": "United Arab Emirates' 'Spy Sheikh' bought secret stake in Trump crypto company: WSJ",
+    "link": "https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html",
+    "summary": "\u201cThis is corruption, plain and simple,\" said Massachusetts Sen. Elizabeth Warren, the top Democrat on the Senate Banking Committee.",
+    "timestamp": 1769975148.0,
+    "date": "Feb 01, 19:45"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Figure skating-Russia's Valieva returns to competition after four-year doping ban",
+    "link": "https://www.channelnewsasia.com/sport/figure-skating-russias-valieva-returns-competition-after-four-year-doping-ban-5899671",
+    "summary": "",
+    "timestamp": 1769974497.0,
+    "date": "Feb 01, 19:34"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Gaza\u2019s daily nightmare vs US talk of AI-driven smart cities",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/2/1/gazas-daily-nightmare-vs-us-talk-of-ai-driven-smart-cities?traffic_source=rss",
+    "summary": "Why are Gazans living in misery, with daily Israeli bombings, as the US promises \u2018peace, stability and opportunity\u2019?",
+    "timestamp": 1769974381.0,
+    "date": "Feb 01, 19:33"
+  },
+  {
+    "source": "The Verge",
+    "title": "Bill Gates says accusations contained in Epstein files are \u2018absolutely absurd\u2019",
+    "link": "https://www.theverge.com/tech/871879/bill-gates-epstein-files-absolutely-absurd",
+    "summary": "Reports of Bill Gates' connections with Jeffrey Epstein grow more lurid with each dump of documents from the Department of Justice. The latest includes somewhat confusing emails that Epstein may have ...",
+    "timestamp": 1769973893.0,
+    "date": "Feb 01, 19:24"
+  },
+  {
+    "source": "CNBC",
+    "title": "What Trump's choice of Kevin Warsh for Fed chair may mean for consumers",
+    "link": "https://www.cnbc.com/2026/01/30/trump-fed-chair-pick-kevin-warsh.html",
+    "summary": "Trump's choice for Fed chair could have far-reaching consequences for almost all consumer borrowing costs and savings rates.",
+    "timestamp": 1769973675.0,
+    "date": "Feb 01, 19:21"
+  },
+  {
     "source": "TechCrunch",
     "title": "Amazon\u2019s \u2018Melania\u2019 documentary makes $7M on opening weekend",
     "link": "https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/",
@@ -48,6 +128,14 @@
     "date": "Feb 01, 19:00"
   },
   {
+    "source": "Al Jazeera",
+    "title": "Death toll from Swiss New Year Alpine bar fire increases to 41",
+    "link": "https://www.aljazeera.com/news/2026/2/1/death-toll-from-swiss-new-year-alpine-bar-fire-increases-to-41?traffic_source=rss",
+    "summary": "The latest victim succumbing to injuries was an 18-year-old Swiss national.",
+    "timestamp": 1769972315.0,
+    "date": "Feb 01, 18:58"
+  },
+  {
     "source": "France 24",
     "title": "Israel to stop MSF work in Gaza: Destroying health system 'as a way of making Gaza uninhabitable\u2019",
     "link": "https://www.france24.com/en/israel-to-stop-msf-work-in-gaza-destroying-health-system-as-a-way-of-making-gaza-uninhabitable",
@@ -57,8 +145,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Man City stunned as Solanke magic earns Tottenham a draw",
-    "link": "https://www.channelnewsasia.com/sport/man-city-stunned-solanke-magic-earns-tottenham-draw-5899636",
+    "title": "Manchester City stunned as Solanke magic earns Tottenham a draw",
+    "link": "https://www.channelnewsasia.com/sport/manchester-city-stunned-solanke-magic-earns-tottenham-draw-5899636",
     "summary": "",
     "timestamp": 1769971693.0,
     "date": "Feb 01, 18:48"
@@ -118,14 +206,6 @@
     "summary": "Iran's leadership warned of a regional conflict on Sunday if the U.S. were to attack it, and designated EU armies as \"terrorist groups\" in a retaliatory move.",
     "timestamp": 1769968967.0,
     "date": "Feb 01, 18:02"
-  },
-  {
-    "source": "BBC World",
-    "title": "Twelve miners killed by Russian strike in Ukraine, energy company says",
-    "link": "https://www.bbc.com/news/articles/cdre7g2je63o?at_medium=RSS&at_campaign=rss",
-    "summary": "Seven others were reported injured in the strike near a bus carrying the workers on Sunday.",
-    "timestamp": 1769968913.0,
-    "date": "Feb 01, 18:01"
   },
   {
     "source": "Al Jazeera",
@@ -640,6 +720,14 @@
     "date": "Feb 01, 14:00"
   },
   {
+    "source": "The Guardian",
+    "title": "Man convicted of child sexual abuse working as NSW touch football referee for juniors thanks to legal \u2018loophole\u2019",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/02/man-convicted-child-sexual-abuse-nsw-touch-football-referee-juniors-legal-loophole-ntwnfb",
+    "summary": "<p>Safety advocates want laws strengthened to ensure child sexual abuse offenders cannot referee children\u2019s sport</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_...",
+    "timestamp": 1769954428.0,
+    "date": "Feb 01, 14:00"
+  },
+  {
     "source": "The Verge",
     "title": "Antigravity\u2019s 360-degree A1 drone is nearly $250 off",
     "link": "https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale",
@@ -696,14 +784,6 @@
     "date": "Feb 01, 13:33"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Ukraine war talks delayed to Wednesday, Zelenskyy says",
-    "link": "https://www.channelnewsasia.com/world/ukraine-war-talks-delayed-wednesday-zelenskyy-says-5899346",
-    "summary": "",
-    "timestamp": 1769952600.0,
-    "date": "Feb 01, 13:30"
-  },
-  {
     "source": "France 24",
     "title": "Death toll from Crans-Montana New Year's Eve bar fire rises to 41",
     "link": "https://www.france24.com/en/europe/20260201-death-toll-from-crans-montana-new-year-bar-fire-rises-to-41",
@@ -752,14 +832,6 @@
     "date": "Feb 01, 13:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Career Slam winner Alcaraz tempers expectations on 2026 majors sweep",
-    "link": "https://www.channelnewsasia.com/sport/career-slam-winner-alcaraz-tempers-expectations-2026-majors-sweep-5899306",
-    "summary": "",
-    "timestamp": 1769950655.0,
-    "date": "Feb 01, 12:57"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Starmer\u2019s visit to China was not a reset, but a new way forward",
     "link": "https://www.aljazeera.com/opinions/2026/2/1/starmers-visit-to-china-was-not-a-reset-but-a-new-way-forward?traffic_source=rss",
@@ -790,14 +862,6 @@
     "summary": "Laura Fernandez, President Chaves&#039;s protege and ex-chief of staff, is frontrunner and could avoid April 5 run-off.",
     "timestamp": 1769949542.0,
     "date": "Feb 01, 12:39"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Djokovic vows to push on despite 'bitter' Australian Open final loss",
-    "link": "https://www.channelnewsasia.com/sport/djokovic-vows-push-despite-bitter-australian-open-final-loss-5899286",
-    "summary": "",
-    "timestamp": 1769949398.0,
-    "date": "Feb 01, 12:36"
   },
   {
     "source": "Al Jazeera",
@@ -872,44 +936,12 @@
     "date": "Feb 01, 11:52"
   },
   {
-    "source": "Al Jazeera",
-    "title": "India\u2019s budget bets on infrastructure, manufacturing amid global trade war",
-    "link": "https://www.aljazeera.com/news/2026/2/1/indias-budget-bets-on-infrastructure-manufacturing-amid-global-trade-war?traffic_source=rss",
-    "summary": "Government presents annual budget, focusing on sustaining growth despite volatile financial markets, trade uncertainty.",
-    "timestamp": 1769945687.0,
-    "date": "Feb 01, 11:34"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "How Western officials, media coverage pushed to discredit Gaza death toll",
-    "link": "https://www.aljazeera.com/news/2026/2/1/how-western-officials-media-coverage-pushed-to-discredit-gaza-death-toll?traffic_source=rss",
-    "summary": "Rights advocates say casting doubt over Gaza death toll dehumanised Palestinians as Israel acknowledges 70,000 killed.",
-    "timestamp": 1769945650.0,
-    "date": "Feb 01, 11:34"
-  },
-  {
-    "source": "CNBC",
-    "title": "French tech company Capgemini to sell U.S. unit linked to ICE",
-    "link": "https://www.cnbc.com/2026/02/01/french-tech-company-capgemini-to-sell-us-unit-linked-to-ice.html",
-    "summary": "French lawmakers had asked Capgemini to explain its U.S. unit's contract with ICE.",
-    "timestamp": 1769945455.0,
-    "date": "Feb 01, 11:30"
-  },
-  {
     "source": "New York Times",
     "title": "Why Is Taking the Rest of the Donetsk Region So Important to Putin?",
     "link": "https://www.nytimes.com/2026/02/01/world/europe/putin-ukraine-donbas-donetsk.html",
     "summary": "Secretary of State Marco Rubio called the question \u201cthe one remaining item\u201d in Abu Dhabi peace talks. Russia disputed that.",
     "timestamp": 1769944425.0,
     "date": "Feb 01, 11:13"
-  },
-  {
-    "source": "CNBC",
-    "title": "Snow hits the Carolinas as low temps compound power outage woes elsewhere from last weekend's ice",
-    "link": "https://www.cnbc.com/2026/01/31/winter-storm-threatens-east-coast-regions-not-used-to-heavy-snow.html",
-    "summary": "In Myrtle Beach, South Carolina, 6 inches of snow was expected. The city has no snow removal equipment, Mayor Mark Kruea said.",
-    "timestamp": 1769944346.0,
-    "date": "Feb 01, 11:12"
   },
   {
     "source": "New York Times",
@@ -998,14 +1030,6 @@
     "summary": "The number of immigration agents in Minnesota may be reduced, but they'll leave leave behind a changed community, including many U.S. citizens questioned and detained in recent weeks.",
     "timestamp": 1769940000.0,
     "date": "Feb 01, 10:00"
-  },
-  {
-    "source": "CNBC",
-    "title": "How Chinese short-video streaming firms are reshaping Latin America's media landscape",
-    "link": "https://www.cnbc.com/2026/02/01/how-chinas-short-video-streamers-are-reshaping-latin-americas-media.html",
-    "summary": "Short-drama apps, many with Chinese origins, are making significant inroads in Latin America as the region becomes more affluent, research shows.",
-    "timestamp": 1769939534.0,
-    "date": "Feb 01, 09:52"
   },
   {
     "source": "BBC World",
@@ -1142,14 +1166,6 @@
     "summary": "<p>Plaintiffs in case say they were lured from Japan, exploited for labour and cut off from families for generations</p><p>It has been more than six decades since Eiko Kawasaki left Japan to begin a n...",
     "timestamp": 1769922017.0,
     "date": "Feb 01, 05:00"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Australia swelters through fourth hottest January on record \u2013 as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/01/news-live-australia-statement-israel-unrwa-ruston-liberal-party-nationals-sussan-ley-anthony-albanese-heatwave-weather-ntwnfb",
-    "summary": "<p>This blog is now closed.</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or...",
-    "timestamp": 1769921077.0,
-    "date": "Feb 01, 04:44"
   },
   {
     "source": "Deutsche Welle",
@@ -1312,14 +1328,6 @@
     "date": "Jan 31, 17:35"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Goma under rebel control: Life in the shadow of violence",
-    "link": "https://www.dw.com/en/goma-under-rebel-control-life-in-the-shadow-of-violence/a-75743471?maca=en-rss-en-all-1573-rdf",
-    "summary": "One year after M23 rebels captured Goma, residents of the city in the Democratic Republic of Congo are looking for ways to cope with the trauma.",
-    "timestamp": 1769880000.0,
-    "date": "Jan 31, 17:20"
-  },
-  {
     "source": "BBC World",
     "title": "Musk's SpaceX applies to launch a million satellites into orbit",
     "link": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
@@ -1334,14 +1342,6 @@
     "summary": "The startup is partnering with utilities to help homeowners determine the best upgrades to cut their energy use.",
     "timestamp": 1769876100.0,
     "date": "Jan 31, 16:15"
-  },
-  {
-    "source": "The Verge",
-    "title": "The AirPods 4 and Google\u2019s 4K streamer are just two of this week\u2019s best deals",
-    "link": "https://www.theverge.com/gadgets/871092/airpods-4-anc-google-tv-streamer-4k-deal-sale",
-    "summary": "Happy Saturday, folks! After a few weeks of middling deals, we\u2019re starting see things pick up. Some of our favorite deals of the holiday season have returned in some fashion, making now a great time t...",
-    "timestamp": 1769874987.0,
-    "date": "Jan 31, 15:56"
   },
   {
     "source": "CNBC",
