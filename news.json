@@ -1,19 +1,179 @@
 [
   {
     "source": "CNBC",
-    "title": "Trump says U.S. and India reached trade deal, will lower tariffs immediately",
-    "link": "https://www.cnbc.com/2026/02/02/trump-india-trade-deal-tariffs.html",
-    "summary": "The U.S. and India have reached a trade deal, President Donald Trump announced.",
-    "timestamp": 1770053697.0,
-    "date": "Feb 02, 17:34"
+    "title": "Stocks making the biggest moves midday: Disney, Robinhood, Palantir, IDEXX Laboratories & more",
+    "link": "https://www.cnbc.com/2026/02/02/stocks-making-the-biggest-moves-midday-dis-hood-pltr-idxx-.html",
+    "summary": "These are the stocks posting the largest moves in midday trading.",
+    "timestamp": 1770057427.0,
+    "date": "Feb 02, 18:37"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Firefox will soon let you block all of its generative AI features",
+    "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
+    "summary": "Starting with Firefox 148 arriving later this month, users will find a new AI controls section within the desktop browser settings.",
+    "timestamp": 1770057285.0,
+    "date": "Feb 02, 18:34"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "CAS says 'no jurisdiction' to hear Uhlaender appeal over skeleton qualifying",
+    "link": "https://www.channelnewsasia.com/sport/cas-says-no-jurisdiction-hear-uhlaender-appeal-over-skeleton-qualifying-5901976",
+    "summary": "",
+    "timestamp": 1770056988.0,
+    "date": "Feb 02, 18:29"
   },
   {
     "source": "CNBC",
-    "title": "Housing affordability isn't just hurting buyers: More homeowners are falling behind on their mortgages",
-    "link": "https://www.cnbc.com/2026/02/02/mortgage-delinquencies-housing-affordability.html",
-    "summary": "While the overall share of delinquencies among all mortgages remains small, the growth is occurring faster than late payments for other types of consumer loans.",
-    "timestamp": 1770053260.0,
-    "date": "Feb 02, 17:27"
+    "title": "China gloom: The 'Are you dead?' app is dead, and a 'crying horse' plushie is selling out",
+    "link": "https://www.cnbc.com/2026/02/02/china-gloom-are-you-dead-crying-horse.html",
+    "summary": "China shut down the \"Are you dead\" app, but the \"crying horse\" is selling out as the country grapples with a slowing economy and uncertainty.",
+    "timestamp": 1770056817.0,
+    "date": "Feb 02, 18:26"
+  },
+  {
+    "source": "New York Times",
+    "title": "Colombia\u2019s President, an Outspoken Trump Critic, Heads to the White House",
+    "link": "https://www.nytimes.com/2026/02/02/world/americas/colombia-petro-trump-white-house.html",
+    "summary": "President Gustavo Petro of Colombia and President Trump have had a tense relationship that escalated into threats by Mr. Trump, before easing. Anything could happen at their Feb. 3 meeting.",
+    "timestamp": 1770056678.0,
+    "date": "Feb 02, 18:24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Grubhub waives delivery and service fees on restaurant orders over $50",
+    "link": "https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/",
+    "summary": "In a bold move to close the gap with rivals, Grubhub is waiving delivery and service fees on restaurant orders over $50.",
+    "timestamp": 1770056563.0,
+    "date": "Feb 02, 18:22"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Spanish figure skater says 'Minions' music barred due to copyright issue",
+    "link": "https://www.channelnewsasia.com/sport/spanish-figure-skater-says-minions-music-barred-due-copyright-issue-5901956",
+    "summary": "",
+    "timestamp": 1770056517.0,
+    "date": "Feb 02, 18:21"
+  },
+  {
+    "source": "New York Times",
+    "title": "Royal Families of Norway and Britain Face Pressure Over Epstein Files",
+    "link": "https://www.nytimes.com/2026/02/02/world/europe/epstein-norway-britain-princess-fergie-emails.html",
+    "summary": "Newly released emails offer new details about ties between Jeffrey Epstein and Crown Princess Mette-Marit of Norway, as well as Sarah Ferguson, once the Duchess of York in Britain.",
+    "timestamp": 1770056440.0,
+    "date": "Feb 02, 18:20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "OpenAI launches new MacOS app for agentic coding",
+    "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+    "summary": "OpenAI has released a new MacOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
+    "timestamp": 1770056371.0,
+    "date": "Feb 02, 18:19"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Notepad++ says Chinese government hackers hijacked its software updates for months",
+    "link": "https://techcrunch.com/2026/02/02/notepad-says-chinese-government-hackers-hijacked-its-software-updates-for-months/",
+    "summary": "The developer of the popular text editor Notepad++ said hackers associated with the Chinese government hijacked its software update mechanism to deliver tainted software to users for months.",
+    "timestamp": 1770055774.0,
+    "date": "Feb 02, 18:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "OpenAI launches standalone Codex app for Apple computers",
+    "link": "https://www.cnbc.com/2026/02/02/openai-codex-app-apple-computers.html",
+    "summary": "OpenAI is trying to win market share from rivals like Anthropic and Cursor as AI coding tools gain in popularity.",
+    "timestamp": 1770055772.0,
+    "date": "Feb 02, 18:09"
+  },
+  {
+    "source": "The Verge",
+    "title": "Former Windows 8 boss recruited Epstein to help negotiate his messy Microsoft exit",
+    "link": "https://www.theverge.com/report/872073/steven-sinofsky-jeffrey-epstein-files-emails-microsoft-exit-settlement",
+    "summary": "Emails between former Windows boss Steven Sinofsky and Jeffrey Epstein, published by the Justice department on Friday, appear to show that Sinofsky constantly sought Epstein's advice as he negotiated ...",
+    "timestamp": 1770055770.0,
+    "date": "Feb 02, 18:09"
+  },
+  {
+    "source": "New York Times",
+    "title": "Rafah Crossing in Gaza Reopens, Another Step for Fragile Cease-Fire",
+    "link": "https://www.nytimes.com/2026/02/02/world/middleeast/gaza-rafah-border-crossing.html",
+    "summary": "Israel and Egypt had disagreed for months about how to resume operations at the Rafah border crossing, which has been largely closed since May 2024.",
+    "timestamp": 1770055284.0,
+    "date": "Feb 02, 18:01"
+  },
+  {
+    "source": "CNBC",
+    "title": "Friday's jobs report will be delayed because of the partial government shutdown",
+    "link": "https://www.cnbc.com/2026/02/02/fridays-jobs-report-will-be-delayed-because-of-the-partial-government-shutdown.html",
+    "summary": "Following last year's record shutdown, the BLS also was forced to delay a number of its releases.",
+    "timestamp": 1770055190.0,
+    "date": "Feb 02, 17:59"
+  },
+  {
+    "source": "NPR",
+    "title": "A major census test faces cutbacks \u2014 with postal workers tapped to help count",
+    "link": "https://www.npr.org/2026/02/02/nx-s1-5696576/us-census-bureau-usps-2026-operational-test",
+    "summary": "The Trump administration has shrunk the number of locations for this year's field test of the 2030 census and added plans to test replacing temporary census workers with U.S. Postal Service staff.",
+    "timestamp": 1770055162.0,
+    "date": "Feb 02, 17:59"
+  },
+  {
+    "source": "CNBC",
+    "title": "Devon, Coterra will merge to create $58 billion U.S. shale giant",
+    "link": "https://www.cnbc.com/2026/02/02/us-shale-producers-devon-and-coterra-to-merge-in-a-58-billion-deal.html",
+    "summary": "This deal is the largest tie-up in the U.S. shale industry since Diamondback acquired Endeavor Energy Resources for about $26 billion in 2024.",
+    "timestamp": 1770055125.0,
+    "date": "Feb 02, 17:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "From classroom to Pacific Coliseum, Canada's Thompson back on Olympic path",
+    "link": "https://www.channelnewsasia.com/sport/classroom-pacific-coliseum-canadas-thompson-back-olympic-path-5901936",
+    "summary": "",
+    "timestamp": 1770055044.0,
+    "date": "Feb 02, 17:57"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Trump announces India 'trade deal' after Modi call",
+    "link": "https://www.dw.com/en/trump-announces-india-trade-deal-after-modi-call/a-75776655?maca=en-rss-en-all-1573-rdf",
+    "summary": "After speaking with India's PM, Trump said that the US would lower its tariff rate on Indian goods, while again claiming that India had agreed to stop buying Russian oil. Modi thanked Trump for the de...",
+    "timestamp": 1770054600.0,
+    "date": "Feb 02, 17:50"
+  },
+  {
+    "source": "New York Times",
+    "title": "Countries Have Long Tested Their Own Athletes for Doping. That Could Soon Change.",
+    "link": "https://www.nytimes.com/2026/02/02/world/europe/doping-neutral-testing-olympics-.html",
+    "summary": "After Chinese swimmers won Olympic gold in 2021 despite having tested positive for a banned substance, the World Anti-Doping Agency is considering whether to have an independent body handle testing be...",
+    "timestamp": 1770054578.0,
+    "date": "Feb 02, 17:49"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Telia, Lyse to combine Norwegian mobile radio networks to save costs",
+    "link": "https://www.channelnewsasia.com/business/telia-lyse-combine-norwegian-mobile-radio-networks-save-costs-5901926",
+    "summary": "",
+    "timestamp": 1770054531.0,
+    "date": "Feb 02, 17:48"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump says U.S. and India reached trade deal, will lower tariffs immediately",
+    "link": "https://www.cnbc.com/2026/02/02/trump-india-trade-deal-tariffs.html",
+    "summary": "The U.S. and India have reached a trade deal, President Donald Trump announced.",
+    "timestamp": 1770054103.0,
+    "date": "Feb 02, 17:41"
+  },
+  {
+    "source": "BBC World",
+    "title": "Crown Princess's son arrested for alleged assault before rape trial in Norway",
+    "link": "https://www.bbc.com/news/articles/crrn44p9r59o?at_medium=RSS&at_campaign=rss",
+    "summary": "Marius Borg H\u00f8iby, who goes on trial on Tuesday, has been remanded in custody for four weeks after new allegations.",
+    "timestamp": 1770053933.0,
+    "date": "Feb 02, 17:38"
   },
   {
     "source": "BBC World",
@@ -24,20 +184,28 @@
     "date": "Feb 02, 17:27"
   },
   {
-    "source": "CNBC",
-    "title": "Dow rallies 500 points as traders shake off gold, silver and bitcoin declines: Live updates",
-    "link": "https://www.cnbc.com/2026/02/01/stock-market-today-live-updates.html",
-    "summary": "More than 100 S&amp;P 500 companies are due to report this week, including Amazon, Alphabet and Disney.",
-    "timestamp": 1770053086.0,
-    "date": "Feb 02, 17:24"
-  },
-  {
     "source": "The Verge",
     "title": "Abxylute\u2019s new Switch 2 controller is for all the die-hard GameCube fans",
     "link": "https://www.theverge.com/tech/872223/abxylute-nintendo-switch-2-controller-n6-n9c-gamecube-retro",
     "summary": "Abxylute, the company behind the M4 magnetic mobile gamepad, has announced a new pair of controllers for the Nintendo Switch 2 designed to replace the stock Joy-Cons while playing in handheld mode. Bo...",
     "timestamp": 1770053024.0,
     "date": "Feb 02, 17:23"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump accounts could grow to $50,000 or 'very substantially more,' president says. Advisors weigh in",
+    "link": "https://www.cnbc.com/2026/02/02/trump-accounts.html",
+    "summary": "Trump officials have estimated how much Trump accounts can grow over time. But actual returns may vary, according to financial advisors.",
+    "timestamp": 1770053003.0,
+    "date": "Feb 02, 17:23"
+  },
+  {
+    "source": "CNBC",
+    "title": "Disney supercharged its parks. The booming division still has room to run",
+    "link": "https://www.cnbc.com/2026/02/02/disney-parks-division-q1-results.html",
+    "summary": "For Disney's fiscal first quarter, experiences represented 38% of the company's total revenue, yet generated a whopping 71% of its operating income.",
+    "timestamp": 1770052887.0,
+    "date": "Feb 02, 17:21"
   },
   {
     "source": "CNA (Asia)",
@@ -49,8 +217,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "US, India agree on trade deal, lower tariffs, Trump says",
-    "link": "https://www.channelnewsasia.com/business/us-india-agree-trade-deal-lower-tariffs-trump-says-5901866",
+    "title": "US cuts tariffs on India to 18%, India agrees to end Russian oil purchases",
+    "link": "https://www.channelnewsasia.com/business/us-cuts-tariffs-india-18-india-agrees-end-russian-oil-purchases-5901866",
     "summary": "",
     "timestamp": 1770052304.0,
     "date": "Feb 02, 17:11"
@@ -120,14 +288,6 @@
     "date": "Feb 02, 16:55"
   },
   {
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves midday: Disney, Robinhood, Palantir, IDEXX Laboratories & more",
-    "link": "https://www.cnbc.com/2026/02/02/stocks-making-the-biggest-moves-midday-dis-hood-pltr-idxx-.html",
-    "summary": "These are the stocks posting the largest moves in midday trading.",
-    "timestamp": 1770051225.0,
-    "date": "Feb 02, 16:53"
-  },
-  {
     "source": "France 24",
     "title": "France gears up for Milano-Cortina 2026 bobsleigh Olympic races",
     "link": "https://www.france24.com/en/france-gears-up-for-milano-cortina-2026-bobsleigh-olympic-races",
@@ -190,6 +350,14 @@
     "summary": "Norway\u2019s Crown Princess Mette-Marit is facing mounting scrutiny after her name appeared more than a thousand times in the latest batch of released documents related to late sex offender Jeffrey Epstei...",
     "timestamp": 1770049932.0,
     "date": "Feb 02, 16:32"
+  },
+  {
+    "source": "CNBC",
+    "title": "Disney beats Wall Street expectations propelled by theme parks and streaming",
+    "link": "https://www.cnbc.com/2026/02/02/disney-dis-earnings-q1-26.html",
+    "summary": "In the background of Disney's earnings report on Monday is the question of who will be named the successor to CEO Bob Iger.",
+    "timestamp": 1770049707.0,
+    "date": "Feb 02, 16:28"
   },
   {
     "source": "CNBC",
@@ -432,20 +600,20 @@
     "date": "Feb 02, 15:19"
   },
   {
+    "source": "France 24",
+    "title": "Chile\u2019s president officially backs predecessor Bachelet in race to become UN\u2019s first female chief",
+    "link": "https://www.france24.com/en/americas/20260202-chile-s-president-officially-backs-predecessor-bachelet-in-race-to-become-un-s-first-female-boss",
+    "summary": "Chile\u2019s outgoing president on Monday said he is officially backing his predecessor Michelle Bachelet\u2019s bid to become the first woman to head the United Nations. Brazil and Mexico are also supporting h...",
+    "timestamp": 1770045553.0,
+    "date": "Feb 02, 15:19"
+  },
+  {
     "source": "CNBC",
     "title": "Erratic behavior in bitcoin, silver and memory stocks threatens to unnerve bull market",
     "link": "https://www.cnbc.com/2026/02/02/erratic-behavior-in-bitcoin-silver-and-memory-stocks-threatens-to-unnerve-bull-market.html",
     "summary": "For a broadly positive start to a year, though, there are a striking number of caveats, extremes and oddities for skeptics to invoke.",
     "timestamp": 1770045475.0,
     "date": "Feb 02, 15:17"
-  },
-  {
-    "source": "CNBC",
-    "title": "Speaker Johnson: 'Confident' government shutdown will end by Tuesday",
-    "link": "https://www.cnbc.com/2026/02/01/government-shutdown-mike-johnson.html",
-    "summary": "The government shut down on Saturday after Senate Democrats demanded changes to a spending package following the killings of U.S. citizens in Minnesota.",
-    "timestamp": 1770045390.0,
-    "date": "Feb 02, 15:16"
   },
   {
     "source": "The Guardian",
@@ -536,14 +704,6 @@
     "date": "Feb 02, 15:00"
   },
   {
-    "source": "CNBC",
-    "title": "'Melania' earns a surprising $7 million, the highest opening for a nonmusic documentary in a decade",
-    "link": "https://www.cnbc.com/2026/02/01/melania-documentary-posts-7-million-domestic-opening.html",
-    "summary": "Amazon reportedly paid an estimated $40 million to acquire \"Melania\" and spent an additional $35 million on marketing.",
-    "timestamp": 1770044237.0,
-    "date": "Feb 02, 14:57"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Ice hockey proving the hottest ticket as sales approach 1.2 million",
     "link": "https://www.channelnewsasia.com/sport/ice-hockey-proving-hottest-ticket-sales-approach-12-million-5901581",
@@ -576,14 +736,6 @@
     "date": "Feb 02, 14:51"
   },
   {
-    "source": "New York Times",
-    "title": "Rafah Crossing in Gaza Reopens, Another Step for Fragile Cease-Fire",
-    "link": "https://www.nytimes.com/2026/02/02/world/middleeast/gaza-rafah-border-crossing.html",
-    "summary": "Israel and Egypt had disagreed for months about how to resume operations at the Rafah border crossing, which has been largely closed since May 2024.",
-    "timestamp": 1770043803.0,
-    "date": "Feb 02, 14:50"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Trump threatens legal action against Grammy host Trevor Noah over Epstein comment",
     "link": "https://www.channelnewsasia.com/world/trump-threatens-sue-trevor-noah-grammy-epstein-5901566",
@@ -614,14 +766,6 @@
     "summary": "Upscrolled founder said that the social network was launched six years ago and had 150,000 users until January.",
     "timestamp": 1770042562.0,
     "date": "Feb 02, 14:29"
-  },
-  {
-    "source": "New York Times",
-    "title": "Colombia\u2019s President, an Outspoken Trump Critic, Heads to the White House",
-    "link": "https://www.nytimes.com/2026/02/02/world/americas/colombia-petro-trump-white-house.html",
-    "summary": "President Gustavo Petro of Colombia and President Trump have had a tense relationship that escalated into threats by Mr. Trump, before easing. Anything could happen at their Feb. 3 meeting.",
-    "timestamp": 1770042434.0,
-    "date": "Feb 02, 14:27"
   },
   {
     "source": "Al Jazeera",
@@ -752,14 +896,6 @@
     "date": "Feb 02, 14:00"
   },
   {
-    "source": "CNBC",
-    "title": "Devon, Coterra merge to create U.S. shale giant in $58 billion deal",
-    "link": "https://www.cnbc.com/2026/02/02/us-shale-producers-devon-and-coterra-to-merge-in-a-58-billion-deal.html",
-    "summary": "This deal is the largest tie-up in the U.S. shale industry since Diamondback acquired Endeavor Energy Resources for about $26 billion in 2024.",
-    "timestamp": 1770040764.0,
-    "date": "Feb 02, 13:59"
-  },
-  {
     "source": "The Guardian",
     "title": "Trump\u2019s Greenland threats open old wounds for Inuit across Arctic",
     "link": "https://www.theguardian.com/world/2026/feb/02/indigenous-views-trump-greenland-push-inuits-arctic",
@@ -777,35 +913,11 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Erli accuses Allegro of price manipulation in Poland e-commerce",
-    "link": "https://www.channelnewsasia.com/business/erli-accuses-allegro-price-manipulation-in-poland-e-commerce-5901446",
+    "title": "Polish e-commerce firm Erli sues Allegro over pricing practices",
+    "link": "https://www.channelnewsasia.com/business/polish-e-commerce-firm-erli-sues-allegro-over-pricing-practices-5901446",
     "summary": "",
     "timestamp": 1770040626.0,
     "date": "Feb 02, 13:57"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Italian biathlete Passler excluded from Winter Games after doping violation-Italian Olympic Committee",
-    "link": "https://www.channelnewsasia.com/sport/italian-biathlete-passler-excluded-winter-games-after-doping-violation-italian-olympic-committee-5901451",
-    "summary": "",
-    "timestamp": 1770040484.0,
-    "date": "Feb 02, 13:54"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Curling-Britain's men look to end wait for gold",
-    "link": "https://www.channelnewsasia.com/sport/curling-britains-men-look-end-wait-gold-5901436",
-    "summary": "",
-    "timestamp": 1770040270.0,
-    "date": "Feb 02, 13:51"
-  },
-  {
-    "source": "New York Times",
-    "title": "Countries Have Long Tested Their Own Athletes for Doping. That Could Soon Change.",
-    "link": "https://www.nytimes.com/2026/02/02/world/europe/doping-neutral-testing-olympics-.html",
-    "summary": "After Chinese swimmers won Olympic gold in 2021 despite having tested positive for a banned substance, the World Antidoping Agency is considering whether to have an independent body handle testing bef...",
-    "timestamp": 1770040057.0,
-    "date": "Feb 02, 13:47"
   },
   {
     "source": "France 24",
@@ -814,14 +926,6 @@
     "summary": "A leading photographer has spoken to FRANCE 24 about how his exhibition is a good excuse to talk about how the jungles of the Congo and the whole ecosystem of Central Africa are about to become potent...",
     "timestamp": 1770040033.0,
     "date": "Feb 02, 13:47"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Itoje on bench for England against Wales",
-    "link": "https://www.channelnewsasia.com/sport/itoje-bench-england-against-wales-5901431",
-    "summary": "",
-    "timestamp": 1770039984.0,
-    "date": "Feb 02, 13:46"
   },
   {
     "source": "France 24",
@@ -872,14 +976,6 @@
     "date": "Feb 02, 13:18"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "F1 favourite Russell expects Verstappen to be back in the fight",
-    "link": "https://www.channelnewsasia.com/sport/f1-favourite-russell-expects-verstappen-be-back-in-fight-5901371",
-    "summary": "",
-    "timestamp": 1770038071.0,
-    "date": "Feb 02, 13:14"
-  },
-  {
     "source": "The Guardian",
     "title": "Fern\u00e1ndez wins Costa Rican presidency, steering Latin America further right",
     "link": "https://www.theguardian.com/world/2026/feb/02/laura-fernandez-wins-costa-rica-president-latin-america-rightwing",
@@ -888,28 +984,12 @@
     "date": "Feb 02, 13:08"
   },
   {
-    "source": "CNBC",
-    "title": "Family offices brace for higher inflation with real estate and alternative investments",
-    "link": "https://www.cnbc.com/2026/02/02/family-offices-inflation-real-estate-alternative-investments.html",
-    "summary": "More than 60% of U.S. family offices cited interest rates and inflation as among the top risks to their portfolios, according to J.P. Morgan Private Bank.",
-    "timestamp": 1770037201.0,
-    "date": "Feb 02, 13:00"
-  },
-  {
     "source": "France 24",
     "title": "Russia stepping up strikes on Ukraine's railways, Zelensky says",
     "link": "https://www.france24.com/en/europe/20260202-russian-stepping-up-strikes-on-ukraine-s-railways-zelensky-says",
     "summary": "Russian forces have increased their attacks on Ukraine's train and transport infrastructure, President Volodymyr Zelensky said Monday. The Ukrainian president added that Russia appeared not to have la...",
     "timestamp": 1770036980.0,
     "date": "Feb 02, 12:56"
-  },
-  {
-    "source": "The Verge",
-    "title": "Vivo and Oppo\u2019s telephoto extender comes to iPhone",
-    "link": "https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone",
-    "summary": "PGYTech, the accessory manufacturer behind the official telephoto extender lenses for recent Vivo and Oppo flagships, has launched a Kickstarter for a new version developed for iPhones. The RetroVa Vi...",
-    "timestamp": 1770036899.0,
-    "date": "Feb 02, 12:54"
   },
   {
     "source": "Al Jazeera",
@@ -968,14 +1048,6 @@
     "date": "Feb 02, 12:24"
   },
   {
-    "source": "France 24",
-    "title": "Venezuelan activist Javier Tarazona released after four years amid US pressure",
-    "link": "https://www.france24.com/en/venezuelan-activist-javier-tarazona-released-after-four-years-amid-us-pressure",
-    "summary": "Venezuelan human rights activist Javier Tarazona was released after more than four years in a Caracas prison as part of a government amnesty for political detainees. His release came following pressur...",
-    "timestamp": 1770034966.0,
-    "date": "Feb 02, 12:22"
-  },
-  {
     "source": "NPR",
     "title": "The House races to end shutdown. And, Trump wants to close Kennedy Center for 2 years",
     "link": "https://www.npr.org/2026/02/02/g-s1-108304/up-first-newsletter-partial-government-shutdown-minneapolis-kennedy-center-grammys-education-department",
@@ -1022,14 +1094,6 @@
     "summary": "Mr. Soltani, 26, was arrested last month as Iran brutally repressed anti-government demonstrations.",
     "timestamp": 1770033861.0,
     "date": "Feb 02, 12:04"
-  },
-  {
-    "source": "BBC World",
-    "title": "Norway's PM agrees crown princess had 'poor judgement' over Epstein links",
-    "link": "https://www.bbc.com/news/articles/c1508llzw4qo?at_medium=RSS&at_campaign=rss",
-    "summary": "Jonas Gahr St\u00f8re says he agreed with Princess Mette-Marit's own remarks over her contacts with the late sex offender.",
-    "timestamp": 1770033695.0,
-    "date": "Feb 02, 12:01"
   },
   {
     "source": "BBC World",
@@ -1081,9 +1145,9 @@
   },
   {
     "source": "NPR",
-    "title": "Too old to compete? This 87-year-old triathlete has tips for staying in the game",
-    "link": "https://www.npr.org/2026/02/02/nx-s1-5691731/active-aging-heart-health-senior-athlete",
-    "summary": "Despite issues with her heart, this octogenarian still competes in triathlons. She's proof that preventive medicine paired with smart lifestyle choices help seniors stay active longer.",
+    "title": "With an ACA fix uncertain in the Senate, Republicans replay old health care fights",
+    "link": "https://www.npr.org/2026/02/02/nx-s1-5695766/aca-enhanced-premium-subsidies-republicans-democrats",
+    "summary": "Things are looking bleak for a fix in Congress for ACA premiums that have doubled, on average. And Republicans are making arguments against the law that haven't worked in years past.",
     "timestamp": 1770026400.0,
     "date": "Feb 02, 10:00"
   },
@@ -1092,14 +1156,6 @@
     "title": "The Education Department's efforts to fire staff cost over $28 million, watchdog says",
     "link": "https://www.npr.org/2026/02/02/nx-s1-5690188/cost-trump-layoffs-civil-rights-complaints-department-education-gao",
     "summary": "A new report from the U.S. Government Accountability Office calculates the cost of efforts to fire civil rights staff and questions the department's ability to enforce federal civil rights laws.",
-    "timestamp": 1770026400.0,
-    "date": "Feb 02, 10:00"
-  },
-  {
-    "source": "NPR",
-    "title": "With an ACA fix uncertain in the Senate, Republicans replay old health care fights",
-    "link": "https://www.npr.org/2026/02/02/nx-s1-5695766/aca-enhanced-premium-subsidies-republicans-democrats",
-    "summary": "Things are looking bleak for a fix in Congress for ACA premiums that have doubled, on average. And Republicans are making arguments against the law that haven't worked in years past.",
     "timestamp": 1770026400.0,
     "date": "Feb 02, 10:00"
   },
@@ -1224,14 +1280,6 @@
     "date": "Feb 02, 06:35"
   },
   {
-    "source": "CNBC",
-    "title": "Why the catastrophe bond market is so hot right now",
-    "link": "https://www.cnbc.com/2026/02/02/catastrophe-bonds-insurance-climate-change-markets.html",
-    "summary": "CAT bonds are known to offer highly attractive equity-like returns, low volatility and low correlation to broader financial markets.",
-    "timestamp": 1770013879.0,
-    "date": "Feb 02, 06:31"
-  },
-  {
     "source": "BBC World",
     "title": "'Enemy' insults and questioning Putin: Steve Rosenberg on tightrope of reporting from Russia",
     "link": "https://www.bbc.com/news/articles/c20g25w8j0xo?at_medium=RSS&at_campaign=rss",
@@ -1302,14 +1350,6 @@
     "summary": "Mehdi Mahmoudian, co-writer of \u201cIt Was Just an Accident,\u201d was one of several people detained after signing a letter objecting to the crackdown on protests.",
     "timestamp": 1770001441.0,
     "date": "Feb 02, 03:04"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Mexico to send humanitarian aid to Cuba, Sheinbaum says",
-    "link": "https://www.dw.com/en/mexico-to-send-humanitarian-aid-to-cuba-sheinbaum-says/a-75755584?maca=en-rss-en-all-1573-rdf",
-    "summary": "The announcement comes after US President Trump said he asked the Mexican leader to suspend oil shipments to Cuba. Sheinbaum has warned of a major humanitarian crisis on the Caribbean island.",
-    "timestamp": 1770000000.0,
-    "date": "Feb 02, 02:40"
   },
   {
     "source": "BBC World",
@@ -1433,7 +1473,7 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
+    "title": "Bye-bye, corporate conglomerates. Hello personal conglomerates.",
     "link": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
     "summary": "Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric \u2014 or maybe the robber barons of the Gilded Age.",
     "timestamp": 1769960348.0,
@@ -1504,14 +1544,6 @@
     "date": "Feb 01, 07:00"
   },
   {
-    "source": "New York Times",
-    "title": "T. Kumar, Rights Activist Who Was Shaped by Time in Prison, Dies at 76",
-    "link": "https://www.nytimes.com/2026/01/31/world/asia/t-kumar-dead.html",
-    "summary": "After being jailed as a resistance organizer for the Tamil minority in his native Sri Lanka, he spoke out against governmental repression worldwide.",
-    "timestamp": 1769927473.0,
-    "date": "Feb 01, 06:31"
-  },
-  {
     "source": "The Guardian",
     "title": "Living hell of North Korea\u2019s \u2018paradise on Earth\u2019 scheme back in spotlight in Japan",
     "link": "https://www.theguardian.com/world/2026/feb/01/living-hell-of-north-koreas-paradise-on-earth-scheme-back-in-spotlight-in-japan",
@@ -1528,44 +1560,12 @@
     "date": "Jan 31, 21:56"
   },
   {
-    "source": "TechCrunch",
-    "title": "SpaceX seeks federal approval to launch 1 million solar-powered satellite data centers",
-    "link": "https://techcrunch.com/2026/01/31/spacex-seeks-federal-approval-to-launch-1-million-solar-powered-satellite-data-centers/",
-    "summary": "SpaceX's filing claims these satellites will be \u201ca first step towards becoming a Kardashev II-level civilization\u00a0\u2014\u00a0one that can harness the Sun\u2019s full power.\"",
-    "timestamp": 1769894845.0,
-    "date": "Jan 31, 21:27"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Nvidia CEO pushes back against report that his company\u2019s $100B OpenAI investment has stalled",
-    "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
-    "summary": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was \u201cnonsense.\u201d",
-    "timestamp": 1769882052.0,
-    "date": "Jan 31, 17:54"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "HomeBoost\u2019s app will show you where to save on your utility bills",
-    "link": "https://techcrunch.com/2026/01/31/homeboosts-app-will-show-you-where-to-save-on-your-utility-bills/",
-    "summary": "The startup is partnering with utilities to help homeowners determine the best upgrades to cut their energy use.",
-    "timestamp": 1769876100.0,
-    "date": "Jan 31, 16:15"
-  },
-  {
     "source": "The Guardian",
     "title": "Starmer hopes his China trip will begin the thaw after recent ice age",
     "link": "https://www.theguardian.com/world/2026/jan/31/starmer-hopes-his-china-trip-will-begin-the-thaw-after-recent-ice-age",
     "summary": "<p>PM flies out after courting world\u2019s second biggest economy aware of difficult balance of risks and potential rewards</p><p>The last British prime minister to visit China was <a href=\"https://www.th...",
     "timestamp": 1769839255.0,
     "date": "Jan 31, 06:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "a16z partner Kofi Ampadu to leave firm after TxO program pause",
-    "link": "https://techcrunch.com/2026/01/30/a16z-partner-kofi-ampadu-to-leave-firm-after-txo-program-pause/",
-    "summary": "Ampadu's departure perhaps signals the end of the TxO chapter. The fund and program focused on supporting underserved founders by providing access to tech networks and investment capital through a don...",
-    "timestamp": 1769822592.0,
-    "date": "Jan 31, 01:23"
   },
   {
     "source": "The Guardian",
