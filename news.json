@@ -1,19 +1,219 @@
 [
   {
+    "source": "CNBC",
+    "title": "House hardliners complicate ending government shutdown as Speaker Johnson moves ahead",
+    "link": "https://www.cnbc.com/2026/02/02/government-shutdown-house-mike-johnson.html",
+    "summary": "The U.S. government partially shut down Saturday morning after Congress failed to pass legislation to keep it funded.",
+    "timestamp": 1770081380.0,
+    "date": "Feb 03, 01:16"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia politics live: Sussan Ley avoids leadership spill as Liberal party room briefed on proposed \u2018peace deal\u2019 with Nationals",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/03/australia-politics-live-anthony-albanese-sussan-ley-labor-liberal-coalition-nationals-rba-interest-rates-decision-cost-of-living-leadership-spill-ntwnfb",
+    "summary": "<p>Reserve Bank due to announce decision on interest rates this afternoon. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking ...",
+    "timestamp": 1770081186.0,
+    "date": "Feb 03, 01:13"
+  },
+  {
+    "source": "CNBC",
+    "title": "Clintons agree to testify in House Epstein investigation ahead of contempt vote",
+    "link": "https://www.cnbc.com/2026/02/02/clintons-agree-to-testify-in-house-epstein-investigation-ahead-of-contempt-vote.html",
+    "summary": "Former President Bill\u00a0Clinton\u00a0and Hillary\u00a0Clinton, the 2016 Democratic presidential nominee, will testify in a congressional investigation into the late sex offender Jeffrey Epstein, a staffer said on...",
+    "timestamp": 1770080972.0,
+    "date": "Feb 03, 01:09"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Dollar holds gains on economic data, Fed bets; Aussie advances before RBA",
+    "link": "https://www.channelnewsasia.com/business/dollar-holds-gains-economic-data-fed-bets-aussie-advances-rba-5902561",
+    "summary": "",
+    "timestamp": 1770080823.0,
+    "date": "Feb 03, 01:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Immigration agents to wear body cameras, US says",
+    "link": "https://www.channelnewsasia.com/world/us-immigration-agents-body-cameras-ice-5902521",
+    "summary": "The move comes as Democrats call for this equipment change and other reforms to immigration enforcement, holding up federal funds to press their demands.",
+    "timestamp": 1770080100.0,
+    "date": "Feb 03, 00:55"
+  },
+  {
+    "source": "CNBC",
+    "title": "South Korea stocks jump 5%, activating trading halt as Asia markets rise on U.S.-India trade deal optimism",
+    "link": "https://www.cnbc.com/2026/02/03/asia-pacific-markets-nifty-50-kospi-nikkei-225-india-trade-deal.html",
+    "summary": "Asia-Pacific markets rose after U.S. President Donald Trump said Washington and India had struck a trade deal.",
+    "timestamp": 1770079805.0,
+    "date": "Feb 03, 00:50"
+  },
+  {
+    "source": "New York Times",
+    "title": "Rafah Crossing in Gaza Reopens, Another Step for Fragile Cease-Fire",
+    "link": "https://www.nytimes.com/2026/02/02/world/middleeast/gaza-rafah-border-crossing.html",
+    "summary": "Israel and Egypt had disagreed for months about how to resume operations at the Rafah border crossing, which has been largely closed since May 2024.",
+    "timestamp": 1770079801.0,
+    "date": "Feb 03, 00:50"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump Announces Initial Trade Deal With India, Cutting Tariffs to 18%",
+    "link": "https://www.nytimes.com/2026/02/02/us/politics/trump-tariffs-india-trade-deal.html",
+    "summary": "The agreement was short on details, but President Trump said India had promised to stop buying Russian oil and would buy more U.S. farm goods and other products.",
+    "timestamp": 1770079032.0,
+    "date": "Feb 03, 00:37"
+  },
+  {
+    "source": "France 24",
+    "title": "Bill and Hillary Clinton to testify before Congress in Epstein probe",
+    "link": "https://www.france24.com/en/americas/20260203-bill-hillary-clinton-to-testify-congress-epstein-investigation",
+    "summary": "Former US President Bill Clinton and former Secretary of State Hillary Clinton will testify in a congressional investigation into the late financier Jeffrey Epstein, a staffer said on Monday. The move...",
+    "timestamp": 1770079003.0,
+    "date": "Feb 03, 00:36"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "This Peranakan stall at Wisma draws long queues for its nonya laksa and the hunky brothers behind the counter",
+    "link": "https://www.channelnewsasia.com/dining/hunky-brothers-attract-queues-nya-nya-5900111",
+    "summary": "\u201cYour arms are so big\u201d and \u201cI came back just to see you\u201d are among the thirsty comments buff brothers Daryl, 27, and Damian Lim, 21, hear daily at their new stall at Wisma.&nbsp;8days.sg&nbsp;speaks t...",
+    "timestamp": 1770078938.0,
+    "date": "Feb 03, 00:35"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Clintons agree to testify in House Epstein investigation ahead of contempt vote",
+    "link": "https://www.channelnewsasia.com/world/clintons-epstein-testify-house-investigation-contempt-vote-5902491",
+    "summary": "The House Oversight Committee recommended last week that&nbsp;Bill Clinton and Hillary Clinton be held in contempt for refusing to testify about their relationship with Epstein.&nbsp;",
+    "timestamp": 1770078420.0,
+    "date": "Feb 03, 00:27"
+  },
+  {
+    "source": "France 24",
+    "title": "Britain unveils first national plan to curb 'forever chemicals' risks",
+    "link": "https://www.france24.com/en/environment/20260203-britain-national-plan-forever-chemicals-risks",
+    "summary": "Britain on Tuesday unveiled its first national plan to curb \u201cforever chemicals,\u201d seeking to cut risks to human health and the environment, the government said. PFAS, used in products from cookware to ...",
+    "timestamp": 1770078258.0,
+    "date": "Feb 03, 00:24"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Musk-owned SpaceX acquires his xAI",
+    "link": "https://www.dw.com/en/musk-owned-spacex-acquires-his-xai/a-75777397?maca=en-rss-en-all-1573-rdf",
+    "summary": "The move intends to support the world's richest man's efforts to dominate both the rocket and AI markets. Musk aims to use the deal to build data centers in space.",
+    "timestamp": 1770078000.0,
+    "date": "Feb 03, 00:20"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud",
+    "link": "https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/",
+    "summary": "The startup CEO says she plans to publicly address the charges this week.",
+    "timestamp": 1770077774.0,
+    "date": "Feb 03, 00:16"
+  },
+  {
+    "source": "BBC World",
+    "title": "Shanties in a Lagos lagoon: Bulldozed and burnt",
+    "link": "https://www.bbc.com/news/articles/ce3epxznyzzo?at_medium=RSS&at_campaign=rss",
+    "summary": "Residents suspect the demolitions are aimed at gentrifying the waterfront in Nigeria's biggest city, but officials deny this.",
+    "timestamp": 1770077603.0,
+    "date": "Feb 03, 00:13"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Google Cloud, Liberty Global strike five-year AI partnership",
+    "link": "https://www.channelnewsasia.com/business/google-cloud-liberty-global-strike-five-year-ai-partnership-5902471",
+    "summary": "",
+    "timestamp": 1770077160.0,
+    "date": "Feb 03, 00:06"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Nationals who defied shadow cabinet would sit on backbench for six months under Coalition peace deal",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/03/nationals-coalition-backbench",
+    "summary": "<p>Major sticking point in negotiations is the status of the three former frontbenchers who voted against Labor\u2019s hate speech laws</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/liv...",
+    "timestamp": 1770077083.0,
+    "date": "Feb 03, 00:04"
+  },
+  {
+    "source": "France 24",
+    "title": "Epstein calls himself 'lowest level' offender in newly released interview",
+    "link": "https://www.france24.com/en/americas/20260203-epstein-denied-he-was-devil-video",
+    "summary": "Jeffrey Epstein denied he was the \u201cdevil\u201d and said he was only a low-level sexual predator in a video interview released by US authorities, according to the latest files. The roughly two-hour intervie...",
+    "timestamp": 1770076871.0,
+    "date": "Feb 03, 00:01"
+  },
+  {
+    "source": "CNBC",
+    "title": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
+    "link": "https://www.cnbc.com/2026/02/02/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+    "summary": "The Dow Industrials climbed more than 500 points Monday, as traders managed to look past declines in gold, silver and bitcoin.",
+    "timestamp": 1770076494.0,
+    "date": "Feb 02, 23:54"
+  },
+  {
+    "source": "CNBC",
+    "title": "Waymo announces $16 billion funding round",
+    "link": "https://www.cnbc.com/2026/02/02/waymo-announced-16-billion-fundraising-round.html",
+    "summary": "The Alphabet-owned company said it is now valued at $126 billion.",
+    "timestamp": 1770076462.0,
+    "date": "Feb 02, 23:54"
+  },
+  {
+    "source": "France 24",
+    "title": "Trump cuts India tariffs after Modi agrees to stop Russia oil purchases",
+    "link": "https://www.france24.com/en/economy/20260202-trump-cuts-india-tariffs-after-modi-agrees-to-stop-russia-oil-purchases",
+    "summary": "US President\u00a0Donald Trump\u00a0said on Monday he had struck a trade deal with\u00a0India\u00a0to cut tariffs after Prime Minister\u00a0Narendra Modi\u00a0pledged to halt purchases of\u00a0Russia\u00a0oil over the war in\u00a0Ukraine. He sai...",
+    "timestamp": 1770076403.0,
+    "date": "Feb 02, 23:53"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "What is the US strategic minerals stockpile?",
+    "link": "https://www.aljazeera.com/economy/2026/2/2/what-is-the-us-strategic-minerals-stockpile?traffic_source=rss",
+    "summary": "President Trump said the stockpile would &#039;ensure that American businesses and workers are never harmed by any shortage&#039;.",
+    "timestamp": 1770076316.0,
+    "date": "Feb 02, 23:51"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Handful of sick and wounded Palestinians allowed through Rafah crossing on first day",
+    "link": "https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
+    "summary": "<p>Numbers Israel permitted to enter Egypt after reopening border were far lower than expected following delays</p><p>A small number of sick and wounded Palestinians have begun crossing into Egypt to ...",
+    "timestamp": 1770076141.0,
+    "date": "Feb 02, 23:49"
+  },
+  {
+    "source": "CNBC",
+    "title": "Elon Musk's SpaceX acquiring AI startup xAI ahead of potential IPO",
+    "link": "https://www.cnbc.com/2026/02/02/elon-musk-spacex-xai-ipo.html",
+    "summary": "Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.",
+    "timestamp": 1770075955.0,
+    "date": "Feb 02, 23:45"
+  },
+  {
+    "source": "CNBC",
+    "title": "Stocks making the biggest moves after hours: Palantir, NXP Semiconductors, DaVita and more",
+    "link": "https://www.cnbc.com/2026/02/02/stocks-making-the-biggest-moves-after-hours-pltr-nxpi-dva.html",
+    "summary": "These are the stocks posting the largest moves in extended trading.",
+    "timestamp": 1770075095.0,
+    "date": "Feb 02, 23:31"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump says DOJ should continue Fed Chair Powell probe 'to the end'",
+    "link": "https://www.cnbc.com/2026/02/02/trump-powell-pirro-warsh-fed-tillis.html",
+    "summary": "Sen. Thom Tillis said he would oppose any new Fed nominees until the Powell probe is resolved, the same day Trump announced Kevin Warsh as his Fed chair pick.",
+    "timestamp": 1770074660.0,
+    "date": "Feb 02, 23:24"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "CNY shopping: Bold looks in red and gold from Beyond The Vines, In Good Company and more",
     "link": "https://www.channelnewsasia.com/style-beauty/chinese-new-year-fashion-shopping-5882336",
     "summary": "With so many options out there, you\u2019ll have no trouble stepping out in your best when the Year of the Horse arrives.",
     "timestamp": 1770074394.0,
     "date": "Feb 02, 23:19"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Australia politics live: Liberals joke they need \u2018divine intervention\u2019 as parliament returns; Labor announces discount loans for EVs",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/03/australia-politics-live-anthony-albanese-sussan-ley-labor-liberal-coalition-nationals-rba-interest-rates-decision-cost-of-living-leadership-spill-ntwnfb",
-    "summary": "<p>Reserve Bank due to announce decision on interest rates this afternoon. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking ...",
-    "timestamp": 1770073923.0,
-    "date": "Feb 02, 23:12"
   },
   {
     "source": "CNA (Asia)",
@@ -35,14 +235,14 @@
     "source": "TechCrunch",
     "title": "Waymo raises $16B to scale robotaxi fleet internationally",
     "link": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/",
-    "summary": "The round, led by Dragoneer Investment Group, DST Global, and Sequoia Capital, now values the autonomous vehicle company at $126 billion.",
+    "summary": "Waymo said the funds will be used to fuel its growth, which has accelerated over the past year and doesn't appear to be slowing.",
     "timestamp": 1770073473.0,
     "date": "Feb 02, 23:04"
   },
   {
     "source": "CNA (Asia)",
-    "title": "South Korea January inflation +2.0% y/y, in line with forecast",
-    "link": "https://www.channelnewsasia.com/business/south-korea-january-inflation-20-yy-in-line-forecast-5902391",
+    "title": "South Korea consumer inflation eases to five-month low",
+    "link": "https://www.channelnewsasia.com/business/south-korea-consumer-inflation-eases-five-month-low-5902391",
     "summary": "",
     "timestamp": 1770073304.0,
     "date": "Feb 02, 23:01"
@@ -72,12 +272,12 @@
     "date": "Feb 02, 22:57"
   },
   {
-    "source": "CNBC",
-    "title": "Waymo announces $16 billion funding round",
-    "link": "https://www.cnbc.com/2026/02/02/waymo-announced-16-billion-fundraising-round.html",
-    "summary": "The Alphabet-owned company said it is now valued at $126 billion.",
-    "timestamp": 1770072682.0,
-    "date": "Feb 02, 22:51"
+    "source": "France 24",
+    "title": "The political fallout of the Epstein files",
+    "link": "https://www.france24.com/en/tv-shows/a-propos/20260202-the-political-fallout-of-the-epstein-files",
+    "summary": "After more than three million documents related to Jeffrey Epstein were released last Friday, tensions are growing across the globe.\u00a0The disclosures have raised fresh questions about the convicted sex...",
+    "timestamp": 1770072937.0,
+    "date": "Feb 02, 22:55"
   },
   {
     "source": "CNA (Asia)",
@@ -110,14 +310,6 @@
     "summary": "Israeli restrictions mean only five Palestinians allowed to leave Gaza for treatment via Rafah crossing on first day.",
     "timestamp": 1770072196.0,
     "date": "Feb 02, 22:43"
-  },
-  {
-    "source": "CNBC",
-    "title": "House hardliners complicate ending government shutdown as Speaker Johnson moves ahead",
-    "link": "https://www.cnbc.com/2026/02/02/government-shutdown-house-mike-johnson.html",
-    "summary": "The U.S. government partially shut down Saturday morning after Congress failed to pass legislation to keep it funded.",
-    "timestamp": 1770072156.0,
-    "date": "Feb 02, 22:42"
   },
   {
     "source": "Deutsche Welle",
@@ -160,26 +352,10 @@
     "date": "Feb 02, 22:27"
   },
   {
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves after hours: Palantir, NXP Semiconductors, DaVita and more",
-    "link": "https://www.cnbc.com/2026/02/02/stocks-making-the-biggest-moves-after-hours-pltr-nxpi-dva.html",
-    "summary": "These are the stocks posting the largest moves in extended trading.",
-    "timestamp": 1770071078.0,
-    "date": "Feb 02, 22:24"
-  },
-  {
-    "source": "New York Times",
-    "title": "Trump Announces Initial Trade Deal With India, Cutting Tariffs to 18%",
-    "link": "https://www.nytimes.com/2026/02/02/us/politics/trump-tariffs-india-trade-deal.html",
-    "summary": "The agreement was short on details, but President Trump said India had promised to stop buying Russian oil and would buy more U.S. products for a reduction on tariffs.",
-    "timestamp": 1770070925.0,
-    "date": "Feb 02, 22:22"
-  },
-  {
     "source": "TechCrunch",
     "title": "Elon Musk\u2019s SpaceX officially acquires Elon Musk\u2019s xAI, with plan to build data centers in space",
     "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
-    "summary": "The merger creates the world's most valuable private company, and paves the way for Musk to try and prove out the usefulness of space-based data centers.",
+    "summary": "The merger creates the world's most valuable private company and paves the way for Musk to try and prove out the usefulness of space-based data centers.",
     "timestamp": 1770070917.0,
     "date": "Feb 02, 22:21"
   },
@@ -213,14 +389,6 @@
     "link": "https://www.channelnewsasia.com/singapore/modernising-aircraft-defence-systems-game-changers-chief-air-force-5900456",
     "summary": "In his first media interview since taking the helm, Singapore\u2019s Chief of Air Force Kelvin Fan also emphasised the importance of preparedness and bilateral ties.\n&nbsp;",
     "timestamp": 1770070347.0,
-    "date": "Feb 02, 22:12"
-  },
-  {
-    "source": "CNBC",
-    "title": "Elon Musk's SpaceX acquiring AI startup xAI ahead of potential IPO",
-    "link": "https://www.cnbc.com/2026/02/02/elon-musk-spacex-xai-ipo.html",
-    "summary": "Musk is combining rocket maker SpaceX with his AI startup, the largest tie-up in his expansive business portfolio.",
-    "timestamp": 1770070334.0,
     "date": "Feb 02, 22:12"
   },
   {
@@ -288,30 +456,6 @@
     "date": "Feb 02, 22:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Thailand Election 2026: Why the Shinawatras face stern test after 25 years as political force",
-    "link": "https://www.channelnewsasia.com/asia/thailand-election-2026-thaksin-pheu-thai-yodchanan-5895876",
-    "summary": "For more than two decades, the Shinawatra family has defined Thai electoral politics. Will their Pheu Thai Party continue to hold sway as voters cast their ballots on Sunday (Feb 8)?",
-    "timestamp": 1770069600.0,
-    "date": "Feb 02, 22:00"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Commentary: Silver and gold hit record highs \u2013 then crashed. Here's what you need to know",
-    "link": "https://www.channelnewsasia.com/commentary/silver-and-gold-price-crash-what-investors-need-know-5900721",
-    "summary": "Amid the recent rollercoaster ride in prices, here's what everyday investors need to know about the risks of investing in precious metals, say these writers.",
-    "timestamp": 1770069540.0,
-    "date": "Feb 02, 21:59"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Commentary: Gen Z trend for \u2018admin nights\u2019 is worth following",
-    "link": "https://www.channelnewsasia.com/commentary/gen-z-admin-nights-personal-finance-trend-5900636",
-    "summary": "From paying bills to balancing the household budget, Gen Zs are organising what they call an \"admin night\" to tackle some of life's most dreaded tasks. Financial Times' Claer Barrett gives her take.",
-    "timestamp": 1770069480.0,
-    "date": "Feb 02, 21:58"
-  },
-  {
     "source": "France 24",
     "title": "France adopts delayed 2026 budget ending months of parliamentary deadlock",
     "link": "https://www.france24.com/en/tv-shows/business/20260202-france-adopts-delayed-2026-budget-ending-months-of-parliamentary-deadlock",
@@ -323,7 +467,7 @@
     "source": "TechCrunch",
     "title": "China is leading the fight against hidden car door handles",
     "link": "https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/",
-    "summary": "The Chinese government issued a new rule that goes into effect January 1, 2027.",
+    "summary": "Under new safety rules published Monday by China's Ministry of Industry and Information Technology, cars sold in the country must have mechanical releases on their door handles. The new rules, which g...",
     "timestamp": 1770069338.0,
     "date": "Feb 02, 21:55"
   },
@@ -333,14 +477,6 @@
     "link": "https://www.nytimes.com/2026/02/01/world/middleeast/iran-mehdi-mahmoudian-arrest.html",
     "summary": "Mehdi Mahmoudian, co-writer of \u201cIt Was Just an Accident,\u201d was one of several people detained after signing a letter objecting to the crackdown on protests.",
     "timestamp": 1770069275.0,
-    "date": "Feb 02, 21:54"
-  },
-  {
-    "source": "BBC World",
-    "title": "Takeaways from the millions of newly released Epstein files",
-    "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
-    "summary": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
-    "timestamp": 1770069260.0,
     "date": "Feb 02, 21:54"
   },
   {
@@ -376,14 +512,6 @@
     "date": "Feb 02, 21:48"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "US stocks climb as gold and silver prices keep falling",
-    "link": "https://www.channelnewsasia.com/world/us-stocks-climb-gold-and-silver-prices-keep-falling-5902221",
-    "summary": "The S&amp;P 500 snapped a three-day losing streak while precious metals extended recent losses.",
-    "timestamp": 1770068520.0,
-    "date": "Feb 02, 21:42"
-  },
-  {
     "source": "New York Times",
     "title": "Laura Fern\u00e1ndez Wins Costa Rican Presidency",
     "link": "https://www.nytimes.com/2026/02/01/world/americas/costa-rica-election-fernandez.html",
@@ -408,14 +536,6 @@
     "date": "Feb 02, 21:37"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Benzema moves to Al-Hilal following Al-Ittihad departure",
-    "link": "https://www.channelnewsasia.com/sport/benzema-moves-al-hilal-following-al-ittihad-departure-5902231",
-    "summary": "",
-    "timestamp": 1770067906.0,
-    "date": "Feb 02, 21:31"
-  },
-  {
     "source": "NPR",
     "title": "Populist conservative Laura Fern\u00e1ndez wins Costa Rica's presidential election",
     "link": "https://www.npr.org/2026/02/02/g-s1-108418/costa-rica-election-laura-fernandez-wins",
@@ -430,14 +550,6 @@
     "summary": "New York Attorney General Letitia James is cautioning all New Yorkers about placing trades on prediction markets ahead of the Super Bowl.",
     "timestamp": 1770067576.0,
     "date": "Feb 02, 21:26"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump pardon attorney Ed Martin reportedly sidelined from investigations",
-    "link": "https://www.cnbc.com/2026/02/02/trump-ed-martin-pardon-investigations-sidelined.html",
-    "summary": "Martin's role at DOJ was narrowed following a protracted feud with Deputy Attorney General Todd Blanche, sources told MS NOW.",
-    "timestamp": 1770067459.0,
-    "date": "Feb 02, 21:24"
   },
   {
     "source": "The Guardian",
@@ -494,6 +606,14 @@
     "summary": "Forces reporting to Syria\u2019s interior ministry on Monday entered the strategic city of al-Hassakeh in the northeast as part of an agreement with the Kurdish-led Syrian Democratic Forces (SDF). Under th...",
     "timestamp": 1770066234.0,
     "date": "Feb 02, 21:03"
+  },
+  {
+    "source": "BBC World",
+    "title": "US and India reach trade deal, Trump says after Modi call",
+    "link": "https://www.bbc.com/news/articles/c5yve1x9zv0o?at_medium=RSS&at_campaign=rss",
+    "summary": "Tariffs will drop from 50% to 18% on Indian goods, while India has agreed to stop buying Russian oil.",
+    "timestamp": 1770065589.0,
+    "date": "Feb 02, 20:53"
   },
   {
     "source": "The Verge",
@@ -560,6 +680,14 @@
     "date": "Feb 02, 20:26"
   },
   {
+    "source": "BBC World",
+    "title": "BBC reports from Oslo court ahead of rape trial of Crown Princess's son",
+    "link": "https://www.bbc.com/news/videos/c1m7vmzynzvo?at_medium=RSS&at_campaign=rss",
+    "summary": "Norway's royal family has been embroiled in recent scandals, including Crown Princess Mette-Marit links with Epstein.",
+    "timestamp": 1770063749.0,
+    "date": "Feb 02, 20:22"
+  },
+  {
     "source": "France 24",
     "title": "Delayed French 2026 budget finally through, paves way for Macron\u2019s military spending boost",
     "link": "https://www.france24.com/en/france/20260202-delayed-french-budget-finally-through-paves-way-for-macron-military-spending-boost",
@@ -584,14 +712,6 @@
     "date": "Feb 02, 20:09"
   },
   {
-    "source": "New York Times",
-    "title": "Rafah Crossing in Gaza Reopens, Another Step for Fragile Cease-Fire",
-    "link": "https://www.nytimes.com/2026/02/02/world/middleeast/gaza-rafah-border-crossing.html",
-    "summary": "Israel and Egypt had disagreed for months about how to resume operations at the Rafah border crossing, which has been largely closed since May 2024.",
-    "timestamp": 1770062857.0,
-    "date": "Feb 02, 20:07"
-  },
-  {
     "source": "The Verge",
     "title": "Firefox is adding a switch to turn AI features off",
     "link": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button",
@@ -606,14 +726,6 @@
     "summary": "Donald Trump had slapped India with a punitive 25% tariff for buying Russian oil on top of a 25% &#039;reciprocal&#039; tariff.",
     "timestamp": 1770062293.0,
     "date": "Feb 02, 19:58"
-  },
-  {
-    "source": "CNBC",
-    "title": "Disney supercharged its parks. The booming division still has room to run",
-    "link": "https://www.cnbc.com/2026/02/02/disney-parks-division-q1-results.html",
-    "summary": "For Disney's fiscal first quarter, experiences represented 38% of the company's total revenue, yet generated a whopping 71% of its operating income.",
-    "timestamp": 1770061887.0,
-    "date": "Feb 02, 19:51"
   },
   {
     "source": "Al Jazeera",
@@ -734,14 +846,6 @@
     "summary": "Starting with Firefox 148 arriving later this month, users will find a new AI controls section within the desktop browser settings.",
     "timestamp": 1770057285.0,
     "date": "Feb 02, 18:34"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Sick and wounded Palestinians enter Egypt after Israel reopens Rafah crossing",
-    "link": "https://www.theguardian.com/world/2026/feb/02/israel-agrees-to-limited-reopening-of-rafah-border-crossing-in-gaza",
-    "summary": "<p>About 150 people expected to leave Gaza on first day border is unsealed out of 20,000 adults and children who need medical care</p><p>Sick and wounded Palestinians have begun crossing into Egypt to...",
-    "timestamp": 1770057116.0,
-    "date": "Feb 02, 18:31"
   },
   {
     "source": "Al Jazeera",
@@ -896,14 +1000,6 @@
     "date": "Feb 02, 17:02"
   },
   {
-    "source": "CNBC",
-    "title": "Disney signals its next CEO will take over a company with strong momentum",
-    "link": "https://www.cnbc.com/2026/02/02/disney-signals-next-ceo-strong-momentum.html",
-    "summary": "Disney CEO Bob Iger touted the company's growth in its last three years as the company prepares to announce his successor.",
-    "timestamp": 1770051705.0,
-    "date": "Feb 02, 17:01"
-  },
-  {
     "source": "France 24",
     "title": "France balances tax relief and new charges in 2026 budget",
     "link": "https://www.france24.com/en/france-balances-tax-relief-and-new-charges-in-2026-budget",
@@ -984,14 +1080,6 @@
     "date": "Feb 02, 16:20"
   },
   {
-    "source": "CNBC",
-    "title": "Nvidia shares are down after a report that its OpenAI investment stalled. Here's what's happening",
-    "link": "https://www.cnbc.com/2026/02/02/nvidia-stock-price-openai-funding.html",
-    "summary": "Nvidia's Jensen Huang criticized OpenAI's business strategy as the chip giant plans to invest up to $100 billion into the AI startup, per reports.",
-    "timestamp": 1770049150.0,
-    "date": "Feb 02, 16:19"
-  },
-  {
     "source": "NPR",
     "title": "Meet Milo and Tina, the 'first openly Gen Z' Olympic mascots",
     "link": "https://www.npr.org/2026/02/02/nx-s1-5621915/winter-olympics-mascots-milo-tina",
@@ -1000,44 +1088,12 @@
     "date": "Feb 02, 16:18"
   },
   {
-    "source": "France 24",
-    "title": "Russia strikes Ukraine frontline regions ahead of trilateral talks",
-    "link": "https://www.france24.com/en/video/20260202-russia-strikes-ukraine-frontline-regions-ahead-of-trilateral-talks",
-    "summary": "Russian shelling hit energy and railway facilities in Ukraine\u2019s frontline regions, causing civilian casualties in Zaporizhzhia and Dnipro. Trilateral talks with the US are set to resume Wednesday, tho...",
-    "timestamp": 1770048466.0,
-    "date": "Feb 02, 16:07"
-  },
-  {
-    "source": "France 24",
-    "title": "Niger: Who attacked Niamey\u2019s airport and what it reveals?",
-    "link": "https://www.france24.com/en/niger-who-attacked-niamey-s-airport-and-what-it-reveals",
-    "summary": "An attack on Niamey\u2019s Base 101 at the international airport left four soldiers wounded after two hours of heavy fighting. France 24\u2019s Wassim Nasr takes a close look at the assault and reveals key deta...",
-    "timestamp": 1770048252.0,
-    "date": "Feb 02, 16:04"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "At the brink: Can South Sudan avert another civil war?",
     "link": "https://www.dw.com/en/at-the-brink-can-south-sudan-avert-another-civil-war/a-75769274?maca=en-rss-en-all-1573-rdf",
     "summary": "The power struggles between President Salva Kiir and his political rival Riek Machar are pushing the country towards conflict. Analysts urge the international community to exert pressure on both parti...",
     "timestamp": 1770047760.0,
     "date": "Feb 02, 15:56"
-  },
-  {
-    "source": "France 24",
-    "title": "Iran's president orders resumption of nuclear talks with US",
-    "link": "https://www.france24.com/en/iran-s-president-orders-resumption-of-nuclear-talks-with-us",
-    "summary": "Iran is considering resuming nuclear talks with the US, possibly in Turkey between envoy Steve Witkoff and Foreign Minister Abbas Araghchi. Tensions remain high after a deadly crackdown on protests an...",
-    "timestamp": 1770047448.0,
-    "date": "Feb 02, 15:50"
-  },
-  {
-    "source": "France 24",
-    "title": "Could ancient 'qanats' be the answer to Iran's water crisis?",
-    "link": "https://www.france24.com/en/tv-shows/down-to-earth/20260202-could-ancient-qanats-be-the-answer-to-iran-s-water-crisis",
-    "summary": "Recent protests in Iran erupted over economic collapse and political repression. But beneath the discontent, analysts also point to a deeper ecological crisis. The country has been gripped by a severe...",
-    "timestamp": 1770047178.0,
-    "date": "Feb 02, 15:46"
   },
   {
     "source": "Deutsche Welle",
@@ -1088,14 +1144,6 @@
     "date": "Feb 02, 15:25"
   },
   {
-    "source": "France 24",
-    "title": "Bad Bunny calls out ICE in historic Grammy-winning speech",
-    "link": "https://www.france24.com/en/tv-shows/arts24/20260202-bad-bunny-calls-out-ice-in-historic-grammy-winning-speech",
-    "summary": "In this edition of our arts24 music show, Jennifer Ben Brahim is joined by co-presenter Marjorie Hache to talk about the biggest night in music: the 68th\u00a0Grammy Awards. It was a night of musical miles...",
-    "timestamp": 1770045834.0,
-    "date": "Feb 02, 15:23"
-  },
-  {
     "source": "The Guardian",
     "title": "Brazilian influencer who defended US immigration crackdown arrested by ICE",
     "link": "https://www.theguardian.com/us-news/2026/feb/02/rightwing-brazilian-influencer-junior-pena-arrested-by-ice",
@@ -1110,14 +1158,6 @@
     "summary": "\u2018Lack of resources in Sudan is very worrying\u2019",
     "timestamp": 1770044804.0,
     "date": "Feb 02, 15:06"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "How Balochistan attacks threaten Pakistan\u2019s promises to China, Trump",
-    "link": "https://www.aljazeera.com/news/2026/2/2/how-balochistan-attacks-threaten-pakistans-promises-to-china-trump?traffic_source=rss",
-    "summary": "Balochistan is at the heart of Pakistan&#039;s economic promises to US and China. The attacks are a reminder of the risks.",
-    "timestamp": 1770044473.0,
-    "date": "Feb 02, 15:01"
   },
   {
     "source": "TechCrunch",
@@ -1288,28 +1328,12 @@
     "date": "Feb 02, 11:15"
   },
   {
-    "source": "The Guardian",
-    "title": "Former Liberal turned Sky News commentator Cory Bernardi to run for One Nation in South Australian election",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/02/former-liberal-turned-sky-news-commentator-cory-bernardi-to-run-for-one-nation-in-south-australian-election",
-    "summary": "<p>Bernardi served under Liberal leaders including Malcolm Turnbull and Tony Abbott before leaving the party to launch Australian Conservatives</p><ul><li><p><a href=\"https://www.theguardian.com/austr...",
-    "timestamp": 1770028986.0,
-    "date": "Feb 02, 10:43"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Ukraine updates: Russia steps up attacks on transport routes",
     "link": "https://www.dw.com/en/ukraine-updates-russia-steps-up-attacks-on-transport-routes/live-75766331?maca=en-rss-en-all-1573-rdf",
     "summary": "Ukraine's Zelenskyy says Russia is focusing on attacking \"primarily railway infrastructure.\" Meanwhile, the Kremlin has said talks with Ukraine will continue in Abu Dhabi on Wednesday. DW has more.",
     "timestamp": 1770028920.0,
     "date": "Feb 02, 10:42"
-  },
-  {
-    "source": "BBC World",
-    "title": "Bad Bunny makes Grammy history as stars protest against ICE",
-    "link": "https://www.bbc.com/news/articles/ce8g7q4ymrvo?at_medium=RSS&at_campaign=rss",
-    "summary": "Other prizes went to Billie Eilish, Olivia Dean and Lady Gaga, at a ceremony dominated by politics.",
-    "timestamp": 1770028318.0,
-    "date": "Feb 02, 10:31"
   },
   {
     "source": "Deutsche Welle",
@@ -1416,14 +1440,6 @@
     "date": "Feb 02, 06:00"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "China's space aircraft carrier: superweapon or propaganda?",
-    "link": "https://www.dw.com/en/china-s-space-aircraft-carrier-superweapon-or-propaganda/a-75726514?maca=en-rss-en-all-1573-rdf",
-    "summary": "With Luanniao, China is promoting a giant space aircraft carrier as a new superweapon. Is it a vision for war in space \u2014 or science fiction?",
-    "timestamp": 1770010260.0,
-    "date": "Feb 02, 05:31"
-  },
-  {
     "source": "New York Times",
     "title": "Why Targeting Iran Is Riskier Than Ousting Maduro",
     "link": "https://www.nytimes.com/2026/02/01/world/trump-iran-threats-venezuela-epstein-files.html",
@@ -1496,14 +1512,6 @@
     "date": "Feb 01, 20:32"
   },
   {
-    "source": "TechCrunch",
-    "title": "Amazon\u2019s \u2018Melania\u2019 documentary makes $7M on opening weekend",
-    "link": "https://techcrunch.com/2026/02/01/amazons-melania-documentary-makes-7m-on-opening-weekend/",
-    "summary": "While the documentary is exceeding box office expectations, it's unlikely to make a profit in theaters.",
-    "timestamp": 1769973387.0,
-    "date": "Feb 01, 19:16"
-  },
-  {
     "source": "New York Times",
     "title": "Russia Strikes Ukraine\u2019s Energy Sector, Killing 12 Miners",
     "link": "https://www.nytimes.com/2026/02/01/world/europe/russia-strikes-ukraine-energy-sector-killing-12-miners.html",
@@ -1550,14 +1558,6 @@
     "summary": "<p>Plaintiffs in case say they were lured from Japan, exploited for labour and cut off from families for generations</p><p>It has been more than six decades since Eiko Kawasaki left Japan to begin a n...",
     "timestamp": 1769922017.0,
     "date": "Feb 01, 05:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Rape trial puts Norway's royal family in unwelcome glare of public",
-    "link": "https://www.bbc.com/news/articles/cm2xj3ykpj4o?at_medium=RSS&at_campaign=rss",
-    "summary": "Marius Borg H\u00f8iby, the crown prince's blond stepson, is accused of 38 charges in a case that has attracted global interest.",
-    "timestamp": 1769904121.0,
-    "date": "Feb 01, 00:02"
   },
   {
     "source": "The Guardian",
