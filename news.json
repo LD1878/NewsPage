@@ -1,11 +1,203 @@
 [
   {
     "source": "CNBC",
+    "title": "S&P 500 is little changed amid lingering tech pressure, weak jobs data: Live updates",
+    "link": "https://www.cnbc.com/2026/02/03/stock-market-today-live-updates.html",
+    "summary": "Tech put on the worst performance of the 11 sectors in the S&amp;P 500, falling more than 2% on Tuesday.",
+    "timestamp": 1770216074.0,
+    "date": "Feb 04, 14:41"
+  },
+  {
+    "source": "CNBC",
+    "title": "Amazon makes Alexa+ AI assistant available to everyone in the U.S. nearly a year after launch",
+    "link": "https://www.cnbc.com/2026/02/04/amazon-alexa-plus-us-releas.html",
+    "summary": "Alexa+ launched last year in an \"early access\" preview, meaning consumers had to join a waitlist or buy a new device to use the service.",
+    "timestamp": 1770215909.0,
+    "date": "Feb 04, 14:38"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "ElevenLabs raises $500 million at $11 billion valuation, WSJ reports",
+    "link": "https://www.channelnewsasia.com/business/elevenlabs-raises-500-million-11-billion-valuation-wsj-reports-5907471",
+    "summary": "",
+    "timestamp": 1770215535.0,
+    "date": "Feb 04, 14:32"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump admin to withdraw 700 federal officers from Minnesota: Homan",
+    "link": "https://www.cnbc.com/2026/02/04/trump-homan-minnesota-ice-immigration.html",
+    "summary": "The Trump administration will draw down 700 law enforcement officers from Minnesota on Wednesday, border czar Tom Homan said.",
+    "timestamp": 1770215533.0,
+    "date": "Feb 04, 14:32"
+  },
+  {
+    "source": "The Verge",
+    "title": "Spotify launches offline lyrics, translations, and lyric previews",
+    "link": "https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews",
+    "summary": "On Wednesday, Spotify announced a few new lyrics features aiming to make it easier to understand and access song lyrics, including translations, previews, and offline lyrics. Lyric translations were o...",
+    "timestamp": 1770215470.0,
+    "date": "Feb 04, 14:31"
+  },
+  {
+    "source": "CNBC",
+    "title": "Sandberg, other Meta vets invest in AI workplace communications startup",
+    "link": "https://www.cnbc.com/2026/02/04/sandberg-other-meta-vets-invest-in-ai-workplace-communications-startup.html",
+    "summary": "Slashwork is backed by former Meta executives Sheryl Sandberg, David Fischer, Carolyn Everson and Julien Codorniou, who led Facebook Workplace.",
+    "timestamp": 1770215320.0,
+    "date": "Feb 04, 14:28"
+  },
+  {
+    "source": "CNBC",
+    "title": "Eli Lilly blows past quarterly estimates, posts strong outlook as Zepbound and Mounjaro sales soar",
+    "link": "https://www.cnbc.com/2026/02/04/eli-lilly-lly-earnings-q4-2025.html",
+    "summary": "Eli Lilly's full-year guidance comes in stark contrast to the outlook of Novo Nordisk, which warned it sees sales and profit declining as much as 13% this year.",
+    "timestamp": 1770215191.0,
+    "date": "Feb 04, 14:26"
+  },
+  {
+    "source": "CNBC",
+    "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+    "link": "https://www.cnbc.com/2026/02/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+    "summary": "The S&amp;P 500 edged higher ahead of the opening bell following a losing session on Wall Street.",
+    "timestamp": 1770215070.0,
+    "date": "Feb 04, 14:24"
+  },
+  {
+    "source": "CNBC",
+    "title": "Fed's Stephen Miran resigns from White House post",
+    "link": "https://www.cnbc.com/2026/02/03/feds-stephen-miran-resigns-from-white-house-post.html",
+    "summary": "Federal Reserve Governor Stephen Miran has stepped down from his position as chair of the Council of Economic Advisers, CNBC has confirmed.",
+    "timestamp": 1770215064.0,
+    "date": "Feb 04, 14:24"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Skeleton-Britain appeals to CAS over helmet ban",
+    "link": "https://www.channelnewsasia.com/sport/skeleton-britain-appeals-cas-over-helmet-ban-5907451",
+    "summary": "",
+    "timestamp": 1770214915.0,
+    "date": "Feb 04, 14:21"
+  },
+  {
+    "source": "NPR",
+    "title": "Bezos orders deep job cuts at 'Washington Post'",
+    "link": "https://www.npr.org/2026/02/04/nx-s1-5699328/washington-post-layoffs-jobs-bezos",
+    "summary": "The ",
+    "timestamp": 1770214755.0,
+    "date": "Feb 04, 14:19"
+  },
+  {
+    "source": "France 24",
+    "title": "Milan-Cortina Olympic Games: Some venues still not finished",
+    "link": "https://www.france24.com/en/milan-cortina-olympic-games-some-venues-still-not-finished",
+    "summary": "The International Olympic Committee said on Sunday that the Milan\u2013Cortina Winter Olympics will live up to expectations as the world\u2019s premier winter sports event, despite last-minute efforts to prepar...",
+    "timestamp": 1770214680.0,
+    "date": "Feb 04, 14:18"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Uber appoints new CFO as its AV plans accelerate",
+    "link": "https://techcrunch.com/2026/02/04/uber-appoints-new-cfo-as-its-av-plans-accelerate/",
+    "summary": "Uber is promoting Balaji Krishnamurthy, its VP of strategic finance and investor relations, to be its CFO, replacing its current finance chief Prashanth Mahendra-Rajah.",
+    "timestamp": 1770214534.0,
+    "date": "Feb 04, 14:15"
+  },
+  {
+    "source": "France 24",
+    "title": "Singapore air show kicks off amid supply chain strains, regional demand surge",
+    "link": "https://www.france24.com/en/singapore-air-show-kicks-off-amid-supply-chain-strains-regional-demand-surge",
+    "summary": "There is just one catch: aircraft manufacturers are struggling to keep pace with surging demand in Southeast Asia, with supply-chain disruptions and maintenance delays constraining capacity. However, ...",
+    "timestamp": 1770214518.0,
+    "date": "Feb 04, 14:15"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Alpine skiing-Norway suffer second blow after Moeller injured in training run",
+    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-norway-suffer-second-blow-after-moeller-injured-in-training-run-5907426",
+    "summary": "",
+    "timestamp": 1770214487.0,
+    "date": "Feb 04, 14:14"
+  },
+  {
+    "source": "New York Times",
+    "title": "Yair Golan\u2019s Battle for a Two-State Solution and the Future of Israel",
+    "link": "https://www.nytimes.com/2026/02/04/magazine/yair-golan-israel-palestine-gaza-war.html",
+    "summary": "To many Israelis, he\u2019s a war hero. To others, he\u2019s a traitor guilty of \u201cblood libel.\u201d Can Yair Golan change politics in Israel?",
+    "timestamp": 1770214350.0,
+    "date": "Feb 04, 14:12"
+  },
+  {
+    "source": "France 24",
+    "title": "UK Prime Minister Starmer addresses concerns over Mandelson-Epstein ties",
+    "link": "https://www.france24.com/en/uk-prime-minister-starmer-addresses-concerns-over-mandelson-epstein-ties",
+    "summary": "British police have opened a criminal investigation into former UK ambassador to the United States Peter Mandelson, following reports that the veteran Labour politician may have shared market-sensitiv...",
+    "timestamp": 1770214226.0,
+    "date": "Feb 04, 14:10"
+  },
+  {
+    "source": "France 24",
+    "title": "'Iran's Revolutionary Guards converted to a monster,' co-founder Mohsen Sazegara says",
+    "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260204-iran-s-revolutionary-guards-converted-to-a-monster-co-founder-mohsen-sazegara-says",
+    "summary": "In an interview with FRANCE 24, the co-founder of Iran's Islamic Revolutionary Guard Corps (IRGC), the exiled dissident Mohsen Sazegara, said the organisation has \"converted to a monster\" and is the \"...",
+    "timestamp": 1770214176.0,
+    "date": "Feb 04, 14:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
+    "link": "https://www.cnbc.com/2026/02/04/adp-jobs-report-january-2026.html",
+    "summary": "The U.S. labor market barely budged in January, with hiring below even muted expectations.",
+    "timestamp": 1770214066.0,
+    "date": "Feb 04, 14:07"
+  },
+  {
+    "source": "CNBC",
     "title": "Fed pick: Tillis doubles down on Warsh blockade over concerns about Fed independence",
     "link": "https://www.cnbc.com/2026/02/04/fed-warsh-tillis-confirmation.html",
     "summary": "Sen. Thom Tillis told CNBC he is committed to blocking Kevin Warsh's confirmation as Fed chair unless the Trump administration ends its probe of Chair Powell.",
     "timestamp": 1770213764.0,
     "date": "Feb 04, 14:02"
+  },
+  {
+    "source": "The Guardian",
+    "title": "ADF veterans warn selloff of 60 historic defence properties will take a decade and cost billions",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/05/adf-historic-defence-properties-selloff-veterans",
+    "summary": "<p>RSL, federal opposition and local MPs cast doubt on the plan, which Labor says will result in about $3bn for defence</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP...",
+    "timestamp": 1770213648.0,
+    "date": "Feb 04, 14:00"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Not delivering any Aukus nuclear submarines to Australia explored as option in US congressional report",
+    "link": "https://www.theguardian.com/world/2026/feb/05/not-delivering-any-aukus-nuclear-submarines-to-australia-explored-as-option-in-us-congressional-report",
+    "summary": "<p>Report offers alternative of the US navy retaining boats and operating them out of Australian bases</p><ul><li><p><strong>Get our </strong><a href=\"https://www.theguardian.com/email-newsletters?CMP...",
+    "timestamp": 1770213647.0,
+    "date": "Feb 04, 14:00"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Condemnation of Elon Musk\u2019s AI chatbot reached \u2018tipping point\u2019 after French raid, Australia\u2019s eSafety chief says",
+    "link": "https://www.theguardian.com/technology/2026/feb/05/australia-esafety-commissioner-elon-musk-ai-chatbot-grok-deepfakes",
+    "summary": "<p>A number of countries including Australia are investigating X over Grok-produced sexualised deepfakes</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">brea...",
+    "timestamp": 1770213647.0,
+    "date": "Feb 04, 14:00"
+  },
+  {
+    "source": "The Guardian",
+    "title": "More than 80% of flying fox colony wiped out as January heatwaves kill thousands of bats",
+    "link": "https://www.theguardian.com/environment/2026/feb/05/flying-foxes-january-heatwaves-kill-thousands",
+    "summary": "<p>Only 180 bats survived intense heat in South Australian town, including 34 babies that carers say face months of recovery</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026...",
+    "timestamp": 1770213644.0,
+    "date": "Feb 04, 14:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "Retirement savings 'lost and found' helps retirees track down old 401(k)s, pensions \u2014 how it works",
+    "link": "https://www.cnbc.com/2026/02/04/retirement-savings-lost-and-found.html",
+    "summary": "In the first year of the Labor Department's Retirement Savings Lost and Found database, 29.5% of users found an old workplace plan that might owe them money.",
+    "timestamp": 1770213608.0,
+    "date": "Feb 04, 14:00"
   },
   {
     "source": "TechCrunch",
@@ -48,6 +240,14 @@
     "date": "Feb 04, 13:59"
   },
   {
+    "source": "BBC World",
+    "title": "Son of Norway's crown princess holds back tears giving evidence at rape trial",
+    "link": "https://www.bbc.com/news/articles/c23rdxjjp4po?at_medium=RSS&at_campaign=rss",
+    "summary": "Marius Borg H\u00f8iby gives evidence after the first woman he is alleged to have raped told the court she believed she had been drugged.",
+    "timestamp": 1770213556.0,
+    "date": "Feb 04, 13:59"
+  },
+  {
     "source": "CNBC",
     "title": "AMD is down 9% after reporting earnings. Here's why",
     "link": "https://www.cnbc.com/2026/02/04/amd-stock-earnings-forecast-chips.html",
@@ -65,7 +265,7 @@
   },
   {
     "source": "France 24",
-    "title": "IDF strikes in Gaza kill at least 21 as Israel and Hamas trade ceasefire violation accusations",
+    "title": "IDF strikes in Gaza kill 21 as Israel and Hamas trade ceasefire violation accusations",
     "link": "https://www.france24.com/en/middle-east/20260204-idf-strikes-gaza-kill-at-least-21-israel-and-hamas-trade-ceasefire-violation-accusations",
     "summary": "Israeli air strikes on Wednesday pounded Gaza, killing at least 21 people including children, according to medical officials. The Israeli Defence Forces (IDF) said it retaliated after gunfire wounded ...",
     "timestamp": 1770213052.0,
@@ -96,22 +296,6 @@
     "date": "Feb 04, 13:47"
   },
   {
-    "source": "CNBC",
-    "title": "Private payrolls rose by just 22,000 in January, far short of expectations, ADP says",
-    "link": "https://www.cnbc.com/2026/02/04/adp-jobs-report-january-2026.html",
-    "summary": "The U.S. labor market barely budged in January, with hiring below even muted expectations.",
-    "timestamp": 1770212335.0,
-    "date": "Feb 04, 13:38"
-  },
-  {
-    "source": "BBC World",
-    "title": "Son of Norway's crown princess holds back tears giving evidence at rape trial",
-    "link": "https://www.bbc.com/news/articles/c23rdxjjp4po?at_medium=RSS&at_campaign=rss",
-    "summary": "Marius Borg H\u00f8iby gives evidence after the first woman he is alleged to have raped told the court she believed she had been drugged.",
-    "timestamp": 1770212260.0,
-    "date": "Feb 04, 13:37"
-  },
-  {
     "source": "NPR",
     "title": "Photos: Scenes from the 150th Westminster Dog Show",
     "link": "https://www.npr.org/sections/the-picture-show/2026/02/04/nx-s1-5698120/westminster-dog-show-penny-doberman-photos",
@@ -125,14 +309,6 @@
     "link": "https://www.channelnewsasia.com/sport/alpine-skiing-vonn-can-count-fellow-great-svindal-support-5907351",
     "summary": "",
     "timestamp": 1770212158.0,
-    "date": "Feb 04, 13:35"
-  },
-  {
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves premarket: AMD, Uber, Eli Lilly, Super Micro, Chipotle, Enphase and more",
-    "link": "https://www.cnbc.com/2026/02/04/stocks-making-the-biggest-moves-premarket-amd-uber-lly-smcc-cmg-enph.html",
-    "summary": "These are the stocks posting the largest moves in premarket trading.",
-    "timestamp": 1770212138.0,
     "date": "Feb 04, 13:35"
   },
   {
@@ -173,14 +349,6 @@
     "link": "https://www.cnbc.com/2026/02/04/streaming-only-super-bowl-ads-peacock-nbc.html",
     "summary": "The Super Bowl beckons some of the most expensive ads every year, and brands are finding a cheaper option in the streaming-only option.",
     "timestamp": 1770211736.0,
-    "date": "Feb 04, 13:28"
-  },
-  {
-    "source": "CNBC",
-    "title": "Bank of America double upgrades Five Below, sees more upside under new leadership",
-    "link": "https://www.cnbc.com/2026/02/04/bank-of-america-double-upgrades-five-below-sees-more-upside-under-new-leadership.html",
-    "summary": "Bank of America's price target of $233, hiked from $158, implies upside of 18%.",
-    "timestamp": 1770211706.0,
     "date": "Feb 04, 13:28"
   },
   {
@@ -310,14 +478,6 @@
     "summary": "Congress ended the shutdown, but now faces a tight deadline to fund the Department of Homeland Security. And, the man convicted of attempting to assassinate Trump faces sentencing today.",
     "timestamp": 1770209959.0,
     "date": "Feb 04, 12:59"
-  },
-  {
-    "source": "CNBC",
-    "title": "Eli Lilly blows past quarterly estimates, posts strong outlook as Zepbound and Mounjaro sales soar",
-    "link": "https://www.cnbc.com/2026/02/04/eli-lilly-lly-earnings-q4-2025.html",
-    "summary": "Eli Lilly's full-year guidance comes in stark contrast to the outlook of Novo Nordisk, which warned it sees sales and profit declining as much as 13% this year.",
-    "timestamp": 1770209849.0,
-    "date": "Feb 04, 12:57"
   },
   {
     "source": "France 24",
@@ -552,14 +712,6 @@
     "date": "Feb 04, 12:05"
   },
   {
-    "source": "CNBC",
-    "title": "Sandberg, other Meta vets invest in AI workplace communications startup",
-    "link": "https://www.cnbc.com/2026/02/04/sandberg-other-meta-vets-invest-in-ai-workplace-communications-startup.html",
-    "summary": "Slashwork is backed by former Meta executives Sheryl Sandberg, David Fischer, Carolyn Everson and Julien Codorniou, who led Facebook Workplace.",
-    "timestamp": 1770206401.0,
-    "date": "Feb 04, 12:00"
-  },
-  {
     "source": "The Verge",
     "title": "Sen. Warren wants to know what Google Gemini\u2019s built-in checkout means for user privacy",
     "link": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy",
@@ -592,22 +744,6 @@
     "date": "Feb 04, 11:55"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Speed skating-US medal hope Stolz tunes out noise ahead of Milano Cortina Games",
-    "link": "https://www.channelnewsasia.com/sport/speed-skating-us-medal-hope-stolz-tunes-out-noise-ahead-milano-cortina-games-5907081",
-    "summary": "",
-    "timestamp": 1770206087.0,
-    "date": "Feb 04, 11:54"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "TikTok extremely cooperative with EU's probe on Romania election, Commission spokesperson says",
-    "link": "https://www.channelnewsasia.com/business/tiktok-extremely-cooperative-eus-probe-romania-election-commission-spokesperson-says-5907061",
-    "summary": "",
-    "timestamp": 1770205944.0,
-    "date": "Feb 04, 11:52"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "How tackling 'forever chemicals' could save big bucks and our health",
     "link": "https://www.dw.com/en/how-tackling-forever-chemicals-could-save-big-bucks-and-our-health/a-75794494?maca=en-rss-en-all-1573-rdf",
@@ -638,14 +774,6 @@
     "summary": "Israeli forces and Gaza authorities have reported deaths after exchanges of fire in the territory, despite a ceasefire.",
     "timestamp": 1770205500.0,
     "date": "Feb 04, 11:45"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Figure skating-Music rights add extra layer of pressure for figure skaters",
-    "link": "https://www.channelnewsasia.com/sport/figure-skating-music-rights-add-extra-layer-pressure-figure-skaters-5907036",
-    "summary": "",
-    "timestamp": 1770205408.0,
-    "date": "Feb 04, 11:43"
   },
   {
     "source": "New York Times",
@@ -872,14 +1000,6 @@
     "date": "Feb 04, 10:05"
   },
   {
-    "source": "CNBC",
-    "title": "Trump says India won't buy Russian oil anymore. Moscow insists India hasn't said that",
-    "link": "https://www.cnbc.com/2026/02/04/trump-india-deal-russia-oil-purchases-kremlin-reaction.html",
-    "summary": "Analysts are skeptical that India will stop buying Russian oil completely.",
-    "timestamp": 1770199495.0,
-    "date": "Feb 04, 10:04"
-  },
-  {
     "source": "New York Times",
     "title": "Bulgarians Adopt the Euro With a Whisper of Melancholy but Few Tears",
     "link": "https://www.nytimes.com/2026/02/04/world/europe/bulgaria-euro-lev-european-union.html",
@@ -944,14 +1064,6 @@
     "date": "Feb 04, 10:00"
   },
   {
-    "source": "NPR",
-    "title": "As Trump pushes for Venezuela's oil, here's what to know about the U.S. and Iraq's oil",
-    "link": "https://www.npr.org/2026/02/04/nx-s1-5672744/trump-oil-venezuela-iraq-chevron-rubio-vitol",
-    "summary": "Oil analysts who worked in Iraq say Iraqi oil sales had more protections after the U.S. invasion than Venezuelan oil sales today.",
-    "timestamp": 1770199200.0,
-    "date": "Feb 04, 10:00"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Musk labels Spain PM \u2018tyrant\u2019 after Madrid proposes social media curbs",
     "link": "https://www.aljazeera.com/news/2026/2/4/musk-labels-spain-pm-tyrant-after-madrid-proposes-social-media-curbs?traffic_source=rss",
@@ -976,14 +1088,6 @@
     "date": "Feb 04, 09:43"
   },
   {
-    "source": "CNBC",
-    "title": "Novo Nordisk shares tumble 18% as CEO warns it will get worse before it gets better",
-    "link": "https://www.cnbc.com/2026/02/04/novo-nordisk-stock-ceo-earnings-guidance-ozempic-wegovy.html",
-    "summary": "Just as Novo Nordisk showed signs of a recovery, another cold shower hit investors as the drugmaker surprise prereleased its 2026 forecast late Tuesday, sending shares tumbling.",
-    "timestamp": 1770197446.0,
-    "date": "Feb 04, 09:30"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Australian boy swims for hours in rough seas to save his family",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/2/4/australian-boy-swims-for-hours-in-rough-seas-to-save-his-family?traffic_source=rss",
@@ -1006,14 +1110,6 @@
     "summary": "Chancellor Friedrich Merz is set to talk energy, arms and diplomacy as he embarks on a three-day trip to Saudi Arabia, Qatar and the UAE. Back in Germany, airline Lufthansa is investigating its Nazi p...",
     "timestamp": 1770196320.0,
     "date": "Feb 04, 09:12"
-  },
-  {
-    "source": "France 24",
-    "title": "French footballer Kant\u00e9 to join Turkish club after Erdogan intervenes to push transfer",
-    "link": "https://www.france24.com/en/sport/20260204-french-footballer-kant%C3%A9-join-turkish-club-after-erdogan-intervenes-push-transfer",
-    "summary": "F\u200drench footballer N'Golo Kant\u00e9 has \u200bjoined the Turkish side Fenerbahce after\u00a0Turkish President Recep Tayyip Erdogan intervened to push through a transfer deal with Saudi club\u00a0Al-Ittihad.",
-    "timestamp": 1770195972.0,
-    "date": "Feb 04, 09:06"
   },
   {
     "source": "The Guardian",
@@ -1064,22 +1160,6 @@
     "date": "Feb 04, 07:48"
   },
   {
-    "source": "The Guardian",
-    "title": "Sussan Ley may fast-track permanent Liberal-only frontbench as Coalition reunion hopes fade",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/04/sussan-ley-may-fast-track-permanent-liberal-only-frontbench-as-coalition-reunion-hopes-fade",
-    "summary": "<p>Opposition leader may announce promotion of six MPs to shadow cabinet early amid deadlock in talks to reunite with Nationals</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newslet...",
-    "timestamp": 1770188608.0,
-    "date": "Feb 04, 07:03"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Police investigate illegal riding on Sydney Harbour Bridge \u2013 as it happened",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/04/australian-politics-live-labor-liberal-anthony-albanese-sussan-ley-leadership-challenge-coalition-littleproud-chalmers-interest-rates-rise-rba-ntwfb",
-    "summary": "<p>This blog is now closed</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/feb/04/i-dont-think-this-was-a-good-decision-labors-ed-husic-expresses-concerns-over-israel-president-...",
-    "timestamp": 1770188375.0,
-    "date": "Feb 04, 06:59"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "China: Two journalists held after exposing alleged corruption",
     "link": "https://www.dw.com/en/china-two-journalists-held-after-exposing-alleged-corruption/a-75792382?maca=en-rss-en-all-1573-rdf",
@@ -1088,52 +1168,12 @@
     "date": "Feb 04, 06:55"
   },
   {
-    "source": "France 24",
-    "title": "Son of Libya's late dictator Gaddafi killed in Zintan city",
-    "link": "https://www.france24.com/en/son-of-libya-s-late-dictator-gaddafi-killed-at-home-by-gunmen",
-    "summary": "Saif al-Islam Gaddafi, a son of Libya\u2019s late longtime ruler Muammar Gaddafi and once seen as his heir, has died, relatives said Tuesday, without providing details on the circumstances. His death was c...",
-    "timestamp": 1770187787.0,
-    "date": "Feb 04, 06:49"
-  },
-  {
-    "source": "France 24",
-    "title": "Petro and Trump reset relations with White House meeting after months of tensions",
-    "link": "https://www.france24.com/en/petro-and-trump-reset-relations-with-white-house-meeting-after-months-of-tensions",
-    "summary": "Colombian President Gustavo Petro and US President Donald Trump appeared to reset strained relations during a conciliatory White House meeting, signalling cooperation on drug trafficking and trade aft...",
-    "timestamp": 1770187607.0,
-    "date": "Feb 04, 06:46"
-  },
-  {
-    "source": "France 24",
-    "title": "Ukrainian's have 'little hope' for peace talks amid ongoing Russian strikes on energy infrastructure",
-    "link": "https://www.france24.com/en/ukrainian-s-have-little-hope-for-peace-talks-amid-ongoing-russian-strikes-on-energy-infrastructure",
-    "summary": "As Ukrainian, Russian and US negotiators gather in Abu Dhabi for peace talks,\u00a0Ukrainian's have \"little hope\" that the meeting will end the four-year conflict says FRANCE 24's Emmanuelle Chaze reportin...",
-    "timestamp": 1770187384.0,
-    "date": "Feb 04, 06:43"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Libya: Gadhafi's son shot dead",
     "link": "https://www.dw.com/en/libya-gadhafi-s-son-shot-dead/a-75792341?maca=en-rss-en-all-1573-rdf",
     "summary": "Seif al-Islam Gadhafi, the son of the country's late ruler Moammar Gadhafi, has been shot dead. Armed men reportedly stormed his residence amid renewed political tensions.",
     "timestamp": 1770185640.0,
     "date": "Feb 04, 06:14"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Parents of Piper James visit K\u2019gari to farewell daughter and \u2018walk where she last walked\u2019 as dingo cull continues",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/04/piper-james-parents-visit-kgari-dingo",
-    "summary": "<p>Grieving family of the backpacker will attend a smoking ceremony conducted by the island\u2019s traditional owners</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/04/aust...",
-    "timestamp": 1770185606.0,
-    "date": "Feb 04, 06:13"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Doctor previously banned from complex surgery in NSW given senior clinical safety role with Queensland Health",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/04/banned-surgeon-clinical-safety-role-queensland-health-ntwnfb",
-    "summary": "<p>A spokesperson says Dr Michael Byrom no longer has any conditions placed on his practising and cited a \u2018rigorous recruitment process\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/australia-ne...",
-    "timestamp": 1770184957.0,
-    "date": "Feb 04, 06:02"
   },
   {
     "source": "BBC World",
@@ -1182,14 +1222,6 @@
     "summary": "Liu Hu and Wu Yingjiao have been reportedly detained after exposing corruption by a senior official in Sichuan.",
     "timestamp": 1770176537.0,
     "date": "Feb 04, 03:42"
-  },
-  {
-    "source": "CNBC",
-    "title": "Fed's Stephen Miran resigns from White House post",
-    "link": "https://www.cnbc.com/2026/02/03/feds-stephen-miran-resigns-from-white-house-post.html",
-    "summary": "Federal Reserve Governor Stephen Miran has stepped down from his position as chair of the Council of Economic Advisers, CNBC has confirmed.",
-    "timestamp": 1770174736.0,
-    "date": "Feb 04, 03:12"
   },
   {
     "source": "The Guardian",
@@ -1288,14 +1320,6 @@
     "date": "Feb 03, 23:21"
   },
   {
-    "source": "CNBC",
-    "title": "Chipotle stock sinks as restaurant chain reports falling traffic, weak guidance",
-    "link": "https://www.cnbc.com/2026/02/03/chipotle-cmg-q4-2025-earnings.html",
-    "summary": "Chipotle stock has fallen about 33% over the last year, dragging the company's market value down to about $51 billion.",
-    "timestamp": 1770159245.0,
-    "date": "Feb 03, 22:54"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "US: Trump signs bill ending partial government shutdown",
     "link": "https://www.dw.com/en/us-trump-signs-bill-ending-partial-government-shutdown/a-75791158?maca=en-rss-en-all-1573-rdf",
@@ -1344,14 +1368,6 @@
     "date": "Feb 03, 22:06"
   },
   {
-    "source": "The Verge",
-    "title": "Borderlands 4 for Switch 2 is on \u2018pause\u2019",
-    "link": "https://www.theverge.com/games/873409/borderlands-4-nintendo-switch-2-development-pause",
-    "summary": "Development on the Nintendo Switch 2 version of Borderlands 4 is on \"pause,\" according to a statement from a Take-Two spokesperson given to Variety. \"We made the difficult decision to pause developmen...",
-    "timestamp": 1770155773.0,
-    "date": "Feb 03, 21:56"
-  },
-  {
     "source": "New York Times",
     "title": "Spain Aims to Ban Social Media for Children Under 16",
     "link": "https://www.nytimes.com/2026/02/03/world/europe/spain-social-media-ban-under-16.html",
@@ -1377,14 +1393,6 @@
   },
   {
     "source": "New York Times",
-    "title": "U.S. Fighter Jet Shoots Down Iranian Drone Amid Heightened Tensions",
-    "link": "https://www.nytimes.com/2026/02/03/us/politics/us-iran-drone-downing.html",
-    "summary": "A U.S. fighter jet shot down the Iranian drone after it \u201cunnecessarily maneuvered\u201d toward the Abraham Lincoln aircraft carrier.",
-    "timestamp": 1770151953.0,
-    "date": "Feb 03, 20:52"
-  },
-  {
-    "source": "New York Times",
     "title": "Paris Court Deals Family Blow in Battle for Rent From the French Embassy in Iraq",
     "link": "https://www.nytimes.com/2026/02/03/world/europe/france-embassy-iraq.html",
     "summary": "The court said it was not the right authority to handle the lawsuit for unpaid rent, and the case should be heard in Iraq, where the family\u2019s ancestors had fled persecution.",
@@ -1406,14 +1414,6 @@
     "summary": "All startups accepted into YC will soon have the option to receive their seed checks via stablecoins.",
     "timestamp": 1770148452.0,
     "date": "Feb 03, 19:54"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Iran signals willingness for nuclear talks with US",
-    "link": "https://www.dw.com/en/iran-signals-willingness-for-nuclear-talks-with-us/a-75789831?maca=en-rss-en-all-1573-rdf",
-    "summary": "Iran's president has issued the clearest indication he'd like to enter renewed nuclear talks with the US and others. But this comes amid mixed diplomatic messages, large anti-government protests, and ...",
-    "timestamp": 1770146460.0,
-    "date": "Feb 03, 19:21"
   },
   {
     "source": "TechCrunch",
@@ -1504,12 +1504,12 @@
     "date": "Feb 03, 16:55"
   },
   {
-    "source": "TechCrunch",
-    "title": "What tech CEOs and executives have said about ICE\u2019s actions in Minnesota",
-    "link": "https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/",
-    "summary": "The Trump administration\u2019s approach to immigration has reached a level of violence that the tech industry cannot ignore. Here's how tech leaders are responding to the moment.",
-    "timestamp": 1770135210.0,
-    "date": "Feb 03, 16:13"
+    "source": "Deutsche Welle",
+    "title": "Germany and the Gulf region: Energy and arms deals",
+    "link": "https://www.dw.com/en/germany-and-the-gulf-region-energy-and-arms-deals/a-75789127?maca=en-rss-en-all-1573-rdf",
+    "summary": "German Chancellor Friedrich Merz is visiting three Gulf states within just 72 hours. He is pursuing new \"strategic partnerships\" \u2014 as Germany's friendship with the United States is becoming increasing...",
+    "timestamp": 1770137580.0,
+    "date": "Feb 03, 16:53"
   },
   {
     "source": "BBC World",
