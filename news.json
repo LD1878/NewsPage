@@ -1,10 +1,178 @@
 [
   {
+    "source": "CNBC",
+    "title": "Novo Nordisk shares tumble 18% as CEO warns it will get worse before it gets better",
+    "link": "https://www.cnbc.com/2026/02/04/novo-nordisk-stock-ceo-earnings-guidance-ozempic-wegovy.html",
+    "summary": "Just as Novo Nordisk showed signs of a recovery, another cold shower hit investors as the drugmaker surprise prereleased its 2026 forecast late Tuesday, sending shares tumbling.",
+    "timestamp": 1770197446.0,
+    "date": "Feb 04, 09:30"
+  },
+  {
+    "source": "New York Times",
+    "title": "Gloves Come Off in Gulf as Trump\u2019s Closest Arab Allies Clash",
+    "link": "https://www.nytimes.com/2026/02/04/world/middleeast/emirates-saudi-arabia-rift.html",
+    "summary": "A feud between Saudi Arabia and the United Arab Emirates is reshaping conflicts and alliances across the Middle East and Africa.",
+    "timestamp": 1770197145.0,
+    "date": "Feb 04, 09:25"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Italian skiing champions Tomba, Compagnoni to light cauldrons - report",
+    "link": "https://www.channelnewsasia.com/sport/italian-skiing-champions-tomba-compagnoni-light-cauldrons-report-5906586",
+    "summary": "",
+    "timestamp": 1770197064.0,
+    "date": "Feb 04, 09:24"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump hits out at reporter for question on Epstein survivors",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/4/trump-hits-out-at-reporter-for-question-on-epstein-survivors?traffic_source=rss",
+    "summary": "Trump lashed out at a reporter after she questioned him about survivors of the sex offender Jeffrey Epstein.",
+    "timestamp": 1770196385.0,
+    "date": "Feb 04, 09:13"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Germany updates: Merz embarks on Gulf trip",
+    "link": "https://www.dw.com/en/germany-updates-merz-embarks-on-gulf-trip/live-75793869?maca=en-rss-en-all-1573-rdf",
+    "summary": "Chancellor Friedrich Merz is set to talk energy, arms and diplomacy as he embarks on a three-day trip to Saudi Arabia, Qatar and the UAE. Back in Germany, airline Lufthansa is investigating its Nazi p...",
+    "timestamp": 1770196320.0,
+    "date": "Feb 04, 09:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Former CEO of New Silkroutes Group Goh Jin Hian on trial for false trading",
+    "link": "https://www.channelnewsasia.com/singapore/goh-jin-hian-trial-new-silkroutes-group-false-trading-5906381",
+    "summary": "The prosecution intends to prove its case with evidence that includes WhatsApp chat messages where the men discussed their plan to push up the share price.",
+    "timestamp": 1770196179.0,
+    "date": "Feb 04, 09:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "UBS beats expectations with $1.2 billion fourth-quarter profit, plans $3 billion buyback",
+    "link": "https://www.cnbc.com/2026/02/04/ubs-q4-earnings-swiss-bank.html",
+    "summary": "UBS reported its fourth quarter earnings on Wednesday.",
+    "timestamp": 1770196155.0,
+    "date": "Feb 04, 09:09"
+  },
+  {
+    "source": "France 24",
+    "title": "French footballer Kant\u00e9 to join Turkish club after Erdogan intervenes to push transfer",
+    "link": "https://www.france24.com/en/sport/20260204-french-footballer-kant%C3%A9-join-turkish-club-after-erdogan-intervenes-push-transfer",
+    "summary": "F\u200drench footballer N'Golo Kant\u00e9 has \u200bjoined the Turkish side Fenerbahce after\u00a0Turkish President Recep Tayyip Erdogan intervened to push through a transfer deal with Saudi club\u00a0Al-Ittihad.",
+    "timestamp": 1770195972.0,
+    "date": "Feb 04, 09:06"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "How Israel destroyed Gaza\u2019s health system \u2018deliberately and methodically\u2019",
+    "link": "https://www.aljazeera.com/news/2026/2/4/how-israel-destroyed-gazas-health-system-deliberately-and-methodically?traffic_source=rss",
+    "summary": "Despite &#039;ceasefire&#039;, the health sector in Gaza continues to suffer from shortages, destruction and lack of equipment.",
+    "timestamp": 1770195653.0,
+    "date": "Feb 04, 09:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Can Indonesian businesses thrive amid global uncertainties, changing consumer tastes?",
+    "link": "https://www.channelnewsasia.com/asia/indonesian-businesses-global-uncertainty-cna-summit-2026-5897846",
+    "summary": "As market pressures, digital disruption and global uncertainties intensify, Indonesian businesses must adapt and target impact-driven innovation, say analysts. These issues will be on the agenda at th...",
+    "timestamp": 1770195600.0,
+    "date": "Feb 04, 09:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Cooperation, responsibility critical in space race as orbits grow more crowded, say industry players",
+    "link": "https://www.channelnewsasia.com/singapore/space-summit-cooperation-responsibility-orbits-crowded-5906391",
+    "summary": "With space underpinning everything from connectivity to climate monitoring, leaders at the inaugural Space Summit in Singapore told CNA that nations must work together to preserve it as a shared globa...",
+    "timestamp": 1770195528.0,
+    "date": "Feb 04, 08:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "2 Malaysian brothers charged with murder after 6 bodies found in burnt Johor house",
+    "link": "https://www.channelnewsasia.com/asia/johor-malaysia-murder-brothers-charged-bodies-found-burnt-house-5906406",
+    "summary": "The deceased - including five from a family - were discovered in January in a burnt house at an oil palm plantation in Kangkar Pulai. Three of them were children aged two to nine.",
+    "timestamp": 1770195525.0,
+    "date": "Feb 04, 08:58"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "How Israel is trying to hinder NGOs from working in Gaza",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/4/how-israel-is-trying-to-hinder-ngos-from-working-in-gaza?traffic_source=rss",
+    "summary": "Israel, having already destroyed much of Gaza\u2019s health system, is now pressuring 37 NGOs to hand over sensitive data.",
+    "timestamp": 1770195384.0,
+    "date": "Feb 04, 08:56"
+  },
+  {
+    "source": "CNBC",
+    "title": "Venezuela tells China oil prices won't be set by the U.S., seeks to reassure investment after Maduro capture",
+    "link": "https://www.cnbc.com/2026/02/04/venezuela-tells-china-oil-prices-us-seeks-to-reassure-investment-sanctions.html",
+    "summary": "Venezuela assured Beijing that its oil pricing will not be dictated by the U.S. and that Chinese investment in the South American country will remain secure.",
+    "timestamp": 1770195275.0,
+    "date": "Feb 04, 08:54"
+  },
+  {
+    "source": "CNBC",
+    "title": "We've been here before: What gold's past bull runs \u2014 and sell-offs \u2014 tell us about where it could go next",
+    "link": "https://www.cnbc.com/2026/02/04/gold-price-silver-bull-run-sell-off-fall-bear-market-cycle.html",
+    "summary": "In the wake of a historical sell-off, market watchers have been scouring market history to work out where gold stands.",
+    "timestamp": 1770194843.0,
+    "date": "Feb 04, 08:47"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Harry Potter\u2019s Draco Malfoy becomes mascot for year of the horse in China",
+    "link": "https://www.theguardian.com/world/2026/feb/04/harry-potter-draco-malfoy-mascot-year-of-horse-china",
+    "summary": "<p>Mandarin transliteration of character\u2019s name regarded as auspicious, prompting wave of memes and fan art</p><p>Draco Malfoy, one of Harry Potter\u2019s most recognisable villains, has become an unlikely...",
+    "timestamp": 1770194826.0,
+    "date": "Feb 04, 08:47"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "The cold, hungry reality of displacement in war-torn Sudan\u2019s Tawila",
+    "link": "https://www.aljazeera.com/news/2026/2/4/the-cold-hungry-reality-of-displacement-in-war-torn-sudans-tawila?traffic_source=rss",
+    "summary": "Displaced families who fled el-Fasher face dire conditions with no blankets, food shortages, and few medical supplies.",
+    "timestamp": 1770194731.0,
+    "date": "Feb 04, 08:45"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Why Choi Mina Sue is the reason you should be watching Single's Inferno 5",
+    "link": "https://www.channelnewsasia.com/entertainment/choi-mina-sue-singles-inferno-season-5-5906396",
+    "summary": "Single\u2019s Inferno Season 5 contestant Choi Mina Sue has reignited the flames of a franchise that was beginning to burn out.",
+    "timestamp": 1770194640.0,
+    "date": "Feb 04, 08:44"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Israel kills 18 people, one of the deadliest attacks since Gaza \u2018truce\u2019",
+    "link": "https://www.aljazeera.com/news/2026/2/4/israel-suspends-evacuation-of-palestinians-via-rafah-crossing-red-crescent?traffic_source=rss",
+    "summary": "The Rafah restrictions come as Israel kills at least 18 Palestinians, including two children, in attacks across Gaza.",
+    "timestamp": 1770194109.0,
+    "date": "Feb 04, 08:35"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "India's oil shake-up: Can Venezuela really replace Russia?",
+    "link": "https://www.dw.com/en/india-s-oil-shake-up-can-venezuela-really-replace-russia/a-75778325?maca=en-rss-en-all-1573-rdf",
+    "summary": "Donald Trump says India has agreed to replace Russian oil with US supplies \u2014 and maybe even Venezuelan. DW asks whether the Latin American producer can realistically meet New Delhi's needs.",
+    "timestamp": 1770194040.0,
+    "date": "Feb 04, 08:34"
+  },
+  {
     "source": "New York Times",
     "title": "Ukraine Talks Set to Resume, Following a Huge Attack by Moscow",
     "link": "https://www.nytimes.com/2026/02/04/world/europe/ukraine-russia-us-peace-talks.html",
     "summary": "U.S., Russian and Ukrainian negotiators are meeting in the United Arab Emirates, but Russia continues to pummel Ukraine and has not softened demands that Kyiv calls unacceptable.",
-    "timestamp": 1770193270.0,
+    "timestamp": 1770193883.0,
+    "date": "Feb 04, 08:31"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Yamal scores as Barcelona beat Albacete to reach Copa del Rey semifinals",
+    "link": "https://www.aljazeera.com/sports/2026/2/4/yamal-scores-as-barcelona-beat-albacete-to-reach-copa-del-rey-semifinals?traffic_source=rss",
+    "summary": "Goals by Barcelona&#039;s Lamine Yamal and Ronald Araujo ended second-division side&#039;s fairytale run in the Spanish Cup.",
+    "timestamp": 1770193293.0,
     "date": "Feb 04, 08:21"
   },
   {
@@ -19,7 +187,7 @@
     "source": "CNA (Asia)",
     "title": "COE premiums close lower in first bidding exercise of February to April period",
     "link": "https://www.channelnewsasia.com/singapore/coe-premiums-close-lower-first-bidding-exercise-february-april-period-5906011",
-    "summary": "COE premiums fell across the board in the first bidding exercise of the period, which will see a dip in overall COE supply for the first time since 2022.",
+    "summary": "COE premiums fell across the board in the first bidding exercise of the period, which will see the first drop in overall COE supply since 2022.",
     "timestamp": 1770193080.0,
     "date": "Feb 04, 08:18"
   },
@@ -128,14 +296,6 @@
     "date": "Feb 04, 07:38"
   },
   {
-    "source": "CNBC",
-    "title": "Asian software stocks plunge after U.S. peers decline on fears over AI-led disruption",
-    "link": "https://www.cnbc.com/2026/02/04/software-stocks-plunge-us-ai-disruption.html",
-    "summary": "Wall Street's fears around artificial intelligence-driven disruption affecting software companies have made their way into Asia.",
-    "timestamp": 1770190403.0,
-    "date": "Feb 04, 07:33"
-  },
-  {
     "source": "Al Jazeera",
     "title": "\u2018Heavily armed\u2019: Greece, Israel boost military ties amid Gaza genocide",
     "link": "https://www.aljazeera.com/news/2026/2/4/greece-woos-israel-for-joint-production-of-weapons-systems?traffic_source=rss",
@@ -157,6 +317,14 @@
     "link": "https://www.cnbc.com/2026/02/04/cnbcs-uk-exchange-newsletter-the-pressures-on-shell-to-beat-once-again.html",
     "summary": "With Shell\u2019s results on the horizon, questions remain over the pace of earnings growth in years to come \u2014 despite evidence that it is one of the best-run companies in its sector.",
     "timestamp": 1770189892.0,
+    "date": "Feb 04, 07:24"
+  },
+  {
+    "source": "CNBC",
+    "title": "Nvidia AI chip sales to China stalled by U.S. security review, FT reports",
+    "link": "https://www.cnbc.com/2026/02/04/nvidia-ai-chip-sales-to-china-stalled-by-us-security-review-ft-reports.html",
+    "summary": "Nvidia's\u00a0H200\u00a0AI\u00a0chip\u00a0sales\u00a0to\u00a0China\u00a0remain in limbo nearly two months after exports were approved, the Financial Times reported on Tuesday.",
+    "timestamp": 1770189848.0,
     "date": "Feb 04, 07:24"
   },
   {
@@ -232,14 +400,6 @@
     "date": "Feb 04, 06:54"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Panasonic's battery unit posts 3.5% drop in Q3 operating profit",
-    "link": "https://www.channelnewsasia.com/business/panasonics-battery-unit-posts-35-drop-in-q3-operating-profit-5906186",
-    "summary": "",
-    "timestamp": 1770187568.0,
-    "date": "Feb 04, 06:46"
-  },
-  {
     "source": "France 24",
     "title": "US renews trade pact with African countries, bringing tariff relief",
     "link": "https://www.france24.com/en/americas/20260204-us-renews-trade-pact-with-african-countries-bringing-tariff-relief",
@@ -257,19 +417,11 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "TomTom sees lower to steady revenue in 2026, followed by growth in 2027",
-    "link": "https://www.channelnewsasia.com/business/tomtom-sees-lower-steady-revenue-in-2026-followed-growth-in-2027-5906156",
+    "title": "TomTom says ramp-down of old contracts will weigh on 2026 sales, shares tumble",
+    "link": "https://www.channelnewsasia.com/business/tomtom-says-ramp-down-old-contracts-will-weigh-2026-sales-shares-tumble-5906156",
     "summary": "",
     "timestamp": 1770187301.0,
     "date": "Feb 04, 06:41"
-  },
-  {
-    "source": "CNBC",
-    "title": "UBS beats expectations with $1.2 billion fourth-quarter profit, plans $3 billion buyback",
-    "link": "https://www.cnbc.com/2026/02/04/ubs-q4-earnings-swiss-bank.html",
-    "summary": "UBS reported its fourth quarter earnings on Wednesday.",
-    "timestamp": 1770187201.0,
-    "date": "Feb 04, 06:40"
   },
   {
     "source": "CNA (Asia)",
@@ -304,14 +456,6 @@
     "date": "Feb 04, 06:34"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Johor police seize US$303,000 after nabbing Singaporean, another man in raids on drug-laced vapes",
-    "link": "https://www.channelnewsasia.com/asia/johor-drug-vape-trafficking-singaporean-arrested-record-seizure-5906071",
-    "summary": "Local authorities have described the seizure of drugs and assets as the biggest recorded in Johor.",
-    "timestamp": 1770186216.0,
-    "date": "Feb 04, 06:23"
-  },
-  {
     "source": "France 24",
     "title": "French Cup: OM bounce back and plunge Stade Rennais into doubt",
     "link": "https://www.france24.com/en/tv-shows/sports/20260204-french-cup-om-bounce-back-and-plunge-stade-rennais-into-doubt",
@@ -333,22 +477,6 @@
     "link": "https://www.theguardian.com/australia-news/2026/feb/04/piper-james-parents-visit-kgari-dingo",
     "summary": "<p>Grieving family of the backpacker will attend a smoking ceremony conducted by the island\u2019s traditional owners</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/04/aust...",
     "timestamp": 1770185606.0,
-    "date": "Feb 04, 06:13"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "South Korea's Hanwha Ocean proposed delivery of four submarines to Canada by 2035",
-    "link": "https://www.channelnewsasia.com/business/south-koreas-hanwha-ocean-proposed-delivery-four-submarines-canada-2035-5906081",
-    "summary": "",
-    "timestamp": 1770185580.0,
-    "date": "Feb 04, 06:13"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Kim Kardashian and Lewis Hamilton said to be casually dating",
-    "link": "https://www.channelnewsasia.com/entertainment/kim-kardashian-lewis-hamilton-casually-dating-5905886",
-    "summary": "According to a source, Kardashian has \"felt ready to put herself back out there recently\".",
-    "timestamp": 1770185580.0,
     "date": "Feb 04, 06:13"
   },
   {
@@ -377,27 +505,11 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "LIVE: Israel \u2018suspends\u2019 evacuation of patients through Rafah crossing",
+    "title": "LIVE: Israeli attacks across Gaza kill 18 Palestinians since dawn",
     "link": "https://www.aljazeera.com/news/liveblog/2026/2/4/live-israeli-forces-kill-10-palestinians-in-overnight-attacks-across-gaza?traffic_source=rss",
-    "summary": "At least 10 people, including a four-year-old girl, killed in Israeli attacks across Gaza overnight.",
+    "summary": "At least 18 people, including a four-year-old girl, killed in Israeli attacks across Gaza overnight.",
     "timestamp": 1770184579.0,
     "date": "Feb 04, 05:56"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Human Rights Watch warns US heading to 'authoritarianism'",
-    "link": "https://www.channelnewsasia.com/world/human-rights-watch-warns-us-authoritarianism-5906041",
-    "summary": "Trump's return to the White House has intensified a \"downward spiral\" on human rights, says Human Rights Watch.",
-    "timestamp": 1770184560.0,
-    "date": "Feb 04, 05:56"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Indonesia to unveil new market rules draft after $80 billion market rout",
-    "link": "https://www.channelnewsasia.com/business/indonesia-unveil-new-market-rules-draft-after-80-billion-market-rout-5906036",
-    "summary": "",
-    "timestamp": 1770184257.0,
-    "date": "Feb 04, 05:50"
   },
   {
     "source": "Al Jazeera",
@@ -472,6 +584,14 @@
     "date": "Feb 04, 03:32"
   },
   {
+    "source": "France 24",
+    "title": "Researchers turn to UK archive to solve under-50s bowel cancer mystery",
+    "link": "https://www.france24.com/en/health/20260204-researchers-turn-to-uk-archive-to-solve-under-50s-bowel-cancer-mystery",
+    "summary": "As growing numbers of younger people are being diagnosed with bowel cancer, researchers in the UK are hoping an archive dating back more than 100 years could provide answers. In a study which began in...",
+    "timestamp": 1770174792.0,
+    "date": "Feb 04, 03:13"
+  },
+  {
     "source": "CNBC",
     "title": "Fed's Stephen Miran resigns from White House post",
     "link": "https://www.cnbc.com/2026/02/03/feds-stephen-miran-resigns-from-white-house-post.html",
@@ -518,14 +638,6 @@
     "summary": "Palestinian women tell of harrowing experience at hands of the Israeli military at reopened Rafah crossing in Gaza.",
     "timestamp": 1770172137.0,
     "date": "Feb 04, 02:28"
-  },
-  {
-    "source": "CNBC",
-    "title": "'Muskonomy' shakeup: SpaceX valuation approaches Tesla's after merger with xAI",
-    "link": "https://www.cnbc.com/2026/02/03/muskonomy-shakeup-spacex-valuation-after-xai-merger-nears-tesla.html",
-    "summary": "Elon Musk is now overseeing two companies worth over $1 trillion, at least on paper.",
-    "timestamp": 1770169710.0,
-    "date": "Feb 04, 01:48"
   },
   {
     "source": "Al Jazeera",
@@ -585,8 +697,8 @@
   },
   {
     "source": "France 24",
-    "title": "Iran demands Oman venue for US talks as tensions rise in Middle East",
-    "link": "https://www.france24.com/en/middle-east/20260204-iran-demands-oman-venue-for-us-talks-as-tensions-rise-in-middle-east",
+    "title": "Iran demands Oman venue for US talks amid rising regional tensions",
+    "link": "https://www.france24.com/en/asia-pacific/20260204-iran-demands-oman-venue-for-us-talks-amid-rising-regional-tensions",
     "summary": "Iran has demanded that this week\u2019s talks with the US be held in Oman rather than Turkey, with the agenda narrowed to nuclear issues only, a regional source said on Tuesday. The move adds new complicat...",
     "timestamp": 1770165411.0,
     "date": "Feb 04, 00:36"
@@ -630,14 +742,6 @@
     "summary": "<p>Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based order</p><p>The world is in a \u201cdemocratic recession\u201d with almost three-quarters of the glob...",
     "timestamp": 1770163288.0,
     "date": "Feb 04, 00:01"
-  },
-  {
-    "source": "CNBC",
-    "title": "Microsoft promotes sales leaders as company pursues AI growth",
-    "link": "https://www.cnbc.com/2026/02/03/microsoft-promotes-sales-leaders-as-company-pursues-ai-growth.html",
-    "summary": "Judson Althoff, CEO of Microsoft's commercial business, wants to reduce the customer feedback loop as the company sells artificial intelligence services.",
-    "timestamp": 1770163240.0,
-    "date": "Feb 04, 00:00"
   },
   {
     "source": "CNBC",
@@ -744,14 +848,6 @@
     "date": "Feb 03, 22:59"
   },
   {
-    "source": "CNBC",
-    "title": "Chipotle stock sinks as restaurant chain reports falling traffic, weak guidance",
-    "link": "https://www.cnbc.com/2026/02/03/chipotle-cmg-q4-2025-earnings.html",
-    "summary": "Chipotle stock has fallen about 33% over the last year, dragging the company's market value down to about $51 billion.",
-    "timestamp": 1770159245.0,
-    "date": "Feb 03, 22:54"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "US: Trump signs bill ending partial government shutdown",
     "link": "https://www.dw.com/en/us-trump-signs-bill-ending-partial-government-shutdown/a-75791158?maca=en-rss-en-all-1573-rdf",
@@ -774,22 +870,6 @@
     "summary": "On Tuesday, the Department of Justice and the plaintiffs in the antitrust case against Google filed a cross-appeal, as the DOJ Antitrust Division announced in a post on X: \"Today, the DOJ Antitrust Di...",
     "timestamp": 1770158447.0,
     "date": "Feb 03, 22:40"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Collision between Greek coastguard vessel, migrant boat kills at least 14",
-    "link": "https://www.aljazeera.com/news/2026/2/3/collision-between-greek-coast-guard-vessel-migrant-boat-kills-at-least-14?traffic_source=rss",
-    "summary": "Greece&#039;s coastguard says 26 other people have been rescued from Aegean Sea as search-and-rescue operations continue.",
-    "timestamp": 1770158441.0,
-    "date": "Feb 03, 22:40"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "US House passes $1.2 trillion spending package to end government shutdown",
-    "link": "https://www.aljazeera.com/economy/2026/2/3/us-house-passes-1-2-trillion-spending-package-to-end-government-shutdown?traffic_source=rss",
-    "summary": "The spending package only funds the Department of Homeland Security for two weeks, through February 13.",
-    "timestamp": 1770158315.0,
-    "date": "Feb 03, 22:38"
   },
   {
     "source": "France 24",
@@ -822,14 +902,6 @@
     "summary": "Peter Mandelson, a prominent British political figure, faces allegations of \u201cmisconduct in public office offenses\u201d over his dealings with Jeffrey Epstein.",
     "timestamp": 1770157485.0,
     "date": "Feb 03, 22:24"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Who was Saif al-Islam Gaddafi, the man once seen as Libya\u2019s next leader?",
-    "link": "https://www.aljazeera.com/news/2026/2/3/who-was-libyas-saif-al-islam-gaddafi?traffic_source=rss",
-    "summary": "Saif al-Islam, son of former Libyan leader Muammar Gaddafi, has been killed in the west of the North African country.",
-    "timestamp": 1770157407.0,
-    "date": "Feb 03, 22:23"
   },
   {
     "source": "The Verge",
@@ -976,36 +1048,12 @@
     "date": "Feb 03, 21:01"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Sudan\u2019s military breaks through years-long RSF blockade in Kadugli",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/3/sudans-military-breaks-through-years-long-rsf-blockade-in-kadugli?traffic_source=rss",
-    "summary": "Sudanese military officials say they\u2019ve broken through a siege by the Rapid Support Forces (RSF) in Kadugli.",
-    "timestamp": 1770152326.0,
-    "date": "Feb 03, 20:58"
-  },
-  {
     "source": "New York Times",
     "title": "Iran\u2019s President Backs \u2018Fair\u2019 Talks With U.S. as Confrontation Looms",
     "link": "https://www.nytimes.com/2026/02/03/world/middleeast/iran-president-talks-istanbul-witkoff-kushner.html",
     "summary": "President Masoud Pezeshkian said on Tuesday that he supported \u201cequitable negotiations.\u201d Talks are expected on Friday, as diplomats work to defuse the crisis.",
     "timestamp": 1770152018.0,
     "date": "Feb 03, 20:53"
-  },
-  {
-    "source": "New York Times",
-    "title": "U.S. Fighter Jet Shoots Down Iranian Drone Amid Heightened Tensions",
-    "link": "https://www.nytimes.com/2026/02/03/us/politics/us-iran-drone-downing.html",
-    "summary": "A U.S. fighter jet shot down the Iranian drone after it \u201cunnecessarily maneuvered\u201d toward the Abraham Lincoln aircraft carrier.",
-    "timestamp": 1770151953.0,
-    "date": "Feb 03, 20:52"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Saif al-Islam Gaddafi, son of Libyan former leader, killed",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/3/saif-al-islam-gaddafi-son-of-libyan-former-leader-killed?traffic_source=rss",
-    "summary": "Saif al-Islam Gaddafi, son of former Libyan leader Muammar Gaddafi, has been killed in Libya, Al Jazeera Arabic reports.",
-    "timestamp": 1770151908.0,
-    "date": "Feb 03, 20:51"
   },
   {
     "source": "New York Times",
@@ -1034,7 +1082,7 @@
   {
     "source": "France 24",
     "title": "Police raid Paris offices of Musk's X over child sexual deepfakes",
-    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260203-french-police-raid-paris-offices-of-musk-s-x-over-child-sexual-deepfakes",
+    "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20260203-police-raid-paris-offices-of-musk-s-x-over-child-sexual-deepfakes",
     "summary": "The Paris prosecutor's cybercrime unit raided the French offices of Elon Musk's social media platform X on Tuesday morning, as part of a probe into alleged offences including political interference, u...",
     "timestamp": 1770151081.0,
     "date": "Feb 03, 20:38"
@@ -1054,14 +1102,6 @@
     "summary": "Speaking with FRANCE 24's Mark Owen, Sina Azodi, Director of the Middle East Studies program at George Washington University and author of \"Iran & the Bomb: United States, Iran &amp;the Nuclear Questi...",
     "timestamp": 1770150494.0,
     "date": "Feb 03, 20:28"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "\u2018Game is over\u2019: Iran\u2019s ex-leaders, hardliners clash after protest killings",
-    "link": "https://www.aljazeera.com/news/2026/2/3/game-is-over-irans-ex-leaders-hardliners-clash-after-protest-killings?traffic_source=rss",
-    "summary": "A former reformist leader wants the Islamic Republic gone while lawmakers wish to see an ex-president executed.",
-    "timestamp": 1770150266.0,
-    "date": "Feb 03, 20:24"
   },
   {
     "source": "New York Times",
@@ -1158,22 +1198,6 @@
     "summary": "Iran's president has issued the clearest indication he'd like to enter renewed nuclear talks with the US and others. But this comes amid mixed diplomatic messages, large anti-government protests, and ...",
     "timestamp": 1770146460.0,
     "date": "Feb 03, 19:21"
-  },
-  {
-    "source": "France 24",
-    "title": "US says shot down Iran drone that approached aircraft carrier in Arabian Sea",
-    "link": "https://www.france24.com/en/us-says-shot-down-iran-drone-that-approached-aircraft-carrier-in-arabian-sea",
-    "summary": "A US stealth warplane shot down an Iranian drone that \"aggressively\" approached an American aircraft carrier as it sailed in the Arabian Sea on Tuesday, a US military spokesman said. The incident occu...",
-    "timestamp": 1770145968.0,
-    "date": "Feb 03, 19:12"
-  },
-  {
-    "source": "France 24",
-    "title": "Never mind the bloodbath? Trump turns to direct talks with Iran over nukes",
-    "link": "https://www.france24.com/en/tv-shows/the-debate/20260203-never-mind-the-bloodbath-trump-turns-to-direct-talks-with-iran-over-nukes",
-    "summary": "One month after the US captured Nicolas Maduro, is Washington trying its Venezuela template on Iran? Not the part where special forces swoop for foreign leaders. Rather the part where the regime and i...",
-    "timestamp": 1770145891.0,
-    "date": "Feb 03, 19:11"
   },
   {
     "source": "The Verge",
@@ -1464,28 +1488,12 @@
     "date": "Feb 03, 14:10"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "India's oil shake-up: Can Venezuela really replace Russia?",
-    "link": "https://www.dw.com/en/india-s-oil-shake-up-can-venezuela-really-replace-russia/a-75778325?maca=en-rss-en-all-1573-rdf",
-    "summary": "Donald Trump says India has agreed to replace Russian oil with US supplies \u2014 and maybe even Venezuelan. DW asks whether the Latin American producer can realistically meet New Delhi's needs.",
-    "timestamp": 1770124920.0,
-    "date": "Feb 03, 13:22"
-  },
-  {
     "source": "BBC World",
     "title": "'I was thinking about mum': Boy, 13, swims for hours to save family swept out to sea",
     "link": "https://www.bbc.com/news/articles/cly3ezj3rg3o?at_medium=RSS&at_campaign=rss",
     "summary": "Austin Appelbee recounts his 'superhuman' swim which saved the lives of his mother and siblings in Australia.",
     "timestamp": 1770124748.0,
     "date": "Feb 03, 13:19"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Vietnam boosts EU partnership to match ties to China, US",
-    "link": "https://www.dw.com/en/vietnam-boosts-eu-partnership-to-match-ties-to-china-us/a-75782882?maca=en-rss-en-all-1573-rdf",
-    "summary": "The EU agreed to a \"Comprehensive Strategic Partnership\" with Vietnam, its biggest trading partner in Southeast Asia, during Antonio Costa's visit to Hanoi. But Russia, China and the US have all gotte...",
-    "timestamp": 1770124500.0,
-    "date": "Feb 03, 13:15"
   },
   {
     "source": "TechCrunch",
@@ -1582,14 +1590,6 @@
     "summary": "<p>Plaintiffs in case say they were lured from Japan, exploited for labour and cut off from families for generations</p><p>It has been more than six decades since Eiko Kawasaki left Japan to begin a n...",
     "timestamp": 1769922017.0,
     "date": "Feb 01, 05:00"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Starmer hopes his China trip will begin the thaw after recent ice age",
-    "link": "https://www.theguardian.com/world/2026/jan/31/starmer-hopes-his-china-trip-will-begin-the-thaw-after-recent-ice-age",
-    "summary": "<p>PM flies out after courting world\u2019s second biggest economy aware of difficult balance of risks and potential rewards</p><p>The last British prime minister to visit China was <a href=\"https://www.th...",
-    "timestamp": 1769839255.0,
-    "date": "Jan 31, 06:00"
   },
   {
     "source": "The Guardian",
