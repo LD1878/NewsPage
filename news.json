@@ -1,35 +1,147 @@
 [
   {
+    "source": "New York Times",
+    "title": "Thousands Displaced by Military Operation in Pakistan",
+    "link": "https://www.nytimes.com/2026/02/05/world/asia/pakistan-military-operation-displaced-people.html",
+    "summary": "Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan.",
+    "timestamp": 1770283363.0,
+    "date": "Feb 05, 09:22"
+  },
+  {
+    "source": "CNBC",
+    "title": "Sweden\u2019s Volvo Cars on track for worst trading day ever as shares plunge over 18%",
+    "link": "https://www.cnbc.com/2026/02/05/volvo-cars-shares-autos-tariffs-profit.html",
+    "summary": "The Sweden-based automaker posted a substantial drop in fourth-quarter profit, citing tariffs, currency effects and weak demand.",
+    "timestamp": 1770283238.0,
+    "date": "Feb 05, 09:20"
+  },
+  {
+    "source": "BBC World",
+    "title": "Naked images remained in Epstein files despite outcry",
+    "link": "https://www.bbc.com/news/articles/c5yd10yp2m1o?at_medium=RSS&at_campaign=rss",
+    "summary": "Four images seen by BBC Verify show partially clothed women with their faces and bodies unredacted.",
+    "timestamp": 1770283131.0,
+    "date": "Feb 05, 09:18"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Man charged with \u2018terrorism\u2019 for bomb at Indigenous protest in Australia",
+    "link": "https://www.aljazeera.com/news/2026/2/5/man-charged-with-terrorism-for-bomb-at-indigenous-protest-in-australia?traffic_source=rss",
+    "summary": "The charge marks the first instance of an individual being prosecuted for this specific offence in Western Australia.",
+    "timestamp": 1770283103.0,
+    "date": "Feb 05, 09:18"
+  },
+  {
+    "source": "CNBC",
+    "title": "CNBC's Inside India newsletter: The facts \u2014 and frictions \u2014 of the U.S.-India trade deal",
+    "link": "https://www.cnbc.com/2026/02/05/cnbcs-inside-india-newsletter-the-facts-and-frictions-of-the-us-india-trade-deal.html",
+    "summary": "The India-U.S. trade deal is a significant breakthrough, but is laced with terms that can cause friction between the two nations.",
+    "timestamp": 1770282937.0,
+    "date": "Feb 05, 09:15"
+  },
+  {
+    "source": "New York Times",
+    "title": "Russia-Ukraine Peace Talks Stretch Into a Second Day",
+    "link": "https://www.nytimes.com/2026/02/05/world/europe/russia-ukraine-peace-talks.html",
+    "summary": "Little has been made public so far, but negotiators were expected to talk about the fate of Ukrainian territory in the east and security guarantees for Ukraine.",
+    "timestamp": 1770282858.0,
+    "date": "Feb 05, 09:14"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Indonesia on \u2018right track\u2019 to hit GDP, investment goals; Danantara keen to work with Temasek, Khazanah: Minister",
+    "link": "https://www.channelnewsasia.com/asia/indonesia-rosan-perkasa-danantara-temasek-khazanah-cna-summit-5906326",
+    "summary": "At the CNA Summit held in Jakarta on Thursday (Feb 5), Indonesia\u2019s Investment and Downstream Industry Minister Rosan Perkasa Roeslani called for more collaboration between the government, private sect...",
+    "timestamp": 1770282420.0,
+    "date": "Feb 05, 09:07"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Gaza patients head to Rafah crossing as people return amid Israeli attacks",
+    "link": "https://www.aljazeera.com/news/2026/2/5/gaza-patients-head-to-rafah-crossing-as-people-return-amid-israeli-attacks?traffic_source=rss",
+    "summary": "Twenty-five more Palestinians arrive in Gaza as 13 patients in need of treatment to begin evacuations through Rafah.",
+    "timestamp": 1770282176.0,
+    "date": "Feb 05, 09:02"
+  },
+  {
+    "source": "CNBC",
+    "title": "World's largest jeweler jumps as CEO says firm wants to pivot from silver",
+    "link": "https://www.cnbc.com/2026/02/05/pandora-stock-pndora-silver-price-jeweler-platinum.html",
+    "summary": "Pandora, the world's largest jeweler by volume, rose in morning trading after the company addressed investor concerns about its reliance on silver.",
+    "timestamp": 1770281695.0,
+    "date": "Feb 05, 08:54"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Britain to work with Microsoft to build deepfake detection system",
+    "link": "https://www.channelnewsasia.com/business/britain-work-microsoft-build-deepfake-detection-system-5909456",
+    "summary": "",
+    "timestamp": 1770281544.0,
+    "date": "Feb 05, 08:52"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Taiwan to ramp up purchases of US natural gas this year",
+    "link": "https://www.channelnewsasia.com/business/taiwan-ramp-up-purchases-us-natural-gas-year-5909461",
+    "summary": "",
+    "timestamp": 1770281543.0,
+    "date": "Feb 05, 08:52"
+  },
+  {
+    "source": "CNBC",
+    "title": "Oil giant Shell posts weakest quarterly profit in nearly five years, keeps buybacks steady",
+    "link": "https://www.cnbc.com/2026/02/05/shell-earnings-q4-2025.html",
+    "summary": "The results come as lower oil prices force European energy majors to confront some tough choices this earnings season.",
+    "timestamp": 1770281456.0,
+    "date": "Feb 05, 08:50"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Analysis:Decisive win for Japan PM Takaichi may be best scenario for bonds, yen",
+    "link": "https://www.channelnewsasia.com/business/analysisdecisive-win-japan-pm-takaichi-may-be-best-scenario-bonds-yen-5909441",
+    "summary": "",
+    "timestamp": 1770281268.0,
+    "date": "Feb 05, 08:47"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Mount Fuji cherry blossom festival cancelled due to overtourism",
+    "link": "https://www.channelnewsasia.com/east-asia/japan-mount-fuji-cherry-blossom-festival-cancelled-overtourism-5909406",
+    "summary": "",
+    "timestamp": 1770280920.0,
+    "date": "Feb 05, 08:42"
+  },
+  {
+    "source": "New York Times",
+    "title": "U.S. and Iran to Hold Talks in Oman on Friday",
+    "link": "https://www.nytimes.com/2026/02/04/world/middleeast/iran-us-talks-oman.html",
+    "summary": "The White House confirmed a meeting would take place after days of conflicting reports on the talks\u2019 timing, location and format.",
+    "timestamp": 1770280872.0,
+    "date": "Feb 05, 08:41"
+  },
+  {
+    "source": "BBC World",
+    "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump",
+    "link": "https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss",
+    "summary": "Their call comes in the wake of a flurry of visits by Western leaders to China in recent months.",
+    "timestamp": 1770280576.0,
+    "date": "Feb 05, 08:36"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "The weapons the US has in place as it threatens to attack Iran",
+    "link": "https://www.aljazeera.com/video/project-force-2/2026/2/5/the-weapons-the-us-has-in-place-as-it-threatens-to-attack-iran?traffic_source=rss",
+    "summary": "As negotiations are scheduled, Alex Gatopoulos breaks down how the US is applying pressure from the air, sea and sky",
+    "timestamp": 1770280442.0,
+    "date": "Feb 05, 08:34"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Man conspired to smuggle puppies across border, bred dogs for sale",
     "link": "https://www.channelnewsasia.com/singapore/man-smuggle-puppies-bred-sale-5909311",
     "summary": "The crimes were uncovered when ICA discovered puppies hidden in a motorcycle at Tuas Checkpoint, which were meant to be delivered to Pawhaus &amp; Dognassium Doggie Daycare.",
     "timestamp": 1770279990.0,
     "date": "Feb 05, 08:26"
-  },
-  {
-    "source": "CNBC",
-    "title": "World's largest jeweler jumps 7% as CEO says firm wants to pivot from silver",
-    "link": "https://www.cnbc.com/2026/02/05/pandora-stock-pndora-silver-price-jeweler-platinum.html",
-    "summary": "Pandora, the world's largest jeweler by volume, rose in morning trading after the company addressed investor concerns about its reliance on silver.",
-    "timestamp": 1770279877.0,
-    "date": "Feb 05, 08:24"
-  },
-  {
-    "source": "New York Times",
-    "title": "Thousands Displaced by Military Operation in Pakistan",
-    "link": "https://www.nytimes.com/2026/02/05/world/asia/pakistan-military-operation-displaced-people.html",
-    "summary": "Some 60,000 evacuees have been left in limbo by confusion and political disputes as Pakistan battles insurgents on its border with Afghanistan.",
-    "timestamp": 1770279565.0,
-    "date": "Feb 05, 08:19"
-  },
-  {
-    "source": "CNBC",
-    "title": "European stocks open lower with traders monitoring earnings from Shell, Maersk and more",
-    "link": "https://www.cnbc.com/2026/02/05/european-markets-stoxx-600-shell-anglo-american-maersk-earnings.html",
-    "summary": "European stocks opened lower as traders monitor more regional earnings reports Thursday.",
-    "timestamp": 1770279167.0,
-    "date": "Feb 05, 08:12"
   },
   {
     "source": "The Guardian",
@@ -43,17 +155,9 @@
     "source": "Deutsche Welle",
     "title": "How US Project Vault challenges China's rare-earth dominance",
     "link": "https://www.dw.com/en/how-us-project-vault-challenges-china-s-rare-earth-dominance/a-75795283?maca=en-rss-en-all-1573-rdf",
-    "summary": "Donald Trump's Project Vault seeks to secure US access to rare\u2011earth minerals vital for advanced tech and clean energy. The EU wants a minerals alliance with Washington \u2014 but can they really shift Chi...",
+    "summary": "Donald Trump's Project Vault seeks to secure US access to rare\u2011earth minerals vital for advanced tech and clean energy. The EU wants a minerals alliance with Washington, but can they really shift Chin...",
     "timestamp": 1770279060.0,
     "date": "Feb 05, 08:11"
-  },
-  {
-    "source": "CNBC",
-    "title": "Oil giant Shell posts weakest quarterly profit in nearly five years, keeps buybacks steady",
-    "link": "https://www.cnbc.com/2026/02/05/shell-earnings-q4-2025.html",
-    "summary": "The results come as lower oil prices force European energy majors to confront some tough choices this earnings season.",
-    "timestamp": 1770279014.0,
-    "date": "Feb 05, 08:10"
   },
   {
     "source": "CNBC",
@@ -144,6 +248,14 @@
     "date": "Feb 05, 07:38"
   },
   {
+    "source": "CNBC",
+    "title": "Gold bulls hold firm after historic metals sell-off \u2014 but silver could be in for a bumpier ride",
+    "link": "https://www.cnbc.com/2026/02/05/will-gold-silver-price-rise-2026-sell-off-slv-spot.html",
+    "summary": "Gold and silver are showing tentative signs of recovery after an intense sell-off. Here's where investment banks see the metals going.",
+    "timestamp": 1770276994.0,
+    "date": "Feb 05, 07:36"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Taiwan's ASE sees its advanced packaging business doubling to $3.2 billion in 2026",
     "link": "https://www.channelnewsasia.com/business/taiwans-ase-sees-its-advanced-packaging-business-doubling-32-billion-in-2026-5909301",
@@ -153,8 +265,8 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Germany updates: Merz meets with Saudi crown prince",
-    "link": "https://www.dw.com/en/germany-updates-merz-meets-with-saudi-crown-prince/live-75812212?maca=en-rss-en-all-1573-rdf",
+    "title": "Germany news: Merz meets with Saudi crown prince",
+    "link": "https://www.dw.com/en/germany-news-merz-meets-with-saudi-crown-prince/live-75812212?maca=en-rss-en-all-1573-rdf",
     "summary": "Chancellor Friedrich Merz is in Saudi Arabia, his first stop on a three-day visit to the Gulf region as Germany seeks closer partnerships in the region. DW has the latest.",
     "timestamp": 1770276720.0,
     "date": "Feb 05, 07:32"
@@ -169,7 +281,7 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "China\u2019s Xi holds calls with Trump, and Putin, on same day",
+    "title": "China's Xi holds calls with Trump, and Putin, on same day",
     "link": "https://www.dw.com/en/china-s-xi-holds-calls-with-trump-and-putin-on-same-day/a-75812442?maca=en-rss-en-all-1573-rdf",
     "summary": "China's leader has held separate talks with Donald Trump and Vladimir Putin, stressing a need for closer ties with Moscow while urging \"mutual respect\" with Washington.",
     "timestamp": 1770275940.0,
@@ -248,6 +360,14 @@
     "date": "Feb 05, 07:01"
   },
   {
+    "source": "The Guardian",
+    "title": "Capital gains tax discount to cost Australia $250bn over next decade with retirees and high-income earners to benefit most",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/05/capital-gains-tax-discount-to-cost-australia-250bn-over-next-decade-with-retirees-and-high-income-earners-to-benefit-most",
+    "summary": "<p>Parliamentary Budget Office figures show top 1% of taxpayers will receive nearly 60% of the benefit this financial year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/f...",
+    "timestamp": 1770274825.0,
+    "date": "Feb 05, 07:00"
+  },
+  {
     "source": "NPR",
     "title": "Nike faces federal probe over allegations of discrimination against white workers",
     "link": "https://www.npr.org/2026/02/05/g-s1-108780/nike-federal-probe-discrimination-white-workers",
@@ -323,7 +443,7 @@
     "source": "France 24",
     "title": "Endrick sends Lyon into French Cup quarter-finals with late goal",
     "link": "https://www.france24.com/en/tv-shows/sports/20260205-endrick-sends-lyon-french-cup-quarter-finals-late-goal",
-    "summary": "Lyon have a new star. Endrick once again proved crucial with an 80th-minute goal in Lyon\u2019s 2-0 win over Laval in the French Cup round of 16. It\u2019s Endrick\u2019s fifth goal since joining the French side in ...",
+    "summary": "Lyon have a new star. Endrick once again proved crucial with an 80th-minute goal in Lyon's 2-0 win over Laval in the French Cup round of 16. It\u2019s Endrick\u2019s fifth goal since joining the French side in ...",
     "timestamp": 1770272647.0,
     "date": "Feb 05, 06:24"
   },
@@ -368,22 +488,6 @@
     "date": "Feb 05, 06:08"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Analysis:'Software-mageddon'\u00a0leaves investors bargain-hunting but wary",
-    "link": "https://www.channelnewsasia.com/business/analysissoftware-mageddon-leaves-investors-bargain-hunting-wary-5909151",
-    "summary": "",
-    "timestamp": 1770271598.0,
-    "date": "Feb 05, 06:06"
-  },
-  {
-    "source": "BBC World",
-    "title": "Naked images remained in Epstein files despite outcry",
-    "link": "https://www.bbc.com/news/articles/c5yd10yp2m1o?at_medium=RSS&at_campaign=rss",
-    "summary": "Four images seen by BBC Verify show partially clothed women with their faces and bodies unredacted.",
-    "timestamp": 1770271195.0,
-    "date": "Feb 05, 05:59"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Bitcoin plunge continues, erasing gains since Trump\u2019s election",
     "link": "https://www.aljazeera.com/economy/2026/2/5/bitcoin-plunge-continues-erasing-gains-since-trumps-election?traffic_source=rss",
@@ -400,14 +504,6 @@
     "date": "Feb 05, 05:57"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Australia says attempted bombing of national day protest was act of terror",
-    "link": "https://www.channelnewsasia.com/world/australia-national-day-protest-terror-act-attempted-bombing-5908881",
-    "summary": "A 31-year-old man was arrested on accusations of hurling a homemade bomb into a crowd of several thousand people in the city of Perth.",
-    "timestamp": 1770270960.0,
-    "date": "Feb 05, 05:56"
-  },
-  {
     "source": "BBC World",
     "title": "Watch: Inside Gaza hospital struggling to provide care to newborn babies",
     "link": "https://www.bbc.com/news/videos/c62wpd7wj3ro?at_medium=RSS&at_campaign=rss",
@@ -422,14 +518,6 @@
     "summary": "Talks between Iran and the United States will take place in Oman on Friday.",
     "timestamp": 1770270240.0,
     "date": "Feb 05, 05:44"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Khelif says she is open to genetic testing by IOC for 2028 Olympics",
-    "link": "https://www.channelnewsasia.com/sport/khelif-says-she-open-genetic-testing-ioc-2028-olympics-5909106",
-    "summary": "",
-    "timestamp": 1770269956.0,
-    "date": "Feb 05, 05:39"
   },
   {
     "source": "CNBC",
@@ -456,14 +544,6 @@
     "date": "Feb 05, 05:33"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Morning Bid: Skittish investors haunted by tech sell-off",
-    "link": "https://www.channelnewsasia.com/business/morning-bid-skittish-investors-haunted-tech-sell-5909061",
-    "summary": "",
-    "timestamp": 1770269564.0,
-    "date": "Feb 05, 05:32"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Who are the past winners, and what\u2019s the history of the T20 World Cup?",
     "link": "https://www.aljazeera.com/sports/2026/2/5/who-are-the-past-winners-and-whats-the-history-of-the-t20-world-cup?traffic_source=rss",
@@ -478,22 +558,6 @@
     "summary": "Report says an 80-year-old suspect faces charges on several counts, including premeditated murder.",
     "timestamp": 1770268994.0,
     "date": "Feb 05, 05:23"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Suspect identified in disappearance of four-year-old Gus Lamont in outback South Australia",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/05/gus-lamont-disappearance-four-year-old-outback-major-crime-ntwnfb",
-    "summary": "<p>Gus was last seen playing outside home on family sheep station<strong> </strong>in September, with his disappearance declared a major crime</p><ul><li><p><a href=\"https://www.theguardian.com/austra...",
-    "timestamp": 1770268950.0,
-    "date": "Feb 05, 05:22"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Mediacorp secures rights to broadcast 2026 FIFA World Cup; 28 matches to be shown for free",
-    "link": "https://www.channelnewsasia.com/sport/mediacorp-show-fifa-world-cup-2026-football-matches-28-free-games-mewatch-channel-5-5908951",
-    "summary": "The 28 matches include 24 group-stage games, both semi-finals and the final.",
-    "timestamp": 1770268800.0,
-    "date": "Feb 05, 05:20"
   },
   {
     "source": "BBC World",
@@ -558,14 +622,6 @@
     "summary": "Yunus tried to bring reforms and justice for Hasina-era victims. But as his stint as leader ends, he has his critics.",
     "timestamp": 1770267207.0,
     "date": "Feb 05, 04:53"
-  },
-  {
-    "source": "CNBC",
-    "title": "China's Hong Kong-listed tech stocks enter bear market as tax and AI fears take hold",
-    "link": "https://www.cnbc.com/2026/02/05/china-tech-hsi-enters-bear-market-as-tax-ai-fears-take-hold.html",
-    "summary": "Chinese technology stocks have slid into bear market territory, marking a sharp reversal from last year's rally.",
-    "timestamp": 1770266938.0,
-    "date": "Feb 05, 04:48"
   },
   {
     "source": "Al Jazeera",
@@ -680,14 +736,6 @@
     "date": "Feb 05, 02:47"
   },
   {
-    "source": "New York Times",
-    "title": "U.S. and Iran to Hold Talks in Oman on Friday",
-    "link": "https://www.nytimes.com/2026/02/04/world/middleeast/iran-us-talks-oman.html",
-    "summary": "The White House confirmed a meeting would take place after days of conflicting reports on the talks\u2019 timing, location and format.",
-    "timestamp": 1770259556.0,
-    "date": "Feb 05, 02:45"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Nike probed by Trump appointee over claims of bias against white workers",
     "link": "https://www.aljazeera.com/economy/2026/2/5/nike-probed-by-trump-appointee-over-claims-of-bias-against-white-workers?traffic_source=rss",
@@ -712,28 +760,12 @@
     "date": "Feb 05, 01:43"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Russia-Ukraine war: List of key events, day 1,442",
-    "link": "https://www.aljazeera.com/news/2026/2/5/russia-ukraine-war-list-of-key-events-day-1442?traffic_source=rss",
-    "summary": "These are the key developments from day 1,442 of Russia\u2019s war on Ukraine.",
-    "timestamp": 1770254628.0,
-    "date": "Feb 05, 01:23"
-  },
-  {
     "source": "France 24",
     "title": "Armed Islamist extremists kill at least 162 in western Nigeria villages",
     "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
     "summary": "At least 162 people were killed on Tuesday in attacks on the villages of Woro and Nuku in Kwara state, Nigeria, a lawmaker said. The assaults, carried out by Islamic State group-linked Lakurawa milita...",
     "timestamp": 1770254353.0,
     "date": "Feb 05, 01:19"
-  },
-  {
-    "source": "BBC World",
-    "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump",
-    "link": "https://www.bbc.com/news/articles/c62wpjd3j1zo?at_medium=RSS&at_campaign=rss",
-    "summary": "Wednesday's call comes in the wake of a flurry of visits by Western leaders to China in recent months.",
-    "timestamp": 1770254114.0,
-    "date": "Feb 05, 01:15"
   },
   {
     "source": "BBC World",
@@ -774,14 +806,6 @@
     "summary": "A student uprising promised a new dawn in Bangladesh but old parties are tipped to win a landmark election.",
     "timestamp": 1770251715.0,
     "date": "Feb 05, 00:35"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "UN agency warns of \u2018sharp increase\u2019 in measles cases in the Americas",
-    "link": "https://www.aljazeera.com/news/2026/2/5/un-agency-warns-of-sharp-increase-in-measles-cases-in-the-americas?traffic_source=rss",
-    "summary": "Mexico and the US both reported thousands of measles cases last year, threatening their measles elimination status.",
-    "timestamp": 1770251531.0,
-    "date": "Feb 05, 00:32"
   },
   {
     "source": "BBC World",
@@ -926,14 +950,6 @@
     "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
     "timestamp": 1770245626.0,
     "date": "Feb 04, 22:53"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Ukraine says first day of peace talks with Russia \u2018productive\u2019",
-    "link": "https://www.aljazeera.com/news/2026/2/4/ukraine-says-first-day-of-peace-talks-with-russia?traffic_source=rss",
-    "summary": "Zelenskyy expects negotiations to soon lead to another prisoner exchange.",
-    "timestamp": 1770245533.0,
-    "date": "Feb 04, 22:52"
   },
   {
     "source": "France 24",
@@ -1243,7 +1259,7 @@
     "source": "France 24",
     "title": "Epstein's world: How many will actually fall from grace?",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20260204-epstein-s-world-how-many-will-actually-fall-from-grace",
-    "summary": "Moving day at the palace.\u00a0Or should we say moving night. The former prince Andrew exiting Windsor Castle under the cover of dark for his brother\u2019s private Sandringham estate in Norfolk. The latest doc...",
+    "summary": "It's moving day at the palace \u2013 or should we say moving night. The former prince Andrew exited Windsor Castle under the cover of darkness for his brother's private Sandringham estate in Norfolk. The l...",
     "timestamp": 1770232238.0,
     "date": "Feb 04, 19:10"
   },
@@ -1424,14 +1440,6 @@
     "date": "Feb 04, 15:12"
   },
   {
-    "source": "CNBC",
-    "title": "A surprising share of homeowners have high mortgage rates. Here's the breakdown",
-    "link": "https://www.cnbc.com/2026/02/04/homeowner-mortgage-rates-breakdown.html",
-    "summary": "About 20% of borrowers have mortgages with a rate over 6%.",
-    "timestamp": 1770217876.0,
-    "date": "Feb 04, 15:11"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Washington Post begins large-scale layoffs",
     "link": "https://www.dw.com/en/washington-post-begins-large-scale-layoffs/a-75805313?maca=en-rss-en-all-1573-rdf",
@@ -1502,14 +1510,6 @@
     "summary": "<p>Ifunanya Nwangene died in hospital after being bitten in her Abuja home, raising questions about&nbsp;the availability of effective antivenoms</p><p>In a last message to her friends, Ifunanya Nwang...",
     "timestamp": 1770199239.0,
     "date": "Feb 04, 10:00"
-  },
-  {
-    "source": "New York Times",
-    "title": "Gloves Come Off in Gulf as Trump\u2019s Closest Arab Allies Clash",
-    "link": "https://www.nytimes.com/2026/02/04/world/middleeast/emirates-saudi-arabia-rift.html",
-    "summary": "A feud between Saudi Arabia and the United Arab Emirates is reshaping conflicts and alliances across the Middle East and Africa.",
-    "timestamp": 1770197145.0,
-    "date": "Feb 04, 09:25"
   },
   {
     "source": "The Guardian",
