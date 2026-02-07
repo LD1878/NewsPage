@@ -1,5 +1,69 @@
 [
   {
+    "source": "France 24",
+    "title": "Suicide blast at Islamabad mosque kills at least 31",
+    "link": "https://www.france24.com/en/suicide-blast-at-islamabad-mosque-kills-at-least-31",
+    "summary": "The Islamic State group has said it was behind a deadly suicide bombing that killed at least 31 people during Friday prayers at a Shiite mosque in Islamabad. Pakistan's Shiite minority have been targe...",
+    "timestamp": 1770456126.0,
+    "date": "Feb 07, 09:22"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Ukraine updates: Russia strikes war-hit nation\u2019s power grid",
+    "link": "https://www.dw.com/en/ukraine-updates-russia-strikes-war-hit-nation-s-power-grid/live-75852955?maca=en-rss-en-all-1573-rdf",
+    "summary": "Russian strikes target energy infrastructure across Ukraine, knocking out power, damaging power plants and deepening winter hardship. Meanwhile, Trump hints at progress in ending the war. DW has the l...",
+    "timestamp": 1770455820.0,
+    "date": "Feb 07, 09:17"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "England's Brook hopes to move on from 'horrendous' NZ controversy",
+    "link": "https://www.channelnewsasia.com/sport/englands-brook-hopes-move-horrendous-nz-controversy-5914486",
+    "summary": "",
+    "timestamp": 1770455442.0,
+    "date": "Feb 07, 09:10"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Reporter\u2019s Notebook: Portugal\u2019s far right surges in presidential election",
+    "link": "https://www.aljazeera.com/features/2026/2/7/portugal-far-right-presidential-election-historic-victory?traffic_source=rss",
+    "summary": "In the tourist haven of the Algarve, disaffected locals are embracing the far right as the cost of living rises.",
+    "timestamp": 1770454611.0,
+    "date": "Feb 07, 08:56"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Thousands mourn 32 victims of Islamabad Shia mosque bombing in Pakistan",
+    "link": "https://www.aljazeera.com/news/2026/2/7/thousands-mourn-32-victims-of-islamabad-shia-mosque-bombing-in-pakistan?traffic_source=rss",
+    "summary": "Pakistan blames &#039;Indian-backed proxies&#039; for the attack; New Delhi rejected the accusation as &#039;baseless and pointless&#039;.",
+    "timestamp": 1770454567.0,
+    "date": "Feb 07, 08:56"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "India now sets the terms of global cricket",
+    "link": "https://www.aljazeera.com/opinions/2026/2/7/india-now-sets-the-terms-of-global-cricket?traffic_source=rss",
+    "summary": "India\u2019s financial dominance is reshaping the sport\u2019s global balance.",
+    "timestamp": 1770454337.0,
+    "date": "Feb 07, 08:52"
+  },
+  {
+    "source": "New York Times",
+    "title": "Haiti Reaches \u2018Full Crisis\u2019 as Transition Government Expires",
+    "link": "https://www.nytimes.com/2026/02/06/world/americas/haiti-crisis-leadership-gangs.html",
+    "summary": "The tenure of a presidential council that has been running Haiti expires on Saturday. It\u2019s unclear what will come next.",
+    "timestamp": 1770453637.0,
+    "date": "Feb 07, 08:40"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "France to investigate former culture minister Lang over Epstein links",
+    "link": "https://www.aljazeera.com/news/2026/2/7/france-to-investigate-former-culture-minister-lang-over-epstein-links?traffic_source=rss",
+    "summary": "Pressure is mounting for Lang to resign as head of a French cultural institute over his ties to convicted sex offender.",
+    "timestamp": 1770453056.0,
+    "date": "Feb 07, 08:30"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Six-year-old girl dies after accident in Chinatown; police investigations ongoing",
     "link": "https://www.channelnewsasia.com/singapore/6-year-old-girl-dies-car-accident-chinatown-buddha-tooth-relic-temple-5914431",
@@ -14,6 +78,14 @@
     "summary": "France's former culture minister Jack Lang and his daughter Caroline are being investigated by the country's financial crimes prosecutors for \"laundering of aggravated tax-fraud proceeds\" after the la...",
     "timestamp": 1770452286.0,
     "date": "Feb 07, 08:18"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Iran\u2019s foreign minister slams hypocrisy over Israeli military expansion",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/7/irans-foreign-minister-slams-hypocrisy-over-israeli-military-expansion?traffic_source=rss",
+    "summary": "Iran\u2019s Foreign Minister Abbas Araghchi slammed the double standard allowing Israel to expand its military.",
+    "timestamp": 1770451945.0,
+    "date": "Feb 07, 08:12"
   },
   {
     "source": "France 24",
@@ -96,14 +168,6 @@
     "date": "Feb 07, 07:00"
   },
   {
-    "source": "New York Times",
-    "title": "In the Grip of Gangs, Haiti Faces a Government Leadership Vacuum",
-    "link": "https://www.nytimes.com/2026/02/06/world/americas/haiti-crisis-leadership-gangs.html",
-    "summary": "The tenure of a presidential council that has been running Haiti expires on Saturday. It\u2019s unclear what will come next.",
-    "timestamp": 1770447570.0,
-    "date": "Feb 07, 06:59"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Trump hails \u2018very good\u2019 Iran talks but maintains threat of military action",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/2/7/trump-hails-very-good-iran-talks-but-maintains-threat-of-military-action?traffic_source=rss",
@@ -129,7 +193,7 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "LIVE: Iran\u2019s top diplomat addresses Al Jazeera Forum in Doha",
+    "title": "LIVE: Palestine is region\u2019s \u2018moral compass\u2019, Iran FM tells Al Jazeera Forum",
     "link": "https://www.aljazeera.com/news/liveblog/2026/2/7/live-irans-top-diplomat-set-to-address-al-jazeera-forum-in-doha?traffic_source=rss",
     "summary": "Today&#039;s event focuses on Israel&#039;s genocidal war on Gaza and the state of the Arab world.",
     "timestamp": 1770446212.0,
@@ -171,7 +235,7 @@
     "source": "France 24",
     "title": "Live: Trump hails \u2018very good\u2019 Iran talks, says negotiations will continue early next week",
     "link": "https://www.france24.com/en/asia-pacific/20260207-live-trump-hails-very-good-iran-talks-says-negotiations-will-continue-early-next-week",
-    "summary": "US President Donald Trump on Friday described the latest round of indirect talks between Washington and Tehran as \"very good\", saying that the discussions would like resume \"early next week\". The Oman...",
+    "summary": "US President Donald Trump on Friday described the latest round of indirect talks between Washington and Tehran as \"very good\", saying that the discussions would resume \"early next week\". The Oman talk...",
     "timestamp": 1770444430.0,
     "date": "Feb 07, 06:07"
   },
@@ -400,6 +464,14 @@
     "date": "Feb 07, 02:28"
   },
   {
+    "source": "France 24",
+    "title": "Cuba adopts urgent measures to protect essential services as US threatens fuel supply",
+    "link": "https://www.france24.com/en/americas/20260207-cuba-adopts-urgent-measures-to-protect-essential-services-as-us-threatens-fuel-supply",
+    "summary": "As the US moves to cut off Cuba's critical oil supply through the threat of secondary sanctions against any country exporting fuel to the island, the Cuban government on Friday announced emergency mea...",
+    "timestamp": 1770431231.0,
+    "date": "Feb 07, 02:27"
+  },
+  {
     "source": "The Guardian",
     "title": "Minns invokes special powers for NSW police to restrict protests during Israeli president\u2019s visit",
     "link": "https://www.theguardian.com/australia-news/2026/feb/07/chris-minns-restrict-protest-nsw-police-isaac-herzog-israel-president-visit",
@@ -536,14 +608,6 @@
     "date": "Feb 07, 00:26"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Venezuela\u2019s National Assembly leader sets deadline for prisoner release",
-    "link": "https://www.aljazeera.com/news/2026/2/7/venezuelas-national-assembly-leader-sets-deadline-for-prisoner-release?traffic_source=rss",
-    "summary": "Jorge Rodriguez told family members of Venezuelan political prisoners that they would be freed on February 13.",
-    "timestamp": 1770423199.0,
-    "date": "Feb 07, 00:13"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "How what you eat affects cancer risk: 6 science-backed ways to lower it through diet",
     "link": "https://www.channelnewsasia.com/wellness/food-diet-nutrition-cancer-risk-5894811",
@@ -624,30 +688,6 @@
     "date": "Feb 06, 23:27"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Thousands gather in Libya for funeral of Saif al-Islam Gaddafi",
-    "link": "https://www.aljazeera.com/news/2026/2/6/thousands-gather-at-funeral-of-murdered-son-of-libyas-gaddafi?traffic_source=rss",
-    "summary": "Authorities investigating killing of Saif al-Islam Gaddafi, once seen as de-facto PM under father&#039;s iron-fisted rule.",
-    "timestamp": 1770420303.0,
-    "date": "Feb 06, 23:25"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "As Thailand votes, can the reformist People\u2019s Party break the cycle?",
-    "link": "https://www.aljazeera.com/news/2026/2/6/as-thais-head-to-polls-can-the-reformist-peoples-party-break-the-cycle?traffic_source=rss",
-    "summary": "Despite leading polls, the People&#039;s Party confronts an establishment with a two-decade record of overturning mandates.",
-    "timestamp": 1770420225.0,
-    "date": "Feb 06, 23:23"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "\u2018Nothing retaliatory\u2019: US seeks deportation of 5-year-old Liam Conejo Ramos",
-    "link": "https://www.aljazeera.com/news/2026/2/6/nothing-retaliatory-us-seeks-deportation-of-5-year-old-liam-conejo-ramos?traffic_source=rss",
-    "summary": "Lawyers for the Ecuadorian asylum seeker have speculated the Trump administration is seeking &#039;retaliatory&#039; actions.",
-    "timestamp": 1770419610.0,
-    "date": "Feb 06, 23:13"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Trump removes racist video of Obamas after backlash",
     "link": "https://www.dw.com/en/trump-removes-racist-video-of-obamas-after-backlash/a-75852149?maca=en-rss-en-all-1573-rdf",
@@ -657,7 +697,7 @@
   },
   {
     "source": "BBC World",
-    "title": "'I dreamed of becoming a K-pop idol - but I felt like I was scammed'",
+    "title": "I dreamed of becoming a K-pop idol - but I felt like I was scammed",
     "link": "https://www.bbc.com/news/articles/cvgnq9rwyqno?at_medium=RSS&at_campaign=rss",
     "summary": "Stories of aspiring foreign trainees shed light on an under-regulated industry, where there is opportunity and risk.",
     "timestamp": 1770419112.0,
@@ -686,22 +726,6 @@
     "summary": "Tech's megacaps announced major increases in capex spend for 2026, and now investors are preparing for cash to dwindle.",
     "timestamp": 1770418339.0,
     "date": "Feb 06, 22:52"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "For cricket-mad Bangladesh, T20 World Cup expulsion means heartbreak",
-    "link": "https://www.aljazeera.com/sports/2026/2/6/what-t20-world-cup-expulsion-means-for-bangladesh-and-regional-relations?traffic_source=rss",
-    "summary": "As Bangladesh watch the T20 World Cup from afar, the mood in Dhaka is sombre and the players are left disappointed.",
-    "timestamp": 1770418329.0,
-    "date": "Feb 06, 22:52"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Milan and Cortina d\u2019Ampezzo burn dual flames for Winter Games",
-    "link": "https://www.channelnewsasia.com/sport/milan-and-cortina-dampezzo-burn-dual-flames-winter-games-5914011",
-    "summary": "",
-    "timestamp": 1770417967.0,
-    "date": "Feb 06, 22:46"
   },
   {
     "source": "The Verge",
@@ -777,14 +801,6 @@
   },
   {
     "source": "CNBC",
-    "title": "Uber held liable, ordered to pay $8.5 million in driver rape suit",
-    "link": "https://www.cnbc.com/2026/02/06/uber-liable-pay-8-5-million-driver-rape-suit.html",
-    "summary": "The case lays the groundwork for about 3,000 other sexual misconduct cases the ridesharing platform is facing nationwide.",
-    "timestamp": 1770414322.0,
-    "date": "Feb 06, 21:45"
-  },
-  {
-    "source": "CNBC",
     "title": "Amazon leads Big Tech\u2019s $1 trillion wipeout as AI bubble fears ignite sell-off",
     "link": "https://www.cnbc.com/2026/02/06/ai-sell-off-stocks-amazon-oracle.html",
     "summary": "Microsoft, Nvidia, Oracle, Meta, Amazon and Alphabet all saw their shares fall in the week up to the market close on Thursday.",
@@ -837,6 +853,14 @@
     "link": "https://www.npr.org/2026/02/06/nx-s1-5694689/californias-largest-childrens-hospital-system-ends-gender-affirming-care-for-youth",
     "summary": "Two hospitals in California are discontinuing hormone treatments for transgender youth, citing Trump administration pressures. In the past year, many hospitals and clinics have scaled back that care.",
     "timestamp": 1770412777.0,
+    "date": "Feb 06, 21:19"
+  },
+  {
+    "source": "NPR",
+    "title": "Japan's first female prime minister stakes her future on snap elections",
+    "link": "https://www.npr.org/2026/02/06/nx-s1-5699259/japans-first-female-prime-minister-stakes-her-future-on-snap-elections",
+    "summary": "Japan's first female premier has called snap elections for Sunday. She seeks a mandate for what could be sweeping changes and possibly a lurch to the political right.",
+    "timestamp": 1770412767.0,
     "date": "Feb 06, 21:19"
   },
   {
@@ -1288,22 +1312,6 @@
     "date": "Feb 06, 16:00"
   },
   {
-    "source": "France 24",
-    "title": "Thousands attend Gaddafi son\u2019s funeral, highlighting Libya\u2019s divided loyalties",
-    "link": "https://www.france24.com/en/africa/20260206-thousands-attend-burial-of-slain-son-of-libya-s-gaddafi",
-    "summary": "Thousands of mourners gathered in the western Libyan town of Bani Walid on Friday for the funeral of former Libyan leader Muammar Gaddafi's son, Saif al-Islam Gaddafi, who was killed this week. The tu...",
-    "timestamp": 1770393549.0,
-    "date": "Feb 06, 15:59"
-  },
-  {
-    "source": "France 24",
-    "title": "US arrests \u2018key participant\u2019 in deadly 2012 Benghazi consulate attack",
-    "link": "https://www.france24.com/en/americas/20260206-us-arrests-key-participant-in-deadly-2012-benghazi-consulate-attack",
-    "summary": "The US has arrested and extradited a \"key participant\" in the\u00a02012 attack on its consulate in Benghazi, Libya, which killed four Americans, including\u00a0Ambassador Chris Stevens,\u00a0Attorney General Pam \u200bBo...",
-    "timestamp": 1770393083.0,
-    "date": "Feb 06, 15:51"
-  },
-  {
     "source": "NPR",
     "title": "Hate them or not, Patriots fans want the glory back in Super Bowl LX",
     "link": "https://www.npr.org/2026/02/06/nx-s1-5692947/super-bowl-lx-patriots-fans",
@@ -1344,20 +1352,20 @@
     "date": "Feb 06, 15:39"
   },
   {
-    "source": "NPR",
-    "title": "Congress passes $50 billion foreign aid bill, despite Trump's cuts in 2025",
-    "link": "https://www.npr.org/2026/02/06/nx-s1-5702252/foreign-aid-trump-cuts",
-    "summary": "Congress allocated $50 billion for initiatives aimed at supporting democracy, scholarship programs, U.S. embassy operations and health and humanitarian programs around the world.",
-    "timestamp": 1770391178.0,
-    "date": "Feb 06, 15:19"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "German train conductor's death highlights rise in violence",
     "link": "https://www.dw.com/en/german-train-conductor-s-death-highlights-rise-in-violence/a-75836876?maca=en-rss-en-all-1573-rdf",
     "summary": "Following a fatal attack on a railway employee, a debate has erupted in Germany about how such incidents can be prevented.",
     "timestamp": 1770391080.0,
     "date": "Feb 06, 15:18"
+  },
+  {
+    "source": "CNBC",
+    "title": "Silver's volatility has exceeded 100%. Where exactly is the bottom?",
+    "link": "https://www.cnbc.com/2026/02/06/silver-price-volatility-investors-search-bottom-meme-stock-commodity-gamestop-buy-sell.html",
+    "summary": "Silver's dizzying plunge last week and erratic trading this week have left investors wondering: Where and when is the bottom?",
+    "timestamp": 1770390867.0,
+    "date": "Feb 06, 15:14"
   },
   {
     "source": "TechCrunch",
@@ -1414,14 +1422,6 @@
     "summary": "European Union regulators released preliminary findings that TikTok's constant flow of content puts users' brains into \"autopilot mode.\" The social network has strongly rejected the accusations.",
     "timestamp": 1770386580.0,
     "date": "Feb 06, 14:03"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Sudanese refugee dentists rebuild care in Uganda",
-    "link": "https://www.dw.com/en/sudanese-refugee-dentists-rebuild-care-in-uganda/a-75823185?maca=en-rss-en-all-1573-rdf",
-    "summary": "Sudanese doctors who fled the war are rebuilding their medical careers in Kampala, offering free treatment to refugees and modern care for locals as they reconstruct a sense of purpose in exile.",
-    "timestamp": 1770386520.0,
-    "date": "Feb 06, 14:02"
   },
   {
     "source": "TechCrunch",
