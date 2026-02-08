@@ -1,5 +1,45 @@
 [
   {
+    "source": "CNA (Asia)",
+    "title": "Liverpool new signing Jacquet suffers 'serious' injury",
+    "link": "https://www.channelnewsasia.com/sport/liverpool-new-signing-jacquet-suffers-serious-injury-5915606",
+    "summary": "",
+    "timestamp": 1770529844.0,
+    "date": "Feb 08, 05:50"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Queensland moves to ban pro-Palestine slogan \u2018from the river to the sea\u2019 under sweeping new hate speech laws",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/08/queensland-pro-palestine-slogan-ban-proposed-hate-speech-laws-ntwnfb",
+    "summary": "<p>Laws to be introduced this week include up to two years in prison for distributing, displaying or reciting prohibited phrases to harass or offend</p><ul><li><p>Get our <a href=\"https://www.theguard...",
+    "timestamp": 1770529413.0,
+    "date": "Feb 08, 05:43"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "\u2018Better economy, fewer scammers\u2019: Hopes high among Thais as voting kicks off in snap election",
+    "link": "https://www.channelnewsasia.com/asia/thailand-election-2026-thai-voters-politics-5915516",
+    "summary": "With Thailand having cycled through three different prime ministers over the last three years, voters CNA spoke to on Sunday (Feb 8) expressed hopes that the polls would bring about more unity and sta...",
+    "timestamp": 1770528060.0,
+    "date": "Feb 08, 05:21"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Somalia\u2019s Mohamud slams Israel\u2019s interference, rejects base on Somaliland",
+    "link": "https://www.aljazeera.com/news/2026/2/8/somalias-mohamud-slams-israels-interference-rejects-base-on-somaliland?traffic_source=rss",
+    "summary": "Somali president promises to confront Israeli military presence amid reports of base plan in breakaway Somaliland.",
+    "timestamp": 1770527097.0,
+    "date": "Feb 08, 05:04"
+  },
+  {
+    "source": "NPR",
+    "title": "For many U.S. Olympic athletes, Italy feels like home turf",
+    "link": "https://www.npr.org/2026/02/08/nx-s1-5689990/for-many-us-olympic-athletes-italy-feels-like-home-turf",
+    "summary": "Many spent their careers training on the mountains they'll be competing on at the Winter Games. Lindsey Vonn wanted to stage a comeback on these slopes and Jessie Diggins won her first World Cup there...",
+    "timestamp": 1770526860.0,
+    "date": "Feb 08, 05:01"
+  },
+  {
     "source": "BBC World",
     "title": "Japanese people brave snow to vote in snap election",
     "link": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
@@ -46,6 +86,14 @@
     "summary": "Haiti has entered a state of political limbo with the US-backed Prime Minister Alix Didier Fils-Aime facing the daunting task of holding elections in the violence-gripped country.",
     "timestamp": 1770521700.0,
     "date": "Feb 08, 03:35"
+  },
+  {
+    "source": "BBC World",
+    "title": "Australia's opposition coalition reunites after row over hate-speech laws",
+    "link": "https://www.bbc.com/news/articles/cg7e981e4n5o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Nationals had split from the Liberal Party citing free speech concerns over laws brought in after the Bondi Beach attack.",
+    "timestamp": 1770521599.0,
+    "date": "Feb 08, 03:33"
   },
   {
     "source": "TechCrunch",
@@ -113,7 +161,7 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "Polls open in Thailand with three main parties vying for power",
+    "title": "Polls open in Thailand as reformists, conservatives vie for power",
     "link": "https://www.aljazeera.com/news/2026/2/8/polls-open-in-thailand-with-three-main-parties-vying-for-power?traffic_source=rss",
     "summary": "No single party is expected to secure a clear majority in Sunday&#039;s vote, raising the spectre of political instability.",
     "timestamp": 1770515741.0,
@@ -121,9 +169,9 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "India's Modi visits Malaysia to boost trade, security ties",
+    "title": "India, Malaysia renew pledges to boost trade, collaboration",
     "link": "https://www.channelnewsasia.com/asia/malaysia-modi-india-visit-2026-5915451",
-    "summary": "His meeting with Anwar Ibrahim will take place in Putrajaya on Sunday (Feb 8), where they will witness the signing of several cooperation agreements in health care, national security and labour.",
+    "summary": "Anwar said the partnership included deep collaborations in multiple fields, including trade and investments, food security, defence, healthcare and tourism.",
     "timestamp": 1770515280.0,
     "date": "Feb 08, 01:48"
   },
@@ -177,7 +225,7 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "Japan heads to polls as Takaichi seeks mandate for conservative agenda",
+    "title": "Japan votes as Sanae Takaichi seeks mandate for conservative agenda",
     "link": "https://www.aljazeera.com/news/2026/2/8/japans-sanae-takaichi-tipped-for-big-win-as-polls-open-in-snap-elections?traffic_source=rss",
     "summary": "Opinion polls suggest Takaichi&#039;s conservative coalition could win more than 300 of the 465 seats in the lower house.",
     "timestamp": 1770512771.0,
@@ -235,7 +283,7 @@
     "source": "Deutsche Welle",
     "title": "Japan election: Sanae Takaichi set for big win as polls open",
     "link": "https://www.dw.com/en/japan-election-sanae-takaichi-set-for-big-win-as-polls-open/a-75858163?maca=en-rss-en-all-1573-rdf",
-    "summary": "While Takaichi is popular, her conservative Liberal Democratic Party is not. The prime minister hopes the snap election will boost the ruling LDP and provide her with a strong mandate for her conserva...",
+    "summary": "Though Takaichi is popular, her nationalist Liberal Democratic Party is not. The prime minister hopes that the snap election will boost the ruling LDP and provide her with a strong mandate for her con...",
     "timestamp": 1770509460.0,
     "date": "Feb 08, 00:11"
   },
@@ -270,14 +318,6 @@
     "summary": "The congress is the ruling party's top gathering, a grand political set-piece that reinforces the regime's authority and can serve as a platform for announcements of policy shifts or elite personnel c...",
     "timestamp": 1770508440.0,
     "date": "Feb 07, 23:54"
-  },
-  {
-    "source": "The Guardian",
-    "title": "\u2018Take them away, crush them\u2019: Australia faces an ebike surge that some say poses a health emergency",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/07/take-them-away-crush-them-australia-faces-an-ebike-surge-that-some-say-poses-a-health-emergency",
-    "summary": "<p>They offer independence, reduce emissions and congestion. But they are also endangering lives</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking new...",
-    "timestamp": 1770507908.0,
-    "date": "Feb 07, 23:45"
   },
   {
     "source": "NPR",
@@ -336,6 +376,14 @@
     "date": "Feb 07, 23:24"
   },
   {
+    "source": "BBC World",
+    "title": "3 Doors Down lead singer Brad Arnold dies at 47",
+    "link": "https://www.bbc.com/news/articles/cre2egrg5q1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The Mississippi-born frontman of the popular rock band had announced a stage 4 cancer diagnosis in May 2025.",
+    "timestamp": 1770506528.0,
+    "date": "Feb 07, 23:22"
+  },
+  {
     "source": "NPR",
     "title": "'Washington Post' CEO resigns after going AWOL during massive job cuts",
     "link": "https://www.npr.org/2026/02/07/nx-s1-5705413/washington-post-ceo-resigns-will-lewis",
@@ -361,7 +409,7 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Takaichi tipped for big win as Japan votes",
+    "title": "Japan votes in snow-hit snap polls as Takaichi eyes strong mandate",
     "link": "https://www.channelnewsasia.com/east-asia/japan-elections-sanae-takaichi-polls-open-5915326",
     "summary": "Japan PM Sanae Takaichi is hoping to turn a honeymoon start into a resounding ballot box victory that could rile China and rattle financial markets.",
     "timestamp": 1770505380.0,
@@ -429,22 +477,6 @@
     "link": "https://www.channelnewsasia.com/singapore/crocodile-sentosa-beach-no-sightings-water-activities-resume-5905576",
     "summary": "Members of the public are, however, advised to adhere to safety signage and instructions and to report any crocodile sightings or encounters to NParks, said the Sentosa Development Corporation.",
     "timestamp": 1770501612.0,
-    "date": "Feb 07, 22:00"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Commentary: Where is AI showing up in the productivity data?",
-    "link": "https://www.channelnewsasia.com/commentary/ai-productivity-data-labour-growth-industry-5912506",
-    "summary": "Signs of AI's effects are already starting to peek through, says Soumaya Keynes for the Financial Times.",
-    "timestamp": 1770501600.0,
-    "date": "Feb 07, 22:00"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Thailand Election 2026: What to watch out for on polling day and beyond?",
-    "link": "https://www.channelnewsasia.com/asia/thailand-election-bhumjaithai-pheu-thai-people-party-what-know-shinawatra-5912341",
-    "summary": "For the first time in Thailand\u2019s history, a national referendum will be held alongside the general election on Sunday (Feb 8). Voters will not only elect 500 Members of Parliament, but also decide whe...",
-    "timestamp": 1770501600.0,
     "date": "Feb 07, 22:00"
   },
   {
@@ -1128,14 +1160,6 @@
     "date": "Feb 07, 12:33"
   },
   {
-    "source": "Al Jazeera",
-    "title": "US transfers ISIL detainees to Iraq as northeast Syria base draws down",
-    "link": "https://www.aljazeera.com/news/2026/2/7/us-transfers-isil-detainees-to-iraq-as-northeast-syria-base-draws-down?traffic_source=rss",
-    "summary": "Iraq launches investigations into ISIL detainees from Syria with 7,000 expected to arrive in total.",
-    "timestamp": 1770467387.0,
-    "date": "Feb 07, 12:29"
-  },
-  {
     "source": "France 24",
     "title": "Entitled: UK Monarchy, national security at risk amid Andrew\u2019s ties to sex trafficking & shady deals",
     "link": "https://www.france24.com/en/tv-shows/spotlight/20260207-entitled-uk-monarchy-national-security-at-risk-amid-andrew-s-ties-to-sex-trafficking-shady-deals",
@@ -1158,14 +1182,6 @@
     "summary": "The first season of ",
     "timestamp": 1770465600.0,
     "date": "Feb 07, 12:00"
-  },
-  {
-    "source": "NPR",
-    "title": "Lindsey Vonn is set to ski the Olympic downhill race with a torn ACL. How?",
-    "link": "https://www.npr.org/2026/02/07/nx-s1-5702223/lindsey-vonn-ski-the-olympic-downhill-torn-acl",
-    "summary": "An ACL tear would keep almost any other athlete from competing -- but not Lindsey Vonn, the 41-year-old superstar skier who is determined to cap off an incredible comeback from retirement with one las...",
-    "timestamp": 1770464975.0,
-    "date": "Feb 07, 11:49"
   },
   {
     "source": "Deutsche Welle",
@@ -1368,14 +1384,6 @@
     "date": "Feb 06, 22:43"
   },
   {
-    "source": "BBC World",
-    "title": "Milan-Cortina Games begin with vibrant opening ceremony",
-    "link": "https://www.bbc.com/sport/articles/czejep5z51wo?at_medium=RSS&at_campaign=rss",
-    "summary": "Andrea Bocelli and Mariah Carey perform as part of vibrant opening ceremony for the Milan-Cortina Winter Olympics.",
-    "timestamp": 1770417454.0,
-    "date": "Feb 06, 22:37"
-  },
-  {
     "source": "New York Times",
     "title": "France and Canada Open Consulates in Greenland, Following Trump Threats",
     "link": "https://www.nytimes.com/2026/02/06/world/europe/besides-stars-and-stripes-a-few-new-flags-are-flying-in-greenland.html",
@@ -1406,14 +1414,6 @@
     "summary": "NFL plans to look outside traditional media for potential partners for live games, NFL Media chief Hans Schroeder said.",
     "timestamp": 1770412917.0,
     "date": "Feb 06, 21:21"
-  },
-  {
-    "source": "BBC World",
-    "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
-    "link": "https://www.bbc.com/news/articles/cy4g3rne4n7o?at_medium=RSS&at_campaign=rss",
-    "summary": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza.",
-    "timestamp": 1770409677.0,
-    "date": "Feb 06, 20:27"
   },
   {
     "source": "TechCrunch",
