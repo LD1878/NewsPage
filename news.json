@@ -1,11 +1,219 @@
 [
   {
     "source": "CNBC",
+    "title": "AppLovin's stock pops 14% after short-seller CapitalWatch apologizes, retracts report on shareholder",
+    "link": "https://www.cnbc.com/2026/02/09/short-seller-capitalwatch-retraction-applovin-hao-tang.html",
+    "summary": "CapitalWatch wrote that its report linking AppLovin shareholder Hao Tang and criminal syndicates was inaccurate.",
+    "timestamp": 1770662843.0,
+    "date": "Feb 09, 18:47"
+  },
+  {
+    "source": "CNBC",
     "title": "FDA says Novo Nordisk's TV ad for obesity pill includes 'false or misleading' claims",
     "link": "https://www.cnbc.com/2026/02/09/fda-novo-nordisk-wegovy-tv-ad.html",
     "summary": "The FDA requested that Novo take immediate action to address the violations, which could include ceasing all ads containing misleading claims about the pill.",
-    "timestamp": 1770659214.0,
-    "date": "Feb 09, 17:46"
+    "timestamp": 1770662766.0,
+    "date": "Feb 09, 18:46"
+  },
+  {
+    "source": "CNBC",
+    "title": "S&P 500 rises, led by tech; Dow climbs to fresh record: Live updates",
+    "link": "https://www.cnbc.com/2026/02/08/stock-market-today-live-updates.html",
+    "summary": "The moves come after the major averages bounced back Friday from sizable losses suffered earlier in the week.",
+    "timestamp": 1770662757.0,
+    "date": "Feb 09, 18:45"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "So, what\u2019s going on with Musicboard?",
+    "link": "https://techcrunch.com/2026/02/09/so-whats-going-on-with-musicboard/",
+    "summary": "Is Musicboard shutting down? Company says no, but users are worried.",
+    "timestamp": 1770662695.0,
+    "date": "Feb 09, 18:44"
+  },
+  {
+    "source": "New York Times",
+    "title": "Keir Starmer\u2019s Allies Rally Around Him Amid Pressure to Resign as Britain\u2019s Prime Minister",
+    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson",
+    "summary": "The leader of the Scottish Labour Party called on Mr. Starmer to quit amid turmoil over an ambassador with close ties to Jeffrey Epstein. Potential successors in his party quickly backed him.",
+    "timestamp": 1770662592.0,
+    "date": "Feb 09, 18:43"
+  },
+  {
+    "source": "CNBC",
+    "title": "Workday CEO Carl Eschenbach is stepping down, co-founder Aneel Bhusri to take over",
+    "link": "https://www.cnbc.com/2026/02/09/workday-stock-carl-eschenbach-aneel-bhusri.html",
+    "summary": "The company's co-founder, Aneel Bhusri, who has previously served as chief executive, will replace Eschenbach.",
+    "timestamp": 1770662381.0,
+    "date": "Feb 09, 18:39"
+  },
+  {
+    "source": "New York Times",
+    "title": "Prince William Visits Saudi Arabia for Delicate Diplomacy",
+    "link": "https://www.nytimes.com/2026/02/09/world/europe/prince-william-saudi-arabia-diplomacy.html",
+    "summary": "The heir to the British throne will meet with Crown Prince Mohammed bin Salman, as Britain and Saudi Arabia look to strengthen ties.",
+    "timestamp": 1770662014.0,
+    "date": "Feb 09, 18:33"
+  },
+  {
+    "source": "CNBC",
+    "title": "Big Tech's gigantic AI spending plans are spooking investors. But history shows that's when you want to buy",
+    "link": "https://www.cnbc.com/2026/02/09/ai-spending-is-spooking-investors-but-history-shows-thats-when-you-want-to-buy-.html",
+    "summary": "The recent pullback in megacaps could prove a buying opportunity so long as the companies' growth remains attractive.",
+    "timestamp": 1770661888.0,
+    "date": "Feb 09, 18:31"
+  },
+  {
+    "source": "CNBC",
+    "title": "Student loan complaints hit record high, CFPB finds \u2014 but the watchdog agency omits details",
+    "link": "https://www.cnbc.com/2026/02/09/cfpb-student-loan-complaints.html",
+    "summary": "The Consumer Financial Protection Bureau's latest student loan report cites a record number of complaints from borrowers but leaves out certain information.",
+    "timestamp": 1770661699.0,
+    "date": "Feb 09, 18:28"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Prominent Venezuelan opposition politician detained hours after release",
+    "link": "https://www.theguardian.com/world/2026/feb/09/machado-ally-juan-pablo-guanipa-kidnapped-venezuela",
+    "summary": "<p>Prosecutor claims Juan Pablo Guanipa was re-arrested due to non-compliance with terms of release</p><p>One of <a href=\"https://www.theguardian.com/world/venezuela\">Venezuela\u2019s</a> most prominent op...",
+    "timestamp": 1770661629.0,
+    "date": "Feb 09, 18:27"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Pakistan to play T20 World Cup match against India on Feb 15",
+    "link": "https://www.aljazeera.com/sports/2026/2/9/pakistan-to-play-t20-world-cup-match-against-india-on-feb-15?traffic_source=rss",
+    "summary": "Pakistan&#039;s government directs cricket team to take the field against India on Feb 15 in Colombo.",
+    "timestamp": 1770661529.0,
+    "date": "Feb 09, 18:25"
+  },
+  {
+    "source": "France 24",
+    "title": "Cuba implements emergency measures to save fuel under US pressure",
+    "link": "https://www.france24.com/en/americas/20260209-cuba-implements-emergency-measures-save-fuel-under-us-pressure",
+    "summary": "Cuba on Monday implemented new emergency measures designed to save fuel in response to the energy blockade imposed by the United States which is having a severe impact on the daily lives of Cubans. Ha...",
+    "timestamp": 1770661518.0,
+    "date": "Feb 09, 18:25"
+  },
+  {
+    "source": "New York Times",
+    "title": "Ilia Malinin, Who Led the U.S. to Gold, Is Bringing Ice Skating Back Into the Limelight",
+    "link": "https://www.nytimes.com/2026/02/09/world/olympics/ilia-malinin-ice-skating-winter-olympics.html",
+    "summary": "Ilia Malinin, who led the United States to a team gold medal at the Winter Olympics and will now vie for his own, is testing the physical limits of what is possible on the ice.",
+    "timestamp": 1770661501.0,
+    "date": "Feb 09, 18:25"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Pakistan agrees to play India in T20 World Cup match, government says",
+    "link": "https://www.channelnewsasia.com/sport/pakistan-agrees-play-india-in-t20-world-cup-match-government-says-5918631",
+    "summary": "",
+    "timestamp": 1770661484.0,
+    "date": "Feb 09, 18:24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B",
+    "link": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
+    "summary": "After announcing $190 million in ARR in December, Harvey may be raising again a big leap in valuation.",
+    "timestamp": 1770661262.0,
+    "date": "Feb 09, 18:21"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Workday\u00a0CEO Eschenbach departs, with co-founder Aneel Bhusri\u00a0returning as CEO",
+    "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
+    "summary": "Bhusri said in a statement that the company's next chapter would be focused on AI.",
+    "timestamp": 1770660908.0,
+    "date": "Feb 09, 18:15"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "What were Jeffrey Epstein\u2019s links to Israel?",
+    "link": "https://www.aljazeera.com/news/2026/2/9/what-were-jeffrey-epsteins-links-to-israel?traffic_source=rss",
+    "summary": "New documents show some thought disgraced US financier had links to Israeli intelligence services and settler groups.BI",
+    "timestamp": 1770660848.0,
+    "date": "Feb 09, 18:14"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Mexico's Sheinbaum says US tariffs on oil suppliers would 'strangle' Cuba",
+    "link": "https://www.channelnewsasia.com/world/mexico-sheinbaum-trump-us-cuba-oil-tariffs-5918551",
+    "summary": "Mexico's President Claudia Sheinbaum says the US president's threat to put tariffs on countries that sell oil to Cuba is \"very unfair\".",
+    "timestamp": 1770660660.0,
+    "date": "Feb 09, 18:11"
+  },
+  {
+    "source": "NPR",
+    "title": "Nancy Guthrie search enters its second week as a purported deadline looms",
+    "link": "https://www.npr.org/2026/02/09/nx-s1-5706646/nancy-guthrie-case-update-what-we-know",
+    "summary": "\"This is very valuable to us, and we will pay,\" Savannah Guthrie said in a new video message, seeking to communicate with people who say they're holding her mother.",
+    "timestamp": 1770660589.0,
+    "date": "Feb 09, 18:09"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Lyft opens its ride-hailing app to teens",
+    "link": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
+    "summary": "Rival Uber started allowing teens to use the app two years ago.",
+    "timestamp": 1770660332.0,
+    "date": "Feb 09, 18:05"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Hacked, leaked, exposed: Why you should never use stalkerware apps",
+    "link": "https://techcrunch.com/2026/02/09/hacked-leaked-exposed-why-you-should-stop-using-stalkerware-apps/",
+    "summary": "According to TechCrunch\u2019s ongoing tally, including the most recent data spill involving uMobix, there have been at least 27 stalkerware companies since 2017 that are known to have been hacked, or leak...",
+    "timestamp": 1770660300.0,
+    "date": "Feb 09, 18:05"
+  },
+  {
+    "source": "New York Times",
+    "title": "Israel Gives Itself More Control Over West Bank, Clearing Barriers to Settlement",
+    "link": "https://www.nytimes.com/2026/02/09/world/middleeast/israel-settlements-west-bank.html",
+    "summary": "Actions by the security cabinet make it easier for Jews to buy land from Palestinians. Critics say the changes violate the Oslo Accords and international law and accelerate attempts to annex the terri...",
+    "timestamp": 1770660006.0,
+    "date": "Feb 09, 18:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "This ancillary AI stock hits another record high. How we're playing the rally",
+    "link": "https://www.cnbc.com/2026/02/09/this-ai-play-just-hit-another-record-high-what-were-making-of-the-stocks-gains.html",
+    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+    "timestamp": 1770659981.0,
+    "date": "Feb 09, 17:59"
+  },
+  {
+    "source": "The Verge",
+    "title": "AI-generated ads dropped the ball at this year&#8217;s Super Bowl",
+    "link": "https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible",
+    "summary": "It feels like everyone who produced ad spots for this year's Super Bowl with generative AI failed in terms of making gen AI seem useful or like something worth getting excited about. Though we've seen...",
+    "timestamp": 1770659947.0,
+    "date": "Feb 09, 17:59"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "MSC braces for more of Trump's 'wrecking-ball politics'",
+    "link": "https://www.dw.com/en/msc-braces-for-more-of-trump-s-wrecking-ball-politics/a-75874710?maca=en-rss-en-all-1573-rdf",
+    "summary": "Chairman Wolfgang Ischinger tells DW the 2026 Munich Security Conference comes when \"obviously, trust has been damaged\" by President Trump. But he also says US calls for a more \"self-reliant\" Europe a...",
+    "timestamp": 1770659580.0,
+    "date": "Feb 09, 17:53"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Speed skating-Leerdam wins 1,000m gold with Games record",
+    "link": "https://www.channelnewsasia.com/sport/speed-skating-leerdam-wins-1000m-gold-games-record-5918566",
+    "summary": "",
+    "timestamp": 1770659573.0,
+    "date": "Feb 09, 17:52"
+  },
+  {
+    "source": "CNBC",
+    "title": "Monday.com drops 21% as AI disruption fears mount in software",
+    "link": "https://www.cnbc.com/2026/02/09/monday-com-stock-ai-software.html",
+    "summary": "Software companies are facing mounting pressure from disruptive AI tools threatening to replace them.",
+    "timestamp": 1770659515.0,
+    "date": "Feb 09, 17:51"
   },
   {
     "source": "The Verge",
@@ -32,12 +240,12 @@
     "date": "Feb 09, 17:41"
   },
   {
-    "source": "CNBC",
-    "title": "Short seller CapitalWatch apologizes, retracts report on AppLovin shareholder",
-    "link": "https://www.cnbc.com/2026/02/09/short-seller-capitalwatch-retraction-applovin-hao-tang.html",
-    "summary": "CapitalWatch wrote that its report linking AppLovin shareholder Hao Tang and criminal syndicates was inaccurate.",
-    "timestamp": 1770658854.0,
-    "date": "Feb 09, 17:40"
+    "source": "France 24",
+    "title": "India: Justin Bieber \u2018lookalike\u2019 goes viral",
+    "link": "https://www.france24.com/en/india-justin-bieber-lookalike-goes-viral",
+    "summary": "\ud83d\udd25Suraj Chavan, known for his 2010s Bieber-style hair, has 4.5M followers and shot to fame after winning Bigg Boss Marathi S5 in 2024\u00a0\u2728He\u2019s back in the headlines for calling himself India\u2019s \u201cmost hands...",
+    "timestamp": 1770658799.0,
+    "date": "Feb 09, 17:39"
   },
   {
     "source": "TechCrunch",
@@ -65,14 +273,6 @@
   },
   {
     "source": "CNBC",
-    "title": "S&P 500 rises, led by tech; Dow climbs to fresh record: Live updates",
-    "link": "https://www.cnbc.com/2026/02/08/stock-market-today-live-updates.html",
-    "summary": "The moves come after the major averages bounced back Friday from sizable losses suffered earlier in the week.",
-    "timestamp": 1770658379.0,
-    "date": "Feb 09, 17:32"
-  },
-  {
-    "source": "CNBC",
     "title": "Super Bowl 60 recap: Rewatch all the top commercials from advertising's biggest night",
     "link": "https://www.cnbc.com/2026/02/08/super-bowl-60-ads-news-live-updates.html",
     "summary": "The Seattle Seahawks defeated the New England Patriots in Super Bowl 60. CNBC covered all the top ads and business news from football's biggest night.",
@@ -96,28 +296,12 @@
     "date": "Feb 09, 17:27"
   },
   {
-    "source": "CNBC",
-    "title": "Big Tech's gigantic AI spending plans are spooking investors. But history shows that's when you want to buy",
-    "link": "https://www.cnbc.com/2026/02/09/ai-spending-is-spooking-investors-but-history-shows-thats-when-you-want-to-buy-.html",
-    "summary": "The recent pullback in megacaps could prove a buying opportunity so long as the companies' growth remains attractive.",
-    "timestamp": 1770657751.0,
-    "date": "Feb 09, 17:22"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "US senators visit Greenland to 'rebuild trust' broken by Trump",
     "link": "https://www.channelnewsasia.com/world/us-senators-trump-greenland-denmark-5918461",
     "summary": "The visit comes after the US president backed off from a series of threats to take over the Arctic Island and agreed to a \"framework\" deal.",
     "timestamp": 1770657600.0,
     "date": "Feb 09, 17:20"
-  },
-  {
-    "source": "New York Times",
-    "title": "Keir Starmer\u2019s Allies Rally Around Him Amid Pressure to Resign as Britain\u2019s Prime Minister",
-    "link": "https://www.nytimes.com/live/2026/02/09/world/uk-starmer-resign-epstein-mandelson",
-    "summary": "The leader of the Scottish Labour Party called on Mr. Starmer to quit amid turmoil over an ambassador with close ties to Jeffrey Epstein. Potential successors in his party quickly backed him.",
-    "timestamp": 1770657542.0,
-    "date": "Feb 09, 17:19"
   },
   {
     "source": "CNBC",
@@ -176,14 +360,6 @@
     "date": "Feb 09, 17:12"
   },
   {
-    "source": "New York Times",
-    "title": "Prince William Visits Saudi Arabia for Delicate Diplomacy",
-    "link": "https://www.nytimes.com/2026/02/09/world/europe/prince-william-saudi-arabia-diplomacy.html",
-    "summary": "The heir to the British throne will meet with Crown Prince Mohammed bin Salman, as Britain and Saudi Arabia look to strengthen ties.",
-    "timestamp": 1770657049.0,
-    "date": "Feb 09, 17:10"
-  },
-  {
     "source": "France 24",
     "title": "Israel paves way for further\u00a0settlement\u00a0expansion in occupied West Bank",
     "link": "https://www.france24.com/en/video/20260209-israel-paves-way-for-further-settlement-expansion-in-occupied-west-bank",
@@ -240,28 +416,12 @@
     "date": "Feb 09, 16:55"
   },
   {
-    "source": "CNBC",
-    "title": "Monday.com drops 19% as AI disruption fears mount in software",
-    "link": "https://www.cnbc.com/2026/02/09/monday-com-stock-ai-software.html",
-    "summary": "Software companies are facing mounting pressure from disruptive AI tools threatening to replace them.",
-    "timestamp": 1770656089.0,
-    "date": "Feb 09, 16:54"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Israel tightens grip on occupied West Bank with governance changes",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/2/9/israel-tightens-grip-on-occupied-west-bank-with-governance-changes?traffic_source=rss",
     "summary": "Palestinians say Israeli changes to occupied West Bank governance essentially legalise settlements.",
     "timestamp": 1770655716.0,
     "date": "Feb 09, 16:48"
-  },
-  {
-    "source": "CNBC",
-    "title": "Some student loan borrowers wait over a year in public servant debt forgiveness backlog",
-    "link": "https://www.cnbc.com/2026/02/09/pslf-public-service-loan-forgiveness-buyback-backlog.html",
-    "summary": "More than 83,000 federal student loan borrowers are waiting for a Public Service Loan Forgiveness Buyback\u00a0application decision. What experts say to do while in line.",
-    "timestamp": 1770655287.0,
-    "date": "Feb 09, 16:41"
   },
   {
     "source": "CNA (Asia)",
@@ -286,14 +446,6 @@
     "summary": "",
     "timestamp": 1770654554.0,
     "date": "Feb 09, 16:29"
-  },
-  {
-    "source": "CNBC",
-    "title": "This ancillary AI stock hits another record high. How we're playing the rally",
-    "link": "https://www.cnbc.com/2026/02/09/this-ai-play-just-hit-another-record-high-what-were-making-of-the-stocks-gains.html",
-    "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-    "timestamp": 1770654518.0,
-    "date": "Feb 09, 16:28"
   },
   {
     "source": "CNA (Asia)",
@@ -504,14 +656,6 @@
     "date": "Feb 09, 15:55"
   },
   {
-    "source": "New York Times",
-    "title": "Starmer\u2019s Communications Chief Resigns Amid Fallout From Mandelson-Epstein Scandal",
-    "link": "https://www.nytimes.com/2026/02/09/world/europe/keir-starmer-uk-communications-resigns.html",
-    "summary": "Tim Allan is the second senior member of Prime Minister Keir Starmer\u2019s team to depart in less than 24 hours. The latest resignation increases the pressure on Mr. Starmer\u2019s premiership.",
-    "timestamp": 1770652470.0,
-    "date": "Feb 09, 15:54"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Fact check: Bad Bunny's Super Bowl halftime show sparks viral claims",
     "link": "https://www.dw.com/en/fact-check-bad-bunny-s-super-bowl-halftime-show-sparks-viral-claims/a-75875092?maca=en-rss-en-all-1573-rdf",
@@ -605,14 +749,6 @@
     "link": "https://www.cnbc.com/2026/02/09/cuba-airlines-fuel-energy-oil-us-trump-pressure.html",
     "summary": "The update comes shortly after U.S. President Donald Trump threatened tariffs on any country that supplies Cuba with oil.",
     "timestamp": 1770650167.0,
-    "date": "Feb 09, 15:16"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "MSC2026 braces for more of Trump's 'wrecking-ball politics'",
-    "link": "https://www.dw.com/en/msc2026-braces-for-more-of-trump-s-wrecking-ball-politics/a-75874710?maca=en-rss-en-all-1573-rdf",
-    "summary": "Chairman Wolfgang Ischinger says the 2026 Munich Security Conference comes at \"a moment of profound uncertainty,\" much of it driven by US President Donald Trump's foreign policy.",
-    "timestamp": 1770650160.0,
     "date": "Feb 09, 15:16"
   },
   {
@@ -729,7 +865,7 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "Gu beaten by Gremaud to Olympic gold in women\u2019s slopestyle",
+    "title": "Gu beaten by Gremaud to Olympic gold in women\u2019s freeski slopestyle",
     "link": "https://www.aljazeera.com/sports/2026/2/9/gu-beaten-by-gremaud-to-olympic-gold-in-womens-slopestyle?traffic_source=rss",
     "summary": "For the second straight Winter Olympics, Mathilde Gremaud bests Eileen Gu in the women&#039;s blue ribband freeski event.",
     "timestamp": 1770648917.0,
@@ -742,14 +878,6 @@
     "summary": "Ghislaine Maxwell, the longtime associate of sex offender Jeffrey Epstein, is set to be questioned behind closed doors by the US congress. Born into a life of privilege, Maxwell was the youngest daugh...",
     "timestamp": 1770648915.0,
     "date": "Feb 09, 14:55"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Biathlon-Germany's Horn relishes individual race return after illness",
-    "link": "https://www.channelnewsasia.com/sport/biathlon-germanys-horn-relishes-individual-race-return-after-illness-5918186",
-    "summary": "",
-    "timestamp": 1770648732.0,
-    "date": "Feb 09, 14:52"
   },
   {
     "source": "France 24",
@@ -776,14 +904,6 @@
     "date": "Feb 09, 14:48"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "OpenAI CEO says ChatGPT back to over 10% monthly growth, CNBC reports",
-    "link": "https://www.channelnewsasia.com/business/openai-ceo-says-chatgpt-back-over-10-monthly-growth-cnbc-reports-5918156",
-    "summary": "",
-    "timestamp": 1770648490.0,
-    "date": "Feb 09, 14:48"
-  },
-  {
     "source": "CNBC",
     "title": "Digital employees, AI bootcamps: America's oldest bank is spending billions on tech",
     "link": "https://www.cnbc.com/2026/02/09/digital-employees-ai-bootcamps-americas-oldest-bank-spends-billions-on-tech.html",
@@ -805,14 +925,6 @@
     "link": "https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch",
     "summary": "OpenAI plans to start testing ads in ChatGPT today, according to a report from CNBC. The \"clearly labeled\" ads will appear in a separate area beneath your chat, OpenAI announced last month. A source c...",
     "timestamp": 1770648341.0,
-    "date": "Feb 09, 14:45"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Gamers at the Games - how Norway's Dale-Skjevdal relaxes by playing online",
-    "link": "https://www.channelnewsasia.com/sport/gamers-games-how-norways-dale-skjevdal-relaxes-playing-online-5918161",
-    "summary": "",
-    "timestamp": 1770648328.0,
     "date": "Feb 09, 14:45"
   },
   {
@@ -845,14 +957,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/09/deaths-migrant-boat-capsizes-mediterranean-libya",
     "summary": "<p>Only two survivors rescued after boat overturned off Libyan coast, UN migration agency says</p><p>Fifty-three people are dead or missing after a boat capsized in the Mediterranean Sea off the Libya...",
     "timestamp": 1770648193.0,
-    "date": "Feb 09, 14:43"
-  },
-  {
-    "source": "CNBC",
-    "title": "Workday CEO Carl Eschenbach is stepping down, co-founder Aneel Bhusri to take over",
-    "link": "https://www.cnbc.com/2026/02/09/workday-stock-carl-eschenbach-aneel-bhusri.html",
-    "summary": "The company's co-founder, Aneel Bhusri, who has previously served as chief executive, will replace Eschenbach.",
-    "timestamp": 1770648184.0,
     "date": "Feb 09, 14:43"
   },
   {
@@ -968,14 +1072,6 @@
     "date": "Feb 09, 13:34"
   },
   {
-    "source": "The Verge",
-    "title": "Animal Crossing started life as a dungeon crawler",
-    "link": "https://www.theverge.com/entertainment/874895/super-nintendo-book-excerpt-animal-crossing-keza-macdonald",
-    "summary": "Despite the convoluted journey between concept and finished product, despite all the many things that change between initial prototype and whatever ends up in players' hands, something always remains ...",
-    "timestamp": 1770643800.0,
-    "date": "Feb 09, 13:30"
-  },
-  {
     "source": "France 24",
     "title": "'Management is a skill in its own right': Boss Class host Andrew Palmer",
     "link": "https://www.france24.com/en/tv-shows/perspective/20260209-management-is-a-skill-in-its-own-right-boss-class-host-andrew-palmer",
@@ -984,28 +1080,12 @@
     "date": "Feb 09, 13:29"
   },
   {
-    "source": "France 24",
-    "title": "Super Bowl 2026: Cultural takeaways and what it says about the USA today",
-    "link": "https://www.france24.com/en/americas/20260209-super-bowl-2026-cultural-takeaways-and-what-it-says-about-the-usa-today",
-    "summary": "America\u2019s most-watched television event is not just about sports, it captures the zeitgeist of the nation every year. Here are the top picks of the 2026 Super Bowl entertainment acts and ads, reflecti...",
-    "timestamp": 1770643733.0,
-    "date": "Feb 09, 13:28"
-  },
-  {
     "source": "Al Jazeera",
-    "title": "Muslim countries slam Israel for \u2018illegal annexation\u2019 push in West Bank",
+    "title": "Eight Muslim countries slam Israel\u2019s \u2018illegal\u2019 West Bank annexation push",
     "link": "https://www.aljazeera.com/news/2026/2/9/muslim-countries-slam-israel-for-illegal-annexation-push-in-west-bank?traffic_source=rss",
     "summary": "In joint statement, countries urge international community to &#039;compel Israel to halt its dangerous escalation&#039;.",
     "timestamp": 1770643574.0,
     "date": "Feb 09, 13:26"
-  },
-  {
-    "source": "France 24",
-    "title": "Thailand\u2019s ruling Bhumjaithai party tops election amid wave of nationalism",
-    "link": "https://www.france24.com/en/video/20260209-thailand-s-ruling-bhumjaithai-party-tops-election-amid-wave-of-nationalism",
-    "summary": "The Bhumjaithai Party of Prime Minister Anutin Charnvirakul is on track to win the most seats in Thailand\u2019s general election, according to unofficial results released by the state Election Commission ...",
-    "timestamp": 1770643388.0,
-    "date": "Feb 09, 13:23"
   },
   {
     "source": "Al Jazeera",
@@ -1128,14 +1208,6 @@
     "date": "Feb 09, 12:26"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Pressure grows on UK PM Starmer as Scottish Labour leader urges him to quit",
-    "link": "https://www.aljazeera.com/news/2026/2/9/uk-pm-starmers-communications-chief-quits-amid-epstein-scandal-fallout?traffic_source=rss",
-    "summary": "PM faces criticism for backing Peter Mandelson as ambassador to the US despite his known links to Jeffrey Epstein.",
-    "timestamp": 1770639598.0,
-    "date": "Feb 09, 12:19"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Germany's neoliberal FDP: No chance for a comeback?",
     "link": "https://www.dw.com/en/germany-s-neoliberal-fdp-no-chance-for-a-comeback/a-75847475?maca=en-rss-en-all-1573-rdf",
@@ -1150,14 +1222,6 @@
     "summary": "Isaac Herzog is on a four-day visit to Australia following the December mass shooting at Bondi Beach.",
     "timestamp": 1770639364.0,
     "date": "Feb 09, 12:16"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "\u2018Tell the truth\u2019: Epstein survivors demand justice in Super Bowl ad",
-    "link": "https://www.aljazeera.com/news/2026/2/9/tell-the-truth-epstein-survivors-demand-justice-in-super-bowl-ad?traffic_source=rss",
-    "summary": "The advertisement urges US Attorney General Pam Bondi to disclose all remaining files related to the late sex offender.",
-    "timestamp": 1770639329.0,
-    "date": "Feb 09, 12:15"
   },
   {
     "source": "BBC World",
@@ -1296,14 +1360,6 @@
     "date": "Feb 09, 10:00"
   },
   {
-    "source": "NPR",
-    "title": "5 glaring warning signs for Republicans in this year's midterm elections",
-    "link": "https://www.npr.org/2026/02/09/nx-s1-5704794/trump-house-of-representatives-republicans-midterm-elections",
-    "summary": "Here's why Republicans are facing an uphill battle, particularly for retaining control of the House.",
-    "timestamp": 1770631200.0,
-    "date": "Feb 09, 10:00"
-  },
-  {
     "source": "BBC World",
     "title": "Outrage as South Korean official suggests 'importing' foreign women to boost birth rate",
     "link": "https://www.bbc.com/news/articles/c20z4254524o?at_medium=RSS&at_campaign=rss",
@@ -1374,14 +1430,6 @@
     "summary": "President Isaac Herzog visited the Bondi Beach attack memorial, emphasizing Israel's shared values with Australia. His visit was met by pro-Palestinian demonstrations in Sydney and Melbourne.",
     "timestamp": 1770622380.0,
     "date": "Feb 09, 07:33"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Venezuela\u2019s Machado says close ally kidnapped by \u2018heavily armed\u2019 men hours after prison release",
-    "link": "https://www.theguardian.com/world/2026/feb/09/machado-ally-juan-pablo-guanipa-kidnapped-venezuela",
-    "summary": "<p>Juan Pablo Guanipa was \u2018violently\u2019 taken from a residential neighbourhood in Caracas, according to opposition leader Mar\u00eda Corina Machado</p><p>Venezuelan opposition leader <a href=\"https://www.the...",
-    "timestamp": 1770618910.0,
-    "date": "Feb 09, 06:35"
   },
   {
     "source": "BBC World",
@@ -1467,7 +1515,7 @@
     "source": "TechCrunch",
     "title": "Amazon\u2019s \u2018Melania\u2019 documentary stumbles in second weekend",
     "link": "https://techcrunch.com/2026/02/08/amazons-melania-documentary-stumbles-in-second-weekend/",
-    "summary": "After a better-than-expected opening weekend in theaters, box office for Amazon\u2019s \u201cMelania\u201dfell 67%.",
+    "summary": "After a better-than-expected opening weekend in theaters, box office sales for Amazon\u2019s \u201cMelania\u201d fell 67%.",
     "timestamp": 1770590491.0,
     "date": "Feb 08, 22:41"
   },
@@ -1486,14 +1534,6 @@
     "summary": "But this is still a bad idea.",
     "timestamp": 1770579388.0,
     "date": "Feb 08, 19:36"
-  },
-  {
-    "source": "New York Times",
-    "title": "Thailand\u2019s Conservative Party Claims Surprise Election Victory",
-    "link": "https://www.nytimes.com/2026/02/08/world/asia/thailand-election-opposition-conservatives.html",
-    "summary": "It was the first time in years that a conservative party preaching nationalism, patriotism and respect for the monarchy came out on top.",
-    "timestamp": 1770579200.0,
-    "date": "Feb 08, 19:33"
   },
   {
     "source": "BBC World",
@@ -1520,14 +1560,6 @@
     "date": "Feb 08, 16:49"
   },
   {
-    "source": "TechCrunch",
-    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-    "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-    "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
-    "timestamp": 1770567496.0,
-    "date": "Feb 08, 16:18"
-  },
-  {
     "source": "The Guardian",
     "title": "Canada is no stranger to separatism but push for Alberta to join US is a new peril",
     "link": "https://www.theguardian.com/world/2026/feb/08/canada-alberta-separatism-join-us",
@@ -1536,44 +1568,12 @@
     "date": "Feb 08, 12:00"
   },
   {
-    "source": "TechCrunch",
-    "title": "India has changed its startup rules for deep tech",
-    "link": "https://techcrunch.com/2026/02/07/india-has-changed-its-startup-rules-for-deep-tech/",
-    "summary": "India is adjusting startup rules to help more of its deep tech startups with funding and long-term success.",
-    "timestamp": 1770521400.0,
-    "date": "Feb 08, 03:30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "The kids \u2018picked last in gym class\u2019 gear up for Super Bowl",
-    "link": "https://techcrunch.com/2026/02/07/the-kids-picked-last-in-gym-class-gear-up-for-super-bowl/",
-    "summary": "YouTube CEO Neal Mohan is expected to be there. Apple's Tim Cook, too.",
-    "timestamp": 1770514009.0,
-    "date": "Feb 08, 01:26"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "NBA star Giannis Antetokounmpo joins Kalshi as an investor",
-    "link": "https://techcrunch.com/2026/02/07/nba-star-giannis-antetokounmpo-joins-kalshi-as-an-investor/",
-    "summary": "Antetokounmpo is the first NBA player to directly invest in Kalshi.",
-    "timestamp": 1770499841.0,
-    "date": "Feb 07, 21:30"
-  },
-  {
     "source": "The Guardian",
     "title": "RSF drone attack kills 24 people fleeing fighting in central Sudan, says doctors group",
     "link": "https://www.theguardian.com/world/2026/feb/07/sudan-rsf-drone-attack-rahad-kills-displaced-people",
     "summary": "<p>Eight children including two infants among dead in vehicle carrying displaced people, says Sudan Doctors Network</p><p>A drone attack by a paramilitary group has hit a vehicle carrying displaced fa...",
     "timestamp": 1770494587.0,
     "date": "Feb 07, 20:03"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "New York lawmakers propose a three-year pause on new data centers",
-    "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
-    "summary": "Although the bill\u2019s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
-    "timestamp": 1770488584.0,
-    "date": "Feb 07, 18:23"
   },
   {
     "source": "The Guardian",
