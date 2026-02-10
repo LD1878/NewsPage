@@ -1,19 +1,267 @@
 [
   {
+    "source": "CNBC",
+    "title": "Coca-Cola shares fall 3% after company forecasts modest growth amid demand concerns",
+    "link": "https://www.cnbc.com/2026/02/10/coca-cola-ko-q4-2025-earnings.html",
+    "summary": "Like rival PepsiCo, Coke has seen demand for its drinks fall as budget-conscious shoppers try to save more on their grocery bills.",
+    "timestamp": 1770728431.0,
+    "date": "Feb 10, 13:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Discord\u2019s age verification mandate is a leap toward a gated internet",
+    "link": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
+    "summary": "Discord is about to force some of the people who use its messaging app to make a choice: Use the platform with restricted features, or prove their age. It's a move that platforms have been slowly appr...",
+    "timestamp": 1770728400.0,
+    "date": "Feb 10, 13:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "Vibe coding Nothing\u2019s apps is fun, until you try to make them useful",
+    "link": "https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder",
+    "summary": "After a week vibe coding apps using Nothing's Essential Apps Builder, I'm conflicted. I buy into the smartphone maker's vision for software that adapts to you, not the other way around, but right now ...",
+    "timestamp": 1770728400.0,
+    "date": "Feb 10, 13:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Crosscountry-Klaebo clinches seventh gold in men's classic sprint",
+    "link": "https://www.channelnewsasia.com/sport/crosscountry-klaebo-clinches-seventh-gold-in-mens-classic-sprint-5920441",
+    "summary": "",
+    "timestamp": 1770727716.0,
+    "date": "Feb 10, 12:48"
+  },
+  {
+    "source": "New York Times",
+    "title": "An Olympian Quest in Milan: Glimpsing a K-Pop Superstar",
+    "link": "https://www.nytimes.com/2026/02/10/world/europe/sunghoon-milan-winter-olympics.html",
+    "summary": "Celebrities abound at the Winter Games. For fans, seeing one up close can be its own grueling competition.",
+    "timestamp": 1770727662.0,
+    "date": "Feb 10, 12:47"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Israel accused of spraying chemicals to poison Syrian farmland",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/10/israel-accused-of-spraying-chemicals-to-poison-syrian-farmland?traffic_source=rss",
+    "summary": "Israel is accused of spraying chemicals on farmland inside Syria and Lebanon to destroy crops and plants.",
+    "timestamp": 1770727612.0,
+    "date": "Feb 10, 12:46"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Freestyle skiing-Japan's Horishima tops moguls qualifying, Kingsbury and Wallberg also advance",
+    "link": "https://www.channelnewsasia.com/sport/freestyle-skiing-japans-horishima-tops-moguls-qualifying-kingsbury-and-wallberg-also-advance-5920436",
+    "summary": "",
+    "timestamp": 1770727122.0,
+    "date": "Feb 10, 12:38"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Crosscountry-Svahn leads Swedish podium sweep in women's classic sprint",
+    "link": "https://www.channelnewsasia.com/sport/crosscountry-svahn-leads-swedish-podium-sweep-in-womens-classic-sprint-5920416",
+    "summary": "",
+    "timestamp": 1770727068.0,
+    "date": "Feb 10, 12:37"
+  },
+  {
+    "source": "CNBC",
+    "title": "Stocks making the biggest moves premarket: Coca-Cola, CVS Health, Ferrari, Taiwan Semi and more",
+    "link": "https://www.cnbc.com/2026/02/10/stocks-making-the-biggest-moves-premarket-coca-cola-cvs-health-ferrari-taiwan-semi-and-more.html",
+    "summary": "These are the stocks posting the largest moves in premarket trading.",
+    "timestamp": 1770726956.0,
+    "date": "Feb 10, 12:35"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "French ex-teacher charged with rape, sexual assault of 89 minors",
+    "link": "https://www.channelnewsasia.com/world/french-ex-teacher-charged-rape-sexual-assault-5920401",
+    "summary": "",
+    "timestamp": 1770726843.0,
+    "date": "Feb 10, 12:34"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Biathlon-Finland-Minkkinen seeks to inspire new Finnish generation at Milano Cortina",
+    "link": "https://www.channelnewsasia.com/sport/biathlon-finland-minkkinen-seeks-inspire-new-finnish-generation-milano-cortina-5920411",
+    "summary": "",
+    "timestamp": 1770726559.0,
+    "date": "Feb 10, 12:29"
+  },
+  {
+    "source": "France 24",
+    "title": "Failed American dream: Deportees restart their lives in Guatemala",
+    "link": "https://www.france24.com/en/tv-shows/focus/20260210-failed-american-dream-deportees-restart-their-lives-in-guatemala",
+    "summary": "In the year since Donald Trump returned to the White House, more than 350,000 migrants have been deported from the United States. This report takes us to meet several of them in Guatemala. In this cen...",
+    "timestamp": 1770726212.0,
+    "date": "Feb 10, 12:23"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Short track-Italy claim gold in mixed team relay at Milano Cortina",
+    "link": "https://www.channelnewsasia.com/sport/short-track-italy-claim-gold-in-mixed-team-relay-milano-cortina-5920376",
+    "summary": "",
+    "timestamp": 1770726132.0,
+    "date": "Feb 10, 12:22"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "A coup that never was: Why UK\u2019s Starmer faced major leadership challenge",
+    "link": "https://www.aljazeera.com/news/2026/2/10/a-coup-that-never-was-why-uks-starmer-faced-a-major-leadership-challenge?traffic_source=rss",
+    "summary": "Senior colleague tried to topple British PM, and top aides resign as Epstein files have ripple effects far beyond US.",
+    "timestamp": 1770725819.0,
+    "date": "Feb 10, 12:16"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "India tightens grip on social media with new three-hour takedown rule",
+    "link": "https://www.channelnewsasia.com/business/india-tightens-grip-social-media-new-three-hour-takedown-rule-5920356",
+    "summary": "",
+    "timestamp": 1770725774.0,
+    "date": "Feb 10, 12:16"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Fix found for faulty medals, repairs offered",
+    "link": "https://www.channelnewsasia.com/sport/fix-found-faulty-medals-repairs-offered-5920361",
+    "summary": "",
+    "timestamp": 1770725747.0,
+    "date": "Feb 10, 12:15"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Police warn of phishing scams impersonating LTA, targeting Singaporean travellers to Malaysia",
+    "link": "https://www.channelnewsasia.com/singapore/police-warn-scams-impersonating-lta-malaysia-travellers-5920221",
+    "summary": "",
+    "timestamp": 1770725691.0,
+    "date": "Feb 10, 12:14"
+  },
+  {
+    "source": "France 24",
+    "title": "UN says 'gravely concerned' as international outrage grows over Israel's plans for West Bank",
+    "link": "https://www.france24.com/en/video/20260210-un-says-gravely-concerned-as-international-outrage-grows-over-israel-s-plans-for-west-bank",
+    "summary": "The United Nations chief said Monday he was \"gravely concerned\" Israeli plans to tighten the country's grip over the occupied West Bank as international outrage over the measures continues to grow. Ea...",
+    "timestamp": 1770725674.0,
+    "date": "Feb 10, 12:14"
+  },
+  {
+    "source": "France 24",
+    "title": "Cuba says airlines can no longer refuel on the island as US blockade deepens energy crisis",
+    "link": "https://www.france24.com/en/video/20260210-cuba-says-airlines-can-no-longer-refuel-on-the-island-as-us-blockade-deepens-energy-crisis",
+    "summary": "Cuban aviation officials have warned airlines that there isn't enough fuel for airplanes to refuel on the island, the latest step in its moves to ration energy as the Trump administration cuts the Car...",
+    "timestamp": 1770725553.0,
+    "date": "Feb 10, 12:12"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Why did Pakistan end its India boycott at T20 World Cup?",
+    "link": "https://www.aljazeera.com/sports/2026/2/10/why-did-pakistan-end-its-india-boycott-at-t20-world-cup?traffic_source=rss",
+    "summary": "Al Jazeera explains how one player&#039;s removal from a franchise led to the biggest cricket crisis in recent years.",
+    "timestamp": 1770725538.0,
+    "date": "Feb 10, 12:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Liverpool performances not up to the club's standards, Slot says",
+    "link": "https://www.channelnewsasia.com/sport/liverpool-performances-not-up-clubs-standards-slot-says-5920331",
+    "summary": "",
+    "timestamp": 1770725369.0,
+    "date": "Feb 10, 12:09"
+  },
+  {
+    "source": "CNBC",
+    "title": "Gordon Haskett upgrades Booking Holdings ahead of earnings, calls AI fears overblown",
+    "link": "https://www.cnbc.com/2026/02/10/gordon-haskett-upgrades-booking-holdings-ahead-of-earnings-calls-ai-fears-overblown.html",
+    "summary": "Gordon Haskett's $5,440 price target implies that shares of Booking Holdings could surge 28% from here.",
+    "timestamp": 1770725290.0,
+    "date": "Feb 10, 12:08"
+  },
+  {
+    "source": "New York Times",
+    "title": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
+    "link": "https://www.nytimes.com/2026/02/10/world/middleeast/syria-kosher-damascus.html",
+    "summary": "In the post-Assad era, more Jews are visiting a country that some fled decades ago. One hotel restaurant offers a corner where religious dietary requirements are melded with the local cuisine.",
+    "timestamp": 1770725109.0,
+    "date": "Feb 10, 12:05"
+  },
+  {
+    "source": "NPR",
+    "title": "An ape, a tea party \u2014 and the ability to imagine",
+    "link": "https://www.npr.org/2026/02/10/nx-s1-5707560/apes-imagination-research-bonobos-cognition",
+    "summary": "The ability to imagine \u2014 to play pretend \u2014 has long been thought to be unique to humans. A new study suggests one of our closest living relatives can do it too.",
+    "timestamp": 1770724800.0,
+    "date": "Feb 10, 12:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "YouTube rolls out an AI playlist generator for Premium users",
+    "link": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
+    "summary": "YouTube Music is rolling out a new AI-powered playlist-generation feature that allows Premium users on iOS and Android to use text prompts to create playlists.",
+    "timestamp": 1770724359.0,
+    "date": "Feb 10, 11:52"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Capuozzo back for Italy against Ireland but Brex misses out",
+    "link": "https://www.channelnewsasia.com/sport/capuozzo-back-italy-against-ireland-brex-misses-out-5920291",
+    "summary": "",
+    "timestamp": 1770724116.0,
+    "date": "Feb 10, 11:48"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Telegram messaging app faces new restrictions and fines in Russia, media report",
+    "link": "https://www.channelnewsasia.com/business/telegram-messaging-app-faces-new-restrictions-and-fines-in-russia-media-report-5920286",
+    "summary": "",
+    "timestamp": 1770724104.0,
+    "date": "Feb 10, 11:48"
+  },
+  {
+    "source": "CNBC",
+    "title": "Daiwa upgrades Palantir on AI demand, strong commercial revenue guidance",
+    "link": "https://www.cnbc.com/2026/02/10/daiwa-upgrades-palantir-on-ai-demand-strong-commercial-revenue-guidance.html",
+    "summary": "Daiwa's $180 price target implies that shares of Palantir could rally 26% from here.",
+    "timestamp": 1770723867.0,
+    "date": "Feb 10, 11:44"
+  },
+  {
+    "source": "NPR",
+    "title": "DHS faces funding deadline. And, courts fast-track Somali asylum seeker hearings",
+    "link": "https://www.npr.org/2026/02/10/g-s1-109430/up-first-newsletter-dhs-funding-uk-epstein-nancy-guthrie-somali-migrants",
+    "summary": "Congress has until Friday to reach a deal to fund the Department of Homeland Security. And, several asylum cases filed by Somali migrants in immigration courts were suddenly fast-tracked.",
+    "timestamp": 1770723842.0,
+    "date": "Feb 10, 11:44"
+  },
+  {
+    "source": "France 24",
+    "title": "Ghanian traditional shirt sparks debate after Zambians mock president's fugu",
+    "link": "https://www.france24.com/en/video/20260210-ghanian-traditional-shirt-sparks-debate-after-zambians-mock-president-s-fugu",
+    "summary": "What was meant to be an online troll of Ghana\u2019s traditional attire has turned an international spotlight on the outfit called a fugu. Last week, Ghana\u2019s President John Mahama visited Zambia and arrive...",
+    "timestamp": 1770723828.0,
+    "date": "Feb 10, 11:43"
+  },
+  {
+    "source": "France 24",
+    "title": "\u2018Our families and homeland are there\u2019: Palestinians return to a devastated Gaza",
+    "link": "https://www.france24.com/en/video/20260210-our-families-and-homeland-are-there-palestinians-return-to-a-devastated-gaza",
+    "summary": "After a chaotic first week, the Palestinian Authority said on Monday that things were improving at the Rafah border crossing between Gaza and Egypt, with the highest number of Palestinians crossing si...",
+    "timestamp": 1770723565.0,
+    "date": "Feb 10, 11:39"
+  },
+  {
+    "source": "France 24",
+    "title": "UK PM Starmer says will not 'walk away' as pressure to quit builds over Epstein",
+    "link": "https://www.france24.com/en/video/20260210-uk-pm-starmer-says-will-not-walk-away-as-pressure-to-quit-builds-over-epstein",
+    "summary": "UK premier Keir Starmer insisted he would not \"walk away\" on Monday after a prominent ally demanded the prime minister quit for embroiling the British government in the Jeffrey Epstein scandal. Senior...",
+    "timestamp": 1770723454.0,
+    "date": "Feb 10, 11:37"
+  },
+  {
     "source": "France 24",
     "title": "'Part of the city': New York seeks rights for beloved 'bodega cats'",
     "link": "https://www.france24.com/en/video/20260210-part-of-the-city-new-york-seeks-rights-for-beloved-bodega-cats",
     "summary": "They are a New York institution as beloved as yellow cabs or pizza by the slice but the city's bodega cats, whose job is to catch mice in neighbourhood shops, are not technically legal. Elected repres...",
     "timestamp": 1770723364.0,
     "date": "Feb 10, 11:36"
-  },
-  {
-    "source": "CNBC",
-    "title": "Coca-Cola is about to report earnings. Here's what to expect",
-    "link": "https://www.cnbc.com/2026/02/10/coca-cola-ko-q4-2025-earnings.html",
-    "summary": "Shares of Coca-Cola have risen roughly 22% over the last year, raising its market value up to about $335 billion.",
-    "timestamp": 1770723302.0,
-    "date": "Feb 10, 11:35"
   },
   {
     "source": "CNA (Asia)",
@@ -25,9 +273,9 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "Heavy gunfire heard in Guinea\u2019s capital, Conakry: Reports",
+    "title": "Heavy gunfire heard near prison in Guinea\u2019s capital, Conakry",
     "link": "https://www.aljazeera.com/news/2026/2/10/heavy-gunfire-heard-in-guineas-capital-conakry?traffic_source=rss",
-    "summary": "This is a breaking news story.",
+    "summary": "Security forces deployed after gunfire heard near central prison.",
     "timestamp": 1770723132.0,
     "date": "Feb 10, 11:32"
   },
@@ -48,19 +296,11 @@
     "date": "Feb 10, 11:30"
   },
   {
-    "source": "New York Times",
-    "title": "Eating Kosher in the Heart of Syria: Lamb-Stuffed Zucchini but Hold the Yogurt",
-    "link": "https://www.nytimes.com/2026/02/10/world/middleeast/syria-kosher-damascus.html",
-    "summary": "In the post-Assad era, more Jews are visiting a country that some fled decades ago. One hotel restaurant offers a corner where religious dietary requirements are melded with the local cuisine.",
-    "timestamp": 1770722931.0,
-    "date": "Feb 10, 11:28"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Taiwan negotiators head to US for final meeting on trade deal",
-    "link": "https://www.channelnewsasia.com/business/taiwan-negotiators-head-us-final-meeting-trade-deal-5920256",
+    "link": "https://www.channelnewsasia.com/east-asia/taiwan-us-trade-deal-semiconductors-ai-investment-5920256",
     "summary": "",
-    "timestamp": 1770722930.0,
+    "timestamp": 1770722880.0,
     "date": "Feb 10, 11:28"
   },
   {
@@ -176,14 +416,6 @@
     "date": "Feb 10, 11:03"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Spotify forecasts profit above estimates as founder Daniel Ek moves to new role",
-    "link": "https://www.channelnewsasia.com/business/spotify-forecasts-profit-above-estimates-founder-daniel-ek-moves-new-role-5920196",
-    "summary": "",
-    "timestamp": 1770721337.0,
-    "date": "Feb 10, 11:02"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Israel: Netanyahu heads to US as Iran negotiations loom",
     "link": "https://www.dw.com/en/israel-netanyahu-heads-to-us-as-iran-negotiations-loom/a-75890862?maca=en-rss-en-all-1573-rdf",
@@ -224,17 +456,9 @@
     "date": "Feb 10, 11:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Alpine skiing-FIS chief hopes to see Vonn back on skis soon",
-    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-fis-chief-hopes-see-vonn-back-skis-soon-5920161",
-    "summary": "",
-    "timestamp": 1770720942.0,
-    "date": "Feb 10, 10:55"
-  },
-  {
     "source": "Deutsche Welle",
-    "title": "IOC bars Ukrainian skeleton racer from wearing memorial helmet at Milano-Cortina Olympics",
-    "link": "https://www.dw.com/en/ioc-bars-ukrainian-skeleton-racer-from-wearing-memorial-helmet-at-milano-cortina-olympics/a-75893507?maca=en-rss-en-all-1573-rdf",
+    "title": "IOC bars Ukrainian skeleton racer from wearing memorial helmet at Olympics",
+    "link": "https://www.dw.com/en/ioc-bars-ukrainian-skeleton-racer-from-wearing-memorial-helmet-at-olympics/a-75893507?maca=en-rss-en-all-1573-rdf",
     "summary": "Ukraine's bid to let skeleton racer Vladyslav Heraskevych use a helmet honoring athletes killed in the war with Russia has been rejected by the International Olympic Committee.",
     "timestamp": 1770720780.0,
     "date": "Feb 10, 10:53"
@@ -248,22 +472,6 @@
     "date": "Feb 10, 10:51"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Curling-What's happening in Minnesota is wrong, says US curler Ruohonen",
-    "link": "https://www.channelnewsasia.com/sport/curling-whats-happening-in-minnesota-wrong-says-us-curler-ruohonen-5920151",
-    "summary": "",
-    "timestamp": 1770720672.0,
-    "date": "Feb 10, 10:51"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Discord adopts facial recognition in child safety crackdown",
-    "link": "https://www.channelnewsasia.com/world/discord-facial-recognition-teenagers-safety-social-media-5920131",
-    "summary": "",
-    "timestamp": 1770720360.0,
-    "date": "Feb 10, 10:46"
-  },
-  {
     "source": "France 24",
     "title": "Palestinians return to Gaza after long-awaited Rafah reopening",
     "link": "https://www.france24.com/en/video/20260210-palestinians-return-to-gaza-after-long-awaited-rafah-reopening",
@@ -275,7 +483,7 @@
     "source": "Al Jazeera",
     "title": "Israel used weapons in Gaza that made thousands of Palestinians evaporate",
     "link": "https://www.aljazeera.com/features/2026/2/10/israel-used-weapons-in-gaza-that-made-thousands-of-palestinians-evaporate?traffic_source=rss",
-    "summary": "US-made thermal weapons burning at 3,500C caused 2,842 people to &quot;evaporate&quot; in Gaza, Al Jazeera Investigation finds.",
+    "summary": "US-made thermal weapons burning at 3,500C caused 2,842 people to &quot;evaporate&quot; in Gaza, Al Jazeera investigation finds.",
     "timestamp": 1770719478.0,
     "date": "Feb 10, 10:31"
   },
@@ -320,14 +528,6 @@
     "date": "Feb 10, 10:29"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Figure skating-After cancer and loss, Gilles says simply skating at Olympics feels like a victory",
-    "link": "https://www.channelnewsasia.com/sport/figure-skating-after-cancer-and-loss-gilles-says-simply-skating-olympics-feels-victory-5920111",
-    "summary": "",
-    "timestamp": 1770719272.0,
-    "date": "Feb 10, 10:27"
-  },
-  {
     "source": "France 24",
     "title": "Starmer 'clinging on by his teeth' as fallout from Epstein files spreads",
     "link": "https://www.france24.com/en/video/20260210-starmer-clinging-on-by-his-teeth-as-fallout-from-epstein-files-spreads",
@@ -350,14 +550,6 @@
     "summary": "The head of France's National Assembly on Tuesday pushed back against opposition calls for a parliamentary inquiry into Jeffrey Epstein's links to the French political and cultural elite, a day after ...",
     "timestamp": 1770718248.0,
     "date": "Feb 10, 10:10"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Instant payment system Pix poised to capture half of Brazil's e-commerce market by 2028",
-    "link": "https://www.channelnewsasia.com/business/instant-payment-system-pix-poised-capture-half-brazils-e-commerce-market-2028-5920086",
-    "summary": "",
-    "timestamp": 1770718077.0,
-    "date": "Feb 10, 10:07"
   },
   {
     "source": "Al Jazeera",
@@ -441,25 +633,9 @@
   },
   {
     "source": "NPR",
-    "title": "How the use of AI and 'deepfakes' play a role in the search for Nancy Guthrie",
-    "link": "https://www.npr.org/2026/02/10/nx-s1-5707578/nancy-guthrie-ai-deepfakes",
-    "summary": "As artificial intelligence becomes more advanced and commonplace, it can be difficult to know what's real and what's not, which has complicated the search for Nancy Guthrie, according to law enforceme...",
-    "timestamp": 1770717600.0,
-    "date": "Feb 10, 10:00"
-  },
-  {
-    "source": "NPR",
     "title": "Hospitals are posting prices for patients. It's mostly industry using the data",
     "link": "https://www.npr.org/2026/02/10/nx-s1-5704792/health-care-price-transparency-data",
     "summary": "The Trump administration pushed for price transparency in health care. But instead of patients shopping for services, it's mostly health systems and insurers using the information for negotiations.",
-    "timestamp": 1770717600.0,
-    "date": "Feb 10, 10:00"
-  },
-  {
-    "source": "NPR",
-    "title": "Immigration officials to testify before House as DHS funding deadline approaches",
-    "link": "https://www.npr.org/2026/02/10/g-s1-109330/immigration-oversight-dhs-funding",
-    "summary": "Congressional Democrats have a list of demands to reform Immigration and Customs Enforcement. But tensions between the two parties are high and the timeline is short \u2013 the stopgap bill funding DHS run...",
     "timestamp": 1770717600.0,
     "date": "Feb 10, 10:00"
   },
@@ -472,28 +648,20 @@
     "date": "Feb 10, 10:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "China says Japan's Takaichi must show 'actions' for dialogue",
-    "link": "https://www.channelnewsasia.com/east-asia/china-japan-sanae-takaichi-dialogue-taiwan-5920036",
-    "summary": "",
-    "timestamp": 1770717480.0,
-    "date": "Feb 10, 09:58"
+    "source": "NPR",
+    "title": "How the use of AI and 'deepfakes' play a role in the search for Nancy Guthrie",
+    "link": "https://www.npr.org/2026/02/10/nx-s1-5707578/nancy-guthrie-ai-deepfakes",
+    "summary": "As artificial intelligence becomes more advanced and commonplace, it can be difficult to know what's real and what's not, which has complicated the search for Nancy Guthrie, according to law enforceme...",
+    "timestamp": 1770717600.0,
+    "date": "Feb 10, 10:00"
   },
   {
     "source": "NPR",
-    "title": "Morning news brief",
-    "link": "https://www.npr.org/2026/02/10/nx-s1-5703371/morning-news-brief",
-    "summary": "Immigration officials testify before House as DHS funding deadline looms, Britain's prime minister faces calls to resign over ex-ambassador's Epstein tire, Savannah Guthrie pleads for mother's return.",
-    "timestamp": 1770716723.0,
-    "date": "Feb 10, 09:45"
-  },
-  {
-    "source": "NPR",
-    "title": "Trump takes aim at Colorado, a state that didn't vote for him",
-    "link": "https://www.npr.org/2026/02/10/nx-s1-5680177/trump-takes-aim-at-colorado-a-state-that-didnt-vote-for-him",
-    "summary": "Colorado's Democratic leaders say President Trump is on a political retribution campaign against their state and the fallout will be rural communities on everything from water to planning for disaster...",
-    "timestamp": 1770716710.0,
-    "date": "Feb 10, 09:45"
+    "title": "Immigration officials to testify before House as DHS funding deadline approaches",
+    "link": "https://www.npr.org/2026/02/10/g-s1-109330/immigration-oversight-dhs-funding",
+    "summary": "Congressional Democrats have a list of demands to reform Immigration and Customs Enforcement. But tensions between the two parties are high and the timeline is short \u2014 the stopgap bill funding DHS run...",
+    "timestamp": 1770717600.0,
+    "date": "Feb 10, 10:00"
   },
   {
     "source": "BBC World",
@@ -520,14 +688,6 @@
     "date": "Feb 10, 09:38"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Ski Jumping-Prevc siblings determined to deliver in mixed team following disappointing start to Games",
-    "link": "https://www.channelnewsasia.com/sport/ski-jumping-prevc-siblings-determined-deliver-in-mixed-team-following-disappointing-start-games-5920021",
-    "summary": "",
-    "timestamp": 1770716119.0,
-    "date": "Feb 10, 09:35"
-  },
-  {
     "source": "BBC World",
     "title": "Australia police defend actions after violence at protest over Israeli president visit",
     "link": "https://www.bbc.com/news/articles/cn0zed0dekgo?at_medium=RSS&at_campaign=rss",
@@ -544,14 +704,6 @@
     "date": "Feb 10, 09:32"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Iran warns of 'destructive' influence on diplomacy ahead of Netanyahu's US trip",
-    "link": "https://www.channelnewsasia.com/world/iran-us-talks-israel-netanyahu-trip-washington-5919996",
-    "summary": "",
-    "timestamp": 1770715740.0,
-    "date": "Feb 10, 09:29"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Germany news: Berlin releases report on hidden violence",
     "link": "https://www.dw.com/en/germany-news-berlin-releases-report-on-hidden-violence/live-75890046?maca=en-rss-en-all-1573-rdf",
@@ -560,35 +712,11 @@
     "date": "Feb 10, 09:18"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Maid jailed for repeatedly using baby's arm to strike the infant's face",
-    "link": "https://www.channelnewsasia.com/singapore/maid-used-baby-arm-punch-face-jail-5919861",
-    "summary": "The child's mother reported the ill-treatment to the police after witnessing it in footage she was livestreaming from a baby monitor.",
-    "timestamp": 1770715020.0,
-    "date": "Feb 10, 09:17"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Skeleton-Ukrainian's helmet showing war dead banned with armband recommended instead",
-    "link": "https://www.channelnewsasia.com/sport/skeleton-ukrainians-helmet-showing-war-dead-banned-armband-recommended-instead-5919966",
-    "summary": "",
-    "timestamp": 1770714622.0,
-    "date": "Feb 10, 09:10"
-  },
-  {
     "source": "The Guardian",
     "title": "Lenore Taylor resigns as Guardian Australia editor after 10 years of leadership",
     "link": "https://www.theguardian.com/media/2026/feb/10/lenore-taylor-resigns-as-guardian-australia-editor-after-10-years-of-leadership",
     "summary": "<p>Australia\u2019s longest-serving editor credited with transforming a fledgling news organisation into the fourth most-read news website</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-n...",
     "timestamp": 1770714289.0,
-    "date": "Feb 10, 09:04"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Growing fruits on desert lands? Inside China\u2019s decades-long fight against desertification",
-    "link": "https://www.channelnewsasia.com/east-asia/china-inner-mongolia-desertification-reclaim-three-north-shelterbelt-programme-5919531",
-    "summary": "For more than four decades, China has been working to halt the spread of desertification through the Three-North Shelterbelt programme, colloquially known as the Great Green Wall.",
-    "timestamp": 1770714240.0,
     "date": "Feb 10, 09:04"
   },
   {
@@ -720,14 +848,6 @@
     "date": "Feb 10, 07:35"
   },
   {
-    "source": "Al Jazeera",
-    "title": "More Australia protests over police crackdown on rally against Herzog visit",
-    "link": "https://www.aljazeera.com/news/2026/2/10/more-australia-protests-over-police-crackdown-on-rally-against-herzog-visit?traffic_source=rss",
-    "summary": "Civic groups denounce use of &#039;excessive&#039; force as police chief refers to protesters as &#039;angry and violent mob&#039;.",
-    "timestamp": 1770708495.0,
-    "date": "Feb 10, 07:28"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "US: Meta, YouTube on trial over kids' social media addiction",
     "link": "https://www.dw.com/en/us-meta-youtube-on-trial-over-kids-social-media-addiction/a-75888381?maca=en-rss-en-all-1573-rdf",
@@ -774,14 +894,6 @@
     "summary": "In Alphabet's annual report, the company said AI poses business risks, including its potential impact on advertising.",
     "timestamp": 1770706877.0,
     "date": "Feb 10, 07:01"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "US judge blocks Trump administration\u2019s effort to deport Rumeysa Ozturk",
-    "link": "https://www.aljazeera.com/news/2026/2/10/us-judge-blocks-trump-administrations-effort-to-deport-rumeysa-ozturk?traffic_source=rss",
-    "summary": "Lawyers say immigration judge found the Trump administration failed to prove Rumeysa Ozturk should be removed from US.",
-    "timestamp": 1770706676.0,
-    "date": "Feb 10, 06:57"
   },
   {
     "source": "TechCrunch",
@@ -848,14 +960,6 @@
     "date": "Feb 10, 06:03"
   },
   {
-    "source": "Al Jazeera",
-    "title": "LIVE: Israeli attacks across Gaza kill seven Palestinians",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/2/10/live-israeli-attack-on-gaza-building-kills-four-palestinians?traffic_source=rss",
-    "summary": "Israeli attacks on residential building, central Gaza has killed at least seven people.",
-    "timestamp": 1770702948.0,
-    "date": "Feb 10, 05:55"
-  },
-  {
     "source": "New York Times",
     "title": "Starmer\u2019s Epstein Crisis",
     "link": "https://www.nytimes.com/2026/02/09/world/starmer-epstein-israel-west-bank.html",
@@ -880,14 +984,6 @@
     "date": "Feb 10, 05:01"
   },
   {
-    "source": "CNBC",
-    "title": "SoftBank shares surge 10% after telecom unit lifts outlook, Arm strength bolsters AI narrative",
-    "link": "https://www.cnbc.com/2026/02/10/softbank-group-corp-shares-surge-after-telecom-unit-lifts-outlook-arm-ai-chip.html",
-    "summary": "Shares of SoftBank Group Corp jumped over 10% after its telecom arm raised its full-year profit outlook and renewed optimism around Arm Holdings.",
-    "timestamp": 1770696522.0,
-    "date": "Feb 10, 04:08"
-  },
-  {
     "source": "New York Times",
     "title": "Iran Detains Opposition Leaders Following Talks with Trump Administration",
     "link": "https://www.nytimes.com/2026/02/09/world/europe/iran-detains-prominent-opposition-figures-expanding-crackdown-on-dissent.html",
@@ -902,14 +998,6 @@
     "summary": "Iran intensified its suppression of domestic dissent on Monday, arresting reformist figures and activists weeks after a wave of nationwide protests. At the same time, Tehran left the door open to furt...",
     "timestamp": 1770695733.0,
     "date": "Feb 10, 03:55"
-  },
-  {
-    "source": "France 24",
-    "title": "South Korea investigators raid spy agencies over drone flights into North",
-    "link": "https://www.france24.com/en/americas/20260210-south-korea-investigators-raid-spy-agencies-over-drone-flights-into-north",
-    "summary": "South Korean investigators on Tuesday raided multiple sites including the country's Defense Intelligence Command and the National Intelligence Service as part of an investigation into alleged drone fl...",
-    "timestamp": 1770695471.0,
-    "date": "Feb 10, 03:51"
   },
   {
     "source": "Deutsche Welle",
@@ -960,28 +1048,12 @@
     "date": "Feb 10, 02:15"
   },
   {
-    "source": "France 24",
-    "title": "'Bodega cats': New York seeks rights for corner shops' furry little helpers",
-    "link": "https://www.france24.com/en/americas/20260210-bodega-cats-new-york-seeks-rights-for-corner-shops-furry-little-helpers",
-    "summary": "Proposals submitted in the New York City Council and the state legislature aim to establish health and safety standards for cats living in retails stores, and shield the owners of the city's iconic \"b...",
-    "timestamp": 1770688877.0,
-    "date": "Feb 10, 02:01"
-  },
-  {
     "source": "CNBC",
     "title": "Trump bashed Epstein to Palm Beach police during first investigation, called Maxwell 'evil,' record shows",
     "link": "https://www.cnbc.com/2026/02/09/trump-jeffrey-epstein-ghislaine-maxwell-palm-beach-police.html",
     "summary": "A former police chief said President Donald Trump was among the first people to call him when people learned Jeffrey Epstein was under investigation in 2006.",
     "timestamp": 1770688687.0,
     "date": "Feb 10, 01:58"
-  },
-  {
-    "source": "France 24",
-    "title": "US forces board sanctioned tanker after globe-spanning pursuit",
-    "link": "https://www.france24.com/en/asia-pacific/20260210-us-forces-board-sanctioned-tanker",
-    "summary": "US military forces have boarded a sanctioned oil tanker in the Indian Ocean after tracking it from the Caribbean, Defence Secretary Pete Hegseth said on Monday, marking a major escalation in the Trump...",
-    "timestamp": 1770688651.0,
-    "date": "Feb 10, 01:57"
   },
   {
     "source": "The Guardian",
@@ -992,36 +1064,12 @@
     "date": "Feb 10, 01:57"
   },
   {
-    "source": "France 24",
-    "title": "IOC bans helmet honouring Ukraine's war dead at Olympics, allows black armband",
-    "link": "https://www.france24.com/en/sport/20260210-ioc-bans-helmet-honouring-ukraine-s-war-dead-at-olympics-allows-black-armband",
-    "summary": "Ukraine's Vladyslav Heraskevych will not be allowed to wear a \"helmet of remembrance\"\u00a0in honour of those killed in the war with Russia in the skeleton competition at the Winter Games, the Internationa...",
-    "timestamp": 1770688390.0,
-    "date": "Feb 10, 01:53"
-  },
-  {
-    "source": "France 24",
-    "title": "UN presses for clarity on nearly $4 billion owed by US as financial crisis looms",
-    "link": "https://www.france24.com/en/europe/20260210-un-waits-for-clarity-on-us-payments-as-financial-crisis-looms",
-    "summary": "The United Nations says it is awaiting confirmation from the Trump administration on how much of the nearly $4 billion owed by the United States it plans to pay, and when the funds will be transferred...",
-    "timestamp": 1770687687.0,
-    "date": "Feb 10, 01:41"
-  },
-  {
     "source": "CNBC",
     "title": "U.S. urges ships to stay 'as far as possible' from Iran's waters in Strait of Hormuz after boarding attempts",
     "link": "https://www.cnbc.com/2026/02/10/us-warns-ships-avoid-iran-strait-hormuz-boarding-irgc-tehran-israel-netanyahu.html",
     "summary": "The U.S. told American-flagged ships to stay \"as far as possible\" from Iranian waters when navigating the Strait of Hormuz amid heightened U.S.-Iran tensions.",
     "timestamp": 1770687558.0,
     "date": "Feb 10, 01:39"
-  },
-  {
-    "source": "New York Times",
-    "title": "Australia Visit by President Herzog of Israel Prompts Protest",
-    "link": "https://www.nytimes.com/2026/02/09/world/australia/israel-herzog-visit-protests.html",
-    "summary": "Amid activists\u2019 objections, Prime Minister Anthony Albanese had invited President Isaac Herzog to visit to honor the victims of the Bondi Beach shooting.",
-    "timestamp": 1770687309.0,
-    "date": "Feb 10, 01:35"
   },
   {
     "source": "BBC World",
@@ -1136,14 +1184,6 @@
     "date": "Feb 09, 22:59"
   },
   {
-    "source": "France 24",
-    "title": "Rubio to visit Hungary and Slovakia after Trump backs right-wing leader Orban",
-    "link": "https://www.france24.com/en/americas/20260209-rubio-to-visit-hungary-and-slovakia-after-trump-backs-orban",
-    "summary": "US Secretary of State Marco Rubio will travel next week to Hungary and Slovakia after President Donald Trump publicly endorsed Hungarian Prime Minister Viktor Orban, a right-wing ally who is trailing ...",
-    "timestamp": 1770677900.0,
-    "date": "Feb 09, 22:58"
-  },
-  {
     "source": "New York Times",
     "title": "Allies Back Keir Starmer Amid Pressure to Resign Over Epstein Turmoil",
     "link": "https://www.nytimes.com/2026/02/09/world/europe/keir-starmer-uk-communications-resigns.html",
@@ -1256,14 +1296,6 @@
     "date": "Feb 09, 21:01"
   },
   {
-    "source": "CNBC",
-    "title": "Where the manager of this Morningstar 5-star rated fund is finding income right now",
-    "link": "https://www.cnbc.com/2026/02/09/where-the-manager-of-this-morningstar-5-star-rated-fund-is-finding-income-right-now.html",
-    "summary": "Capital Group's Christopher Buchbinder sees opportunities in these dividend-paying stocks.",
-    "timestamp": 1770670854.0,
-    "date": "Feb 09, 21:00"
-  },
-  {
     "source": "The Guardian",
     "title": "Air Canada cancels all flights to Cuba as US oil blockade cuts off fuel access",
     "link": "https://www.theguardian.com/world/2026/feb/09/air-canada-cancels-cuba-flights-fuel",
@@ -1310,14 +1342,6 @@
     "summary": "Ouster is paying $35 million along with 1.8 million shares.",
     "timestamp": 1770667685.0,
     "date": "Feb 09, 20:08"
-  },
-  {
-    "source": "CNBC",
-    "title": "Three software earnings reports this week could trigger a bounce, says Jay Woods",
-    "link": "https://www.cnbc.com/2026/02/09/three-software-earnings-reports-this-week-could-trigger-a-bounce-says-jay-woods.html",
-    "summary": "Investor and trader Jay Woods breaks down the week ahead for Pro subscribers.",
-    "timestamp": 1770667201.0,
-    "date": "Feb 09, 20:00"
   },
   {
     "source": "Deutsche Welle",
@@ -1400,22 +1424,6 @@
     "date": "Feb 09, 18:05"
   },
   {
-    "source": "The Verge",
-    "title": "AI-generated ads dropped the ball at this year&#8217;s Super Bowl",
-    "link": "https://www.theverge.com/entertainment/875886/super-bowl-2026-ai-generated-ads-were-terrible",
-    "summary": "It feels like everyone who produced ad spots for this year's Super Bowl with generative AI failed in terms of making gen AI seem useful or like something worth getting excited about. Though we've seen...",
-    "timestamp": 1770659947.0,
-    "date": "Feb 09, 17:59"
-  },
-  {
-    "source": "The Verge",
-    "title": "Ferrari\u2019s first EV will have an interior designed by Jony Ive",
-    "link": "https://www.theverge.com/transportation/875799/ferrari-luce-jony-ive-interior-design-photos",
-    "summary": "Ferrari released the first interior images of the company's first all-electric supercar, called the Ferrari Luce (\"light\" in Italian). This is the second time the Italian automaker has teased the Luce...",
-    "timestamp": 1770659142.0,
-    "date": "Feb 09, 17:45"
-  },
-  {
     "source": "TechCrunch",
     "title": "Anthropic closes in on $20B round",
     "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
@@ -1486,14 +1494,6 @@
     "summary": "Bad Bunny made history performing the Super Bowl halftime show in Spanish. Meanwhile, disinformation about the global superstar is going viral. A DW fact check.",
     "timestamp": 1770652440.0,
     "date": "Feb 09, 15:54"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "YouTube TV introduces cheaper bundles, including a $65/month sports package",
-    "link": "https://techcrunch.com/2026/02/09/youtube-tv-introduces-cheaper-bundles-including-a-65-month-sports-package/",
-    "summary": "YouTube TV is offering new, less expensive plans that can be customized around topics like sports, news, and entertainment.",
-    "timestamp": 1770652028.0,
-    "date": "Feb 09, 15:47"
   },
   {
     "source": "BBC World",
