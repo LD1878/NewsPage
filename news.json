@@ -1,19 +1,219 @@
 [
   {
-    "source": "New York Times",
-    "title": "Trump\u2019s Actions Test the Fragile World of Air Travel",
-    "link": "https://www.nytimes.com/2026/02/12/business/air-travel-trump-el-paso.html",
-    "summary": "Last minute announcements and abrupt changes by the Trump administration have caused confusion in an already strained U.S. aviation system.",
-    "timestamp": 1770925417.0,
-    "date": "Feb 12, 19:43"
+    "source": "TechCrunch",
+    "title": "Didero lands $30M to put manufacturing procurement on \u201cagentic\u201d autopilot",
+    "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+    "summary": "The Series A was co-led by Chemistry and Headline.",
+    "timestamp": 1770928307.0,
+    "date": "Feb 12, 20:31"
+  },
+  {
+    "source": "CNBC",
+    "title": "What the EPA's flip on climate change means for automakers",
+    "link": "https://www.cnbc.com/2026/02/12/epa-climate-change-automakers.html",
+    "summary": "Automakers have long criticized emissions regulations they consider too restrictive. Some auto industry analysts say backing off EVs will isolate America.",
+    "timestamp": 1770928133.0,
+    "date": "Feb 12, 20:28"
+  },
+  {
+    "source": "CNBC",
+    "title": "Office real estate stocks tumble as AI disruption casualties in the stock market grow by the day",
+    "link": "https://www.cnbc.com/2026/02/12/office-real-estate-stocks-tumble-as-ai-disruption-casualties-in-the-stock-market-grow-by-the-day.html",
+    "summary": "CBRE and Jones Lang LaSalle were among those hit, dropping double digits amid fears of AI disruption.",
+    "timestamp": 1770927916.0,
+    "date": "Feb 12, 20:25"
+  },
+  {
+    "source": "CNBC",
+    "title": "Epstein files: DOJ says it logs Congress members' searches to 'protect' victim information",
+    "link": "https://www.cnbc.com/2026/02/12/epstein-files-doj-pam-bondi-pramila-jayapal.html",
+    "summary": "Attorney General Pam Bondi and Rep. Pramila Jayapal exchanged sharp words at a hearing when Jayapal asked victims of Jeffrey Epstein about meeting with the DOJ.",
+    "timestamp": 1770927869.0,
+    "date": "Feb 12, 20:24"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+    "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+    "summary": "The chatbot maker has, once again, ramped up its valuation significantly.",
+    "timestamp": 1770927517.0,
+    "date": "Feb 12, 20:18"
   },
   {
     "source": "BBC World",
     "title": "Judge blocks US military from demoting Mark Kelly over 'illegal orders' video",
     "link": "https://www.bbc.com/news/articles/cvgk4vl30vko?at_medium=RSS&at_campaign=rss",
     "summary": "After the retired Navy captain told servicemembers they don't have to obey illegal orders, Defence Secretary Hegseth moved to cut his rank.",
-    "timestamp": 1770925004.0,
-    "date": "Feb 12, 19:36"
+    "timestamp": 1770927449.0,
+    "date": "Feb 12, 20:17"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia politics live: Liberals prepare for leadership vote; Albanese to mark 18th anniversary of national apology",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/13/australia-politics-live-liberals-leadership-spill-vote-angus-taylor-sussan-ley-libspill-anthony-albanese-indigenous-apology-anniversary-ntwnfb",
+    "summary": "<p>Angus Taylor expected to defeat Sussan Ley. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"htt...",
+    "timestamp": 1770927348.0,
+    "date": "Feb 12, 20:15"
+  },
+  {
+    "source": "CNBC",
+    "title": "AWS CEO Garman says software AI fears are 'overblown'",
+    "link": "https://www.cnbc.com/2026/02/12/aws-ceo-garman-software-ai-fears.html",
+    "summary": "Amazon's cloud business is seeing faster growth than expected, and its margin is widening.",
+    "timestamp": 1770927348.0,
+    "date": "Feb 12, 20:15"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Short Track-Dutch skater Xandra Velzeboer sets women's 500 metres world record",
+    "link": "https://www.channelnewsasia.com/sport/short-track-dutch-skater-xandra-velzeboer-sets-womens-500-metres-world-record-5927751",
+    "summary": "",
+    "timestamp": 1770927341.0,
+    "date": "Feb 12, 20:15"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "YouTube finally launches a dedicated app for Apple Vision Pro",
+    "link": "https://techcrunch.com/2026/02/12/youtube-finally-launches-a-dedicated-app-for-apple-vision-pro/",
+    "summary": "When Apple Vision Pro first came out two years ago, YouTube hesitated to release a dedicated app. Today is the day they officially launch one.",
+    "timestamp": 1770927255.0,
+    "date": "Feb 12, 20:14"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump revokes EPA finding on greenhouse gas threat in huge blow to climate change regulations",
+    "link": "https://www.cnbc.com/2026/02/12/trump-epa-endangerment-finding-climate-change-greenhouse-gas.html",
+    "summary": "EPA Administrator Lee Zeldin officially revoked the endangerment finding, in a huge blow to U.S. efforts to fight climate change.",
+    "timestamp": 1770927219.0,
+    "date": "Feb 12, 20:13"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Mexico sends aid to Cuba as Sheinbaum walks diplomatic tightrope with US",
+    "link": "https://www.theguardian.com/world/2026/feb/12/mexico-cuba-aid-oil-trump",
+    "summary": "<p>Much-needed supplies but no oil arrive on navy ships as Trump stokes island nation\u2019s economic crisis</p><p>As the sun came up on a flat calm Florida Straits, two ships arrived off the port of Havan...",
+    "timestamp": 1770926967.0,
+    "date": "Feb 12, 20:09"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Ice hockey-Teen Celebrini makes early statement as Canada open campaign with emphatic win",
+    "link": "https://www.channelnewsasia.com/sport/ice-hockey-teen-celebrini-makes-early-statement-canada-open-campaign-emphatic-win-5927726",
+    "summary": "",
+    "timestamp": 1770926892.0,
+    "date": "Feb 12, 20:08"
+  },
+  {
+    "source": "New York Times",
+    "title": "El Ni\u00f1o May Be Back This Summer, Bringing Drought and Floods",
+    "link": "https://www.nytimes.com/2026/02/12/climate/el-nino-weather-pattern-returning-noaa.html",
+    "summary": "The powerful weather pattern is expected to shift into gear again around June, NOAA said, though its strength this time remains a question.",
+    "timestamp": 1770926798.0,
+    "date": "Feb 12, 20:06"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Ireland commits to Israel fixtures despite calling for their expulsion",
+    "link": "https://www.channelnewsasia.com/sport/ireland-commits-israel-fixtures-despite-calling-their-expulsion-5927731",
+    "summary": "",
+    "timestamp": 1770926785.0,
+    "date": "Feb 12, 20:06"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Snowboarding-South Korea's Choi wins women's halfpipe gold",
+    "link": "https://www.channelnewsasia.com/sport/snowboarding-south-koreas-choi-wins-womens-halfpipe-gold-5927736",
+    "summary": "",
+    "timestamp": 1770926732.0,
+    "date": "Feb 12, 20:05"
+  },
+  {
+    "source": "CNBC",
+    "title": "This auto supplier just pivoted to AI data centers. Wall Street is really bullish",
+    "link": "https://www.cnbc.com/2026/02/12/this-company-just-pivoted-to-data-centers-wall-street-is-bullish.html",
+    "summary": "BorgWarner\u2019s deal with TurboCell has investors excited about the auto supplier\u2019s potential to adapt to the AI-economy.",
+    "timestamp": 1770926708.0,
+    "date": "Feb 12, 20:05"
+  },
+  {
+    "source": "New York Times",
+    "title": "What We Know About the Victims of the Tumbler Ridge Mass Shooting in Canada",
+    "link": "https://www.nytimes.com/2026/02/12/world/canada/tumbler-ridge-shooting-victims-canada.html",
+    "summary": "The attack at a secondary school and a private residence in the small, remote community in British Columbia has left families stunned and grief-stricken.",
+    "timestamp": 1770926392.0,
+    "date": "Feb 12, 19:59"
+  },
+  {
+    "source": "CNBC",
+    "title": "How EPA 'endangerment finding' repeal could impact your wallet",
+    "link": "https://www.cnbc.com/2026/02/12/epa-endangerment-finding-repeal.html",
+    "summary": "The Trump administration dismantled a key defense in the U.S. fight against climate change. Experts say that may have far-reaching impacts on people's finances.",
+    "timestamp": 1770926361.0,
+    "date": "Feb 12, 19:59"
+  },
+  {
+    "source": "CNBC",
+    "title": "The January CPI inflation report is due out Friday morning. Here's what it's expected to show",
+    "link": "https://www.cnbc.com/2026/02/12/the-january-cpi-inflation-report-is-due-out-friday-morning-heres-what-its-expected-to-show.html",
+    "summary": "Investors got some good news this week on the state of the labor market, and more may be on the way Friday on inflation.",
+    "timestamp": 1770926130.0,
+    "date": "Feb 12, 19:55"
+  },
+  {
+    "source": "CNBC",
+    "title": "Cisco stock has worst day since 2022 as memory prices pressure margins",
+    "link": "https://www.cnbc.com/2026/02/12/cisco-stock-has-worst-day-since-2022-as-memory-prices-pressure-margins.html",
+    "summary": "Cisco shares plunged 12% Thursday after the company issued lukewarm guidance as memory prices weigh on profit margins",
+    "timestamp": 1770926069.0,
+    "date": "Feb 12, 19:54"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Bangladesh elections: BNP set for victory in landmark vote",
+    "link": "https://www.dw.com/en/bangladesh-elections-bnp-set-for-victory-in-landmark-vote/live-75922247?maca=en-rss-en-all-1573-rdf",
+    "summary": "The Bangladesh Nationalist Party seemed set for parliamentary majority, according to an early count by the local Ekattor TV station. This is the first general election since the fall of Sheikh Hasina....",
+    "timestamp": 1770925980.0,
+    "date": "Feb 12, 19:53"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Verstappen says new F1 car is \"not much fun to drive\"",
+    "link": "https://www.channelnewsasia.com/sport/verstappen-says-new-f1-car-not-much-fun-drive-5927691",
+    "summary": "",
+    "timestamp": 1770925820.0,
+    "date": "Feb 12, 19:50"
+  },
+  {
+    "source": "CNBC",
+    "title": "One year after DOGE cuts, former federal workers find new roles",
+    "link": "https://www.cnbc.com/2026/02/12/after-doge-cuts-federal-workers-new-roles.html",
+    "summary": "Nonprofit Work for America is helping to place former federal workers in new roles in state and local government, after the largest reduction in the federal workforce in history.",
+    "timestamp": 1770925768.0,
+    "date": "Feb 12, 19:49"
+  },
+  {
+    "source": "BBC World",
+    "title": "Minnesota immigration enforcement surge is ending, Trump border tsar says",
+    "link": "https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Two US citizens were killed in Minneapolis during the crackdown dubbed \"Operation Metro Surge\".",
+    "timestamp": 1770925628.0,
+    "date": "Feb 12, 19:47"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Trump dismantles legal basis for US climate rules",
+    "link": "https://www.channelnewsasia.com/world/trump-us-climate-greenhouse-gas-environment-agency-scientific-findings-5927656",
+    "summary": "US President Donald Trump has revoked the 2009 \u201cendangerment finding\u201d that forms the legal basis for US greenhouse gas regulations, a move expected to face immediate court challenges.",
+    "timestamp": 1770925500.0,
+    "date": "Feb 12, 19:45"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump\u2019s Actions Test the Fragile World of Air Travel",
+    "link": "https://www.nytimes.com/2026/02/12/business/air-travel-trump-el-paso.html",
+    "summary": "Last minute announcements and abrupt changes by the Trump administration have caused confusion in an already strained U.S. aviation system.",
+    "timestamp": 1770925417.0,
+    "date": "Feb 12, 19:43"
   },
   {
     "source": "The Verge",
@@ -40,14 +240,6 @@
     "date": "Feb 12, 19:35"
   },
   {
-    "source": "The Guardian",
-    "title": "Australia politics live: Liberals prepare for leadership vote; Albanese to mark 18th anniversary of national apology",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/13/australia-politics-live-liberals-leadership-spill-vote-angus-taylor-sussan-ley-libspill-anthony-albanese-indigenous-apology-anniversary-ntwnfb",
-    "summary": "<p>Angus Taylor expected to defeat Sussan Ley. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"htt...",
-    "timestamp": 1770924903.0,
-    "date": "Feb 12, 19:35"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Alpine-Last feels better than gold for record-breaker Schleper",
     "link": "https://www.channelnewsasia.com/sport/alpine-last-feels-better-gold-record-breaker-schleper-5927671",
@@ -64,14 +256,6 @@
     "date": "Feb 12, 19:31"
   },
   {
-    "source": "CNBC",
-    "title": "Trump revokes EPA finding on greenhouse gas threat in huge blow to climate change regulations",
-    "link": "https://www.cnbc.com/2026/02/12/trump-epa-endangerment-finding-climate-change-greenhouse-gas.html",
-    "summary": "EPA Administrator Lee Zeldin officially revoked the endangerment finding, in a huge blow to U.S. efforts to fight climate change.",
-    "timestamp": 1770924462.0,
-    "date": "Feb 12, 19:27"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Unofficial results show BNP ahead in Bangladesh election",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/2/12/unofficial-results-show-bnp-ahead-in-bangladesh-election?traffic_source=rss",
@@ -81,8 +265,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Oil prices down $2 a barrel on supply forecast",
-    "link": "https://www.channelnewsasia.com/business/oil-prices-down-2-barrel-supply-forecast-5927646",
+    "title": "Oil prices fall on supply forecast, easing risk",
+    "link": "https://www.channelnewsasia.com/business/oil-prices-fall-supply-forecast-easing-risk-5927646",
     "summary": "",
     "timestamp": 1770924073.0,
     "date": "Feb 12, 19:21"
@@ -102,14 +286,6 @@
     "summary": "A proposal by anti-immigration Swiss People's Party has gained enough signatures to head to a referendum this June. But lawmakers and business groups argue the move could cause economic chaos.",
     "timestamp": 1770923940.0,
     "date": "Feb 12, 19:19"
-  },
-  {
-    "source": "CNBC",
-    "title": "Bill to fund DHS fails in the Senate",
-    "link": "https://www.cnbc.com/video/2026/02/12/bill-to-fund-dhs-fails-in-the-senate.html",
-    "summary": "CNBC's Emily Wilkins reports on news regarding Congress.",
-    "timestamp": 1770923862.0,
-    "date": "Feb 12, 19:17"
   },
   {
     "source": "BBC World",
@@ -142,14 +318,6 @@
     "summary": "Whether you\u2019re considering a 16-inch gaming laptop, or a more compact 14-inch model, there\u2019s a deal with your name on it happening right now at Best Buy. The 2025 models of Acer\u2019s Predator Helios Neo ...",
     "timestamp": 1770923412.0,
     "date": "Feb 12, 19:10"
-  },
-  {
-    "source": "CNBC",
-    "title": "Office real estate stocks tumble as AI disruption casualties in the stock market grow by the day",
-    "link": "https://www.cnbc.com/2026/02/12/office-real-estate-stocks-tumble-as-ai-disruption-casualties-in-the-stock-market-grow-by-the-day.html",
-    "summary": "CBRE and Jones Lang LaSalle were among those hit, dropping double digits amid fears of AI disruption.",
-    "timestamp": 1770923192.0,
-    "date": "Feb 12, 19:06"
   },
   {
     "source": "NPR",
@@ -296,14 +464,6 @@
     "date": "Feb 12, 18:41"
   },
   {
-    "source": "New York Times",
-    "title": "From the chaos of snowboard cross, a repeat champ emerges.",
-    "link": "https://www.nytimes.com/2026/02/12/world/from-the-chaos-of-snowboard-cross-a-repeat-champ.html",
-    "summary": "Alessandro H\u00e4mmerle of Austria came from behind to win another gold medal in the men\u2019s event.",
-    "timestamp": 1770921663.0,
-    "date": "Feb 12, 18:41"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Tense start at Berlinale as 'genocide' question coincides with 'technical problems'",
     "link": "https://www.dw.com/en/tense-start-at-berlinale-as-genocide-question-coincides-with-technical-problems/a-75939558?maca=en-rss-en-all-1573-rdf",
@@ -392,14 +552,6 @@
     "date": "Feb 12, 18:22"
   },
   {
-    "source": "BBC World",
-    "title": "Minnesota immigration enforcement surge is ending, Trump border tsar says",
-    "link": "https://www.bbc.com/news/articles/c2lr9w29zwyo?at_medium=RSS&at_campaign=rss",
-    "summary": "Two US citizens were killed in Minneapolis during the crackdown dubbed \"Operation Metro Surge\".",
-    "timestamp": 1770920541.0,
-    "date": "Feb 12, 18:22"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Biathlon-Bakken's mother congratulates Botn after emotional Norway gold",
     "link": "https://www.channelnewsasia.com/sport/biathlon-bakkens-mother-congratulates-botn-after-emotional-norway-gold-5927521",
@@ -438,14 +590,6 @@
     "summary": "Ishan Kishan and Hardik Pandya score half centuries for T20 World Cup holders India in 93-run win against Namibia.",
     "timestamp": 1770920065.0,
     "date": "Feb 12, 18:14"
-  },
-  {
-    "source": "CNBC",
-    "title": "FedEx says 'exceptional' holiday season will drive expected third-quarter earnings beat",
-    "link": "https://www.cnbc.com/2026/02/12/fedex-exceptional-holiday-season-q3-earnings.html",
-    "summary": "FedEx projected higher annual revenue for fiscal 2029 and third-quarter earnings that will exceed Wall Street estimates due to an \"exceptional\" peak season.",
-    "timestamp": 1770919961.0,
-    "date": "Feb 12, 18:12"
   },
   {
     "source": "CNBC",
@@ -528,38 +672,6 @@
     "date": "Feb 12, 17:58"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Google hit by fresh EU antitrust probe over search ads pricing, Bloomberg News reports",
-    "link": "https://www.channelnewsasia.com/business/google-hit-fresh-eu-antitrust-probe-over-search-ads-pricing-bloomberg-news-reports-5927456",
-    "summary": "",
-    "timestamp": 1770918739.0,
-    "date": "Feb 12, 17:52"
-  },
-  {
-    "source": "CNBC",
-    "title": "Spirit Airlines sells more planes, calls back 500 flight attendants from furlough ahead of spring break",
-    "link": "https://www.cnbc.com/2026/02/12/spirit-airlines-sells-planes-flight-attendants.html",
-    "summary": "Spirit Airlines said it sold another 20 planes and is calling back 500 flight attendants from furlough.",
-    "timestamp": 1770918707.0,
-    "date": "Feb 12, 17:51"
-  },
-  {
-    "source": "CNBC",
-    "title": "Josh Brown says this homebuilder is forming one of the most bullish chart patterns that exist",
-    "link": "https://www.cnbc.com/2026/02/12/josh-brown-says-this-homebuilder-is-forming-one-of-the-most-bullish-chart-patterns-that-exist.html",
-    "summary": "Josh and Sean discuss the appeal of old economy stocks and the cup-and-handle chart pattern.",
-    "timestamp": 1770918677.0,
-    "date": "Feb 12, 17:51"
-  },
-  {
-    "source": "CNBC",
-    "title": "Stocks making the biggest moves midday: Crocs, Cisco, Lululemon, AppLovin & more",
-    "link": "https://www.cnbc.com/2026/02/12/stocks-making-the-biggest-moves-midday-crox-csco-lulu-app.html",
-    "summary": "These are the stocks posting the largest moves in midday trading.",
-    "timestamp": 1770918463.0,
-    "date": "Feb 12, 17:47"
-  },
-  {
     "source": "The Verge",
     "title": "Good Luck, Have Fun, Don\u2019t Die is a rollicking parable about this moment in tech",
     "link": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
@@ -582,14 +694,6 @@
     "summary": "The aggressive enforcement operation resulted in thousands of arrests, and two U.S. citizens were fatally shot in Minneapolis by federal immigration agents.",
     "timestamp": 1770918095.0,
     "date": "Feb 12, 17:41"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "India thump Namibia ahead of Pakistan clash",
-    "link": "https://www.channelnewsasia.com/sport/india-thump-namibia-ahead-pakistan-clash-5927451",
-    "summary": "",
-    "timestamp": 1770918042.0,
-    "date": "Feb 12, 17:40"
   },
   {
     "source": "Al Jazeera",
@@ -632,14 +736,6 @@
     "date": "Feb 12, 17:33"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Ice hockey-Canada uncertain over Poulin's return for quarter-finals",
-    "link": "https://www.channelnewsasia.com/sport/ice-hockey-canada-uncertain-over-poulins-return-quarter-finals-5927426",
-    "summary": "",
-    "timestamp": 1770917569.0,
-    "date": "Feb 12, 17:32"
-  },
-  {
     "source": "NPR",
     "title": "At the Olympics, skier Breezy Johnson won a gold medal \u2014 and an engagement ring, too",
     "link": "https://www.npr.org/2026/02/12/nx-s1-5712277/at-the-olympics-skier-breezy-johnson-won-a-gold-medal-and-an-engagement-ring-too",
@@ -673,14 +769,6 @@
   },
   {
     "source": "CNBC",
-    "title": "Trump tariffs leave importers with record-breaking $3.5 billion U.S. Customs bond funding shortfall",
-    "link": "https://www.cnbc.com/2026/02/12/trump-tariffs-us-customs-record-bond-funding-issues-flagged.html",
-    "summary": "U.S. Customs identified close to $3.6 billion in surety bond insufficiencies in fiscal 2025, a financial guarantee trade experts say has soared due to tariffs.",
-    "timestamp": 1770916940.0,
-    "date": "Feb 12, 17:22"
-  },
-  {
-    "source": "CNBC",
     "title": "Trump's Justice Department antitrust head Gail Slater stepping down",
     "link": "https://www.cnbc.com/2026/02/12/gail-slater-trump-antitrust-justice-department-bondi.html",
     "summary": "Trump appointed Slater to head the Justice Department's antitrust unit, which enforces laws against illegal monopolies and anticompetitive business behavior.",
@@ -696,27 +784,11 @@
     "date": "Feb 12, 17:14"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Figure skating-Estonian coach Reinsalu remains provisionally banned, CAS says",
-    "link": "https://www.channelnewsasia.com/sport/figure-skating-estonian-coach-reinsalu-remains-provisionally-banned-cas-says-5927361",
-    "summary": "",
-    "timestamp": 1770916307.0,
-    "date": "Feb 12, 17:11"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Bezalel Smotrich\u2019s long struggle to annex the West Bank for Israel",
     "link": "https://www.aljazeera.com/news/2026/2/12/bezalel-smotrichs-gradual-struggle-annex-west-bank-israel?traffic_source=rss",
     "summary": "Born of Israel&#039;s settler community, the finance minister has subverted the Palestinian West Bank&#039;s few protections.",
     "timestamp": 1770916297.0,
-    "date": "Feb 12, 17:11"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Alpine to leave World Endurance Championship at end of 2026 to focus on F1",
-    "link": "https://www.channelnewsasia.com/sport/alpine-leave-world-endurance-championship-end-2026-focus-f1-5927366",
-    "summary": "",
-    "timestamp": 1770916294.0,
     "date": "Feb 12, 17:11"
   },
   {
@@ -734,22 +806,6 @@
     "summary": "<p>Protesters are enjoying greater freedom of expression since Nicol\u00e1s Maduro\u2019s downfall despite lack of regime change</p><p>Protesters have taken to the streets of cities across Venezuela in the late...",
     "timestamp": 1770915949.0,
     "date": "Feb 12, 17:05"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Ice hockey-Canada women cruise to shutout win over Finland to seal group runners-up spot",
-    "link": "https://www.channelnewsasia.com/sport/ice-hockey-canada-women-cruise-shutout-win-over-finland-seal-group-runners-up-spot-5927336",
-    "summary": "",
-    "timestamp": 1770915942.0,
-    "date": "Feb 12, 17:05"
-  },
-  {
-    "source": "New York Times",
-    "title": "What We Know About the Victims of the Tumbler Ridge Mass Shooting in Canada",
-    "link": "https://www.nytimes.com/2026/02/12/world/canada/tumbler-ridge-shooting-victims-canada.html",
-    "summary": "The attack at a secondary school and a private residence in the small, remote community in British Columbia has left families stunned and grief-stricken.",
-    "timestamp": 1770915851.0,
-    "date": "Feb 12, 17:04"
   },
   {
     "source": "The Verge",
@@ -950,14 +1006,6 @@
     "summary": "The US Immigration and Customs Enforcement\u2019s (ICE) brutal immigration crackdown in Minnesota is ending, President Donald Trump\u2019s border czar Tom Homan announced on Thursday. He described the operation...",
     "timestamp": 1770911741.0,
     "date": "Feb 12, 15:55"
-  },
-  {
-    "source": "CNBC",
-    "title": "Epstein files: AG Pam Bondi seemed to have Rep. Jayapal's DOJ database search history at hearing",
-    "link": "https://www.cnbc.com/2026/02/11/epstein-files-pam-bondi-jayapal-search-history-doj.html",
-    "summary": "Attorney General Pam Bondi at a House Judiciary Committee hearing seemed to have a printout of Rep. Jayapal's search history related to Epstein.",
-    "timestamp": 1770911519.0,
-    "date": "Feb 12, 15:51"
   },
   {
     "source": "Deutsche Welle",
@@ -1248,28 +1296,12 @@
     "date": "Feb 12, 13:02"
   },
   {
-    "source": "CNBC",
-    "title": "Tech IPO hype gets drowned out on Wall Street by prospect of $1 trillion in debt sales",
-    "link": "https://www.cnbc.com/2026/02/12/tech-ipo-hype-drowned-out-by-prospect-of-1-trillion-in-debt-sales.html",
-    "summary": "SpaceX's potential IPO has generated plenty of investor buzz, but all of the real action in tech capital markets is currently on the debt side.",
-    "timestamp": 1770901201.0,
-    "date": "Feb 12, 13:00"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "First German politician enters Gaza since October 7 attack",
     "link": "https://www.dw.com/en/first-german-politician-enters-gaza-since-october-7-attack/a-75930895?maca=en-rss-en-all-1573-rdf",
     "summary": "The speaker of the Bundestag, Julia Kl\u00f6ckner, entered as far as the so-called \"Yellow Line\" of predominantly Israeli control in Gaza. She held no talks with Palestinians, prompting some criticism at h...",
     "timestamp": 1770901020.0,
     "date": "Feb 12, 12:57"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Saudi Arabia reshapes Vision 2030 around new priorities",
-    "link": "https://www.dw.com/en/saudi-arabia-reshapes-vision-2030-around-new-priorities/a-75900119?maca=en-rss-en-all-1573-rdf",
-    "summary": "Riyadh has announced an overhaul of its economic and societal reform agenda. It's now focused on technology and religious tourism, not urban construction and giga projects. Where do human rights stand...",
-    "timestamp": 1770899100.0,
-    "date": "Feb 12, 12:25"
   },
   {
     "source": "The Guardian",
@@ -1392,14 +1424,6 @@
     "date": "Feb 12, 01:04"
   },
   {
-    "source": "The Guardian",
-    "title": "Canadian police identify suspect in school massacre that left nine dead",
-    "link": "https://www.theguardian.com/world/2026/feb/11/tumbler-ridge-canada-shooting-school-mark-carney",
-    "summary": "<p>A teacher and five students among those killed in attack in Tumbler Ridge, British Columbia, on Tuesday</p><p>Canadian police have identified the suspect who carried out a school massacre in remote...",
-    "timestamp": 1770857708.0,
-    "date": "Feb 12, 00:55"
-  },
-  {
     "source": "BBC World",
     "title": "The Dutch love four-day working weeks, but are they sustainable?",
     "link": "https://www.bbc.com/news/articles/cx2y85xdyw3o?at_medium=RSS&at_campaign=rss",
@@ -1464,36 +1488,12 @@
     "date": "Feb 11, 20:47"
   },
   {
-    "source": "TechCrunch",
-    "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
-    "link": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
-    "summary": "Critical security flaws targeting Windows and Office users allow hackers to take complete control of a victim's computer by clicking a malicious link or opening a file. Patch now.",
-    "timestamp": 1770842800.0,
-    "date": "Feb 11, 20:46"
-  },
-  {
     "source": "New York Times",
     "title": "How Hate Groups Are Using Online Games to Recruit Kids",
     "link": "https://www.nytimes.com/2026/02/11/world/europe/online-extremism-gaming-children.html",
     "summary": "Fringe movements are using games and other online platforms to draw growing numbers of children to their causes, new data and dozens of interviews show.",
     "timestamp": 1770842170.0,
     "date": "Feb 11, 20:36"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "How to get into a16z\u2019s super-competitive Speedrun startup accelerator program",
-    "link": "https://techcrunch.com/2026/02/11/how-to-get-into-a16zs-super-competitive-speedrun-startup-accelerator-program/",
-    "summary": "TechCrunch spoke to a16z partner Joshua Lu for some tips on standing out for the Speedrun program.",
-    "timestamp": 1770839881.0,
-    "date": "Feb 11, 19:58"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Cash App adds payment links so you can get paid in a DM",
-    "link": "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/",
-    "summary": "The new feature allows users to share payment requests in a variety of digital settings.",
-    "timestamp": 1770839441.0,
-    "date": "Feb 11, 19:50"
   },
   {
     "source": "BBC World",
