@@ -1,11 +1,123 @@
 [
   {
+    "source": "New York Times",
+    "title": "Navalny Was Poisoned With Frog Toxin, European Governments Say",
+    "link": "https://www.nytimes.com/2026/02/14/world/europe/russia-navalny-poison.html",
+    "summary": "The toxin was found in the body of the Russian dissident Aleksei A. Navalny, who died in prison two years ago, five governments said, challenging Russia\u2019s official account.",
+    "timestamp": 1771107260.0,
+    "date": "Feb 14, 22:14"
+  },
+  {
+    "source": "New York Times",
+    "title": "Live Updates: In Munich, Rubio Calls Europe a Friend but Says It Must Change",
+    "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
+    "summary": "European leaders expressed relief at the tone of Secretary of State Marco Rubio\u2019s remarks, but they made it clear that the trans-Atlantic rift remained.",
+    "timestamp": 1771107025.0,
+    "date": "Feb 14, 22:10"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Inter grab last-gasp winner over Juve to move eight points clear at summit",
+    "link": "https://www.channelnewsasia.com/sport/inter-grab-last-gasp-winner-over-juve-move-eight-points-clear-summit-5932286",
+    "summary": "",
+    "timestamp": 1771106874.0,
+    "date": "Feb 14, 22:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Behind the mysterious white facade of this Singapore house lies a warm, light-filled home",
+    "link": "https://www.channelnewsasia.com/obsessions/luxury-home-tour-hideaway-house-semi-detached-singapore-5922176",
+    "summary": "Hideaway House seems closed off from the street, but inside, floor-to-ceiling glass, skylights and timber-lined surfaces create an inviting family home shaped by the tropics.",
+    "timestamp": 1771106760.0,
+    "date": "Feb 14, 22:06"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: Angus Taylor refuses to be drawn on makeup of new opposition frontbench",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/15/federal-politics-liberal-party-angus-taylor-jane-hume-coalition-labor-anthony-albanese-ntwnfb",
+    "summary": "<p>Meanwhile in Sydney, Mardi Gras events to kick off with Fair Day. Follow the latest updates live</p><p>The Coalitions new deputy leader <strong>Jane</strong> <strong>Hume</strong> will speak to ABC...",
+    "timestamp": 1771106667.0,
+    "date": "Feb 14, 22:04"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Short track-Dutchman van 't Wout claims second gold at Milano Cortina",
+    "link": "https://www.channelnewsasia.com/sport/short-track-dutchman-van-t-wout-claims-second-gold-milano-cortina-5932276",
+    "summary": "",
+    "timestamp": 1771106457.0,
+    "date": "Feb 14, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: In times of rupture, Total Defence matters more than ever to Singapore",
+    "link": "https://www.channelnewsasia.com/commentary/total-defence-day-singapore-military-spending-cyberattack-saf-ns-5929366",
+    "summary": "Amid a weakening international rules-based order, Singaporeans have a collective responsibility to defend their way of life, says RSIS\u2019 Ong Wei Chong.",
+    "timestamp": 1771106400.0,
+    "date": "Feb 14, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "No more rust: Prabowo wants Indonesia\u2019s zinc roofs to be replaced, but experts question the urgency",
+    "link": "https://www.channelnewsasia.com/asia/indonesia-roof-replacement-zinc-clay-tile-prabowo-5928381",
+    "summary": "President Prabowo Subianto has set the target to replace zinc roofs on homes throughout Indonesia in the next three years.",
+    "timestamp": 1771106400.0,
+    "date": "Feb 14, 22:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Is safety is \u2018dead\u2019 at xAI?",
+    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+    "summary": "Elon Musk is \u201cactively\u201d working to make xAI\u2019s Grok chatbot \u201cmore unhinged, according to a former employee.",
+    "timestamp": 1771106144.0,
+    "date": "Feb 14, 21:55"
+  },
+  {
+    "source": "BBC World",
+    "title": "Rubio says US and Europe 'belong together' despite tensions",
+    "link": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
+    "summary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance.",
+    "timestamp": 1771105546.0,
+    "date": "Feb 14, 21:45"
+  },
+  {
+    "source": "France 24",
+    "title": "French President Macron urges restraint after right-wing youth fatally beaten",
+    "link": "https://www.france24.com/en/france/20260214-french-president-macron-urges-restraint-after-right-wing-youth-fatally-beaten",
+    "summary": "French President Emmanuel Macron on Saturday urged calm and restraint after a far-right aligned 23-year-old man\u00a0identified only as Quentin\u00a0was fatally beaten\u00a0on the sidelines of a conference by a hard...",
+    "timestamp": 1771105089.0,
+    "date": "Feb 14, 21:38"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Short track-Italy's Fontana edges closer to historic 14th medal",
+    "link": "https://www.channelnewsasia.com/sport/short-track-italys-fontana-edges-closer-historic-14th-medal-5932266",
+    "summary": "",
+    "timestamp": 1771104782.0,
+    "date": "Feb 14, 21:33"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US, Iran to hold new round of nuclear talks in Geneva next week",
+    "link": "https://www.channelnewsasia.com/world/us-iran-hold-new-round-nuclear-talks-in-geneva-next-week-5932186",
+    "summary": "Washington is pushing Tehran to limit its nuclear programme, with US President Donald Trump warning that failure to reach an agreement would be \u201cvery traumatic.\u201d",
+    "timestamp": 1771104632.0,
+    "date": "Feb 14, 21:30"
+  },
+  {
     "source": "NPR",
     "title": "Four people on NASA'S Crew-12 arrive at the International Space Station",
     "link": "https://www.npr.org/2026/02/14/nx-s1-5714583/nasa-spacex-crew-12-iss",
     "summary": "The crew will spend the next eight months conducting experiments to prepare for human exploration beyond Earth's orbit.",
     "timestamp": 1771103452.0,
     "date": "Feb 14, 21:10"
+  },
+  {
+    "source": "France 24",
+    "title": "Secret documents reveal Russia\u2019s cross-continental disinformation campaign",
+    "link": "https://www.france24.com/en/video/20260214-secret-documents-reveal-russia-s-cross-continental-disinformation-campaign",
+    "summary": "A major investigation into an unprecedented data leak by Forbidden Stories exposes Russia's\u00a0foreign influence strategy across three continents. The leak shows that journalists and publications were be...",
+    "timestamp": 1771103163.0,
+    "date": "Feb 14, 21:06"
   },
   {
     "source": "CNA (Asia)",
@@ -38,14 +150,6 @@
     "summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago.",
     "timestamp": 1771102080.0,
     "date": "Feb 14, 20:48"
-  },
-  {
-    "source": "New York Times",
-    "title": "Live Updates: In Munich, Rubio Calls Europe a Friend but Says It Must Change",
-    "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
-    "summary": "European leaders expressed relief at the tone of Secretary of State Marco Rubio\u2019s remarks, but they made it clear that the trans-Atlantic rift remained.",
-    "timestamp": 1771101970.0,
-    "date": "Feb 14, 20:46"
   },
   {
     "source": "CNA (Asia)",
@@ -169,7 +273,7 @@
   },
   {
     "source": "France 24",
-    "title": "Frech prosecutors announce special team to analyse Epstein files",
+    "title": "French prosecutors announce special team to analyse Epstein files",
     "link": "https://www.france24.com/en/france/20260214-frech-prosecutors-announce-special-team-to-analyse-epstein-files",
     "summary": "The\u00a0Paris prosecutor's office on Saturday announced it was setting up a special team to analyse files relating to convicted sex offender Jeffrey Epstein and investigate suspected crimes involving Fren...",
     "timestamp": 1771096602.0,
@@ -232,22 +336,6 @@
     "date": "Feb 14, 18:45"
   },
   {
-    "source": "BBC World",
-    "title": "Rubio says US and Europe 'belong together' despite tensions",
-    "link": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
-    "summary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance.",
-    "timestamp": 1771094687.0,
-    "date": "Feb 14, 18:44"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Inspired Scotland have England's number again in Calcutta Cup",
-    "link": "https://www.channelnewsasia.com/sport/inspired-scotland-have-englands-number-again-in-calcutta-cup-5932146",
-    "summary": "",
-    "timestamp": 1771094644.0,
-    "date": "Feb 14, 18:44"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Cynical Pakistan fans brace for heartbreak in India T20 World Cup match",
     "link": "https://www.aljazeera.com/sports/2026/2/14/cynical-pakistan-fans-brace-for-heartbreak-in-india-t20-world-cup-match?traffic_source=rss",
@@ -278,22 +366,6 @@
     "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for \u201cblatant\u201d copyright infringement.",
     "timestamp": 1771093612.0,
     "date": "Feb 14, 18:26"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Muchova beats Mboko in Qatar Open final to end six-year title drought",
-    "link": "https://www.channelnewsasia.com/sport/muchova-beats-mboko-in-qatar-open-final-end-six-year-title-drought-5932131",
-    "summary": "",
-    "timestamp": 1771093514.0,
-    "date": "Feb 14, 18:25"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Ice hockey-Canada into semis, with Poulin back from injury and equalling scoring record",
-    "link": "https://www.channelnewsasia.com/sport/ice-hockey-canada-semis-poulin-back-injury-and-equalling-scoring-record-5932111",
-    "summary": "",
-    "timestamp": 1771092912.0,
-    "date": "Feb 14, 18:15"
   },
   {
     "source": "Al Jazeera",
@@ -328,28 +400,12 @@
     "date": "Feb 14, 17:54"
   },
   {
-    "source": "New York Times",
-    "title": "Navalny Was Poisoned With Frog Toxin, European Governments Say",
-    "link": "https://www.nytimes.com/2026/02/14/world/europe/russia-navalny-poison.html",
-    "summary": "The toxin was found in the body of the Russian dissident Aleksei A. Navalny, who died in prison two years ago, five governments said, challenging Russia\u2019s official account.",
-    "timestamp": 1771091176.0,
-    "date": "Feb 14, 17:46"
-  },
-  {
     "source": "TechCrunch",
     "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
     "link": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
     "summary": "Designer Kate Barton teams up with Fiducia AI and IBM for a NYFW presentation.",
     "timestamp": 1771091026.0,
     "date": "Feb 14, 17:43"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Alpine skiing-From soccer dreamer to snow king, Brazil's Pinheiro Braathen strikes gold",
-    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-soccer-dreamer-snow-king-brazils-pinheiro-braathen-strikes-gold-5932066",
-    "summary": "",
-    "timestamp": 1771090546.0,
-    "date": "Feb 14, 17:35"
   },
   {
     "source": "The Guardian",
@@ -360,14 +416,6 @@
     "date": "Feb 14, 17:34"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "About 200,000 join Iran demonstration in Munich: police",
-    "link": "https://www.channelnewsasia.com/world/about-200000-join-iran-demonstration-in-munich-police-5932041",
-    "summary": "",
-    "timestamp": 1771090401.0,
-    "date": "Feb 14, 17:33"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Iran, US spar as diaspora organises rallies abroad calling for action",
     "link": "https://www.aljazeera.com/news/2026/2/14/iran-us-spar-as-diaspora-organises-rallies-abroad-calling-for-action?traffic_source=rss",
@@ -376,16 +424,8 @@
     "date": "Feb 14, 17:32"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Alpine skiing-Odermatt loses last chance for gold but happy to go home with three medals",
-    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-odermatt-loses-last-chance-gold-happy-go-home-three-medals-5932046",
-    "summary": "",
-    "timestamp": 1771089605.0,
-    "date": "Feb 14, 17:20"
-  },
-  {
     "source": "Al Jazeera",
-    "title": "LIVE: Real Madrid vs Real Sociedad \u2013 La Liga",
+    "title": "Real Madrid thrash Real Sociedad 4-1: La Liga",
     "link": "https://www.aljazeera.com/sports/liveblog/2026/2/14/live-real-madrid-vs-real-sociedad-la-liga?traffic_source=rss",
     "summary": "Follow the build-up, analysis and live text commentary of the game as Madrid have a chance to go top of La Liga.",
     "timestamp": 1771089600.0,
@@ -398,14 +438,6 @@
     "summary": "The lawyer for the former prime minister claimed he had lost 85 percent of the vision in his right eye because of delayed treatment in prison.",
     "timestamp": 1771089495.0,
     "date": "Feb 14, 17:18"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Curling-Canada's Kennedy regrets language in heated exchange but will not\u00a0apologise",
-    "link": "https://www.channelnewsasia.com/sport/curling-canadas-kennedy-regrets-language-in-heated-exchange-will-not-apologise-5932026",
-    "summary": "",
-    "timestamp": 1771089208.0,
-    "date": "Feb 14, 17:13"
   },
   {
     "source": "BBC World",
@@ -1080,22 +1112,6 @@
     "date": "Feb 14, 09:38"
   },
   {
-    "source": "France 24",
-    "title": "Second US carrier heads to Middle East",
-    "link": "https://www.france24.com/en/second-us-carrier-heads-to-middle-east",
-    "summary": "US envoys Steve Witkoff and Jared Kushner are set to hold talks with Iran in Geneva on Tuesday, as Donald Trump told reporters on Friday that regime change would be the best possible outcome for the c...",
-    "timestamp": 1771061689.0,
-    "date": "Feb 14, 09:34"
-  },
-  {
-    "source": "France 24",
-    "title": "Brazil: 6 million expected at Rio Carnival",
-    "link": "https://www.france24.com/en/brazil-6-million-expected-at-rio-carnival",
-    "summary": "Friday evening marked the opening of the annual carnival celebrations in Rio de Janeiro, with an estimated six million revelers expected to flood the city\u2019s exuberant street parties, where troupes of ...",
-    "timestamp": 1771061584.0,
-    "date": "Feb 14, 09:33"
-  },
-  {
     "source": "New York Times",
     "title": "New Research Absolves the Woman Blamed for a Dynasty\u2019s Ruin",
     "link": "https://www.nytimes.com/2026/02/14/world/asia/china-zhou-dynasty-king-climate-change.html",
@@ -1488,14 +1504,6 @@
     "date": "Feb 13, 16:03"
   },
   {
-    "source": "TechCrunch",
-    "title": "Dutch phone giant Odido says millions of customers affected by data breach",
-    "link": "https://techcrunch.com/2026/02/13/dutch-phone-giant-odido-says-millions-of-customers-affected-by-data-breach/",
-    "summary": "The Dutch phone giant Odido is the latest phone and internet company to be hacked in recent months, as governments and financially motivated hackers continue to steal highly confidential information a...",
-    "timestamp": 1770998053.0,
-    "date": "Feb 13, 15:54"
-  },
-  {
     "source": "The Guardian",
     "title": "Beijing pastry shop overrun by shoppers after Xi Jinping\u2019s visit",
     "link": "https://www.theguardian.com/world/2026/feb/13/beijing-pastry-shop-overrun-shoppers-xi-jinping-visit-lunar-new-year",
@@ -1534,14 +1542,6 @@
     "summary": "<p>Western Australia and Madagascar struck by destructive winds and rain, while Finland and Norway have coldest January since 2010</p><p>Tropical Cyclone Mitchell <a href=\"https://www.theguardian.com/...",
     "timestamp": 1770982907.0,
     "date": "Feb 13, 11:41"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Qld coalmine expansion approved by Albanese government will clear habitat and fuel climate crisis, scientists say",
-    "link": "https://www.theguardian.com/environment/2026/feb/13/qld-coalmine-expansion-approved-by-albanese-government-will-clear-habitat-and-fuel-climate-crisis-scientists-say",
-    "summary": "<p>Conservationists estimate coal exported from expanded mine to release CO2 equivalent of about half Australia\u2019s annual carbon footprint</p><ul><li><p><a href=\"https://www.theguardian.com/australia-n...",
-    "timestamp": 1770966232.0,
-    "date": "Feb 13, 07:03"
   },
   {
     "source": "The Guardian",
