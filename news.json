@@ -1,11 +1,235 @@
 [
   {
+    "source": "CNBC",
+    "title": "Epstein files: LA28 chief Wasserman puts his talent agency up for sale after Maxwell revelations, WSJ reports",
+    "link": "https://www.cnbc.com/2026/02/14/epstein-files-wasserman-talent-agency-up-for-sale.html",
+    "summary": "Casey Wasserman told his firm's staff that he felt that he had \"become \u200ca distraction\" to its work and had begun the process of selling the company.",
+    "timestamp": 1771067777.0,
+    "date": "Feb 14, 11:16"
+  },
+  {
     "source": "New York Times",
     "title": "Live Updates: Rubio Emphasizes Shared History With Europe at Munich Security Conference",
     "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
     "summary": "Secretary of State Marco Rubio also echoed the Trump administration\u2019s talking points on the threat of Western decline.",
-    "timestamp": 1771064041.0,
-    "date": "Feb 14, 10:14"
+    "timestamp": 1771067560.0,
+    "date": "Feb 14, 11:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Astronomers puzzle over 'inside out' planetary system",
+    "link": "https://www.channelnewsasia.com/business/astronomers-puzzle-over-inside-out-planetary-system-5931516",
+    "summary": "",
+    "timestamp": 1771067507.0,
+    "date": "Feb 14, 11:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "U.S. and European interests are 'intertwined', Rubio says",
+    "link": "https://www.cnbc.com/2026/02/14/us-and-european-interests-are-intertwined-rubio-says.html",
+    "summary": "Speaking at the Munich Security Conference, the U.S. secretary of state stressed the importance of cooperation with Europe.",
+    "timestamp": 1771067276.0,
+    "date": "Feb 14, 11:07"
+  },
+  {
+    "source": "New York Times",
+    "title": "Europe\u2019s Reaction to Rubio: Relief, Up to a Point",
+    "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio/europes-reaction-to-rubio-relief-up-to-a-point",
+    "summary": "The secretary of state was much less caustic in Munich than Vice President JD Vance was a year ago. But European officials said his core message was much the same.",
+    "timestamp": 1771067215.0,
+    "date": "Feb 14, 11:06"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "AI film school trains next generation of Hollywood moviemakers",
+    "link": "https://www.channelnewsasia.com/business/ai-film-school-trains-next-generation-hollywood-moviemakers-5931501",
+    "summary": "",
+    "timestamp": 1771067087.0,
+    "date": "Feb 14, 11:04"
+  },
+  {
+    "source": "New York Times",
+    "title": "In Munich, Rubio Stresses Shared History to Europeans but Warns of \u2018Civilizational Erasure\u2019",
+    "link": "https://www.nytimes.com/2026/02/14/world/europe/rubio-munich-security-conference-speech.html",
+    "summary": "In his speech at the Munich Security Conference, Secretary of State Marco Rubio voiced some far-right ideas, but his diplomatic tone came as a relief to the audience.",
+    "timestamp": 1771066993.0,
+    "date": "Feb 14, 11:03"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Crosscountry-South African latecomer Smith hopes to inspire others to take up his sport",
+    "link": "https://www.channelnewsasia.com/sport/crosscountry-south-african-latecomer-smith-hopes-inspire-others-take-up-his-sport-5931491",
+    "summary": "",
+    "timestamp": 1771066981.0,
+    "date": "Feb 14, 11:03"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Nvidia CEO Huang won't attend India AI summit next week, company says",
+    "link": "https://www.channelnewsasia.com/business/nvidia-ceo-huang-wont-attend-india-ai-summit-next-week-company-says-5931486",
+    "summary": "",
+    "timestamp": 1771066860.0,
+    "date": "Feb 14, 11:01"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Alpine skiing-Shiffrin tries again in giant slalom after team combined fail",
+    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-shiffrin-tries-again-in-giant-slalom-after-team-combined-fail-5931496",
+    "summary": "",
+    "timestamp": 1771066854.0,
+    "date": "Feb 14, 11:00"
+  },
+  {
+    "source": "New York Times",
+    "title": "Scotty James Is Edged Out by Yuto Totsuka of Japan in the Halfpipe.",
+    "link": "https://www.nytimes.com/2026/02/14/world/scotty-james-halfpipe-snowboard-highlight.html",
+    "summary": "Scotty James of Australia laid down a strong run, but was outdone by Japan\u2019s Yuto Totsuka.",
+    "timestamp": 1771066834.0,
+    "date": "Feb 14, 11:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Two hurt after high-speed New Zealand-France crash at Auckland SailGP race",
+    "link": "https://www.aljazeera.com/sports/2026/2/14/two-hurt-as-auckland-sailing-abandoned-with-major-black-foils-france-crash?traffic_source=rss",
+    "summary": "Two sailors treated for serious injuries after Black Foils and DS \u2060Team France involved in major collision.",
+    "timestamp": 1771066774.0,
+    "date": "Feb 14, 10:59"
+  },
+  {
+    "source": "France 24",
+    "title": "US Secretary of State Rubio reaffirms US-Europe ties at Munich",
+    "link": "https://www.france24.com/en/us-secretary-of-state-rubio-reaffirms-us-europe-ties-at-munich",
+    "summary": "Marco Rubio adopted a notably softer approach than JD Vance, who sharply criticized America\u2019s allies at the same forum last year, stressing instead that the United States and Europe are fundamentally ...",
+    "timestamp": 1771066675.0,
+    "date": "Feb 14, 10:57"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Are lasers the future of anti-drone warfare?",
+    "link": "https://www.aljazeera.com/economy/2026/2/14/are-lasers-the-future-of-anti-drone-warfare?traffic_source=rss",
+    "summary": "Repelling mass drone strikes is a hard and expensive task, but lasers might help.",
+    "timestamp": 1771066539.0,
+    "date": "Feb 14, 10:55"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Agha expects right spirit in India clash but unsure about handshakes",
+    "link": "https://www.channelnewsasia.com/sport/agha-expects-right-spirit-in-india-clash-unsure-about-handshakes-5931466",
+    "summary": "",
+    "timestamp": 1771066385.0,
+    "date": "Feb 14, 10:53"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "AU calls for end to \u2018extermination\u2019 of Palestinians, decries African wars",
+    "link": "https://www.aljazeera.com/news/2026/2/14/au-calls-for-end-to-extermination-of-palestinians-decries-african-wars?traffic_source=rss",
+    "summary": "African\u00a0heads of state gather in Ethiopia&#039;s Addis Ababa for the 39th\u00a0African\u00a0Union\u00a0Summit.",
+    "timestamp": 1771066260.0,
+    "date": "Feb 14, 10:51"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Biathlon-Boe relishes retirement as old foes bring the biathlon drama",
+    "link": "https://www.channelnewsasia.com/sport/biathlon-boe-relishes-retirement-old-foes-bring-biathlon-drama-5931471",
+    "summary": "",
+    "timestamp": 1771066203.0,
+    "date": "Feb 14, 10:50"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Wang Yi warns against 'knee-jerk' calls for US-China decoupling",
+    "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-us-decoupling-munich-security-conference-5931381",
+    "summary": "China's top diplomat met US Secretary of State Marco Rubio on Friday in what a US official described as a \"positive and constructive\" meeting.",
+    "timestamp": 1771066200.0,
+    "date": "Feb 14, 10:50"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Tarique Rahman: From 17-year exile to landslide win in Bangladesh election",
+    "link": "https://www.aljazeera.com/news/2026/2/14/tarique-rahman-from-17-year-exile-to-landslide-win-in-bangladesh-election?traffic_source=rss",
+    "summary": "Results mark a remarkable reversal of fortune for BNP chief who \u200bleft country in 2008 and returned only two months ago.",
+    "timestamp": 1771066156.0,
+    "date": "Feb 14, 10:49"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Bangladesh's PM-in-waiting dedicates win to those who 'sacrificed for democracy'",
+    "link": "https://www.channelnewsasia.com/asia/bangladesh-elections-tarique-rahman-speech-5931446",
+    "summary": "\"Our paths and opinions may differ, but in the interest of the country, we must remain united,\" Tarique Rahman said in his first speech since the election.",
+    "timestamp": 1771066103.0,
+    "date": "Feb 14, 10:48"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Curling-Why curlers need to be in great shape to compete at top level",
+    "link": "https://www.channelnewsasia.com/sport/curling-why-curlers-need-be-in-great-shape-compete-top-level-5931451",
+    "summary": "",
+    "timestamp": 1771065607.0,
+    "date": "Feb 14, 10:40"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "US: Homeland Security shuts down over budget dispute",
+    "link": "https://www.dw.com/en/us-homeland-security-shuts-down-over-budget-dispute/a-75967583?maca=en-rss-en-all-1573-rdf",
+    "summary": "The budget deadlock in the US Senate comes after highly criticized immigration enforcement operations across several US states. The shutdown has left airport security services working without pay.",
+    "timestamp": 1771065540.0,
+    "date": "Feb 14, 10:39"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Does this chemical really make you fall in love?",
+    "link": "https://www.dw.com/en/does-this-chemical-really-make-you-fall-in-love/a-75951547?maca=en-rss-en-all-1573-rdf",
+    "summary": "For years, oxytocin was thought of as the love drug: enhancing trust and emotional connection. But the truth is more complex.",
+    "timestamp": 1771065420.0,
+    "date": "Feb 14, 10:37"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Alpine skiing-Brazil's Pinheiro Braathen on course for historic gold in giant slalom",
+    "link": "https://www.channelnewsasia.com/sport/alpine-skiing-brazils-pinheiro-braathen-course-historic-gold-in-giant-slalom-5931436",
+    "summary": "",
+    "timestamp": 1771065182.0,
+    "date": "Feb 14, 10:33"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Figure skating-Former Olympians rally round Malinin after shattering defeat",
+    "link": "https://www.channelnewsasia.com/sport/figure-skating-former-olympians-rally-round-malinin-after-shattering-defeat-5931441",
+    "summary": "",
+    "timestamp": 1771064972.0,
+    "date": "Feb 14, 10:29"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Rubio tells allies US and Europe 'belong together'",
+    "link": "https://www.channelnewsasia.com/world/marco-rubio-munich-security-conference-us-europe-5931411",
+    "summary": "\"We do not seek to separate, but to revitalise an old friendship and renew the greatest civilisation in human history,\" said US Secretary of State Marco Rubio.",
+    "timestamp": 1771064940.0,
+    "date": "Feb 14, 10:29"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Germany news: Author Arundhati Roy quits Berlinale over Gaza",
+    "link": "https://www.dw.com/en/germany-news-author-arundhati-roy-quits-berlinale-over-gaza/live-75966415?maca=en-rss-en-all-1573-rdf",
+    "summary": "The Indian writer said she was pulling out over \"jaw-dropping\" comments made by jury president Wim Wenders. Meanwhile, Health Minister Warken wants to make medical care in Germany fit for potential wa...",
+    "timestamp": 1771064640.0,
+    "date": "Feb 14, 10:24"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Figure skating-Shaidorov shocks field to win men's gold as Malinin falls apart",
+    "link": "https://www.channelnewsasia.com/sport/figure-skating-shaidorov-shocks-field-win-mens-gold-malinin-falls-apart-5931426",
+    "summary": "",
+    "timestamp": 1771064449.0,
+    "date": "Feb 14, 10:20"
+  },
+  {
+    "source": "New York Times",
+    "title": "Brazil, the World\u2019s Largest Catholic Nation, Embraces Polyamory",
+    "link": "https://www.nytimes.com/2026/02/14/world/americas/brazil-polyamory-non-monogamy-catholic.html",
+    "summary": "More people in a still largely conservative and religious nation are rejecting monogamy as they seek new definitions of romance, and of family.",
+    "timestamp": 1771064267.0,
+    "date": "Feb 14, 10:17"
   },
   {
     "source": "New York Times",
@@ -22,14 +246,6 @@
     "summary": "",
     "timestamp": 1771063847.0,
     "date": "Feb 14, 10:10"
-  },
-  {
-    "source": "New York Times",
-    "title": "Brazil, the World\u2019s Largest Catholic Nation, Embraces Polyamory",
-    "link": "https://www.nytimes.com/2026/02/14/world/americas/brazil-polyamory-non-monogamy-catholic.html",
-    "summary": "More people in a still largely conservative and religious nation are rejecting monogamy as they seek new definitions of romance, and of family.",
-    "timestamp": 1771063325.0,
-    "date": "Feb 14, 10:02"
   },
   {
     "source": "NPR",
@@ -136,14 +352,6 @@
     "date": "Feb 14, 09:33"
   },
   {
-    "source": "CNBC",
-    "title": "U.S. and European interests are 'intertwined', Rubio says",
-    "link": "https://www.cnbc.com/2026/02/14/us-and-european-interests-are-intertwined-rubio-says.html",
-    "summary": "Speaking at the Munich Security Conference, the U.S. secretary of state stressed the importance of cooperation with Europe.",
-    "timestamp": 1771061573.0,
-    "date": "Feb 14, 09:32"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Bangladesh Islamist party concedes defeat in election",
     "link": "https://www.channelnewsasia.com/asia/bangladesh-islamist-party-concedes-defeat-in-election-tarique-rahman-5931376",
@@ -248,14 +456,6 @@
     "date": "Feb 14, 08:30"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Masked-prowler video tops sheriff's list of clues to Nancy Guthrie abduction",
-    "link": "https://www.channelnewsasia.com/world/us-nancy-guthrie-kidnapping-masked-man-police-clues-nbc-today-host-mother-5931306",
-    "summary": "The video footage showed an armed man - wearing a ski mask, gloves and a backpack - tampering with Nancy Guthrie's Google Nest doorbell camera outside her house shortly before she vanished.",
-    "timestamp": 1771057500.0,
-    "date": "Feb 14, 08:25"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Two Philippine senators named \u2018co-perpetrators\u2019 in Duterte ICC case",
     "link": "https://www.aljazeera.com/news/2026/2/14/two-philippine-senators-named-co-perpetrators-in-duterte-icc-case?traffic_source=rss",
@@ -270,14 +470,6 @@
     "summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted from nearly two weeks ago.",
     "timestamp": 1771056729.0,
     "date": "Feb 14, 08:12"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Hermes quarterly sales boosted by strong US demand",
-    "link": "https://www.channelnewsasia.com/obsessions/hermes-quarterly-sales-boosted-strong-us-demand-5931301",
-    "summary": "French luxury group\u2019s signature handbags lead to growth above 10 per cent in all regions except Asia-Pacific.",
-    "timestamp": 1771056233.0,
-    "date": "Feb 14, 08:03"
   },
   {
     "source": "The Verge",
@@ -352,14 +544,6 @@
     "date": "Feb 14, 06:41"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Trump administration sued for attempted overhaul of public golf course in Washington",
-    "link": "https://www.channelnewsasia.com/sport/trump-administration-sued-attempted-overhaul-public-golf-course-in-washington-5931256",
-    "summary": "",
-    "timestamp": 1771050927.0,
-    "date": "Feb 14, 06:35"
-  },
-  {
     "source": "TechCrunch",
     "title": "Nothing opens its first retail store in India",
     "link": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
@@ -369,9 +553,9 @@
   },
   {
     "source": "France 24",
-    "title": "Live: US doesn't want to separate from Europe 'but revitalise' alliance, Rubio tells allies",
+    "title": "Live: Ukraine's Volodymyr Zelensky to address Munich Security Conference",
     "link": "https://www.france24.com/en/europe/20260214-live-rubio-address-munich-security-conference-european-leaders-call-reset-ties-usa-zelensky",
-    "summary": "US Secretary of State Marco Rubio sought to reassure nervous European allies on Saturday as\u00a0he\u00a0addressed the Munich Security Conference, telling the annual gathering that Europe and the US \"belong tog...",
+    "summary": "Ukraine's President Volodymyr Zelensky is set to address the Munich Security Conference on Saturday as Washington steps up pressure on Kyiv and Moscow to end the war that has raged for four years. US ...",
     "timestamp": 1771050396.0,
     "date": "Feb 14, 06:26"
   },
@@ -408,24 +592,8 @@
     "date": "Feb 14, 05:54"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Sailing-SailGP Auckland racing abandoned after major crash involving Black Foils, France",
-    "link": "https://www.channelnewsasia.com/sport/sailing-sailgp-auckland-racing-abandoned-after-major-crash-involving-black-foils-france-5931241",
-    "summary": "",
-    "timestamp": 1771047666.0,
-    "date": "Feb 14, 05:41"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "China's Wang Yi tells EU diplomats not to blame Beijing for bloc's problems",
-    "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-foreign-minister-eu-beijing-problems-munich-conference-5931236",
-    "summary": "",
-    "timestamp": 1771047454.0,
-    "date": "Feb 14, 05:37"
-  },
-  {
     "source": "Al Jazeera",
-    "title": "Bangladesh publishes official poll results showing sweeping BNP win",
+    "title": "Bangladesh PM-in-waiting Rahman appeals for unity as BNP sweeps polls",
     "link": "https://www.aljazeera.com/news/2026/2/14/bnp-wins-bangladesh-election-tarique-rahman-set-to-be-prime-minister?traffic_source=rss",
     "summary": "Interim leader Muhammad Yunus congratulates Rahman for &#039;the landslide victory of his party&#039;.",
     "timestamp": 1771047393.0,
@@ -520,20 +688,12 @@
     "date": "Feb 14, 04:09"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Commentary: Budget 2026 \u2013 why CDC vouchers are still given in a time of economic recovery",
-    "link": "https://www.channelnewsasia.com/commentary/cdc-voucher-budget-2026-singapore-cost-living-support-5930371",
-    "summary": "Amid exceptional economic growth and rising incomes, here\u2019s why Singapore is still providing sizeable cost-of-living support, says the Institute of Policy Studies\u2019 Clara Lee.",
-    "timestamp": 1771040640.0,
-    "date": "Feb 14, 03:44"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Japan releases arrested Chinese fishing boat captain: Media",
-    "link": "https://www.channelnewsasia.com/east-asia/japan-china-fishing-boat-captain-released-5931131",
-    "summary": "",
-    "timestamp": 1771040029.0,
-    "date": "Feb 14, 03:33"
+    "source": "France 24",
+    "title": "US doesn't want to separate from Europe 'but revitalise' alliance, Rubio tells allies",
+    "link": "https://www.france24.com/en/europe/20260214-us-doesn-t-want-to-separate-from-europe-but-revitalise-alliance-rubio-tells-allies",
+    "summary": "US Secretary of State Marco Rubio sought to assuage European leaders' worries about fraying ties\u00a0with Washington as\u00a0he\u00a0addressed the Munich Security Conference on Saturday, telling the annual gatherin...",
+    "timestamp": 1771040717.0,
+    "date": "Feb 14, 03:45"
   },
   {
     "source": "The Guardian",
@@ -560,14 +720,6 @@
     "date": "Feb 14, 03:19"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Hollywood accuses Chinese AI Seedance of massive infringement",
-    "link": "https://www.channelnewsasia.com/world/hollywood-accuses-chinese-ai-seedance-massive-infringement-5931126",
-    "summary": "Seedance 2.0 has impressed the likes of Elon Musk and gone viral in China, where it has been compared to DeepSeek and praised for its ability to produce cinematic storylines from just a few prompts.",
-    "timestamp": 1771039020.0,
-    "date": "Feb 14, 03:17"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Arundhati Roy \u2018shocked\u2019 by jury\u2019s Gaza remarks, quits Berlin film festival",
     "link": "https://www.aljazeera.com/news/2026/2/14/arundhati-roy-shocked-by-jurys-gaza-remarks-quits-berlin-film-festival?traffic_source=rss",
@@ -592,14 +744,6 @@
     "date": "Feb 14, 02:40"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Carney tells Tumbler Ridge residents that Canadians 'will always be with you' following mass shooting",
-    "link": "https://www.channelnewsasia.com/world/carney-tells-tumbler-ridge-residents-canadians-will-always-be-you-following-mass-shooting-5931101",
-    "summary": "",
-    "timestamp": 1771036737.0,
-    "date": "Feb 14, 02:38"
-  },
-  {
     "source": "CNBC",
     "title": "Elon Musk's xAI faces threat of NAACP lawsuit over air pollution from Mississippi data center",
     "link": "https://www.cnbc.com/2026/02/13/musks-xai-faces-threat-of-naacp-lawsuit-over-pollution-in-mississippi.html",
@@ -608,36 +752,12 @@
     "date": "Feb 14, 02:19"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Fire at Havana oil refinery as Cuba\u2019s fuel crisis deepens",
-    "link": "https://www.aljazeera.com/news/2026/2/14/fire-at-havana-oil-refinery-as-cubas-fuel-crisis-deepens?traffic_source=rss",
-    "summary": "A fire at a key fuel refinery in the capital comes amid Cuba&#039;s mounting fuel emergency due to US-imposed restrictions.",
-    "timestamp": 1771035274.0,
-    "date": "Feb 14, 02:14"
-  },
-  {
     "source": "New York Times",
     "title": "Ilia Malinin\u2019s catastrophic free skate: \u2018I blew it.\u2019",
     "link": "https://www.nytimes.com/2026/02/13/world/ilia-malinin-figure-skating-medal.html",
     "summary": "Malinin, the heavy favorite to win gold, fell twice during his final routine and finished 8th.",
     "timestamp": 1771034871.0,
     "date": "Feb 14, 02:07"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Peru to debate removal of President Jose Jeri four months into his term",
-    "link": "https://www.aljazeera.com/news/2026/2/14/peru-to-debate-removal-of-president-jose-jeri-four-months-into-his-term?traffic_source=rss",
-    "summary": "The debate comes as Jeri, who is not running for re-election, faces allegations of bribery and influence-peddling.",
-    "timestamp": 1771034130.0,
-    "date": "Feb 14, 01:55"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "US withdraws newly updated list of firms allegedly aiding China's military",
-    "link": "https://www.channelnewsasia.com/east-asia/us-withdraws-list-firms-china-pentagon-alibaba-baidu-5930091",
-    "summary": "",
-    "timestamp": 1771034040.0,
-    "date": "Feb 14, 01:54"
   },
   {
     "source": "New York Times",
@@ -656,14 +776,6 @@
     "date": "Feb 14, 01:45"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "3 dead in latest US military strike on alleged drug boat in Caribbean",
-    "link": "https://www.channelnewsasia.com/world/3-dead-in-latest-us-military-strike-alleged-drug-boat-in-caribbean-5931086",
-    "summary": "",
-    "timestamp": 1771033430.0,
-    "date": "Feb 14, 01:43"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Trump seeks to force voter ID for midterm elections",
     "link": "https://www.dw.com/en/trump-seeks-to-force-voter-id-for-midterm-elections/a-75965713?maca=en-rss-en-all-1573-rdf",
@@ -678,46 +790,6 @@
     "summary": "The average IRS tax refund is up 10.9% so far this season, according to early filing data. Here's what taxpayers can expect.",
     "timestamp": 1771031863.0,
     "date": "Feb 14, 01:17"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "India vs Pakistan: Eager fans brave surge in travel costs for T20 World Cup",
-    "link": "https://www.aljazeera.com/sports/2026/2/14/icc-t20-world-cup-india-vs-pakistan-cricket-fans-travel-colombo?traffic_source=rss",
-    "summary": "Despite soaring travel costs and ticketing challenges, desperate Indian fans travel to Colombo for the match on Sunday.",
-    "timestamp": 1771031190.0,
-    "date": "Feb 14, 01:06"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "US military kills 3 in latest attack on boat in the Caribbean",
-    "link": "https://www.aljazeera.com/news/2026/2/14/us-military-kills-3-in-latest-attack-on-boat-in-caribbean?traffic_source=rss",
-    "summary": "At least 133 people have been killed in US attacks on vessels in the Caribbean Sea and Pacific Ocean since September.",
-    "timestamp": 1771030893.0,
-    "date": "Feb 14, 01:01"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Figure skating-Malinin's Olympic dreams come to crashing halt at Milano Cortina Games",
-    "link": "https://www.channelnewsasia.com/sport/figure-skating-malinins-olympic-dreams-come-crashing-halt-milano-cortina-games-5931056",
-    "summary": "",
-    "timestamp": 1771030051.0,
-    "date": "Feb 14, 00:47"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Forget about muscle mass as you age \u2013 your workouts should focus on getting strong instead",
-    "link": "https://www.channelnewsasia.com/wellness/muscle-strength-versus-mass-5908011",
-    "summary": "When it comes to longevity, bigger is not always better. Aim for everyday strength.",
-    "timestamp": 1771029723.0,
-    "date": "Feb 14, 00:42"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Why I\u2019m choosing to stay single in my 20s \u2013 finding a life, not a man, comes first",
-    "link": "https://www.channelnewsasia.com/women/choosing-stay-single-20s-5900901",
-    "summary": "Once she stopped looking for love, this 22-year-old undergraduate stopped being afraid of being alone. Romaine Chan reflects on choosing singlehood to build a full life of her own \u2013 and why modern dat...",
-    "timestamp": 1771029693.0,
-    "date": "Feb 14, 00:41"
   },
   {
     "source": "BBC World",
@@ -856,14 +928,6 @@
     "date": "Feb 13, 21:54"
   },
   {
-    "source": "New York Times",
-    "title": "U.N. Condemns U.S. Measures Halting Oil Deliveries to Cuba",
-    "link": "https://www.nytimes.com/2026/02/13/world/americas/trump-oil-un-cuba-venezuela.html",
-    "summary": "The measures were installed last month by the Trump administration after the U.S. captured Nicol\u00e1s Maduro and seized control of Venezuela\u2019s oil industry.",
-    "timestamp": 1771019262.0,
-    "date": "Feb 13, 21:47"
-  },
-  {
     "source": "NPR",
     "title": "It's been five years since catastrophic Texas blackouts. How much has changed?",
     "link": "https://www.npr.org/2026/02/13/nx-s1-5699421/texas-ice-storm-outages-power-electricity",
@@ -998,14 +1062,6 @@
     "summary": "A man who on Friday attempted to stab a French officer during a ceremony at the Arc de Triomphe monument in central Paris has died from his injuries after being shot by police. The suspect was release...",
     "timestamp": 1771010818.0,
     "date": "Feb 13, 19:26"
-  },
-  {
-    "source": "New York Times",
-    "title": "Japan Seizes Chinese Fishing Boat; Move Likely to Add to Tensions",
-    "link": "https://www.nytimes.com/2026/02/13/world/asia/japan-seizes-chinese-boat.html",
-    "summary": "The seizure of the trawler, which Japan said was sailing in its waters in the East China Sea, is likely to add to tensions between Tokyo and Beijing.",
-    "timestamp": 1771010496.0,
-    "date": "Feb 13, 19:21"
   },
   {
     "source": "France 24",
@@ -1160,28 +1216,12 @@
     "date": "Feb 13, 17:48"
   },
   {
-    "source": "France 24",
-    "title": "'For Azerbaijan, peace with Armenia is achieved,' President Ilham Aliyev says",
-    "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260213-for-azerbaijan-peace-with-armenia-is-achieved-president-ilham-aliyev-says",
-    "summary": "In an interview with FRANCE 24, Azerbaijani President Ilham Aliyev declared that \"peace is achieved\" with Armenia following an August White House summit. \"For me, it is done,\" he said. Aliyev however ...",
-    "timestamp": 1771004786.0,
-    "date": "Feb 13, 17:46"
-  },
-  {
     "source": "New York Times",
     "title": "2 ISIS Supporters Who Planned Attack on Jews in U.K. Get Life Sentences",
     "link": "https://www.nytimes.com/2026/02/13/world/europe/isis-jewish-attack-uk-manchester.html",
     "summary": "The case underlines how the Islamic State has seized on rising antisemitism in the wake of the Gaza war to radicalize and encourage would-be assailants.",
     "timestamp": 1771004417.0,
     "date": "Feb 13, 17:40"
-  },
-  {
-    "source": "CNBC",
-    "title": "Anthropic taps ex-Microsoft CFO, Trump aide Liddell for board",
-    "link": "https://www.cnbc.com/2026/02/13/anthropic-ai-chris-liddell-microsoft-trump-board.html",
-    "summary": "Anthropic has appointed longtime executive and political operative Chris Liddell to its board of directors.",
-    "timestamp": 1771004267.0,
-    "date": "Feb 13, 17:37"
   },
   {
     "source": "TechCrunch",
@@ -1222,14 +1262,6 @@
     "summary": "The past few days have been a wild ride for xAI, which is racking up staff and cofounder departure announcements left and right. On Tuesday and Wednesday, cofounder Yuhuai (Tony) Wu announced his depa...",
     "timestamp": 1771002644.0,
     "date": "Feb 13, 17:10"
-  },
-  {
-    "source": "France 24",
-    "title": "#CIA: Video aims to recruit #Chinese military officers as spies",
-    "link": "https://www.france24.com/en/video/20260213-cia-video-aims-to-recruit-chinese-military-officers-as-spies",
-    "summary": "The #CIA has posted a video on its YouTube channel targeting members of the #Chinese military in an attempt to #recruit them as spies. The video depicts a fictional disillusioned Chinese military offi...",
-    "timestamp": 1771002550.0,
-    "date": "Feb 13, 17:09"
   },
   {
     "source": "The Verge",
@@ -1424,22 +1456,6 @@
     "date": "Feb 13, 14:00"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Sudan civil war: Ethiopia's, UAE's role under scrutiny",
-    "link": "https://www.dw.com/en/sudan-civil-war-ethiopia-s-uae-s-role-under-scrutiny/a-75913225?maca=en-rss-en-all-1573-rdf",
-    "summary": "A report by Reuters revealed that Ethiopia is hosting a facility used to train Sudan's RSF paramilitary forces, with backing from the UAE. The UN says the war has killed over 40,000 and displaced mill...",
-    "timestamp": 1770990420.0,
-    "date": "Feb 13, 13:47"
-  },
-  {
-    "source": "New York Times",
-    "title": "Ukraine Says U.S. Is Increasing Pressure for a Deal as the Midterms Loom",
-    "link": "https://www.nytimes.com/2026/02/13/world/europe/russia-ukraine-peace-talks.html",
-    "summary": "It is unclear what the Trump administration is prepared to do if it does not get the concessions it wants from Kyiv on issues like territory and elections.",
-    "timestamp": 1770990366.0,
-    "date": "Feb 13, 13:46"
-  },
-  {
     "source": "The Guardian",
     "title": "CIA publishes recruitment video aimed at disaffected Chinese soldiers",
     "link": "https://www.theguardian.com/us-news/2026/feb/13/cia-publishes-recruitment-video-disaffected-chinese-soldiers",
@@ -1462,22 +1478,6 @@
     "summary": "<p>Western Australia and Madagascar struck by destructive winds and rain, while Finland and Norway have coldest January since 2010</p><p>Tropical Cyclone Mitchell <a href=\"https://www.theguardian.com/...",
     "timestamp": 1770982907.0,
     "date": "Feb 13, 11:41"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "UK decision to ban Palestine Action unlawful, court rules",
-    "link": "https://www.dw.com/en/uk-decision-to-ban-palestine-action-unlawful-court-rules/a-75948416?maca=en-rss-en-all-1573-rdf",
-    "summary": "The High Court's ruling comes after the pro-Palestinian group's co-founder launched a legal challenge against the ban. The ban, however, will remain in place while the government appeals.",
-    "timestamp": 1770979320.0,
-    "date": "Feb 13, 10:42"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Vladislav Heraskevych's Olympic helmet appeal dismissed",
-    "link": "https://www.dw.com/en/vladislav-heraskevych-s-olympic-helmet-appeal-dismissed/a-75947662?maca=en-rss-en-all-1573-rdf",
-    "summary": "The skeleton racer failed in his bid to compete at the Winter Games. Vladislav Heraskevych lost an appeal to the CAS after the IOC banned him from competing with a helmet featuring the names of killed...",
-    "timestamp": 1770978420.0,
-    "date": "Feb 13, 10:27"
   },
   {
     "source": "TechCrunch",
