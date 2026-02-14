@@ -1,5 +1,77 @@
 [
   {
+    "source": "New York Times",
+    "title": "Live Updates: Marco Rubio to Address Munich Security Conference",
+    "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
+    "summary": "European leaders are hoping for a relatively friendly speech from the secretary of state, whom they largely praise as a constructive partner on security issues.",
+    "timestamp": 1771057374.0,
+    "date": "Feb 14, 08:22"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Munich Security Conference: US' Marco Rubio addresses allies",
+    "link": "https://www.dw.com/en/munich-security-conference-us-marco-rubio-addresses-allies/live-75938790?maca=en-rss-en-all-1573-rdf",
+    "summary": "The US secretary of state is speaking in Munich as Europe mulls its future without Washington. Ahead of his trip he said that a \"new era\" of geopolitics was beginning. DW has the latest.",
+    "timestamp": 1771056780.0,
+    "date": "Feb 14, 08:13"
+  },
+  {
+    "source": "BBC World",
+    "title": "Police activity under way near Nancy Guthrie's home",
+    "link": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
+    "summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted from nearly two weeks ago.",
+    "timestamp": 1771056729.0,
+    "date": "Feb 14, 08:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Hermes quarterly sales boosted by strong US demand",
+    "link": "https://www.channelnewsasia.com/obsessions/hermes-quarterly-sales-boosted-strong-us-demand-5931301",
+    "summary": "French luxury group\u2019s signature handbags lead to growth above 10 per cent in all regions except Asia-Pacific.",
+    "timestamp": 1771056233.0,
+    "date": "Feb 14, 08:03"
+  },
+  {
+    "source": "The Verge",
+    "title": "DJI\u2019s first robovac is an autonomous cleaning drone you can\u2019t trust",
+    "link": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
+    "summary": "It's been eight years since I last reviewed a robot vacuum. Having spent the last two months with a new flagship, I'm shocked by how much they've advanced from early bump-and-run models. In October, D...",
+    "timestamp": 1771056000.0,
+    "date": "Feb 14, 08:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "The DJI Romo robovac had security so poor, this man remotely accessed thousands of them",
+    "link": "https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt",
+    "summary": "Sammy Azdoufal claims he wasn't trying to hack every robot vacuum in the world. He just wanted to remote control his brand-new DJI Romo vacuum with a PS5 gamepad, he tells The Verge, because it sounde...",
+    "timestamp": 1771056000.0,
+    "date": "Feb 14, 08:00"
+  },
+  {
+    "source": "New York Times",
+    "title": "Japan Releases Chinese Boat Captain After Detaining Him for 30 Hours",
+    "link": "https://www.nytimes.com/2026/02/14/world/asia/japan-china-boat-captain-release.html",
+    "summary": "The captain\u2019s arrest had raised fears of a broader diplomatic confrontation between Japan and China, which have been at odds for months.",
+    "timestamp": 1771055785.0,
+    "date": "Feb 14, 07:56"
+  },
+  {
+    "source": "New York Times",
+    "title": "Marco Rubio",
+    "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio/munich-conference-europe-trump-day-two",
+    "summary": "",
+    "timestamp": 1771054537.0,
+    "date": "Feb 14, 07:35"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Indian national admits role in plot to assassinate US Sikh leader",
+    "link": "https://www.aljazeera.com/news/2026/2/14/indian-national-admits-role-in-us-sikh-leaders-assassination-plot?traffic_source=rss",
+    "summary": "Prosecutors say plot to kill Sikh leader in US linked to Indian government employee, an allegation New Delhi denies.",
+    "timestamp": 1771053897.0,
+    "date": "Feb 14, 07:24"
+  },
+  {
     "source": "Al Jazeera",
     "title": "LIVE: World leaders gather in Munich for 2nd day of security conference",
     "link": "https://www.aljazeera.com/news/liveblog/2026/2/14/live-world-leaders-gather-in-munich-for-2nd-day-of-security-conference?traffic_source=rss",
@@ -65,9 +137,9 @@
   },
   {
     "source": "France 24",
-    "title": "Live: Rubio to address Munich conference as European leaders call for US reset",
+    "title": "Live: Europe and the US 'belong together', Rubio tells Munich Security Conference",
     "link": "https://www.france24.com/en/europe/20260214-live-rubio-address-munich-security-conference-european-leaders-call-reset-ties-usa-zelensky",
-    "summary": "US Secretary of State Marco Rubio is set to address the Munich Security Conference\u00a0on Saturday at a time of strained ties between Europe and the United States, a day after\u00a0German Chancellor\u00a0Friedrich ...",
+    "summary": "US Secretary of State Marco Rubio addresses the Munich Security Conference\u00a0on Saturday at a time of strained ties between Europe and the United States, a day after\u00a0German Chancellor\u00a0Friedrich Merz ope...",
     "timestamp": 1771050396.0,
     "date": "Feb 14, 06:26"
   },
@@ -97,6 +169,14 @@
   },
   {
     "source": "CNA (Asia)",
+    "title": "Sailing-SailGP Auckland racing abandoned as Black Foils, France collide",
+    "link": "https://www.channelnewsasia.com/sport/sailing-sailgp-auckland-racing-abandoned-black-foils-france-collide-5931241",
+    "summary": "",
+    "timestamp": 1771047666.0,
+    "date": "Feb 14, 05:41"
+  },
+  {
+    "source": "CNA (Asia)",
     "title": "China's Wang Yi tells EU diplomats not to blame Beijing for bloc's problems",
     "link": "https://www.channelnewsasia.com/east-asia/china-wang-yi-foreign-minister-eu-beijing-problems-munich-conference-5931236",
     "summary": "",
@@ -105,7 +185,7 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "BNP wins Bangladesh polls, Tarique Rahman set to be prime minister: Results",
+    "title": "Bangladesh publishes official poll results showing BNP sweeping win",
     "link": "https://www.aljazeera.com/news/2026/2/14/bnp-wins-bangladesh-election-tarique-rahman-set-to-be-prime-minister?traffic_source=rss",
     "summary": "Interim leader Muhammad Yunus congratulates Rahman for &#039;the landslide victory of his party&#039;.",
     "timestamp": 1771047393.0,
@@ -329,14 +409,6 @@
   },
   {
     "source": "New York Times",
-    "title": "Macron Insists Europe Remains Central to Global Stability",
-    "link": "https://www.nytimes.com/live/2026/02/13/world/munich-security-conference",
-    "summary": "President Emmanuel Macron, speaking at the Munich Security Conference, stressed European \u201cfortitude.\u201d Earlier, Chancellor Friedrich Merz of Germany criticized President Trump\u2019s rapid reorientation of ...",
-    "timestamp": 1771033974.0,
-    "date": "Feb 14, 01:52"
-  },
-  {
-    "source": "New York Times",
     "title": "UK Ban on Palestine Action Is Unlawful, Court Finds",
     "link": "https://www.nytimes.com/2026/02/13/world/europe/uk-palestine-action-ban-court-ruling.html",
     "summary": "The High Court said the ban on Palestine Action as a terrorist group was disproportionate and breached free speech rights. The government said it would appeal, and the ban remained in place for now.",
@@ -358,14 +430,6 @@
     "summary": "",
     "timestamp": 1771033430.0,
     "date": "Feb 14, 01:43"
-  },
-  {
-    "source": "BBC World",
-    "title": "Officials investigate DNA found in Nancy Guthrie's home",
-    "link": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
-    "summary": "The sheriff's department says it is working to identify who the DNA belongs to, but would not disclose where it was found.",
-    "timestamp": 1771033217.0,
-    "date": "Feb 14, 01:40"
   },
   {
     "source": "Deutsche Welle",
@@ -443,8 +507,8 @@
     "source": "CNA (Asia)",
     "title": "US military preparing for potentially weeks-long Iran operations as second carrier heads to Middle East",
     "link": "https://www.channelnewsasia.com/world/us-iran-war-fighting-military-operation-nuclear-talks-5931046",
-    "summary": "The aircraft carrier Gerald R. Ford will join the Abraham Lincoln carrier, several guided-missile destroyers, fighter jets and surveillance aircraft that have been moved to the Middle East in recent w...",
-    "timestamp": 1771029336.0,
+    "summary": "The aircraft carrier Gerald R Ford will join the Abraham Lincoln carrier, several guided-missile destroyers, fighter jets and surveillance aircraft that have been moved to the Middle East in recent we...",
+    "timestamp": 1771029300.0,
     "date": "Feb 14, 00:35"
   },
   {
@@ -528,14 +592,6 @@
     "date": "Feb 13, 23:12"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Ice hockey-McDavid scores first Games goal as Canada beat Switzerland",
-    "link": "https://www.channelnewsasia.com/sport/ice-hockey-mcdavid-scores-first-games-goal-canada-beat-switzerland-5930961",
-    "summary": "",
-    "timestamp": 1771023997.0,
-    "date": "Feb 13, 23:06"
-  },
-  {
     "source": "BBC World",
     "title": "The two Chinese-American Olympians competing for rival superpowers",
     "link": "https://www.bbc.com/news/articles/czr07r0vengo?at_medium=RSS&at_campaign=rss",
@@ -550,6 +606,14 @@
     "summary": "The United Arab Emirates and the United States have each committed more than $1 billion to President Trump\u2019s new international initiative, officials said.",
     "timestamp": 1771023905.0,
     "date": "Feb 13, 23:05"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Mutually Beneficial Ties Between Jeffrey Epstein and Thorbjorn Jagland",
+    "link": "https://www.nytimes.com/2026/02/13/world/europe/norway-jagland-epstein.html",
+    "summary": "Thorbjorn Jagland, a former prime minister of Norway who led the Nobel Committee, promised influence, and the disgraced financier had gifts to give, new emails show.",
+    "timestamp": 1771023761.0,
+    "date": "Feb 13, 23:02"
   },
   {
     "source": "France 24",
@@ -584,14 +648,6 @@
     "date": "Feb 13, 22:49"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "From Herman Miller to Flos: Inside a Singapore collector\u2019s HDB home filled with vintage furniture",
-    "link": "https://www.channelnewsasia.com/remarkable-living/singapore-hdb-home-tour-design-furniture-collector-erricson-wong-5917361",
-    "summary": "Made &amp; Make co-founder Erricson Wong has turned his three-room HDB flat into a lived-in showcase of designer furniture and lighting, from vintage Herman Miller modular seating to iconic Flos and O...",
-    "timestamp": 1771022760.0,
-    "date": "Feb 13, 22:46"
-  },
-  {
     "source": "CNBC",
     "title": "Trump takes a beating from his own party amid Epstein files release and tariffs rebuke",
     "link": "https://www.cnbc.com/2026/02/13/trump-republicans-epstein-tariffs-elections.html",
@@ -622,14 +678,6 @@
     "summary": "Paris prosecutors will investigate whether five firms are culpable for distributing batches that may have contained a toxin.",
     "timestamp": 1771021817.0,
     "date": "Feb 13, 22:30"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "US Department of Homeland Security to go into shutdown due to funding lapse",
-    "link": "https://www.aljazeera.com/news/2026/2/13/us-department-of-homeland-security-to-go-into-shutdown-due-to-funding-lapse?traffic_source=rss",
-    "summary": "Impasse comes as Trump&#039;s Democratic rivals demand reforms to immigration operations after deadly shootings in Minnesota.",
-    "timestamp": 1771021267.0,
-    "date": "Feb 13, 22:21"
   },
   {
     "source": "CNBC",
@@ -846,14 +894,6 @@
     "summary": "A man who on Friday attempted to stab a French officer during a ceremony at the Arc de Triomphe monument in central Paris has died from his injuries after being shot by police. The suspect was release...",
     "timestamp": 1771010818.0,
     "date": "Feb 13, 19:26"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "MSC: Macron says world should take 'cue' from Europe",
-    "link": "https://www.dw.com/en/msc-macron-says-world-should-take-cue-from-europe/live-75938790?maca=en-rss-en-all-1573-rdf",
-    "summary": "During his speech at the Munich Security Conference, France's president said Europeans should be more proud of the continent's achievements. Meanwhile, Germany's Merz rejected the MAGA \"culture war.''...",
-    "timestamp": 1771010640.0,
-    "date": "Feb 13, 19:24"
   },
   {
     "source": "New York Times",
@@ -1176,14 +1216,6 @@
     "date": "Feb 13, 16:35"
   },
   {
-    "source": "The Verge",
-    "title": "What\u2019s in the Epstein files? For Tiktokers, a content gold mine",
-    "link": "https://www.theverge.com/tech/878380/epstein-files-tiktok-content",
-    "summary": "\"where are you? Are you ok , I loved the torture video,\" reads one email, allegedly sent by Jeffrey Epstein in 2009. The reply, from a redacted address, states: \"I am in china I will be in the US 2nd ...",
-    "timestamp": 1771000200.0,
-    "date": "Feb 13, 16:30"
-  },
-  {
     "source": "BBC World",
     "title": "Orban rival accuses opponents of blackmail plot ahead of Hungary election",
     "link": "https://www.bbc.com/news/articles/c8758xv4eqeo?at_medium=RSS&at_campaign=rss",
@@ -1214,14 +1246,6 @@
     "summary": "\"Our matches convert to actual dates at about 10x the rate of Tinder,\" Weng told TechCrunch.",
     "timestamp": 1770999893.0,
     "date": "Feb 13, 16:24"
-  },
-  {
-    "source": "The Verge",
-    "title": "iRobot&#8217;s Roombas have a new Chinese owner, but it says your data will remain in the US",
-    "link": "https://www.theverge.com/tech/878809/irobot-picea-robotics-acquisition-irobot-safe",
-    "summary": "As part of its acquisition by China-based Picea Robotics, iRobot is creating a new US-based subsidiary called iRobot Safe, which the company says will be \"responsible for the protection of US consumer...",
-    "timestamp": 1770999632.0,
-    "date": "Feb 13, 16:20"
   },
   {
     "source": "TechCrunch",
@@ -1424,14 +1448,6 @@
     "date": "Feb 13, 11:41"
   },
   {
-    "source": "New York Times",
-    "title": "Europe\u2019s Leaders Gather At Munich Summit, Reeling From Trump\u2019s Criticism",
-    "link": "https://www.nytimes.com/2026/02/12/world/europe/munich-conference-europe-trump-vance-trust-rubio.html",
-    "summary": "Officials gather on Friday for Europe\u2019s biggest annual security summit, where a speech by Vice President JD Vance last year started an unraveling of trans-Atlantic relations.",
-    "timestamp": 1770981161.0,
-    "date": "Feb 13, 11:12"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "UK decision to ban Palestine Action unlawful, court rules",
     "link": "https://www.dw.com/en/uk-decision-to-ban-palestine-action-unlawful-court-rules/a-75948416?maca=en-rss-en-all-1573-rdf",
@@ -1518,22 +1534,6 @@
     "summary": "<p>Japan says vessel failed to comply with order to stop, with incident coming weeks after row with China over Taiwan</p><p>Authorities in <a href=\"https://www.theguardian.com/world/japan\">Japan</a> h...",
     "timestamp": 1770956397.0,
     "date": "Feb 13, 04:19"
-  },
-  {
-    "source": "New York Times",
-    "title": "Canada School Shooter\u2019s Online Life Showed Interest in Violent Extremism",
-    "link": "https://www.nytimes.com/2026/02/12/world/canada/tumbler-ridge-shooting-suspect-social-media.html",
-    "summary": "The suspect in the British Columbia shooting had long been posting about mental health problems, substance abuse and a fascination with weapons and online violence.",
-    "timestamp": 1770949589.0,
-    "date": "Feb 13, 02:26"
-  },
-  {
-    "source": "New York Times",
-    "title": "Do Drug Cartels Actually Use Drones at the Border?",
-    "link": "https://www.nytimes.com/2026/02/12/world/americas/mexico-drone-border-cartels.html",
-    "summary": "U.S. officials warn that cartel-operated drones on the border pose a major threat. Mexican officials are less certain. Analysts say the answer is likely in between.",
-    "timestamp": 1770933718.0,
-    "date": "Feb 12, 22:01"
   },
   {
     "source": "BBC World",
