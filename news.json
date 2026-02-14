@@ -1,11 +1,99 @@
 [
   {
+    "source": "NPR",
+    "title": "Four people on NASA'S Crew-12 arrive at the International Space Station",
+    "link": "https://www.npr.org/2026/02/14/nx-s1-5714583/nasa-spacex-crew-12-iss",
+    "summary": "The crew will spend the next eight months conducting experiments to prepare for human exploration beyond Earth's orbit.",
+    "timestamp": 1771103452.0,
+    "date": "Feb 14, 21:10"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Rallying-Evans leads Toyota quartet into final day in snowy Sweden",
+    "link": "https://www.channelnewsasia.com/sport/rallying-evans-leads-toyota-quartet-final-day-in-snowy-sweden-5932241",
+    "summary": "",
+    "timestamp": 1771102709.0,
+    "date": "Feb 14, 20:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Figure skating-Italy's ice dance couple savour Valentine's Day at home Games",
+    "link": "https://www.channelnewsasia.com/sport/figure-skating-italys-ice-dance-couple-savour-valentines-day-home-games-5932246",
+    "summary": "",
+    "timestamp": 1771102628.0,
+    "date": "Feb 14, 20:57"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Four new astronauts arrive at the International Space Station to replace NASA's evacuated crew",
+    "link": "https://www.channelnewsasia.com/world/four-new-astronauts-arrive-international-space-station-replace-nasas-evacuated-crew-5932221",
+    "summary": "The new astronauts take the place of four others who had to cut their mission short after one of them had a medical issue.",
+    "timestamp": 1771102445.0,
+    "date": "Feb 14, 20:54"
+  },
+  {
+    "source": "BBC World",
+    "title": "No arrests made after police search residence near Nancy Guthrie's home",
+    "link": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
+    "summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago.",
+    "timestamp": 1771102080.0,
+    "date": "Feb 14, 20:48"
+  },
+  {
     "source": "New York Times",
     "title": "Live Updates: In Munich, Rubio Calls Europe a Friend but Says It Must Change",
     "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
     "summary": "European leaders expressed relief at the tone of Secretary of State Marco Rubio\u2019s remarks, but they made it clear that the trans-Atlantic rift remained.",
-    "timestamp": 1771100022.0,
-    "date": "Feb 14, 20:13"
+    "timestamp": 1771101970.0,
+    "date": "Feb 14, 20:46"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Biathlon-Sprint women set for quick return in Sunday's pursuit race",
+    "link": "https://www.channelnewsasia.com/sport/biathlon-sprint-women-set-quick-return-in-sundays-pursuit-race-5932236",
+    "summary": "",
+    "timestamp": 1771101595.0,
+    "date": "Feb 14, 20:39"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "In a changed VC landscape, this exec is doubling down on overlooked founders",
+    "link": "https://techcrunch.com/2026/02/14/stacy-brown-philpot-cherryrock-capital-vc/",
+    "summary": "As much of Silicon Valley chases mega-rounds and buzzy AI deals, Stacy Brown-Philpot is running Cherryrock Capital like a throwback to venture capital's earlier days",
+    "timestamp": 1771101462.0,
+    "date": "Feb 14, 20:37"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Over 100 artists for Palestine back UN\u2019s Albanese after resignation calls",
+    "link": "https://www.aljazeera.com/news/2026/2/14/over-100-artists-for-palestine-back-uns-albanese-after-resignation-calls?traffic_source=rss",
+    "summary": "UN Special Rapporteur Francesca Albanese faces calls to step down by France and Germany despite debunked remarks.",
+    "timestamp": 1771101395.0,
+    "date": "Feb 14, 20:36"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "England pay the price for poor start against Scotland",
+    "link": "https://www.channelnewsasia.com/sport/england-pay-price-poor-start-against-scotland-5932226",
+    "summary": "",
+    "timestamp": 1771101094.0,
+    "date": "Feb 14, 20:31"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Burglars ransack safe-deposit boxes in German bank heist",
+    "link": "https://www.dw.com/en/burglars-ransack-safe-deposit-boxes-in-german-bank-heist/a-75974523?maca=en-rss-en-all-1573-rdf",
+    "summary": "Police said they had not identified the perpetrators or established what was stolen. Emergency workers found an unknown liquid on the doors of the bank but said it did not pose a health risk.",
+    "timestamp": 1771100460.0,
+    "date": "Feb 14, 20:21"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Townsend toast of town a week after facing calls for his head",
+    "link": "https://www.channelnewsasia.com/sport/townsend-toast-town-week-after-facing-calls-his-head-5932216",
+    "summary": "",
+    "timestamp": 1771100161.0,
+    "date": "Feb 14, 20:16"
   },
   {
     "source": "CNA (Asia)",
@@ -49,8 +137,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Skeleton-Flock erases Pyeongchang pain with brilliant gold",
-    "link": "https://www.channelnewsasia.com/sport/skeleton-flock-erases-pyeongchang-pain-brilliant-gold-5932191",
+    "title": "Skeleton-Austria's Flock erases Pyeongchang pain with brilliant gold",
+    "link": "https://www.channelnewsasia.com/sport/skeleton-austrias-flock-erases-pyeongchang-pain-brilliant-gold-5932191",
     "summary": "",
     "timestamp": 1771097741.0,
     "date": "Feb 14, 19:35"
@@ -320,14 +408,6 @@
     "date": "Feb 14, 17:13"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Guehi scores as Man City beat Salford in FA Cup, Burnley upset by Mansfield",
-    "link": "https://www.channelnewsasia.com/sport/guehi-scores-man-city-beat-salford-in-fa-cup-burnley-upset-mansfield-5932031",
-    "summary": "",
-    "timestamp": 1771088915.0,
-    "date": "Feb 14, 17:08"
-  },
-  {
     "source": "BBC World",
     "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
     "link": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&at_campaign=rss",
@@ -360,20 +440,12 @@
     "date": "Feb 14, 16:54"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Biathlon-Kirkeeide's dreams come true in blockbuster finish",
-    "link": "https://www.channelnewsasia.com/sport/biathlon-kirkeeides-dreams-come-true-in-blockbuster-finish-5931996",
-    "summary": "",
-    "timestamp": 1771087993.0,
-    "date": "Feb 14, 16:53"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Speed skating-Unstoppable Stolz blazes to 500m crown for his second Milano Cortina gold",
-    "link": "https://www.channelnewsasia.com/sport/speed-skating-unstoppable-stolz-blazes-500m-crown-his-second-milano-cortina-gold-5932001",
-    "summary": "",
-    "timestamp": 1771087898.0,
-    "date": "Feb 14, 16:51"
+    "source": "New York Times",
+    "title": "Open Road",
+    "link": "https://www.nytimes.com/2026/02/14/briefing/open-road.html",
+    "summary": "On Valentine\u2019s Day, consider the ways in which we\u2019re sticking to established paths \u2014 and the places where we yearn to deviate.",
+    "timestamp": 1771087786.0,
+    "date": "Feb 14, 16:49"
   },
   {
     "source": "Al Jazeera",
@@ -408,14 +480,6 @@
     "date": "Feb 14, 16:43"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Figure skating-Malinin's meltdown proof that pressure can strike even world's best",
-    "link": "https://www.channelnewsasia.com/sport/figure-skating-malinins-meltdown-proof-pressure-can-strike-even-worlds-best-5931976",
-    "summary": "",
-    "timestamp": 1771087367.0,
-    "date": "Feb 14, 16:42"
-  },
-  {
     "source": "The Verge",
     "title": "Georgia Tech announced the finalists in its wild musical instrument competition",
     "link": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
@@ -430,22 +494,6 @@
     "summary": "Five European countries accused Russia of \"poisoning\" opposition leader Alexei Navalny using a rare toxin found in South American dart frogs, according to a joint statement issued Saturday. A leading ...",
     "timestamp": 1771087336.0,
     "date": "Feb 14, 16:42"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "European states say Navalny poisoned with dart frog toxin in Russian prison",
-    "link": "https://www.channelnewsasia.com/world/european-states-say-navalny-poisoned-dart-frog-toxin-in-russian-prison-5931921",
-    "summary": "",
-    "timestamp": 1771087261.0,
-    "date": "Feb 14, 16:41"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Kane hits 500 career goals as Bayern ease past Werder",
-    "link": "https://www.channelnewsasia.com/sport/kane-hits-500-career-goals-bayern-ease-past-werder-5931981",
-    "summary": "",
-    "timestamp": 1771087238.0,
-    "date": "Feb 14, 16:40"
   },
   {
     "source": "France 24",
@@ -824,14 +872,6 @@
     "date": "Feb 14, 13:20"
   },
   {
-    "source": "New York Times",
-    "title": "Amid Fallout From Epstein Files, Dubai\u2019s DP World Boss Is Replaced",
-    "link": "https://www.nytimes.com/2026/02/13/world/middleeast/epstein-dp-world-ports-ahmed-bin-sulayem.html",
-    "summary": "Sultan Ahmed bin Sulayem was credited with turning DP World into a global logistics powerhouse. He was recently identified in correspondence with Jeffrey Epstein.",
-    "timestamp": 1771074748.0,
-    "date": "Feb 14, 13:12"
-  },
-  {
     "source": "CNBC",
     "title": "Lunar New Year gives luxury brands a chance to win back big spenders in China",
     "link": "https://www.cnbc.com/2026/02/14/lunar-new-year-luxury-china.html",
@@ -952,14 +992,6 @@
     "date": "Feb 14, 11:16"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Two hurt after high-speed New Zealand-France crash at Auckland SailGP race",
-    "link": "https://www.aljazeera.com/sports/2026/2/14/two-hurt-as-auckland-sailing-abandoned-with-major-black-foils-france-crash?traffic_source=rss",
-    "summary": "Two sailors treated for serious injuries after Black Foils and DS \u2060Team France involved in major collision.",
-    "timestamp": 1771066774.0,
-    "date": "Feb 14, 10:59"
-  },
-  {
     "source": "France 24",
     "title": "US Secretary of State Rubio reaffirms US-Europe ties at Munich",
     "link": "https://www.france24.com/en/us-secretary-of-state-rubio-reaffirms-us-europe-ties-at-munich",
@@ -1025,14 +1057,6 @@
   },
   {
     "source": "NPR",
-    "title": "Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say",
-    "link": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
-    "summary": "Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.",
-    "timestamp": 1771063200.0,
-    "date": "Feb 14, 10:00"
-  },
-  {
-    "source": "NPR",
     "title": "Under oath and unredacted: The top political stories on Epstein this week",
     "link": "https://www.npr.org/2026/02/14/nx-s1-5714031/epstein-files-massie-bondi-doj",
     "summary": "Attorney General Pam Bondi faced pointed questions on Capitol Hill, and lawmakers continued to press the Justice Department about its decision to redact certain information.",
@@ -1041,9 +1065,9 @@
   },
   {
     "source": "NPR",
-    "title": "ChatGPT promised to help her find her soulmate. Then it betrayed her",
-    "link": "https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot",
-    "summary": "ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.",
+    "title": "Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say",
+    "link": "https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers",
+    "summary": "Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.",
     "timestamp": 1771063200.0,
     "date": "Feb 14, 10:00"
   },
@@ -1094,14 +1118,6 @@
     "summary": "In Germany, big construction projects often derail. Airports, train stations and concert halls are finished years late and billions over budget.",
     "timestamp": 1771057800.0,
     "date": "Feb 14, 08:30"
-  },
-  {
-    "source": "BBC World",
-    "title": "Police activity under way near Nancy Guthrie's home",
-    "link": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
-    "summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago.",
-    "timestamp": 1771056729.0,
-    "date": "Feb 14, 08:12"
   },
   {
     "source": "The Verge",
@@ -1222,6 +1238,14 @@
     "summary": "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.",
     "timestamp": 1771036842.0,
     "date": "Feb 14, 02:40"
+  },
+  {
+    "source": "BBC World",
+    "title": "Indian man admits plot to kill US-based Sikh separatist leader",
+    "link": "https://www.bbc.com/news/articles/cx2ryxwdl7po?at_medium=RSS&at_campaign=rss",
+    "summary": "Nikhil Gupta faces a possible 40-year sentence in a murder-for-hire plot targeting Gurpatwant Singh Pannun.",
+    "timestamp": 1771034263.0,
+    "date": "Feb 14, 01:57"
   },
   {
     "source": "New York Times",
@@ -1368,28 +1392,12 @@
     "date": "Feb 13, 19:08"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Ring cuts surveillance firm ties amid Super bowl ad outcry",
-    "link": "https://www.dw.com/en/ring-cuts-surveillance-firm-ties-amid-super-bowl-ad-outcry/a-75964203?maca=en-rss-en-all-1573-rdf",
-    "summary": "Amazon's doorbell camera producer Ring has ended their partnership with Flock Safety, a tech surveillance company, as the two firms face a backlash over privacy. The trigger? A Super bowl commercial a...",
-    "timestamp": 1771008060.0,
-    "date": "Feb 13, 18:41"
-  },
-  {
     "source": "New York Times",
     "title": "Tarique Rahman Is Elected Bangladesh\u2019s New Leader",
     "link": "https://www.nytimes.com/2026/02/13/world/asia/bangladesh-election-tarique-rahman.html",
     "summary": "Tarique Rahman, the scion of a political dynasty, returned to sweep his party into government with a promise of change. Some have doubts.",
     "timestamp": 1771006517.0,
     "date": "Feb 13, 18:15"
-  },
-  {
-    "source": "BBC World",
-    "title": "The war dead pictured on banned Ukrainian athlete's helmet",
-    "link": "https://www.bbc.com/news/articles/cnv63q1vpv1o?at_medium=RSS&at_campaign=rss",
-    "summary": "Vladyslav Heraskevych's helmet depicts fellow athletes who have been killed since Russia's full-scale invasion of his country.",
-    "timestamp": 1771006446.0,
-    "date": "Feb 13, 18:14"
   },
   {
     "source": "TechCrunch",
@@ -1486,14 +1494,6 @@
     "summary": "The Dutch phone giant Odido is the latest phone and internet company to be hacked in recent months, as governments and financially motivated hackers continue to steal highly confidential information a...",
     "timestamp": 1770998053.0,
     "date": "Feb 13, 15:54"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Amazon\u2019s Ring cancels partnership with Flock, a network of AI cameras used by ICE, feds, and police",
-    "link": "https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-    "summary": "This news comes less than a week after Ring's Super Bowl commercial stoked controversy over the company's capacity for mass surveillance.",
-    "timestamp": 1770997215.0,
-    "date": "Feb 13, 15:40"
   },
   {
     "source": "The Guardian",
