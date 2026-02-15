@@ -1,11 +1,67 @@
 [
   {
     "source": "New York Times",
+    "title": "Iran Protester Dies in Custody, Raising Fears of Execution",
+    "link": "https://www.nytimes.com/2026/02/15/world/middleeast/ali-rahbar-iran-protester.html",
+    "summary": "Rights groups are investigating the death of Ali Rahbar as a potential extrajudicial killing. Iran denies executions have taken place.",
+    "timestamp": 1771149661.0,
+    "date": "Feb 15, 10:01"
+  },
+  {
+    "source": "New York Times",
+    "title": "You\u2019d Be Surprised to See Where Many Olympians Keep Their Medals",
+    "link": "https://www.nytimes.com/2026/02/15/world/europe/olympic-medals-sock-drawers.html",
+    "summary": "Athletes train and sweat for years in pursuit of the glittering prizes. Many store them in the least glamorous places.",
+    "timestamp": 1771149641.0,
+    "date": "Feb 15, 10:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Ramadan 2026: Fasting hours, suhoor and iftar times around the world",
+    "link": "https://www.aljazeera.com/news/2026/2/15/ramadan-2026-fasting-hours-suhoor-and-iftar-times-around-the-world?traffic_source=rss",
+    "summary": "The dawn-to-dusk fast lasts anywhere from 11.5 to 15.5 hours, depending on where in the world you are.",
+    "timestamp": 1771148744.0,
+    "date": "Feb 15, 09:45"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "West Indies beat Nepal, become first team into T20 World Cup Super Eights",
+    "link": "https://www.aljazeera.com/sports/2026/2/15/west-indies-beat-nepal-become-first-team-into-t20-world-cup-super-eights?traffic_source=rss",
+    "summary": "Shai Hope&#039;s unbeaten half-century steers West Indies into the last eight and eliminates Nepal from the T20 World Cup.",
+    "timestamp": 1771148679.0,
+    "date": "Feb 15, 09:44"
+  },
+  {
+    "source": "CNBC",
+    "title": "Iran open to compromises to reach nuclear deal with U.S., minister tells BBC",
+    "link": "https://www.cnbc.com/2026/02/15/iran-open-to-compromises-to-reach-nuclear-deal-with-us-bbc.html",
+    "summary": "Iran has said it is prepared to discuss curbs on its nuclear program in return for the lifting of sanctions.",
+    "timestamp": 1771148278.0,
+    "date": "Feb 15, 09:37"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Biathlon-Morton takes dad's lead to blaze a trail for Aussie biathlon",
+    "link": "https://www.channelnewsasia.com/sport/biathlon-morton-takes-dads-lead-blaze-trail-aussie-biathlon-5932596",
+    "summary": "",
+    "timestamp": 1771148176.0,
+    "date": "Feb 15, 09:36"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Germany news: Right-wing violence rises in 2025",
+    "link": "https://www.dw.com/en/germany-news-right-wing-violence-rises-in-2025/live-75966415?maca=en-rss-en-all-1573-rdf",
+    "summary": "Germany has recorded more cases of violent right-wing crime in 2025 than the previous year. The Berlin Film Festival has defended itself amid a controversy on its stance toward politics. DW has more.",
+    "timestamp": 1771147860.0,
+    "date": "Feb 15, 09:31"
+  },
+  {
+    "source": "New York Times",
     "title": "Live Updates: In Munich, Rubio Calls Europe a Friend but Says It Must Change",
     "link": "https://www.nytimes.com/live/2026/02/14/world/munich-security-conference-rubio",
     "summary": "European leaders expressed relief at the tone of Secretary of State Marco Rubio\u2019s remarks, but they made it clear that the trans-Atlantic rift remained.",
-    "timestamp": 1771147290.0,
-    "date": "Feb 15, 09:21"
+    "timestamp": 1771147783.0,
+    "date": "Feb 15, 09:29"
   },
   {
     "source": "CNA (Asia)",
@@ -32,6 +88,14 @@
     "date": "Feb 15, 09:01"
   },
   {
+    "source": "CNA (Asia)",
+    "title": "Holder and Hope steer West Indies into T20 World Cup Super Eight",
+    "link": "https://www.channelnewsasia.com/sport/holder-and-hope-steer-west-indies-t20-world-cup-super-eight-5932591",
+    "summary": "",
+    "timestamp": 1771145141.0,
+    "date": "Feb 15, 08:45"
+  },
+  {
     "source": "TechCrunch",
     "title": "The great computer science exodus (and where students are going instead)",
     "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
@@ -54,6 +118,14 @@
     "summary": "Century Bakkwa owner Simbian Chua said that customers' bak kwa orders will be delayed for one to two days due to the fire.",
     "timestamp": 1771144800.0,
     "date": "Feb 15, 08:40"
+  },
+  {
+    "source": "CNBC",
+    "title": "Global week ahead: Markets brace for more AI noise and 'scare trading'",
+    "link": "https://www.cnbc.com/2026/02/15/global-week-ahead-markets-brace-for-more-ai-noise-and-scare-trading.html",
+    "summary": "Looking back at last week's volatility could gives some clues for the trading week ahead.",
+    "timestamp": 1771144610.0,
+    "date": "Feb 15, 08:36"
   },
   {
     "source": "Al Jazeera",
@@ -345,7 +417,7 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "Gunmen kill at least 32 people in northern Nigeria, residents say",
+    "title": "Death toll in northern Nigeria attack by gunmen rises to 46, says report",
     "link": "https://www.aljazeera.com/news/2026/2/15/gunmen-kill-at-least-32-people-in-northern-nigeria-residents-say?traffic_source=rss",
     "summary": "Witnesses say the motorcycle riding gunmen attacked three communities in northern Nigeria, killing and abducting dozens.",
     "timestamp": 1771126048.0,
@@ -462,22 +534,6 @@
     "summary": "It\u2019s one of the big claims about the nutrient. We asked experts if there was evidence to back it up.",
     "timestamp": 1771116707.0,
     "date": "Feb 15, 00:51"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "5 steps to get your blood pressure under control \u2013 and lower your risk of stroke and heart attack",
-    "link": "https://www.channelnewsasia.com/wellness/blood-pressure-tips-5913466",
-    "summary": "Hypertension can lead to heart attack and stroke, and is also linked to dementia.",
-    "timestamp": 1771116678.0,
-    "date": "Feb 15, 00:51"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Why I pet strangers\u2019 dogs on holiday \u2013 and what I\u2019ve learnt about caring for pets while away",
-    "link": "https://www.channelnewsasia.com/travel/pet-lovers-meeting-dog-cats-holiday-5623111",
-    "summary": "Missing your pets on holiday? Here\u2019s how to get \"fuzz therapy\" while you travel.&nbsp;",
-    "timestamp": 1771116646.0,
-    "date": "Feb 15, 00:50"
   },
   {
     "source": "New York Times",
@@ -720,14 +776,6 @@
     "date": "Feb 14, 19:16"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Helicopter triggers avalanche amid maximum alert across French Alps",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/14/helicopter-triggers-avalanche-amid-maximum-alert-across-french-alps?traffic_source=rss",
-    "summary": "Emergency teams intentionally triggered an avalanche near a Chamonix ski resort as a safety precaution.",
-    "timestamp": 1771096521.0,
-    "date": "Feb 14, 19:15"
-  },
-  {
     "source": "NPR",
     "title": "American speedskater Jordan Stolz wins second Olympic gold with 500-meter race victory",
     "link": "https://www.npr.org/2026/02/14/nx-s1-5714574/speedskater-jordan-stolz-win",
@@ -742,14 +790,6 @@
     "summary": "This week, Alta unveiled its first integration collaboration, teaming up with Public School, a storied New York City brand.",
     "timestamp": 1771095600.0,
     "date": "Feb 14, 19:00"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Palestinian protester Leqaa Kordia calls ICE custody \u2018dehumanising\u2019",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/14/palestinian-protester-leqaa-kordia-calls-ice-custody?traffic_source=rss",
-    "summary": "Palestinian Columbia protester Leqaa Kordia says she was chained to a hospital bed after a seizure in ICE custody.",
-    "timestamp": 1771094740.0,
-    "date": "Feb 14, 18:45"
   },
   {
     "source": "Deutsche Welle",
@@ -817,27 +857,11 @@
   },
   {
     "source": "New York Times",
-    "title": "After Mass Shooting, the Town of Tumbler Ridge, British Columbia Is Forever Changed",
-    "link": "https://www.nytimes.com/2026/02/14/world/canada/tumbler-ridge-mass-shooting-canada.html",
-    "summary": "The mass shooting in the remote British Columbia mining town has shocked and saddened the nation.",
-    "timestamp": 1771088106.0,
-    "date": "Feb 14, 16:55"
-  },
-  {
-    "source": "New York Times",
     "title": "The Sea Took Her Prosthetic Leg. Months Later, It Gave It Back.",
     "link": "https://www.nytimes.com/2026/02/14/world/europe/sea-prosthetic-leg-limb.html",
     "summary": "Brenda Ogden lost her waterproof prosthetic leg 10 months ago, and with it, her zest for swimming. Then a local fossil hunter stumbled upon it.",
     "timestamp": 1771088042.0,
     "date": "Feb 14, 16:54"
-  },
-  {
-    "source": "New York Times",
-    "title": "Open Road",
-    "link": "https://www.nytimes.com/2026/02/14/briefing/open-road.html",
-    "summary": "On Valentine\u2019s Day, consider the ways in which we\u2019re sticking to established paths \u2014 and the places where we yearn to deviate.",
-    "timestamp": 1771087786.0,
-    "date": "Feb 14, 16:49"
   },
   {
     "source": "France 24",
@@ -1012,14 +1036,6 @@
     "title": "Home sellers start getting lower prices at 70, research shows \u2014 and the gap widens with age",
     "link": "https://www.cnbc.com/2026/02/14/home-sellers-start-getting-lower-prices-at-70-research-shows.html",
     "summary": "Two factors contribute to older homeowners receiving less money at sale, according to new research: lack of upkeep and selling privately.",
-    "timestamp": 1771079401.0,
-    "date": "Feb 14, 14:30"
-  },
-  {
-    "source": "CNBC",
-    "title": "Don't ask 'How much do you make?' on a date\u2014use these 7 questions instead to reveal their 'financial mindset'",
-    "link": "https://www.cnbc.com/2026/02/14/dont-ask-how-much-do-you-make-on-a-date-ask-these-questions-instead-to-reveal-financial-mindset.html",
-    "summary": "\"Start with these questions that invite real answers, stories, preferences, and patterns,\" says Douglas Boneparth, CFP, president and founder of\u00a0Bone Fide Wealth.",
     "timestamp": 1771079401.0,
     "date": "Feb 14, 14:30"
   },
@@ -1288,14 +1304,6 @@
     "date": "Feb 14, 10:37"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Germany news: Author Arundhati Roy quits Berlinale over Gaza",
-    "link": "https://www.dw.com/en/germany-news-author-arundhati-roy-quits-berlinale-over-gaza/live-75966415?maca=en-rss-en-all-1573-rdf",
-    "summary": "The Indian writer said she was pulling out over \"jaw-dropping\" comments made by jury president Wim Wenders. Meanwhile, Health Minister Warken wants to make medical care in Germany fit for potential wa...",
-    "timestamp": 1771064640.0,
-    "date": "Feb 14, 10:24"
-  },
-  {
     "source": "New York Times",
     "title": "Brazil, the World\u2019s Largest Catholic Nation, Embraces Polyamory",
     "link": "https://www.nytimes.com/2026/02/14/world/americas/brazil-polyamory-non-monogamy-catholic.html",
@@ -1390,14 +1398,6 @@
     "summary": "Nikhil Gupta faces a possible 40-year sentence in a murder-for-hire plot targeting Gurpatwant Singh Pannun.",
     "timestamp": 1771034263.0,
     "date": "Feb 14, 01:57"
-  },
-  {
-    "source": "CNBC",
-    "title": "Average IRS tax refund is up 10.9% so far this season, early filing data shows",
-    "link": "https://www.cnbc.com/2026/02/13/average-tax-refund-early-irs-data.html",
-    "summary": "The average IRS tax refund is up 10.9% so far this season, according to early filing data. Here's what taxpayers can expect.",
-    "timestamp": 1771031863.0,
-    "date": "Feb 14, 01:17"
   },
   {
     "source": "CNBC",
