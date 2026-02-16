@@ -1,11 +1,115 @@
 [
   {
+    "source": "CNBC",
+    "title": "ByteDance says it will add safeguards to Seedance 2.0 following Hollywood backlash",
+    "link": "https://www.cnbc.com/2026/02/16/bytedance-safegaurds-seedance-ai-copyright-disney-mpa-netflix-paramount-sony-universal.html",
+    "summary": "ByteDance has said it will work to strengthen safeguards on a new AI video-making tool, following copyright concerns and legal threats from Hollywood.",
+    "timestamp": 1771231141.0,
+    "date": "Feb 16, 08:39"
+  },
+  {
+    "source": "CNBC",
+    "title": "Cuba suspends annual cigar festival as U.S. oil blockade deepens energy crisis",
+    "link": "https://www.cnbc.com/2026/02/16/cuba-cigars-fuel-shortage-energy-crisis-trump.html",
+    "summary": "The postponement comes as the island nation's communist-run government endures its biggest test since the collapse of the Soviet Union.",
+    "timestamp": 1771230984.0,
+    "date": "Feb 16, 08:36"
+  },
+  {
+    "source": "CNBC",
+    "title": "Crypto is playing a growing role in human trafficking networks, report shows",
+    "link": "https://www.cnbc.com/2026/02/16/crypto-payments-stablecoin-growing-role-human-trafficking-csam-networks-chainalysis.html",
+    "summary": "A report from a blockchain analytics company has found that cryptocurrency is playing a growing role in suspected human trafficking activity.",
+    "timestamp": 1771230960.0,
+    "date": "Feb 16, 08:36"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "2026 Year of the Horse: Humans and horses go way back",
+    "link": "https://www.dw.com/en/2026-year-of-the-horse-humans-and-horses-go-way-back/a-75870024?maca=en-rss-en-all-1573-rdf",
+    "summary": "Highly valued in diverse cultures, the horse gallops to pole position in the Chinese zodiac. Famous horse babies include Nelson Mandela and Jackie Chan.",
+    "timestamp": 1771230240.0,
+    "date": "Feb 16, 08:24"
+  },
+  {
+    "source": "CNBC",
+    "title": "European markets open higher as investors assess Munich Security Conference",
+    "link": "https://www.cnbc.com/2026/02/16/europe-markets-stoxx-600-ftse-100-msc-defense.html",
+    "summary": "Stock markets in Europe began the week in positive territory after edging lower on Friday.",
+    "timestamp": 1771229305.0,
+    "date": "Feb 16, 08:08"
+  },
+  {
+    "source": "BBC World",
+    "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+    "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
+    "summary": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
+    "timestamp": 1771229127.0,
+    "date": "Feb 16, 08:05"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Liberal infighting erupts in Nepean as executive sidelines branch to back mayor dubbed \u2018Sam Groth 2.0\u2019",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/16/liberal-infighting-nepean-sam-groth-successor-mornington-peninsula-mayor-victoria-executive",
+    "summary": "<p><strong>Exclusive: </strong>Victorian executive fast-tracks Mornington Peninsula mayor as former deputy opposition leader\u2019s successor in byelection </p><ul><li><p>Get our <a href=\"https://www.thegu...",
+    "timestamp": 1771229069.0,
+    "date": "Feb 16, 08:04"
+  },
+  {
+    "source": "France 24",
+    "title": "Israel approves West Bank land registration, Palestinians slam \u2018de-facto annexation\u2019",
+    "link": "https://www.france24.com/en/middle-east/20260216-israel-approves-west-bank-land-registration-palestinians-slam-de-facto-annexation",
+    "summary": "Israel's cabinet on Sunday approved a process to register land in the West Bank, a move far-right Finance Minister \u200bBezalel Smotrich hailed as \"continuing the revolution of settlement\". The Palestinia...",
+    "timestamp": 1771229054.0,
+    "date": "Feb 16, 08:04"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "India hosts AI Impact Summit, drawing world leaders, tech giants",
+    "link": "https://www.aljazeera.com/news/2026/2/16/india-hosts-ai-impact-summit-drawing-world-leaders-tech-giants?traffic_source=rss",
+    "summary": "Summit aims to outline global AI governance and collaboration for inclusive growth and sustainability.",
+    "timestamp": 1771229031.0,
+    "date": "Feb 16, 08:03"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month",
+    "link": "https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/",
+    "summary": "Terra Industries, the African defense company, announced Monday that it had secured an additional $22 million in funding to further expand the business.",
+    "timestamp": 1771228860.0,
+    "date": "Feb 16, 08:01"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "ByteDance pledges fixes to Seedance 2.0 after Hollywood copyright claims",
+    "link": "https://www.aljazeera.com/news/2026/2/16/bytedance-pledges-fixes-to-seedance-2-0-after-hollywood-copyright-claims?traffic_source=rss",
+    "summary": "Hollywood groups say the AI video generator uses the likeness of actors and others without permission.",
+    "timestamp": 1771227851.0,
+    "date": "Feb 16, 07:44"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Iran\u2019s Araghchi arrives in Geneva for second round of nuclear talks with US",
+    "link": "https://www.aljazeera.com/news/2026/2/16/irans-araghchi-arrives-in-geneva-for-second-round-of-nuclear-talks-with-us?traffic_source=rss",
+    "summary": "Iran&#039;s top diplomat says he will meet with IAEA director before the high-stakes talks with US are held on Tuesday.",
+    "timestamp": 1771227650.0,
+    "date": "Feb 16, 07:40"
+  },
+  {
     "source": "New York Times",
     "title": "In Xi Jinping\u2019s Purge of the Military, a Search for Absolute Loyalty",
     "link": "https://www.nytimes.com/2026/02/16/world/asia/xi-military-zhang-youxia-mao.html",
     "summary": "By reaching back to Maoist tactics of \u201crectification,\u201d the Chinese leader is signaling that control over the gun requires a state of perpetual cleansing.",
     "timestamp": 1771227500.0,
     "date": "Feb 16, 07:38"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "FountainVest, EMS call off EuroGroup Laminations deal after no India clearance",
+    "link": "https://www.channelnewsasia.com/business/fountainvest-ems-call-eurogroup-laminations-deal-after-no-india-clearance-5933911",
+    "summary": "",
+    "timestamp": 1771227371.0,
+    "date": "Feb 16, 07:36"
   },
   {
     "source": "CNA (Asia)",
@@ -62,14 +166,6 @@
     "summary": "<p>ACCC alleges the supermarket breached the law by offering \u2018illusory\u2019 discounts on many products with \u2018Down Down\u2019 promotion</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/202...",
     "timestamp": 1771225376.0,
     "date": "Feb 16, 07:02"
-  },
-  {
-    "source": "CNBC",
-    "title": "ByteDance says it will add safeguards to Seedance 2.0 following Hollywood backlash",
-    "link": "https://www.cnbc.com/2026/02/16/bytedance-safegaurds-seedance-ai-copyright-disney-mpa-netflix-paramount-sony-universal.html",
-    "summary": "ByteDance has said it will work to strengthen safeguards on a new AI video-making tool, following copyright concerns and legal threats from Hollywood.",
-    "timestamp": 1771225304.0,
-    "date": "Feb 16, 07:01"
   },
   {
     "source": "NPR",
@@ -168,14 +264,6 @@
     "date": "Feb 16, 06:07"
   },
   {
-    "source": "The Guardian",
-    "title": "Angus Taylor moves to promote conservatives and sideline Sussan Ley allies as Liberal party veers right",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/16/angus-taylor-frontbench-liberal-party",
-    "summary": "<p>Andrew Hastie and Jacinta Nampijinpa Price among those expected to return to frontbench as new leader pursues rightwing agenda</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live...",
-    "timestamp": 1771221874.0,
-    "date": "Feb 16, 06:04"
-  },
-  {
     "source": "CNBC",
     "title": "Deutsche Bank warns AI risks in U.S. equities is undermining dollar's safe haven status",
     "link": "https://www.cnbc.com/2026/02/16/deutsche-bank-warns-dollars-safe-haven-status-challenged-by-ai-risks.html",
@@ -197,14 +285,6 @@
     "link": "https://www.aljazeera.com/news/2026/2/16/europes-growing-fight-over-israeli-goods-boycott-movements-mushroom?traffic_source=rss",
     "summary": "From a supermarket worker&#039;s grassroots act to state-led initiatives, a protest grows. But pro-Israel groups battle back.",
     "timestamp": 1771220924.0,
-    "date": "Feb 16, 05:48"
-  },
-  {
-    "source": "CNBC",
-    "title": "Crypto is playing a growing role in human trafficking networks, report shows",
-    "link": "https://www.cnbc.com/2026/02/16/crypto-payments-stablecoin-growing-role-human-trafficking-csam-networks-chainalysis.html",
-    "summary": "A report from a blockchain analytics company has found that cryptocurrency is playing a growing role in suspected human trafficking activity.",
-    "timestamp": 1771220885.0,
     "date": "Feb 16, 05:48"
   },
   {
@@ -456,14 +536,6 @@
     "date": "Feb 16, 01:32"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Singapore's January exports rise 9.3%, electronic shipments lifted by AI demand",
-    "link": "https://www.channelnewsasia.com/singapore/exports-growth-january-ai-electronics-trade-5933456",
-    "summary": "The increase was led by electronics shipments.",
-    "timestamp": 1771204980.0,
-    "date": "Feb 16, 01:23"
-  },
-  {
     "source": "CNBC",
     "title": "Japan's economy avoids technical recession, but fourth-quarter rebound misses expectations",
     "link": "https://www.cnbc.com/2026/02/16/japan-fourth-quarter-gdp-reverses-into-growth-but-misses-expectations-as-rebound-underwhelms.html",
@@ -584,14 +656,6 @@
     "date": "Feb 15, 22:56"
   },
   {
-    "source": "CNBC",
-    "title": "Iran says potential energy, mining and aircraft deals are on the table in talks with the U.S.",
-    "link": "https://www.cnbc.com/2026/02/15/iran-energy-mining-aircraft-us-talks.html",
-    "summary": "Iran is pursuing a nuclear agreement with the U.S. that delivers economic benefits for both sides, an Iranian diplomat was reported as saying on Sunday.",
-    "timestamp": 1771195925.0,
-    "date": "Feb 15, 22:52"
-  },
-  {
     "source": "France 24",
     "title": "FBI says DNA from glove may link suspect to Nancy Guthrie abduction",
     "link": "https://www.france24.com/en/americas/20260215-fbi-dna-recovered-glove-nancy-guthrie-home",
@@ -646,14 +710,6 @@
     "summary": "The longtime host of NPR\u2019s \u201cMorning Edition,\u201d is suing Google, alleging that the male podcast voice in the company\u2019s NotebookLM tool is based on him.",
     "timestamp": 1771193271.0,
     "date": "Feb 15, 22:07"
-  },
-  {
-    "source": "CNBC",
-    "title": "He quit banking to sell bubble tea \u2014 now it\u2019s a global empire that makes over $500 million a year",
-    "link": "https://www.cnbc.com/video/2026/02/15/martin-berry-quit-banking-to-build-bubble-tea-company-gong-cha.html",
-    "summary": "Martin Berry turned Gong Cha from a small Taiwanese tea franchise into a global bubble tea brand with more than 2,000 stores.",
-    "timestamp": 1771192801.0,
-    "date": "Feb 15, 22:00"
   },
   {
     "source": "New York Times",
@@ -734,14 +790,6 @@
     "summary": "Gaza families seek closure as they search for loved ones among bodies returned by Israel under &#039;ceasefire&#039; deal.",
     "timestamp": 1771186609.0,
     "date": "Feb 15, 20:16"
-  },
-  {
-    "source": "BBC World",
-    "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-    "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
-    "summary": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
-    "timestamp": 1771186388.0,
-    "date": "Feb 15, 20:13"
   },
   {
     "source": "Al Jazeera",
@@ -888,14 +936,6 @@
     "date": "Feb 15, 17:19"
   },
   {
-    "source": "CNBC",
-    "title": "From Hyatt to Holiday Inn, America's free hotel breakfast is facing a K-shaped economic threat",
-    "link": "https://www.cnbc.com/2026/02/15/hotel-free-breakfast-hyatt-holiday-inn-marriott-cost-cuts.html",
-    "summary": "Free breakfast is a staple of the hospitality industry, but from Hyatt to Holiday Inn and Marriott, the economics and hotel business models are changing.",
-    "timestamp": 1771175888.0,
-    "date": "Feb 15, 17:18"
-  },
-  {
     "source": "BBC World",
     "title": "Ukraine's ex-energy minister detained while attempting to leave country",
     "link": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&at_campaign=rss",
@@ -918,14 +958,6 @@
     "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation.",
     "timestamp": 1771175100.0,
     "date": "Feb 15, 17:05"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "US \u2018not disputing\u2019 European assessment of Navalny poisoning, Rubio says",
-    "link": "https://www.aljazeera.com/news/2026/2/15/us-not-disputing-european-assessment-of-navalny-poisoning-rubio-says?traffic_source=rss",
-    "summary": "Secretary of state says Washington will &#039;not fight&#039; European partners on their findings as UK considers new sanctions.",
-    "timestamp": 1771174764.0,
-    "date": "Feb 15, 16:59"
   },
   {
     "source": "New York Times",
@@ -1017,9 +1049,9 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Nature reconsidered: why it's making us anxious",
-    "link": "https://www.dw.com/en/nature-reconsidered-why-it-s-making-us-anxious/a-75828665?maca=en-rss-en-all-1573-rdf",
-    "summary": "As contact with the outdoors declines, discomfort with wild spaces is growing. Scientists tracking the rise of nature anxiety have some ideas on how to reconnect without feeling overwhelmed.",
+    "title": "Why we are becoming afraid of the outdoors",
+    "link": "https://www.dw.com/en/why-we-are-becoming-afraid-of-the-outdoors/a-75828665?maca=en-rss-en-all-1573-rdf",
+    "summary": "Increasingly, we are becoming less comfortable in wild spaces. Scientists tracking the rise of nature anxiety, or biophobia, have some ideas on how to reconnect without feeling overwhelmed.",
     "timestamp": 1771170660.0,
     "date": "Feb 15, 15:51"
   },
@@ -1038,14 +1070,6 @@
     "summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for \u201cblatant\u201d copyright infringement.",
     "timestamp": 1771170076.0,
     "date": "Feb 15, 15:41"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Thousands of Western nationals fought Israel\u2019s war on Gaza: What to know",
-    "link": "https://www.aljazeera.com/news/2026/2/15/thousands-of-western-nationals-fought-israels-war-on-gaza-what-to-know?traffic_source=rss",
-    "summary": "Thousands of Western citizens joined the Israeli military in its war on Gaza that killed over 72,000 Palestinians.",
-    "timestamp": 1771169816.0,
-    "date": "Feb 15, 15:36"
   },
   {
     "source": "BBC World",
@@ -1144,14 +1168,6 @@
     "date": "Feb 15, 15:00"
   },
   {
-    "source": "Al Jazeera",
-    "title": "As Sudanese city returns to life after two-year siege, drone threat lingers",
-    "link": "https://www.aljazeera.com/features/2026/2/15/as-sudanese-city-returns-to-life-after-two-year-siege-drone-threat-lingers?traffic_source=rss",
-    "summary": "Markets reopen in Dilling, South Kordofan\u2019s second largest city. Yet residents face persistent aerial attacks.",
-    "timestamp": 1771166063.0,
-    "date": "Feb 15, 14:34"
-  },
-  {
     "source": "NPR",
     "title": "Rockstar athletes like Ilia Malinin often get 'the yips' at the Olympics. It can make them stronger",
     "link": "https://www.npr.org/2026/02/15/nx-s1-5714457/rockstar-athletes-like-ilia-malinin-often-get-the-yips-at-the-olympics-it-can-make-them-stronger",
@@ -1224,6 +1240,14 @@
     "date": "Feb 15, 13:35"
   },
   {
+    "source": "CNBC",
+    "title": "Some European policymakers welcome U.S. Secretary of State Rubio's warm words, others remain cautious",
+    "link": "https://www.cnbc.com/2026/02/15/some-europeans-welcome-rubios-warm-words-others-remain-cautious.html",
+    "summary": "Rubio's comments at the Munich Security Conference struck a softer tone than Vice President JD Vance's at last year's event.",
+    "timestamp": 1771161334.0,
+    "date": "Feb 15, 13:15"
+  },
+  {
     "source": "New York Times",
     "title": "Lucas Pinheiro Braathen of Brazil and Mikhail Shaidorov of Kazakhstan Win Olympic Gold Medals",
     "link": "https://www.nytimes.com/2026/02/14/world/olympics/brazil-kazakhstan-gold-medals-winter-olympics.html",
@@ -1254,14 +1278,6 @@
     "summary": "Relaxed visa rules for British and Canadian passport holders will come into force on 17 February.",
     "timestamp": 1771157280.0,
     "date": "Feb 15, 12:08"
-  },
-  {
-    "source": "France 24",
-    "title": "Europe bashing: EU's top diplomat rejects US talk of 'civilizational erasure'",
-    "link": "https://www.france24.com/en/europe/20260215-europe-bashing-eu-top-diplomat-kallas-rejects-us-talk-civilisational-decline",
-    "summary": "EU foreign policy chief Kaja Kallas pushed back against what she described as \"European bashing\" in a speech at the Munich Security Conference on Sunday.\u00a0Kallas welcomed the message of unity delivered...",
-    "timestamp": 1771157067.0,
-    "date": "Feb 15, 12:04"
   },
   {
     "source": "Deutsche Welle",
@@ -1368,28 +1384,12 @@
     "date": "Feb 15, 02:04"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Nigeria's Argungu Fishing Festival back after 6 years",
-    "link": "https://www.dw.com/en/nigeria-s-argungu-fishing-festival-back-after-6-years/a-75975353?maca=en-rss-en-all-1573-rdf",
-    "summary": "Thousands of local fishermen were making waves again at the UNESCO-listed fishing festival in Kebbi state. The annual event has not been held for the past 6 years due to regional insecurity.",
-    "timestamp": 1771115100.0,
-    "date": "Feb 15, 00:25"
-  },
-  {
     "source": "BBC World",
     "title": "The spectacular multimillion-euro heist nobody noticed",
     "link": "https://www.bbc.com/news/articles/cm2y2538lz8o?at_medium=RSS&at_campaign=rss",
     "summary": "How did the thieves know exactly where the vault was and why did no-one hear the drill? Was it an inside job?",
     "timestamp": 1771113677.0,
     "date": "Feb 15, 00:01"
-  },
-  {
-    "source": "New York Times",
-    "title": "Thousands Rally for Iran Regime Change in Cities Around the World",
-    "link": "https://www.nytimes.com/2026/02/14/world/europe/iran-regime-rallies-munich.html",
-    "summary": "People protesting the Iranian government gathered near the security conference in Munich, as well as in other cities. More U.S.-Iran talks are expected Tuesday.",
-    "timestamp": 1771111983.0,
-    "date": "Feb 14, 23:33"
   },
   {
     "source": "BBC World",
@@ -1496,6 +1496,14 @@
     "date": "Feb 14, 17:34"
   },
   {
+    "source": "New York Times",
+    "title": "Pakistan Accused of Denying Treatment for Imran Khan\u2019s Failing Eyesight",
+    "link": "https://www.nytimes.com/2026/02/14/world/asia/pakistan-imran-khan-eyesight.html",
+    "summary": "The lawyer for the former prime minister claimed he had lost 85 percent of the vision in his right eye because of delayed treatment in prison.",
+    "timestamp": 1771089495.0,
+    "date": "Feb 14, 17:18"
+  },
+  {
     "source": "The Verge",
     "title": "iBuyPower\u2019s gaming desktops are discounted for Presidents Day",
     "link": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
@@ -1542,14 +1550,6 @@
     "summary": "The two-story location will sell products from Nothing and the more affordable, mass-market brand CMF.",
     "timestamp": 1771050600.0,
     "date": "Feb 14, 06:30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Indian pharmacy chain giant exposed customer data and internal systems",
-    "link": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
-    "summary": "A backend flaw in web admin dashboards used by one of India's largest pharmacy chains, exposed thousands of online pharmacy orders.",
-    "timestamp": 1771039800.0,
-    "date": "Feb 14, 03:30"
   },
   {
     "source": "The Guardian",
