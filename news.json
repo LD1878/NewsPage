@@ -1,19 +1,363 @@
 [
   {
     "source": "CNBC",
+    "title": "Anthropic releases Claude Sonnet 4.6, continuing breakneck pace of AI model releases",
+    "link": "https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html",
+    "summary": "Claude Sonnet 4.6 is more consistent with coding and is better at following coding instructions, Anthropic said.",
+    "timestamp": 1771350915.0,
+    "date": "Feb 17, 17:55"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Israel accused of move expanding Jerusalem borders for first time since 1967",
+    "link": "https://www.channelnewsasia.com/world/israel-jerusalem-west-bank-palestine-5936431",
+    "summary": "Israeli groups warn that expanding Jerusalem into the West Bank could amount to annexation.",
+    "timestamp": 1771350672.0,
+    "date": "Feb 17, 17:51"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump Said He\u2019d End the War in Ukraine in a Day. It\u2019s Harder Than He Thought.",
+    "link": "https://www.nytimes.com/2026/02/17/world/europe/trump-ukraine-war-putin.html",
+    "summary": "Russian attacks and Ukrainian civilian deaths rose as President Trump\u2019s peace talks dragged on during his first year back in the White House.",
+    "timestamp": 1771350548.0,
+    "date": "Feb 17, 17:49"
+  },
+  {
+    "source": "France 24",
+    "title": "From Lunar New Year prayers to high-tech displays, millions usher in the Year of the Horse",
+    "link": "https://www.france24.com/en/asia-pacific/20260217-lunar-new-year-prayers-high-tech-displays-millions-usher-year-horse",
+    "summary": "Fireworks lit the skies and incense smoke filled the air as millions rang in the Lunar New Year on Tuesday. From bustling temple fairs in Beijing to a high-tech Spring Festival gala, the Year of the H...",
+    "timestamp": 1771350449.0,
+    "date": "Feb 17, 17:47"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump\u2019s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism",
+    "link": "https://www.nytimes.com/2026/02/17/world/europe/belgium-trump-ambassador-anti-semitism.html",
+    "summary": "The diplomat, Bill White, met with a foreign ministry official at a time of rising tensions between the U.S. and countries in Europe.",
+    "timestamp": 1771350444.0,
+    "date": "Feb 17, 17:47"
+  },
+  {
+    "source": "New York Times",
+    "title": "Frederick Vreeland, Diplomat and Spy Who Served With Style, Dies at 98",
+    "link": "https://www.nytimes.com/2026/02/17/style/frederick-vreeland-dead.html",
+    "summary": "A son of the influential fashion editor Diana Vreeland, he had an upbringing well suited to his overt and covert duties during the Cold War.",
+    "timestamp": 1771350398.0,
+    "date": "Feb 17, 17:46"
+  },
+  {
+    "source": "CNBC",
+    "title": "Figma partners with Anthropic to turn AI-generated code into editable designs",
+    "link": "https://www.cnbc.com/2026/02/17/figma-anthropic-ai-code-designs.html",
+    "summary": "Figma has been caught in the software stock sell-off that has sent names like Salesforce, ServiceNow and Intuit plummeting.",
+    "timestamp": 1771350397.0,
+    "date": "Feb 17, 17:46"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Russian and Belarussian flags to return at 2026 Paralympics",
+    "link": "https://www.dw.com/en/russian-and-belarussian-flags-to-return-at-2026-paralympics/a-76009330?maca=en-rss-en-all-1573-rdf",
+    "summary": "The International Paralympic Committee has granted six wildcard spots to Russia and four to Belarus for the upcoming Winter Games. The athletes will not be required to participate under a neutral flag...",
+    "timestamp": 1771350360.0,
+    "date": "Feb 17, 17:46"
+  },
+  {
+    "source": "CNBC",
+    "title": "CFTC defends its right to prediction market enforcement as states challenge platforms",
+    "link": "https://www.cnbc.com/2026/02/17/cftc-defends-prediction-market-enforcement-states-challenge.html",
+    "summary": "CFTC Chairman Michael Selig said the agency has filed an amicus brief to assert its authority over prediction market enforcement and regulation.",
+    "timestamp": 1771350351.0,
+    "date": "Feb 17, 17:45"
+  },
+  {
+    "source": "New York Times",
+    "title": "Iranians Defy Government Crackdown at Memorials for Slain Protesters",
+    "link": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
+    "summary": "Authorities moved to suppress shows of defiance at ceremonies commemorating 40 days since the death of protesters.",
+    "timestamp": 1771350156.0,
+    "date": "Feb 17, 17:42"
+  },
+  {
+    "source": "CNBC",
+    "title": "Danaher is tapping the M&A well yet again. But we might have had enough",
+    "link": "https://www.cnbc.com/2026/02/17/danaher-is-tapping-the-ma-well-yet-again-but-we-might-have-had-enough.html",
+    "summary": "Danaher shares fell on the news that it was acquiring medtech player Masimo.",
+    "timestamp": 1771350030.0,
+    "date": "Feb 17, 17:40"
+  },
+  {
+    "source": "CNBC",
+    "title": "Stocks making the biggest moves midday: General Mills, Southwest, Genuine Parts, Norwegian Cruise Line  & more",
+    "link": "https://www.cnbc.com/2026/02/17/stocks-making-the-biggest-moves-midday-gis-luv-gpc-nclh-more.html",
+    "summary": "These are the stocks posting the largest moves in midday trading.",
+    "timestamp": 1771349957.0,
+    "date": "Feb 17, 17:39"
+  },
+  {
+    "source": "BBC World",
+    "title": "Eleven killed in multiple strikes on alleged drug boats, US military says",
+    "link": "https://www.bbc.com/news/articles/cn5g2g56qggo?at_medium=RSS&at_campaign=rss",
+    "summary": "More than 130 people have been killed in these alleged \"narco-trafficking operations\" carried out by the US since September.",
+    "timestamp": 1771349608.0,
+    "date": "Feb 17, 17:33"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Oil prices slide 2% to two-week low on talk of progress in US-Iran talks",
+    "link": "https://www.channelnewsasia.com/business/oil-prices-slide-2-two-week-low-talk-progress-in-us-iran-talks-5935316",
+    "summary": "",
+    "timestamp": 1771349408.0,
+    "date": "Feb 17, 17:30"
+  },
+  {
+    "source": "CNBC",
     "title": "Ford to follow Tesla Cybertruck with electrical tech in new EV pickup",
     "link": "https://www.cnbc.com/2026/02/17/ford-ev-platform-pickup-truck.html",
     "summary": "Ford's next generation of all-electric vehicles will feature a budding technology commercialized by Tesla in the U.S. on its Cybertruck.",
-    "timestamp": 1771346983.0,
-    "date": "Feb 17, 16:49"
+    "timestamp": 1771349375.0,
+    "date": "Feb 17, 17:29"
+  },
+  {
+    "source": "New York Times",
+    "title": "Palmerston, the Former \u2018Chief Mouser\u2019 for Britain\u2019s Foreign Office, Dies",
+    "link": "https://www.nytimes.com/2026/02/17/world/europe/palmerston-britain-diplomat-dead.html",
+    "summary": "The cat, who was named after a former prime minister, became a social media star. By the time of his death at about 12, he had more followers than many ambassadors have.",
+    "timestamp": 1771349329.0,
+    "date": "Feb 17, 17:28"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Deadly explosion rocks Russian military site near St Petersburg",
+    "link": "https://www.aljazeera.com/news/2026/2/17/deadly-explosion-rocks-russian-military-site-near-st-petersburg?traffic_source=rss",
+    "summary": "Russian media report at least three people killed when the military police facility in Sertolovo collapses after blast.",
+    "timestamp": 1771349188.0,
+    "date": "Feb 17, 17:26"
+  },
+  {
+    "source": "CNBC",
+    "title": "Return of 'YOLO' market: Wells Fargo thinks hefty tax refunds will boost bitcoin and these speculative stocks",
+    "link": "https://www.cnbc.com/2026/02/17/return-of-yolo-market-wells-fargo-thinks-hefty-tax-refunds-will-boost-bitcoin.html",
+    "summary": "Bitcoin and stocks such as Robinhood and Boeing could surge as potentially higher tax refunds this season lead investors to splurge on riskier trades.",
+    "timestamp": 1771349115.0,
+    "date": "Feb 17, 17:25"
+  },
+  {
+    "source": "CNBC",
+    "title": "Palantir moving its headquarters from Denver to Miami",
+    "link": "https://www.cnbc.com/2026/02/17/palantir-headquarters-miami-denver.html",
+    "summary": "The software analytics firm is the latest big business to migrate to South Florida as executives seek to transform the region into hub for innovation.",
+    "timestamp": 1771349012.0,
+    "date": "Feb 17, 17:23"
+  },
+  {
+    "source": "New York Times",
+    "title": "Parents of Some Winter Olympians Face Extreme Fear as Their Children Compete",
+    "link": "https://www.nytimes.com/2026/02/17/world/olympics/olympics-parents-fear.html",
+    "summary": "When your child races headfirst down an ice chute, leaps off ski jumps or performs snowboard tricks in midair, a medal may not be the main thing you pray for.",
+    "timestamp": 1771349001.0,
+    "date": "Feb 17, 17:23"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+    "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+    "summary": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
+    "timestamp": 1771348929.0,
+    "date": "Feb 17, 17:22"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Skeleton-Shakhtar boss pays Ukrainian racer $200,000 after Games disqualification",
+    "link": "https://www.channelnewsasia.com/sport/skeleton-shakhtar-boss-pays-ukrainian-racer-200000-after-games-disqualification-5936466",
+    "summary": "",
+    "timestamp": 1771348852.0,
+    "date": "Feb 17, 17:20"
+  },
+  {
+    "source": "France 24",
+    "title": "'One huge party': Brazilian carnival in full swing in Rio",
+    "link": "https://www.france24.com/en/one-huge-party-brazilian-carnival-in-full-swing-in-rio",
+    "summary": "The world\u2019s biggest party is back as Carnival celebrations return to Brazil with glittery, outrageous costumes, samba rhythms ringing out until dawn and hundreds of raucous roaming parties flooding th...",
+    "timestamp": 1771348843.0,
+    "date": "Feb 17, 17:20"
+  },
+  {
+    "source": "New York Times",
+    "title": "U.S. and Iran Make \u2018Good Progress\u2019 in Geneva Talks, Foreign Minister Says",
+    "link": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html",
+    "summary": "He said both sides had agreed on a \u201cset of guiding principles.\u201d President Trump has called on Iran to make an immediate accord or face a possible U.S. attack.",
+    "timestamp": 1771348801.0,
+    "date": "Feb 17, 17:20"
+  },
+  {
+    "source": "New York Times",
+    "title": "A Deadly Medieval Path in England Claims a Modern Victim: An Amazon Van",
+    "link": "https://www.nytimes.com/2026/02/17/world/europe/broomway-england-amazon-van.html",
+    "summary": "The Broomway in Essex is notoriously treacherous because of the quick-moving waters surrounding it. One delivery vehicle didn\u2019t make it.",
+    "timestamp": 1771348714.0,
+    "date": "Feb 17, 17:18"
+  },
+  {
+    "source": "BBC World",
+    "title": "Jesse Jackson: A life in pictures",
+    "link": "https://www.bbc.com/news/articles/cn0zjz58nzqo?at_medium=RSS&at_campaign=rss",
+    "summary": "A look back at the remarkable life of the US civil rights activist, who died on Tuesday aged 84.",
+    "timestamp": 1771348699.0,
+    "date": "Feb 17, 17:18"
+  },
+  {
+    "source": "France 24",
+    "title": "Athletes from Africa push for winter Olympics inclusion",
+    "link": "https://www.france24.com/en/athletes-from-africa-push-for-winter-olympics-inclusion",
+    "summary": "Six Olympic skiers joined by \u2060their parents, coaches and \u200bfederation presidents came together on Sunday to advocate for more inclusion at the Winter Games. Representing Jamaica, Kenya, Eritrea, Madaga...",
+    "timestamp": 1771348674.0,
+    "date": "Feb 17, 17:17"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Biathlon-Laegried has learned his lesson after cheating interview 'atomic bomb'",
+    "link": "https://www.channelnewsasia.com/sport/biathlon-laegried-has-learned-his-lesson-after-cheating-interview-atomic-bomb-5936456",
+    "summary": "",
+    "timestamp": 1771348541.0,
+    "date": "Feb 17, 17:15"
+  },
+  {
+    "source": "CNBC",
+    "title": "Lakers governor Jeanie Buss talks year of transition, says father would have supported sale to Mark Walter",
+    "link": "https://www.cnbc.com/2026/02/17/lakers-jeanie-buss-sale-mark-walter.html",
+    "summary": "Los Angeles Lakers governor Jeanie Buss said new majority owner Mark Walter's access to capital will help the team best compete with the NBA's top franchises.",
+    "timestamp": 1771348449.0,
+    "date": "Feb 17, 17:14"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Mississippi holds hearing on xAI data center amid environmental lawsuit threat",
+    "link": "https://www.channelnewsasia.com/business/mississippi-holds-hearing-xai-data-center-amid-environmental-lawsuit-threat-5936426",
+    "summary": "",
+    "timestamp": 1771348041.0,
+    "date": "Feb 17, 17:07"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Libya: 'I wish I had died,' says migrant after weeks of rape",
+    "link": "https://www.dw.com/en/libya-i-wish-i-had-died-says-migrant-after-weeks-of-rape/a-76009721?maca=en-rss-en-all-1573-rdf",
+    "summary": "A new UN report has found that asylum seekers being returned to Libya are facing serious human rights violations in detention camps, including torture and rape.",
+    "timestamp": 1771347840.0,
+    "date": "Feb 17, 17:04"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Crosscountry-Cold symptoms rule Svahn out of women\u2019s sprint relay",
+    "link": "https://www.channelnewsasia.com/sport/crosscountry-cold-symptoms-rule-svahn-out-womens-sprint-relay-5936416",
+    "summary": "",
+    "timestamp": 1771347811.0,
+    "date": "Feb 17, 17:03"
   },
   {
     "source": "CNBC",
     "title": "S&P 500 is little changed to start shortened week, software shares slide: Live updates",
     "link": "https://www.cnbc.com/2026/02/16/stock-market-today-live-updates.html",
     "summary": "The S&amp;P 500 has declined two weeks in a row.",
-    "timestamp": 1771346882.0,
-    "date": "Feb 17, 16:48"
+    "timestamp": 1771347773.0,
+    "date": "Feb 17, 17:02"
+  },
+  {
+    "source": "CNBC",
+    "title": "Rev. Jesse Jackson, civil rights leader and former presidential candidate, dies at 84",
+    "link": "https://www.cnbc.com/2026/02/17/jesse-jackson-dead.html",
+    "summary": "The Rev. Jesse Jackson was a civil rights icon, Baptist minister and two-time Democratic presidential candidate.",
+    "timestamp": 1771347765.0,
+    "date": "Feb 17, 17:02"
+  },
+  {
+    "source": "New York Times",
+    "title": "Questions Swirl Around Russian Figure Skater in Her Olympic Debut",
+    "link": "https://www.nytimes.com/2026/02/17/world/europe/russian-figure-skater-milan-olympics.html",
+    "summary": "Adeliia Petrosian, 18, has the r\u00e9sum\u00e9 of a medal contender \u2014 and ties to coaches and a skater who were at the center of a doping scandal at the last Winter Games.",
+    "timestamp": 1771347623.0,
+    "date": "Feb 17, 17:00"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "LIVE: Benfica vs Real Madrid \u2013 Champions League playoff",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/2/17/live-benfica-vs-real-madrid-champions-league-playoff?traffic_source=rss",
+    "summary": "Follow the build-up, analysis and live text commentary of the first leg of the Champions League playoff in Lisbon.",
+    "timestamp": 1771347600.0,
+    "date": "Feb 17, 17:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SpaceX vets raise $50M Series A for data center links",
+    "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
+    "summary": "Mesh aims to mass-produce optical transceivers for AI data centers.",
+    "timestamp": 1771347600.0,
+    "date": "Feb 17, 17:00"
+  },
+  {
+    "source": "The Verge",
+    "title": "This backup camera cleaner hides behind your license plate",
+    "link": "https://www.theverge.com/gadgets/877893/lens-lizard-backup-camera-cleaner-aftermarket-wiper-fluid-kickstarter",
+    "summary": "A Vermont-based startup has announced a new upgrade kit that adds a remotely triggered backup camera cleaner to your car. The Lens Lizard system might seem like an unnecessary luxury to some, but if y...",
+    "timestamp": 1771347600.0,
+    "date": "Feb 17, 17:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "Amazon has lost $450 billion in value during this historic losing streak. Here's what's dragging it down",
+    "link": "https://www.cnbc.com/2026/02/17/amazon-stock-losing-streak.html",
+    "summary": "When it reported earnings, Amazon said it expects to spend $200 billion this year on AI initiatives.",
+    "timestamp": 1771347479.0,
+    "date": "Feb 17, 16:57"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Israel says FM Saar to attend Trump's Board of Peace meeting",
+    "link": "https://www.channelnewsasia.com/world/trump-board-peace-israel-gaza-un-hamas-5936376",
+    "summary": "Israel's Foreign Minister&nbsp;Gideon Saar is set to attend the US president's \"Board of Peace\" meeting in Washington this week.",
+    "timestamp": 1771347420.0,
+    "date": "Feb 17, 16:57"
+  },
+  {
+    "source": "NPR",
+    "title": "A photojournalist details her rebellion against the Syrian regime -- and her father",
+    "link": "https://www.npr.org/2026/02/17/nx-s1-5717011/a-photojournalist-details-her-rebellion-against-the-syrian-regime-and-her-father",
+    "summary": "Loubna Mrie grew up in Syria, where her father was allegedly an assassin for the regime. She joined the Syrian revolution first as a protester and then as a photojournalist. Her memoir is ",
+    "timestamp": 1771347302.0,
+    "date": "Feb 17, 16:55"
+  },
+  {
+    "source": "New York Times",
+    "title": "Ukraine and Russia Hold New Round of Peace Talks, but Expectations Are Low",
+    "link": "https://www.nytimes.com/2026/02/17/world/europe/ukraine-russia-peace-talks-switzerland.html",
+    "summary": "Both sides described previous U.S.-mediated negotiations as productive, although they did not appear to address sticking points like territory and security guarantees.",
+    "timestamp": 1771347108.0,
+    "date": "Feb 17, 16:51"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Curling-Hasselborg's Sweden lose to Canada but progress to semi-finals",
+    "link": "https://www.channelnewsasia.com/sport/curling-hasselborgs-sweden-lose-canada-progress-semi-finals-5936406",
+    "summary": "",
+    "timestamp": 1771347005.0,
+    "date": "Feb 17, 16:50"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Iran\u2019s Khamenei maintains tough rhetoric with US despite nuclear talks",
+    "link": "https://www.aljazeera.com/news/2026/2/17/irans-khamenei-maintains-tough-rhetoric-with-us-despite-nuclear-talks?traffic_source=rss",
+    "summary": "Tehran&#039;s chief diplomat says some &#039;guiding principles&#039; are agreed, but the supreme leader presents a different tone.",
+    "timestamp": 1771346950.0,
+    "date": "Feb 17, 16:49"
+  },
+  {
+    "source": "New York Times",
+    "title": "Lunar New Year in Photos and Video: Revelers Welcome Year of the Horse",
+    "link": "https://www.nytimes.com/2026/02/17/world/asia/lunar-new-year-horse-celebrations.html",
+    "summary": "The Lunar New Year, the most important holiday in many Asian countries, is being celebrated around the world.",
+    "timestamp": 1771346850.0,
+    "date": "Feb 17, 16:47"
   },
   {
     "source": "CNA (Asia)",
@@ -49,14 +393,6 @@
   },
   {
     "source": "CNBC",
-    "title": "Lakers governor Jeanie Buss talks year of transition, says father would have supported sale to Mark Walter",
-    "link": "https://www.cnbc.com/2026/02/17/lakers-jeanie-buss-sale-mark-walter.html",
-    "summary": "Los Angeles Lakers governor Jeanie Buss said new majority owner Mark Walter's access to capital will help the team best compete with the NBA's top franchises.",
-    "timestamp": 1771346411.0,
-    "date": "Feb 17, 16:40"
-  },
-  {
-    "source": "CNBC",
     "title": "This retail giant\u2019s earnings report could offer investors an attractive entry point this week, says Jay Woods",
     "link": "https://www.cnbc.com/2026/02/17/this-retail-giants-earnings-could-offer-an-attractive-entry-point-says-jay-woods.html",
     "summary": "Jay Woods touches on potential opportunities in two stocks reporting earnings this week, including a major retail giant.",
@@ -65,11 +401,19 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Bulgaria: How two crimes fueled distrust in the authorities",
-    "link": "https://www.dw.com/en/bulgaria-how-two-crimes-fueled-distrust-in-the-authorities/a-76008752?maca=en-rss-en-all-1573-rdf",
+    "title": "Bulgaria: How six deaths fueled distrust in the authorities",
+    "link": "https://www.dw.com/en/bulgaria-how-six-deaths-fueled-distrust-in-the-authorities/a-76008752?maca=en-rss-en-all-1573-rdf",
     "summary": "A case of suspected murder-suicide involving six victims has sparked a wave of conspiracy theories and speculation in Bulgaria, reflecting endemic distrust in state institutions and growing political ...",
     "timestamp": 1771346100.0,
     "date": "Feb 17, 16:35"
+  },
+  {
+    "source": "France 24",
+    "title": "Jesse Jackson: Civil rights leader dies aged 84",
+    "link": "https://www.france24.com/en/video/20260217-jesse-jackson-civil-rights-leader-dies-aged-84",
+    "summary": "Jesse Jackson, the Baptist minister who helped spearhead the fight for racial justice in Americafor more than six decades, has died aged 84. Born in 1941, in South Carolina, Jackson rose to prominence...",
+    "timestamp": 1771346037.0,
+    "date": "Feb 17, 16:33"
   },
   {
     "source": "CNA (Asia)",
@@ -104,6 +448,14 @@
     "date": "Feb 17, 16:30"
   },
   {
+    "source": "France 24",
+    "title": "Balancing act: How Modi\u2019s strategic diplomacy boosts India\u2019s influence",
+    "link": "https://www.france24.com/en/balancing-act-how-modi-s-strategic-diplomacy-boosts-india-s-influence",
+    "summary": "Narendra Modi has made India a diplomatic swing power, forging ties with both Vladimir Putin and Donald Trump while courting Europe and championing the Global South. Refusing to condemn Moscow and con...",
+    "timestamp": 1771345665.0,
+    "date": "Feb 17, 16:27"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Stocks dip on AI jitters, gold slides as US-Iran talks progress",
     "link": "https://www.channelnewsasia.com/business/stocks-dip-ai-jitters-gold-slides-us-iran-talks-progress-5935446",
@@ -128,28 +480,20 @@
     "date": "Feb 17, 16:22"
   },
   {
+    "source": "CNBC",
+    "title": "Oil prices fall as Iran sees progress in nuclear talks with U.S.",
+    "link": "https://www.cnbc.com/2026/02/17/oil-prices-stable-as-iran-conducts-war-games-in-strait-of-hormuz.html",
+    "summary": "Iran and the U.S. reached a \"general agreement\" on Tuesday on guiding principles during talks in Geneva, Foreign Minister Abbas Araghchi said",
+    "timestamp": 1771345116.0,
+    "date": "Feb 17, 16:18"
+  },
+  {
     "source": "France 24",
     "title": "Paralympic governing body lifts ban on Russian and Belarusian athletes ahead of 2026 games",
     "link": "https://www.france24.com/en/sport/20260217-paralympic-governing-body-lifts-ban-on-russian-and-belarusian-athletes-ahead-of-2026-games",
     "summary": "Six Russian and four Belarusian athletes will compete under their national flags at the upcoming Winter Paralympic Games in Milan Cortina, the International Paralympic Committee (IPC) said on Tuesday,...",
     "timestamp": 1771345087.0,
     "date": "Feb 17, 16:18"
-  },
-  {
-    "source": "New York Times",
-    "title": "Ukraine and Russia Hold New Round of Peace Talks, but Expectations Are Low",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/ukraine-russia-peace-talks-switzerland.html",
-    "summary": "Both sides described previous U.S.-mediated negotiations as productive, although they did not appear to address sticking points like territory and security guarantees.",
-    "timestamp": 1771344980.0,
-    "date": "Feb 17, 16:16"
-  },
-  {
-    "source": "New York Times",
-    "title": "Parents of Some Winter Olympians Face Extreme Fear as Their Children Compete",
-    "link": "https://www.nytimes.com/2026/02/17/world/olympics/olympics-parents-fear.html",
-    "summary": "When your child races headfirst down an ice chute, leaps off ski jumps or performs snowboard tricks in midair, a medal may not be the main thing you pray for.",
-    "timestamp": 1771344815.0,
-    "date": "Feb 17, 16:13"
   },
   {
     "source": "TechCrunch",
@@ -161,8 +505,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Softbank Group dissolves share stake in Nvidia, according to SEC filing",
-    "link": "https://www.channelnewsasia.com/business/softbank-group-dissolves-share-stake-in-nvidia-according-sec-filing-5936346",
+    "title": "Softbank Group SEC filing details fourth-quarter sale of Nvidia stake",
+    "link": "https://www.channelnewsasia.com/business/softbank-group-sec-filing-details-fourth-quarter-sale-nvidia-stake-5936346",
     "summary": "",
     "timestamp": 1771344561.0,
     "date": "Feb 17, 16:09"
@@ -184,14 +528,6 @@
     "date": "Feb 17, 16:06"
   },
   {
-    "source": "CNBC",
-    "title": "CFTC defends its right to prediction market enforcement as states challenge platforms",
-    "link": "https://www.cnbc.com/2026/02/17/cftc-defends-prediction-market-enforcement-states-challenge.html",
-    "summary": "CFTC Chairman Michael Selig said the agency is filing an amicus brief to assert its authority over prediction market enforcement and regulation.",
-    "timestamp": 1771344316.0,
-    "date": "Feb 17, 16:05"
-  },
-  {
     "source": "Al Jazeera",
     "title": "EU opens probe into online global retailer Shein after sex-doll scandal",
     "link": "https://www.aljazeera.com/news/2026/2/17/eu-opens-probe-into-online-global-retailer-shein-after-sex-doll-scandal?traffic_source=rss",
@@ -206,22 +542,6 @@
     "summary": "Two years after Russian opposition leader Alexei Navalny died in prison, five European countries claim they have identified the substance that killed him: epibatidine, an extremely lethal toxin produc...",
     "timestamp": 1771344222.0,
     "date": "Feb 17, 16:03"
-  },
-  {
-    "source": "New York Times",
-    "title": "Iranians Defy Government Crackdown at Memorials for Slain Protesters",
-    "link": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
-    "summary": "Authorities moved to suppress shows of defiance at ceremonies commemorating 40 days since the death of protesters.",
-    "timestamp": 1771344219.0,
-    "date": "Feb 17, 16:03"
-  },
-  {
-    "source": "New York Times",
-    "title": "U.S. and Iran Make \u2018Good Progress\u2019 in Geneva Talks, Foreign Minister Says",
-    "link": "https://www.nytimes.com/2026/02/17/us/politics/us-iran-nuclear-talks.html",
-    "summary": "President Trump has called on Iran to reach an immediate accord or else face the threat of a possible U.S. attack.",
-    "timestamp": 1771344065.0,
-    "date": "Feb 17, 16:01"
   },
   {
     "source": "The Verge",
@@ -272,14 +592,6 @@
     "date": "Feb 17, 15:54"
   },
   {
-    "source": "New York Times",
-    "title": "Japan Wins Pairs Figure Skating, Knocking China From the Top",
-    "link": "https://www.nytimes.com/2026/02/16/world/japan-figure-skating-pairs-gold-medal.html",
-    "summary": "Riku Miura and Ryuichi Kihara of Japan emerged with the gold medal with a flawless, high-scoring performance after Monday\u2019s free skate.",
-    "timestamp": 1771343572.0,
-    "date": "Feb 17, 15:52"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Juve executives banned after clash with referee in wake of Kalulu dismissal",
     "link": "https://www.channelnewsasia.com/sport/juve-executives-banned-after-clash-referee-in-wake-kalulu-dismissal-5936301",
@@ -294,14 +606,6 @@
     "summary": "Iranian state media reported the partial closure of the Strait of Hormuz on Tuesday for military drills in the waterway.",
     "timestamp": 1771343527.0,
     "date": "Feb 17, 15:52"
-  },
-  {
-    "source": "CNBC",
-    "title": "Figma partners with Anthropic to turn AI-generated code into editable designs",
-    "link": "https://www.cnbc.com/2026/02/17/figma-anthropic-ai-code-designs.html",
-    "summary": "Figma has been caught in the software stock selloff that has sent names like Salesforce, ServiceNow, and Intuit plummeting.",
-    "timestamp": 1771343371.0,
-    "date": "Feb 17, 15:49"
   },
   {
     "source": "BBC World",
@@ -350,14 +654,6 @@
     "summary": "Former US secretary of state Hillary Clinton has accused President Donald Trump of orchestrating a \"cover-up\" over files related to sex offender Jeffrey Epstein, according to an interview with the BBC...",
     "timestamp": 1771342822.0,
     "date": "Feb 17, 15:40"
-  },
-  {
-    "source": "CNBC",
-    "title": "Elliott builds over 10% stake in Norwegian Cruise, seeks board change",
-    "link": "https://www.cnbc.com/2026/02/17/elliott-builds-10percent-stake-in-norwegian-cruise-pushes-for-board-change.html",
-    "summary": "The activist investor also pushed for a new business plan at\u00a0Norwegian, according to\u00a0a presentation and letter sent to the company.",
-    "timestamp": 1771342696.0,
-    "date": "Feb 17, 15:38"
   },
   {
     "source": "France 24",
@@ -416,44 +712,12 @@
     "date": "Feb 17, 15:27"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "PM Wong congratulates Bangladesh's new PM Tarique Rahman on election victory",
-    "link": "https://www.channelnewsasia.com/singapore/pm-wong-congratulates-bangladesh-pm-tarique-rahman-5936041",
-    "summary": "Tarique Rahman's Bangladesh Nationalist Party won the country's Feb 12 general election in a landslide, securing a two-thirds majority in parliament.",
-    "timestamp": 1771341898.0,
-    "date": "Feb 17, 15:24"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Nigeria investigates Temu for possible data privacy breaches",
     "link": "https://www.dw.com/en/nigeria-investigates-temu-for-possible-data-privacy-breaches/a-76007400?maca=en-rss-en-all-1573-rdf",
     "summary": "Nigeria's data watchdog has opened an investigation into Chinese online retail discounter Temu, on suspicion of violations of data law. The company is facing mounting scrutiny amid its global expansio...",
     "timestamp": 1771341540.0,
     "date": "Feb 17, 15:19"
-  },
-  {
-    "source": "CNBC",
-    "title": "Silver miners fall in premarket trading as the metal drops 2%",
-    "link": "https://www.cnbc.com/2026/02/17/silver-prices-hecla-mining-endeavour-silver.html",
-    "summary": "Silver mining companies including Hecla Mining, Endeavor Silver, and First Majestic Silver were down before the market opened.",
-    "timestamp": 1771341295.0,
-    "date": "Feb 17, 15:14"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Raspberry Pi soars 40% as CEO buys stock, AI chatter builds",
-    "link": "https://www.channelnewsasia.com/business/raspberry-pi-soars-40-ceo-buys-stock-ai-chatter-builds-5936226",
-    "summary": "",
-    "timestamp": 1771341222.0,
-    "date": "Feb 17, 15:13"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Figure skating-Japan's Miura and Kihara say pairs gold 'hasn't hit' after comeback win",
-    "link": "https://www.channelnewsasia.com/sport/figure-skating-japans-miura-and-kihara-say-pairs-gold-hasnt-hit-after-comeback-win-5936236",
-    "summary": "",
-    "timestamp": 1771341164.0,
-    "date": "Feb 17, 15:12"
   },
   {
     "source": "The Verge",
@@ -464,43 +728,11 @@
     "date": "Feb 17, 15:10"
   },
   {
-    "source": "CNBC",
-    "title": "Rev. Jesse Jackson, civil rights leader and former presidential candidate, dies at 84",
-    "link": "https://www.cnbc.com/2026/02/17/jesse-jackson-dead.html",
-    "summary": "The Rev. Jesse Jackson was a civil rights icon, Baptist minister and two-time Democratic presidential candidate.",
-    "timestamp": 1771340976.0,
-    "date": "Feb 17, 15:09"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Ice hockey-Italy exit with pride rather than disappointment as Clara shines in goal",
-    "link": "https://www.channelnewsasia.com/sport/ice-hockey-italy-exit-pride-rather-disappointment-clara-shines-in-goal-5936216",
-    "summary": "",
-    "timestamp": 1771340908.0,
-    "date": "Feb 17, 15:08"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Ormat signs 150 MW geothermal power deal with NV Energy to supply Google in Nevada",
-    "link": "https://www.channelnewsasia.com/business/ormat-signs-150-mw-geothermal-power-deal-nv-energy-supply-google-in-nevada-5936206",
-    "summary": "",
-    "timestamp": 1771340823.0,
-    "date": "Feb 17, 15:07"
-  },
-  {
     "source": "TechCrunch",
     "title": "Apple Podcasts is getting an enhanced video experience this spring",
     "link": "https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/",
-    "summary": "By bringing an enhanced video podcasts viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows.",
+    "summary": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows.",
     "timestamp": 1771340808.0,
-    "date": "Feb 17, 15:06"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "France's AI company Mistral buys cloud service startup Koyeb",
-    "link": "https://www.channelnewsasia.com/business/frances-ai-company-mistral-buys-cloud-service-startup-koyeb-5936211",
-    "summary": "",
-    "timestamp": 1771340771.0,
     "date": "Feb 17, 15:06"
   },
   {
@@ -520,36 +752,12 @@
     "date": "Feb 17, 15:03"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Biathlon-Perrot powers France to first gold medal in men's relay",
-    "link": "https://www.channelnewsasia.com/sport/biathlon-perrot-powers-france-first-gold-medal-in-mens-relay-5936191",
-    "summary": "",
-    "timestamp": 1771340560.0,
-    "date": "Feb 17, 15:02"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Who are Bangladesh\u2019s new cabinet members?",
     "link": "https://www.aljazeera.com/news/2026/2/17/who-are-bangladeshs-new-cabinet-members?traffic_source=rss",
     "summary": "Tarique Rahman of the BNP is sworn in as the prime minister of Bangladesh. His cabinet appointments are also revealed.",
     "timestamp": 1771340555.0,
     "date": "Feb 17, 15:02"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Table-topping Arsenal's league position a hard-earned 'privilege', says Arteta",
-    "link": "https://www.channelnewsasia.com/sport/table-topping-arsenals-league-position-hard-earned-privilege-says-arteta-5936196",
-    "summary": "",
-    "timestamp": 1771340410.0,
-    "date": "Feb 17, 15:00"
-  },
-  {
-    "source": "CNBC",
-    "title": "Cloud startup Render raises funding at $1.5 billion valuation as AI-built apps boom",
-    "link": "https://www.cnbc.com/2026/02/17/render-raises-100-million-at-1point5-billion-valuation.html",
-    "summary": "Render is one of the beneficiaries of growing competition in the cloud computing world spurred by the booming demand for artificial intelligence.",
-    "timestamp": 1771340402.0,
-    "date": "Feb 17, 15:00"
   },
   {
     "source": "Deutsche Welle",
@@ -569,9 +777,9 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Here are the\u00a017\u00a0US-based AI companies that have raised $100m or more in 2026",
+    "title": "Here are the\u00a017\u00a0US-based AI companies that have raised $100M or more in 2026",
     "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
-    "summary": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026 with 14 others raising rounds of $100 million or more.",
+    "summary": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
     "timestamp": 1771340289.0,
     "date": "Feb 17, 14:58"
   },
@@ -656,14 +864,6 @@
     "date": "Feb 17, 14:20"
   },
   {
-    "source": "CNBC",
-    "title": "Used car inventory is improving, but 'affordable under-$20,000 vehicles are harder to find,' expert says",
-    "link": "https://www.cnbc.com/2026/02/17/used-car-affordability.html",
-    "summary": "Although experts anticipate more inventory reaching the used car market, increased supply may not translate into meaningful relief from elevated prices.",
-    "timestamp": 1771337701.0,
-    "date": "Feb 17, 14:15"
-  },
-  {
     "source": "France 24",
     "title": "Moscow mourners mark two years since Navalny\u2019s death in custody",
     "link": "https://www.france24.com/en/moscow-mourners-mark-two-years-since-navalny-s-death-in-custody",
@@ -697,19 +897,11 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Snapchat launches creator subscription in the U.S.",
+    "title": "Snapchat launches creator subscriptions in the US",
     "link": "https://techcrunch.com/2026/02/17/snapchat-launches-creator-subscription-in-the-u-s/",
     "summary": "Snapchat will let creators set their monthly subscription price.",
     "timestamp": 1771337269.0,
     "date": "Feb 17, 14:07"
-  },
-  {
-    "source": "CNBC",
-    "title": "Genuine Parts to split into industrial and auto businesses; sees weak FY26 profit",
-    "link": "https://www.cnbc.com/2026/02/17/genuine-parts-to-split-into-industrial-and-auto-businesses-sees-weak-fy26-profit.html",
-    "summary": "The separation into two publicly traded companies \u2013 Automotive Parts Group and Industrial Parts Group \u2013 follows a settlement last year with shareholder Elliott.",
-    "timestamp": 1771336899.0,
-    "date": "Feb 17, 14:01"
   },
   {
     "source": "The Guardian",
@@ -808,28 +1000,12 @@
     "date": "Feb 17, 13:30"
   },
   {
-    "source": "New York Times",
-    "title": "Lunar New Year in Photos and Video: Revelers Welcome Year of the Horse",
-    "link": "https://www.nytimes.com/2026/02/17/world/asia/lunar-new-year-horse-celebrations.html",
-    "summary": "The Lunar New Year, the most important holiday in many Asian countries, is being celebrated around the world.",
-    "timestamp": 1771334817.0,
-    "date": "Feb 17, 13:26"
-  },
-  {
     "source": "Al Jazeera",
     "title": "The injustice in Chagos continues",
     "link": "https://www.aljazeera.com/opinions/2026/2/17/the-injustice-in-chagos-continues?traffic_source=rss",
     "summary": "Expressions of regret have not translated into enabling return or providing reparations.",
     "timestamp": 1771334553.0,
     "date": "Feb 17, 13:22"
-  },
-  {
-    "source": "CNBC",
-    "title": "Altman and Pichai among tech CEOs heading to India for major AI summit in a key market",
-    "link": "https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html",
-    "summary": "India has a market of young, tech-forward consumers and a huge pool of talent which could be key to continued development of AI.",
-    "timestamp": 1771334276.0,
-    "date": "Feb 17, 13:17"
   },
   {
     "source": "Al Jazeera",
@@ -886,14 +1062,6 @@
     "summary": "Under the partnership, Infosys plans to integrate Anthropic's Claude models into its Topaz AI platform to build so-called \"agentic\" systems.",
     "timestamp": 1771332912.0,
     "date": "Feb 17, 12:55"
-  },
-  {
-    "source": "New York Times",
-    "title": "Trump\u2019s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/belgium-trump-ambassador-anti-semitism.html",
-    "summary": "The diplomat, Bill White, was then asked to meet with the Belgian foreign minister, at a time of rising tensions between the U.S. and countries in Europe.",
-    "timestamp": 1771332636.0,
-    "date": "Feb 17, 12:50"
   },
   {
     "source": "BBC World",
@@ -976,28 +1144,12 @@
     "date": "Feb 17, 12:04"
   },
   {
-    "source": "The Verge",
-    "title": "Who needs a laptop when you have a folding phone?",
-    "link": "https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement",
-    "summary": "The first rule of Purse Computer is to check your bag before you leave the house. A few days ago, I took a 15-minute walk to a nearby coffee shop thinking I had my new folding keyboard in my bag - the...",
-    "timestamp": 1771329600.0,
-    "date": "Feb 17, 12:00"
-  },
-  {
     "source": "France 24",
     "title": "#KungFu #robots steal show at China\u2019s Spring Festival gala",
     "link": "https://www.france24.com/en/video/20260217-kungfu-robots-steal-show-at-china-s-spring-festival-gala",
     "summary": "Humanoid #robots performing #KungFu routines were among the highlights of China\u2019s Spring Festival gala on Monday. The TV show \u2013 the most-watched in #China \u2013 is held annually on the eve of the Chinese ...",
     "timestamp": 1771329460.0,
     "date": "Feb 17, 11:57"
-  },
-  {
-    "source": "France 24",
-    "title": "Curling cheating scandal divides Swedish and Canadian press",
-    "link": "https://www.france24.com/en/tv-shows/press-review/20260217-curling-cheating-scandal-divides-swedish-and-canadian-press",
-    "summary": "PRESS REVIEW \u2013 Tuesday, February 17: It's been one year since the Trump administration dismantled USAID, the agency for international development. The press looks at how South Africa, a country which ...",
-    "timestamp": 1771328965.0,
-    "date": "Feb 17, 11:49"
   },
   {
     "source": "Al Jazeera",
@@ -1032,28 +1184,12 @@
     "date": "Feb 17, 11:30"
   },
   {
-    "source": "France 24",
-    "title": "Follow live: Macron, Modi hold joint press event in Mumbai on AI and defence",
-    "link": "https://www.france24.com/en/asia-pacific/20260217-follow-live-macron-modi-hold-joint-press-event-in-mumbai-during-india-visit",
-    "summary": "French President Emmanuel Macron holds a joint press event with Indian Prime Minister Narendra Modi in Mumbai on Tuesday during his three-day visit focused on artificial intelligence cooperation, defe...",
-    "timestamp": 1771327537.0,
-    "date": "Feb 17, 11:25"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Australia refuses to repatriate ISIL relatives from Syrian camp",
     "link": "https://www.aljazeera.com/video/newsfeed/2026/2/17/australia-refuses-to-repatriate-isil-relatives-from-syrian-camp?traffic_source=rss",
     "summary": "Australia is refusing to repatriate 34 women and children held in a camp in northern Syria.",
     "timestamp": 1771327478.0,
     "date": "Feb 17, 11:24"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Gaza aid figures",
-    "link": "https://www.aljazeera.com/video/compare-contrast/2026/2/17/gaza-aid-figures?traffic_source=rss",
-    "summary": "We compare and contrast the US ambassador to the UN\u2019s claim that 4,000 trucks enter Gaza weekly with the actual numbers.",
-    "timestamp": 1771326783.0,
-    "date": "Feb 17, 11:13"
   },
   {
     "source": "The Guardian",
@@ -1064,22 +1200,6 @@
     "date": "Feb 17, 11:01"
   },
   {
-    "source": "France 24",
-    "title": "Prayers, fireworks and fairs: Millions celebrate Lunar New Year across East Asia",
-    "link": "https://www.france24.com/en/prayers-fireworks-and-fairs-millions-celebrate-lunar-new-year-across-east-asia",
-    "summary": "Traditional prayers, fireworks and fairs marked the Lunar New Year on Tuesday\u00a0\u2013 alongside 21st-century humanoid robots. The activities ushered in the Year of the Horse, one of 12 animals in the Chines...",
-    "timestamp": 1771325939.0,
-    "date": "Feb 17, 10:58"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "\u2018Jordan is next\u2019: West Bank annexation signals \u2018silent transfer\u2019",
-    "link": "https://www.aljazeera.com/features/2026/2/17/jordan-is-next-west-bank-annexation-signals-silent?traffic_source=rss",
-    "summary": "Jordan warns of war as Israel&#039;s &#039;silent transfer&#039; in the occupied West Bank becomes an operational reality.",
-    "timestamp": 1771325899.0,
-    "date": "Feb 17, 10:58"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Germany inflation rises 2.1% at start of 2026",
     "link": "https://www.dw.com/en/germany-inflation-rises-2-1-at-start-of-2026/a-76002335?maca=en-rss-en-all-1573-rdf",
@@ -1088,36 +1208,12 @@
     "date": "Feb 17, 10:53"
   },
   {
-    "source": "France 24",
-    "title": "Veteran\u00a0US\u00a0civil\u00a0rights\u00a0activist\u00a0Jesse\u00a0Jackson dies aged 84",
-    "link": "https://www.france24.com/en/video/20260217-veteran-us-civil-rights-activist-jesse-jackson-dies-aged-84",
-    "summary": "Veteran US civil rights activist Reverend Jesse Jackson, one of the nation's most influential Black voices, died peacefully Tuesday morning, his family said in a statement. He was 84. Jackson, a Bapti...",
-    "timestamp": 1771325528.0,
-    "date": "Feb 17, 10:52"
-  },
-  {
     "source": "New York Times",
     "title": "Austria Charges Man in Thwarted Attack on Taylor Swift Concert",
     "link": "https://www.nytimes.com/2026/02/17/world/europe/taylor-swift-concert-charges-austria.html",
     "summary": "The foiled plot led to the cancellation of three shows in 2024 that Ms. Swift had planned for Austria during her Eras tour.",
     "timestamp": 1771325515.0,
     "date": "Feb 17, 10:51"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Mapping forced displacements and settler attacks by Israel in the West Bank",
-    "link": "https://www.aljazeera.com/news/2026/2/17/mapping-forced-displacements-and-settler-attacks-by-israel-in-the-west-bank?traffic_source=rss",
-    "summary": "Israeli military incursions and settler attacks forced more than 37,000 Palestinians to leave their homes in 2025.",
-    "timestamp": 1771325471.0,
-    "date": "Feb 17, 10:51"
-  },
-  {
-    "source": "France 24",
-    "title": "Security takes centre stage at African Union summit",
-    "link": "https://www.france24.com/en/security-takes-centre-stage-at-african-union-summit",
-    "summary": "The 39th edition of Africa\u2019s\u00a0top\u00a0regional\u00a0body\u00a0ended Monday in\u00a0Ethiopia with leaders of member nations focusing talks on security and regional stability. FRANCE 24's Tom Canetti reports from Addis Aba...",
-    "timestamp": 1771325436.0,
-    "date": "Feb 17, 10:50"
   },
   {
     "source": "NPR",
@@ -1158,14 +1254,6 @@
     "summary": "The robotic cameras chase behind lugers, skiers and speedskaters across the venues in Northern Italy. Some spectators find they\u2019re as much fun to watch as the athletes.",
     "timestamp": 1771322590.0,
     "date": "Feb 17, 10:03"
-  },
-  {
-    "source": "NPR",
-    "title": "Little-used ICE agreements with local police have exploded under Trump",
-    "link": "https://www.npr.org/2026/02/17/nx-s1-5707449/local-police-immigration-cooperation-287g",
-    "summary": "Partnerships between ICE and local law enforcement agencies has expanded widely, under the second Trump administration, data analyzed by NPR shows.",
-    "timestamp": 1771322400.0,
-    "date": "Feb 17, 10:00"
   },
   {
     "source": "NPR",
@@ -1240,14 +1328,6 @@
     "date": "Feb 17, 09:51"
   },
   {
-    "source": "New York Times",
-    "title": "Trump Said He\u2019d End the War in Ukraine in a Day. It\u2019s Harder Than He Thought.",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/trump-ukraine-war-putin.html",
-    "summary": "Russian attacks and Ukrainian civilian deaths rose as President Trump\u2019s peace talks dragged on during his first year back in the White House.",
-    "timestamp": 1771320331.0,
-    "date": "Feb 17, 09:25"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Germany news: Government mulls social media ban for children",
     "link": "https://www.dw.com/en/germany-news-government-mulls-social-media-ban-for-children/live-75999172?maca=en-rss-en-all-1573-rdf",
@@ -1288,30 +1368,6 @@
     "date": "Feb 17, 07:59"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "US, Iran hold high-level talks on Tehran's nuclear program",
-    "link": "https://www.dw.com/en/us-iran-hold-high-level-talks-on-tehran-s-nuclear-program/a-75998258?maca=en-rss-en-all-1573-rdf",
-    "summary": "The US and Iran held indirect talks over the Iranian nuclear program. The discussions come as the US expands its military presence in the Middle East and Tehran faces anti-government protests.",
-    "timestamp": 1771314000.0,
-    "date": "Feb 17, 07:40"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "France's Macron in India to boost Rafale deal talks, AI ties",
-    "link": "https://www.dw.com/en/france-s-macron-in-india-to-boost-rafale-deal-talks-ai-ties/a-75998082?maca=en-rss-en-all-1573-rdf",
-    "summary": "Emmanuel Macron is in India at a time when the country is looking to upgrade its air force, with the Indian government giving preliminary approval to buy more than 100 additional Rafale jets last week...",
-    "timestamp": 1771313460.0,
-    "date": "Feb 17, 07:31"
-  },
-  {
-    "source": "New York Times",
-    "title": "Auditioning to Beat Trump",
-    "link": "https://www.nytimes.com/2026/02/16/world/trump-democrats-midterms-aoc-iran.html",
-    "summary": "Democrats like A.O.C. are testing out their messages in Europe before the midterms.",
-    "timestamp": 1771306366.0,
-    "date": "Feb 17, 05:32"
-  },
-  {
     "source": "The Guardian",
     "title": "Chinese tourists shun Japan over lunar new year holiday as rift deepens",
     "link": "https://www.theguardian.com/world/2026/feb/17/china-lunar-new-year-2026-chinese-tourists-shun-japan",
@@ -1325,14 +1381,6 @@
     "link": "https://www.nytimes.com/2026/02/17/world/americas/a-rio-carnival-party-that-goes-on-and-on.html",
     "summary": "The Boi Tolo, one of the city\u2019s most iconic street parties, has come to represent the glittery, gritty grass-roots celebration far from the glamour of the official parades.",
     "timestamp": 1771304480.0,
-    "date": "Feb 17, 05:01"
-  },
-  {
-    "source": "New York Times",
-    "title": "Questions Swirl Around Russian Figure Skater in Her Olympic Debut",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/russian-figure-skater-milan-olympics.html",
-    "summary": "Adeliia Petrosian, 18, has the r\u00e9sum\u00e9 of a medal contender \u2014 and ties to coaches and a skater who were at the center of a doping scandal at the last Winter Games.",
-    "timestamp": 1771304467.0,
     "date": "Feb 17, 05:01"
   },
   {
@@ -1376,6 +1424,14 @@
     "date": "Feb 17, 01:10"
   },
   {
+    "source": "BBC World",
+    "title": "How the tide turned against the leader of South Africa's second-biggest party",
+    "link": "https://www.bbc.com/news/articles/c6209vqv3nlo?at_medium=RSS&at_campaign=rss",
+    "summary": "John Steenhuisen will not seek re-election as DA leader, leaving the race wide open for a successor.",
+    "timestamp": 1771290420.0,
+    "date": "Feb 17, 01:07"
+  },
+  {
     "source": "The Guardian",
     "title": "\u2018I just want to stop hearing about it\u2019: a weary South Korea awaits verdict on Yoon insurrection charges",
     "link": "https://www.theguardian.com/world/2026/feb/17/yoon-suk-yeol-south-korea-trial-verdict",
@@ -1384,36 +1440,12 @@
     "date": "Feb 17, 00:50"
   },
   {
-    "source": "CNBC",
-    "title": "Hyatt Chairman Pritzker leaves board over Epstein ties",
-    "link": "https://www.cnbc.com/2026/02/16/hyatt-chairman-pritzker-leaves-board-over-epstein-ties.html",
-    "summary": "The 75-year-old billionaire heir said he would not seek reelection to the board at the annual stockholder meeting.",
-    "timestamp": 1771284177.0,
-    "date": "Feb 16, 23:22"
-  },
-  {
-    "source": "BBC World",
-    "title": "China is hitting Japan where it hurts. Will PM Takaichi give in?",
-    "link": "https://www.bbc.com/news/articles/c86y3ndqlxwo?at_medium=RSS&at_campaign=rss",
-    "summary": "From recalling pandas to cancelling tourist flights, China continues to retaliate after Takaichi's comments on Taiwan.",
-    "timestamp": 1771284089.0,
-    "date": "Feb 16, 23:21"
-  },
-  {
     "source": "New York Times",
     "title": "In Hungary, Marco Rubio Stresses Trump\u2019s Support for Viktor Orban",
     "link": "https://www.nytimes.com/2026/02/16/world/europe/rubio-hungary-elections-orban-trump.html",
     "summary": "The U.S. secretary of state said in Budapest that the president was \u201cdeeply committed\u201d to the success of Viktor Orban, who has boasted of creating an \u201cilliberal state.\u201d",
     "timestamp": 1771283535.0,
     "date": "Feb 16, 23:12"
-  },
-  {
-    "source": "BBC World",
-    "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
-    "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
-    "summary": "Detectives desperate to locate a 12-year-old, seen abused online, found a surprising lead.",
-    "timestamp": 1771279353.0,
-    "date": "Feb 16, 22:02"
   },
   {
     "source": "New York Times",
@@ -1448,22 +1480,6 @@
     "date": "Feb 16, 18:53"
   },
   {
-    "source": "BBC World",
-    "title": "US build-up of warships and fighter jets tracked near Iran",
-    "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
-    "summary": "BBC Verify has seen US aircraft carrier USS Abraham Lincoln near Iran ahead of talks between the two countries",
-    "timestamp": 1771265838.0,
-    "date": "Feb 16, 18:17"
-  },
-  {
-    "source": "New York Times",
-    "title": "\u2018Tina\u2019 and \u2018Milo\u2019 Olympic Mascot Toys Are Almost as Tough to Get as a Medal",
-    "link": "https://www.nytimes.com/2026/02/16/world/olympics/tina-milo-winter-olympics-plush-toys.html",
-    "summary": "Fans have fallen hard for plush dolls representing Tina and Milo, the mascots of Italy\u2019s Winter Games.",
-    "timestamp": 1771261689.0,
-    "date": "Feb 16, 17:08"
-  },
-  {
     "source": "TechCrunch",
     "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
     "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
@@ -1488,28 +1504,12 @@
     "date": "Feb 16, 14:00"
   },
   {
-    "source": "TechCrunch",
-    "title": "After all the hype, some AI experts don\u2019t think OpenClaw is all that exciting",
-    "link": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
-    "summary": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
-    "timestamp": 1771247700.0,
-    "date": "Feb 16, 13:15"
-  },
-  {
     "source": "The Guardian",
     "title": "Disappearances in Mexico surge by 200% over 10 years",
     "link": "https://www.theguardian.com/world/2026/feb/16/mexico-disappearances-increase",
     "summary": "<p>More than 130,000 people considered missing or disappeared in Mexico as drug cartels expand</p><p>It was a bright morning in August 2022 when \u00c1ngel Montenegro was taken. A 31-year-old construction ...",
     "timestamp": 1771246825.0,
     "date": "Feb 16, 13:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Fractal Analytics\u2019 muted IPO debut signals persistent AI fears in India",
-    "link": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
-    "summary": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off ...",
-    "timestamp": 1771242685.0,
-    "date": "Feb 16, 11:51"
   },
   {
     "source": "The Guardian",
