@@ -1,6 +1,206 @@
 [
   {
     "source": "CNBC",
+    "title": "Figma stock jumps 17% as company sees AI monetization accelerating growth",
+    "link": "https://www.cnbc.com/2026/02/18/figma-fig-q4-earnings-report-2025.html",
+    "summary": "The design software company maintained its gross margin even as more people adopted the Figma Make artificial intelligence tool.",
+    "timestamp": 1771450383.0,
+    "date": "Feb 18, 21:33"
+  },
+  {
+    "source": "CNBC",
+    "title": "Etsy stock pops 17% on sale of Depop to eBay for $1.2 billion",
+    "link": "https://www.cnbc.com/2026/02/18/ebay-buying-depop-etsy.html",
+    "summary": "EBay plans to acquire Etsy's secondhand clothing marketplace Depop for about $1.2 billion in cash, the companies said.",
+    "timestamp": 1771450346.0,
+    "date": "Feb 18, 21:32"
+  },
+  {
+    "source": "CNBC",
+    "title": "Doordash falls 8% on lackluster fourth-quarter results",
+    "link": "https://www.cnbc.com/2026/02/18/doordash-dash-q4-2025-earnings.html",
+    "summary": "Investors have raised concerns over the company ambitious investing plans as it ramps up its artificial intelligence and autonomous tech",
+    "timestamp": 1771450134.0,
+    "date": "Feb 18, 21:28"
+  },
+  {
+    "source": "The Verge",
+    "title": "Social media on trial: tech giants face lawsuits over addiction, safety, and mental health",
+    "link": "https://www.theverge.com/policy/880850/social-media-lawsuits-meta-facebook-instagram-tiktok",
+    "summary": "A set of bellwether cases alleging that social media platforms harmed teens&#8217; safety and mental health is going to trial this year, putting executives like Meta CEO Mark Zuckerberg on the stand t...",
+    "timestamp": 1771450029.0,
+    "date": "Feb 18, 21:27"
+  },
+  {
+    "source": "CNBC",
+    "title": "Inside David Einhorn's eclectic stock portfolio: The value investor shuns AI in favor of a unique mix of companies",
+    "link": "https://www.cnbc.com/2026/02/18/inside-einhorns-eclectic-stock-portfolio-the-value-investor-shuns-ai.html",
+    "summary": "Einhorn's latest moves reflect his views on artificial intelligence and the market as a whole.",
+    "timestamp": 1771450003.0,
+    "date": "Feb 18, 21:26"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Country Betting on Immigrants",
+    "link": "https://www.nytimes.com/2026/02/18/world/spain-immigration-isis-prison-syria.html",
+    "summary": "Spain may have a solution to the backlash against migrants in many wealthy countries.",
+    "timestamp": 1771449657.0,
+    "date": "Feb 18, 21:20"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Trump warns Britain not to 'give away' base as US mulls Iran attack",
+    "link": "https://www.channelnewsasia.com/world/trump-us-iran-uk-strike-military-base-chagos-islands-5938891",
+    "summary": "US President Donald Trump warned the UK not to \u201cgive away\u201d the Diego Garcia base under its deal to return the Chagos Islands to Mauritius.",
+    "timestamp": 1771449600.0,
+    "date": "Feb 18, 21:20"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: Tony Burke accuses Coalition of \u2018silly hypocrisy\u2019 on Syria camp group",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/19/tony-burke-syria-camp-jobs-figures-angus-taylor-anthony-albanese-coalition-labor-accc-coles-ntwnfb",
+    "summary": "<p>Home affairs minister says opposition had repatriated Australians from Syria when in government. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletter...",
+    "timestamp": 1771449187.0,
+    "date": "Feb 18, 21:13"
+  },
+  {
+    "source": "CNBC",
+    "title": "Zuckerberg testimony: Company consulted stakeholders about keeping beauty filters",
+    "link": "https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html",
+    "summary": "Meta CEO Mark Zuckerberg took the stand in a closely watched social media and safety trial that could reshape the industry.",
+    "timestamp": 1771449179.0,
+    "date": "Feb 18, 21:12"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Is your startup\u2019s check engine light on? Google Cloud\u2019s VP explains what to do",
+    "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+    "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to ...",
+    "timestamp": 1771448820.0,
+    "date": "Feb 18, 21:07"
+  },
+  {
+    "source": "France 24",
+    "title": "'If we can get a Coca-Cola to the most remote parts of the world, we can get cooking gas, as well'",
+    "link": "https://www.france24.com/en/if-we-can-get-a-coca-cola-to-the-most-remote-parts-of-the-world-we-can-get-cooking-gas-as-well",
+    "summary": "In Africa clean cooking is an issue of major concern, and with a billion people relying on wood and charcoal to cook their food each day there is a disproportionate number of deaths due to fine partic...",
+    "timestamp": 1771448500.0,
+    "date": "Feb 18, 21:01"
+  },
+  {
+    "source": "The Verge",
+    "title": "Ring&#8217;s AI-powered Search Party won&#8217;t stop at finding lost dogs, leaked email shows",
+    "link": "https://www.theverge.com/tech/880906/ring-siminoff-email-leak-search-party-expansion",
+    "summary": "A leaked internal email obtained by 404 Media shows that Ring has bigger plans for its AI-powered neighborhood search capability than just looking for lost dogs. The outlet reports the email, sent las...",
+    "timestamp": 1771448500.0,
+    "date": "Feb 18, 21:01"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "How a robodog triggered an Indian academic scandal",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/18/how-a-robodog-triggered-an-indian-academic-scandal?traffic_source=rss",
+    "summary": "An Indian university is facing backlash for presenting a Chinese-made robotic dog as its own innovation at an AI summit.",
+    "timestamp": 1771448441.0,
+    "date": "Feb 18, 21:00"
+  },
+  {
+    "source": "BBC World",
+    "title": "Billionaire Lex Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
+    "link": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss",
+    "summary": "Testifying before Congress, the former CEO of Victoria's Secret lingerie brand accused Epstein of stealing \"vast sums\" of money from his family.",
+    "timestamp": 1771448315.0,
+    "date": "Feb 18, 20:58"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Is ISIL on the verge of becoming a regional threat once again?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/2/18/is-isil-on-the-verge-of-becoming-a-regional-threat-once-again?traffic_source=rss",
+    "summary": "The US has transferred thousands of detainees linked to the group from Syria to Iraq.",
+    "timestamp": 1771448297.0,
+    "date": "Feb 18, 20:58"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky\u2019s app",
+    "link": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
+    "summary": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
+    "timestamp": 1771448268.0,
+    "date": "Feb 18, 20:57"
+  },
+  {
+    "source": "BBC World",
+    "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
+    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
+    "summary": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal.",
+    "timestamp": 1771448242.0,
+    "date": "Feb 18, 20:57"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US judge blocks ex-Palantir staffers from poaching workers for new AI firm",
+    "link": "https://www.channelnewsasia.com/business/us-judge-blocks-ex-palantir-staffers-poaching-workers-new-ai-firm-5938906",
+    "summary": "",
+    "timestamp": 1771448141.0,
+    "date": "Feb 18, 20:55"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Mark Zuckerberg testifies in social media addiction trial",
+    "link": "https://www.dw.com/en/mark-zuckerberg-testifies-in-social-media-addiction-trial/a-76028273?maca=en-rss-en-all-1573-rdf",
+    "summary": "Google and Mark Zuckerberg's Meta have been accused of deliberately making platforms addictive to children and harming their mental health.",
+    "timestamp": 1771447860.0,
+    "date": "Feb 18, 20:51"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "UNSC moves Gaza meeting to avoid clash with Trump\u2019s Board of Peace",
+    "link": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss",
+    "summary": "UN Security Council meeting addresses Gaza &#039;ceasefire&#039; and Israeli plans to expand West Bank control.",
+    "timestamp": 1771447789.0,
+    "date": "Feb 18, 20:49"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Short track-Canada's Dubois pips Dutch rivals to win\u00a0500 metres",
+    "link": "https://www.channelnewsasia.com/sport/short-track-canadas-dubois-pips-dutch-rivals-win-500-metres-5938886",
+    "summary": "",
+    "timestamp": 1771447782.0,
+    "date": "Feb 18, 20:49"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump administration releases $127 million in overdue funds for New York-New Jersey Gateway tunnel project president had called a 'future boondoggle'",
+    "link": "https://www.cnbc.com/2026/02/18/gateway-trump-funding-new-york-jersey-tunnel-hochul.html",
+    "summary": "President Donald Trump asserted that the federal government will not be responsible for any cost overruns associated with the $16 billion tunnel project.",
+    "timestamp": 1771447389.0,
+    "date": "Feb 18, 20:43"
+  },
+  {
+    "source": "CNBC",
+    "title": "Cadence Design Systems shares pop on earnings beat, custom chip optimism",
+    "link": "https://www.cnbc.com/2026/02/18/cadence-design-systems-stock-earnings-ai-chip.html",
+    "summary": "CEO Anirudh Devgan said he expects the trend of companies making their own custom chips to accelerate.",
+    "timestamp": 1771447029.0,
+    "date": "Feb 18, 20:37"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "US: Eight skiers dead after avalanche in California",
+    "link": "https://www.dw.com/en/us-eight-skiers-dead-after-avalanche-in-california/a-76028284?maca=en-rss-en-all-1573-rdf",
+    "summary": "The eight skiers were part of a three-day trek in Sierra Nevada. One more person is still missing, and the efforts are focusing on recovery rather than rescue. Six other members of the group were foun...",
+    "timestamp": 1771447020.0,
+    "date": "Feb 18, 20:37"
+  },
+  {
+    "source": "CNBC",
+    "title": "FDA chief warns U.S. is losing ground to China in early drug development, calls for faster trial approvals",
+    "link": "https://www.cnbc.com/2026/02/18/fda-chief-warns-us-is-losing-ground-to-china-in-early-drug-trials.html",
+    "summary": "Makary pointed to three bottlenecks: hospital contracting, ethical reviews and approvals and the Investigational New Drug applications process",
+    "timestamp": 1771446950.0,
+    "date": "Feb 18, 20:35"
+  },
+  {
+    "source": "CNBC",
     "title": "Goldman Sachs CEO Solomon calls rule-based system for crypto 'very, very important'",
     "link": "https://www.cnbc.com/2026/02/18/goldman-sachs-david-solomon-crypto-trump-world-liberty.html",
     "summary": "David Solomon spoke weeks after a Senate panel advanced a cryptocurrency market bill to create a national regulatory structure for crypto.",
@@ -8,12 +208,12 @@
     "date": "Feb 18, 20:34"
   },
   {
-    "source": "CNBC",
-    "title": "Zuckerberg testimony: Upping engagement on Instagram was not a company goal",
-    "link": "https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html",
-    "summary": "Meta CEO Mark Zuckerberg took the stand in a closely watched social media and safety trial that could reshape the industry.",
-    "timestamp": 1771446829.0,
-    "date": "Feb 18, 20:33"
+    "source": "France 24",
+    "title": "Sudanese people face 'generations of trauma', head of UN OCHA tells France 24",
+    "link": "https://www.france24.com/en/sudanese-people-face-generations-of-trauma-head-of-un-ocha-tells-france-24",
+    "summary": "Discussing the unfolding humanitarian catastrophe in war-torn Sudan, Tom Fletcher, UN Under-Secretary-General for Humanitarian Affairs, explains that the Sudanese people face \"generations of trauma\" a...",
+    "timestamp": 1771446561.0,
+    "date": "Feb 18, 20:29"
   },
   {
     "source": "CNBC",
@@ -24,12 +224,36 @@
     "date": "Feb 18, 20:28"
   },
   {
+    "source": "CNBC",
+    "title": "Leavitt: Trump concerned with Potomac River sewage stench, with America 250 celebrations planned for summer",
+    "link": "https://www.cnbc.com/2026/02/18/trump-potomac-river-sewage-stench-america-250.html",
+    "summary": "A sewage pipe collapse just outside of Washington, D.C. that spilled 200 million gallons of wastewater into the Potomac River has caught Trump's attention.",
+    "timestamp": 1771446433.0,
+    "date": "Feb 18, 20:27"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Law enforcement says eight killed by avalanche in California mountains",
+    "link": "https://www.aljazeera.com/news/2026/2/18/law-enforcement-says-eight-killed-by-avalanche-in-california-mountains?traffic_source=rss",
+    "summary": "One person remains missing after a heavy avalanche engulfed a group of skiers in the US&#039;s Sierra Nevada mountains.",
+    "timestamp": 1771446424.0,
+    "date": "Feb 18, 20:27"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "Eight skiers missing in California avalanche found dead",
     "link": "https://www.channelnewsasia.com/world/california-blizzard-avalanche-skiers-us-weather-5938876",
     "summary": "Eight skiers have been found dead and one remains missing after an avalanche in California, as rescuers continue searching in severe blizzard conditions.",
     "timestamp": 1771446420.0,
     "date": "Feb 18, 20:27"
+  },
+  {
+    "source": "France 24",
+    "title": "How Israel is spraying herbicides on Syrian crops",
+    "link": "https://www.france24.com/en/middle-east/20260218-israel-spraying-herbicides-syrian-crops",
+    "summary": "Israeli planes sprayed chemicals on farmland in Quneitra, Syria in late January and early February, 2026. Farmers say that their crops yellowed and died in just a few days and that they lost dozens of...",
+    "timestamp": 1771446406.0,
+    "date": "Feb 18, 20:26"
   },
   {
     "source": "CNBC",
@@ -56,17 +280,9 @@
     "date": "Feb 18, 20:22"
   },
   {
-    "source": "CNBC",
-    "title": "Cadence Design Systems shares pop on earnings beat, custom chip optimism",
-    "link": "https://www.cnbc.com/2026/02/18/cadence-design-systems-stock-earnings-ai-chip.html",
-    "summary": "CEO Anirudh Devgan said he expects the trend of companies making their own custom chips to accelerate.",
-    "timestamp": 1771446026.0,
-    "date": "Feb 18, 20:20"
-  },
-  {
     "source": "CNA (Asia)",
-    "title": "Short track-Fontana becomes Italy's most decorated Olympian",
-    "link": "https://www.channelnewsasia.com/sport/short-track-fontana-becomes-italys-most-decorated-olympian-5938871",
+    "title": "Short track-Fontana becomes Italy's most decorated Olympian with relay silver",
+    "link": "https://www.channelnewsasia.com/sport/short-track-fontana-becomes-italys-most-decorated-olympian-relay-silver-5938871",
     "summary": "",
     "timestamp": 1771445986.0,
     "date": "Feb 18, 20:19"
@@ -86,22 +302,6 @@
     "summary": "The Seattle Seahawks are beginning a sale process in what could be one of the largest NFL sales in history.",
     "timestamp": 1771445680.0,
     "date": "Feb 18, 20:14"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Australia news live: Tony Burke accuses Coalition of \u2018silly hypocrisy\u2019 on Syria camp group",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/19/tony-burke-syria-camp-jobs-figures-angus-taylor-anthony-albanese-coalition-labor-accc-coles-ntwnfb",
-    "summary": "<p>Home affairs minister says opposition had repatriated Australians from Syria when in government. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletter...",
-    "timestamp": 1771445592.0,
-    "date": "Feb 18, 20:13"
-  },
-  {
-    "source": "BBC World",
-    "title": "Do not give away Diego Garcia, Trump tells UK",
-    "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-    "summary": "The US president says \"it will be a blight on our great ally\" if the Chagos Islands are handed over to Mauritius.",
-    "timestamp": 1771445264.0,
-    "date": "Feb 18, 20:07"
   },
   {
     "source": "CNA (Asia)",
@@ -126,14 +326,6 @@
     "summary": "Files of the late convicted sex offender Jeffrey Epstein have prompted UK police to appeal for information over alleged 1990s trafficking and abuse of women in Virginia Water.",
     "timestamp": 1771445040.0,
     "date": "Feb 18, 20:04"
-  },
-  {
-    "source": "CNBC",
-    "title": "NIH director Bhattacharya to temporarily run CDC",
-    "link": "https://www.cnbc.com/2026/02/18/nih-director-bhattacharya-to-temporarily-run-cdc.html",
-    "summary": "HHS Deputy Security Jim O'Neill is currently acting CDC director, having taken over in August after HHS Sec. Robert F. Kennedy Jr. fired the former director.",
-    "timestamp": 1771444885.0,
-    "date": "Feb 18, 20:01"
   },
   {
     "source": "CNA (Asia)",
@@ -192,14 +384,6 @@
     "date": "Feb 18, 19:37"
   },
   {
-    "source": "CNBC",
-    "title": "Hedge funds have a clear favorite Magnificent 7 stock, attracting the likes of Ackman, Druckenmiller and Klarman",
-    "link": "https://www.cnbc.com/2026/02/18/hedge-funds-mag-7-favorite-attracts-ackman-druckenmiller-and-klarman.html",
-    "summary": "Notable institutional investors bought a net 40.9 million shares in the cloud provider in the fourth quarter, according to a CNBC analysis of data from Verity.",
-    "timestamp": 1771443096.0,
-    "date": "Feb 18, 19:31"
-  },
-  {
     "source": "BBC World",
     "title": "Zuckerberg defends Meta in landmark social media addiction trial",
     "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
@@ -222,14 +406,6 @@
     "summary": "Polestar says it will release four new electric models over the next three years, including a new SUV and a revamped version of its Polestar 2 sedan. The Swedish automaker, which is owned by China's G...",
     "timestamp": 1771442503.0,
     "date": "Feb 18, 19:21"
-  },
-  {
-    "source": "CNBC",
-    "title": "Les Wexner says 'diabolical' Jeffrey Epstein 'duped' him, denies wrongdoing",
-    "link": "https://www.cnbc.com/2026/02/18/jeffrey-epstein-les-wexner-deposition.html",
-    "summary": "Wexner, the retired founder of Victoria's Secret ex-parent L Brands, has long faced scrutiny over his personal and financial relationships with Epstein.",
-    "timestamp": 1771442281.0,
-    "date": "Feb 18, 19:18"
   },
   {
     "source": "CNBC",
@@ -313,9 +489,9 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Meta's Zuckerberg faces questioning at youth addiction trial",
+    "title": "Zuckerberg says Meta no longer designs apps to maximise screentime",
     "link": "https://www.channelnewsasia.com/world/meta-instagram-zuckerberg-social-media-youth-addiction-trial-5937726",
-    "summary": "Meta Platforms CEO Mark Zuckerberg is set to testify at the social media addiction trial regarding how Instagram affects young people's mental health.&nbsp;",
+    "summary": "Meta Platforms CEO Mark Zuckerberg denied misleading Congress as he testified in a Los Angeles youth social media addiction trial.&nbsp;",
     "timestamp": 1771440540.0,
     "date": "Feb 18, 18:49"
   },
@@ -361,19 +537,11 @@
   },
   {
     "source": "TechCrunch",
-    "title": "Amazon halts Blue Jay robotics project\u00a0after less than six months",
+    "title": "Amazon halts Blue Jay robotics project\u00a0after less than 6 months",
     "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
     "summary": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
     "timestamp": 1771439230.0,
     "date": "Feb 18, 18:27"
-  },
-  {
-    "source": "CNBC",
-    "title": "As AI puts the squeeze on entry-level jobs, teens remain optimistic about their future employability, report finds",
-    "link": "https://www.cnbc.com/2026/02/18/as-ai-puts-the-squeeze-on-entry-level-jobs-teens-remain-optimistic.html",
-    "summary": "High school students are less concerned about AI's impact on their future employment prospects, according to a new report.",
-    "timestamp": 1771438948.0,
-    "date": "Feb 18, 18:22"
   },
   {
     "source": "CNBC",
@@ -560,14 +728,6 @@
     "date": "Feb 18, 17:29"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Curling-South Korea's '5G' team braced for Canada test",
-    "link": "https://www.channelnewsasia.com/sport/curling-south-koreas-5g-team-braced-canada-test-5938501",
-    "summary": "",
-    "timestamp": 1771435753.0,
-    "date": "Feb 18, 17:29"
-  },
-  {
     "source": "France 24",
     "title": "France: Parliamentary aide arrested after death of far-right activist",
     "link": "https://www.france24.com/en/video/20260218-france-parliamentary-aide-arrested-after-death-of-far-right-activist",
@@ -584,28 +744,12 @@
     "date": "Feb 18, 17:26"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Environmental groups sue Trump administration over dismantled climate rule",
-    "link": "https://www.channelnewsasia.com/world/climate-sue-trump-administration-scientific-finding-5938476",
-    "summary": "\"Nobody but Big Oil profits from Trump trashing climate science,\" said an attorney at the&nbsp;Centre for Biological Diversity, one of the groups suing the Trump administration.",
-    "timestamp": 1771435500.0,
-    "date": "Feb 18, 17:25"
-  },
-  {
     "source": "BBC World",
     "title": "Air Force One set for makeover paint job with new colours",
     "link": "https://www.bbc.com/news/articles/cpd8zx4qdz6o?at_medium=RSS&at_campaign=rss",
     "summary": "The presidential jet, along with other aircraft used for high-level officials, is being painted with some of Trump's preferred palette.",
     "timestamp": 1771435076.0,
     "date": "Feb 18, 17:17"
-  },
-  {
-    "source": "CNBC",
-    "title": "Palo Alto shares sink 7%, CEO defends cybersecurity's position as AI hits software stocks",
-    "link": "https://www.cnbc.com/2026/02/18/palo-alto-stock-cybersecurity-ai-earnings.html",
-    "summary": "Palo Alto has bet big on AI in recent months and launched an aggressive acquisition spree that included buying CyberArk for $25 billion.",
-    "timestamp": 1771434966.0,
-    "date": "Feb 18, 17:16"
   },
   {
     "source": "The Verge",
@@ -640,14 +784,6 @@
     "date": "Feb 18, 17:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Biathlon-Michelon inspires French women to superb relay gold",
-    "link": "https://www.channelnewsasia.com/sport/biathlon-michelon-inspires-french-women-superb-relay-gold-5938466",
-    "summary": "",
-    "timestamp": 1771433796.0,
-    "date": "Feb 18, 16:56"
-  },
-  {
     "source": "France 24",
     "title": "Husky gatecrashes team sprint race to pip Olympians at the finish line",
     "link": "https://www.france24.com/en/sport/20260218-husky-gatecrashes-team-sprint-race-pip-olympians-the-finish-line",
@@ -673,14 +809,6 @@
   },
   {
     "source": "New York Times",
-    "title": "From 1966: Anna Akhmatova, Leading Soviet Poet, Is Dead",
-    "link": "https://www.nytimes.com/2026/02/17/world/europe/anna-akhmatova-dead.html",
-    "summary": "She was a towering figure in Soviet literature who was once silenced in a Stalinist literary purge.",
-    "timestamp": 1771433441.0,
-    "date": "Feb 18, 16:50"
-  },
-  {
-    "source": "New York Times",
     "title": "From 1983: Fania F\u00e9nelon, 74; Memoirs Described Auschwitz Singing",
     "link": "https://www.nytimes.com/2026/02/17/world/europe/fania-fenelon-dead.html",
     "summary": "In \u201cPlaying for Time,\u201d she recounted how singing in an all-female orchestra while in a concentration camp saved her from death.",
@@ -689,8 +817,8 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "EU governments look to Australia's social media ban for kids",
-    "link": "https://www.dw.com/en/eu-governments-look-to-australia-s-social-media-ban-for-kids/a-76021753?maca=en-rss-en-all-1573-rdf",
+    "title": "Europe looks to Australia's social media ban for kids",
+    "link": "https://www.dw.com/en/europe-looks-to-australia-s-social-media-ban-for-kids/a-76021753?maca=en-rss-en-all-1573-rdf",
     "summary": "Germany has joined the growing list of EU nations that are considering banning children from social media. Australia has banned youths from social media since December \u2014 and its example has lessons fo...",
     "timestamp": 1771433040.0,
     "date": "Feb 18, 16:44"
@@ -734,14 +862,6 @@
     "summary": "Police arrest a 20-year-old suspected of defrauding a luxury Madrid hotel of more than \u20ac20,000 by manipulating an online payment system.",
     "timestamp": 1771432484.0,
     "date": "Feb 18, 16:34"
-  },
-  {
-    "source": "CNBC",
-    "title": "Microsoft\u2019s Brad Smith says U.S. tech should \u2018worry a little\u2019 about Chinese firms' government subsidies",
-    "link": "https://www.cnbc.com/2026/02/18/microsoft-president-brad-smith-chinese-ai-subsidies.html",
-    "summary": "The Microsoft president said American firms will have to compete with subsidies provided by Beijing to Chinese companies.",
-    "timestamp": 1771432298.0,
-    "date": "Feb 18, 16:31"
   },
   {
     "source": "Deutsche Welle",
@@ -889,14 +1009,6 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Greenland: Denmark's King Frederik X visits Nuuk",
-    "link": "https://www.dw.com/en/greenland-denmark-s-king-frederik-x-visits-nuuk/a-76023387?maca=en-rss-en-all-1573-rdf",
-    "summary": "King Frederik is visiting the partly autonomous Danish territory of Greenland, following the tensions prompted by US President Donald Trump last month.",
-    "timestamp": 1771429860.0,
-    "date": "Feb 18, 15:51"
-  },
-  {
-    "source": "Deutsche Welle",
     "title": "North Korean POWs stuck in Ukraine as Seoul hesitates",
     "link": "https://www.dw.com/en/north-korean-pows-stuck-in-ukraine-as-seoul-hesitates/a-76020092?maca=en-rss-en-all-1573-rdf",
     "summary": "Two North Korean soldiers in Ukraine have asked to move to South Korea rather than facing dire consequences for letting themselves be captured in the North. The regime might choose to punish their fam...",
@@ -904,20 +1016,12 @@
     "date": "Feb 18, 15:51"
   },
   {
-    "source": "CNBC",
-    "title": "FDA chief Marty Makary says 'everything should be over the counter' unless drug is unsafe or addictive",
-    "link": "https://www.cnbc.com/2026/02/18/fda-chief-marty-makary-more-drugs-should-be-over-the-counter.html",
-    "summary": "Makary said the FDA is looking at prescription drugs like nausea medications and vaginal estrogen, and hopes to make changes this year.",
-    "timestamp": 1771429729.0,
-    "date": "Feb 18, 15:48"
-  },
-  {
-    "source": "The Verge",
-    "title": "Google Pixel 10A preorders come with a $100 gift card",
-    "link": "https://www.theverge.com/gadgets/880610/google-pixel-10a-preorder-deal-sale",
-    "summary": "As promised, Google opened preorders for its Pixel 10A midrange phone, and it\u2019ll launch on March 4th. We already published a hands-on with the device, and I encourage you to check it out (we think it\u2019...",
-    "timestamp": 1771429433.0,
-    "date": "Feb 18, 15:43"
+    "source": "Deutsche Welle",
+    "title": "Greenland: Denmark's King Frederik X visits Nuuk",
+    "link": "https://www.dw.com/en/greenland-denmark-s-king-frederik-x-visits-nuuk/a-76023387?maca=en-rss-en-all-1573-rdf",
+    "summary": "King Frederik is visiting the partly autonomous Danish territory of Greenland, following the tensions prompted by US President Donald Trump last month.",
+    "timestamp": 1771429860.0,
+    "date": "Feb 18, 15:51"
   },
   {
     "source": "New York Times",
@@ -926,14 +1030,6 @@
     "summary": "The discussions in Geneva were expected to focus on territorial issues, a major sticking point, but the short duration suggests major progress was not made.",
     "timestamp": 1771429163.0,
     "date": "Feb 18, 15:39"
-  },
-  {
-    "source": "The Verge",
-    "title": "Waymo denies using remote drivers after Senate testimony goes viral",
-    "link": "https://www.theverge.com/transportation/880583/waymo-remote-assistance-senate-letter-robotaxi-philippines",
-    "summary": "Waymo defended its use of remote assistants for its robotaxis after the testimony of one of its top executives during a Senate hearing went viral. In a letter to Sen. Ed Markey (D-MA) on Tuesday, Waym...",
-    "timestamp": 1771428933.0,
-    "date": "Feb 18, 15:35"
   },
   {
     "source": "France 24",
@@ -966,30 +1062,6 @@
     "summary": "In this edition, we take a look at France's falling birth rate. We find out why French people are deciding to have fewer\u00a0\u2013 or no \u2013 children. We also look at some recent political proposals to reserve ...",
     "timestamp": 1771428490.0,
     "date": "Feb 18, 15:28"
-  },
-  {
-    "source": "France 24",
-    "title": "Cuba oil crisis: What is Donald Trump's endgame?",
-    "link": "https://www.france24.com/en/video/20260218-cuba-oil-crisis-what-is-donald-trump-s-endgame",
-    "summary": "Russia and Cuba on Wednesday slammed the US energy blockade of the Caribbean island in a show of solidarity in Moscow, where Havana's foreign minister was due to meet with President Vladimir Putin. US...",
-    "timestamp": 1771428363.0,
-    "date": "Feb 18, 15:26"
-  },
-  {
-    "source": "France 24",
-    "title": "Rubbish piles up in Havana as Cuba's fuel crisis hits garbage trucks",
-    "link": "https://www.france24.com/en/video/20260218-rubbish-piles-up-in-havana-as-cuba-s-fuel-crisis-hits-garbage-trucks",
-    "summary": "Rubbish \u200bhas begun to pile up on street corners in the Cuban capital of Havana, attracting hordes of flies \u200band reeking of rotten food, in one of the most visible impacts of the US bid to prevent oil ...",
-    "timestamp": 1771428303.0,
-    "date": "Feb 18, 15:25"
-  },
-  {
-    "source": "France 24",
-    "title": "French far-right activist killed: Can far-left recover from political fallout?",
-    "link": "https://www.france24.com/en/video/20260218-french-far-right-activist-killed-can-far-left-recover-from-political-fallout",
-    "summary": "Eleven people, including an aide to a French lawmaker with the far-left France Unbowed party, have been arrested on suspicion of involvement in the \u200bkilling of \u200ca far-right activist that has exposed d...",
-    "timestamp": 1771428212.0,
-    "date": "Feb 18, 15:23"
   },
   {
     "source": "NPR",
@@ -1097,6 +1169,14 @@
   },
   {
     "source": "The Guardian",
+    "title": "\u2018You have to find another one\u2019: why children with complex needs are being turned away from childcare",
+    "link": "https://www.theguardian.com/australia-news/2026/feb/18/childcare-australia-children-with-complex-needs-funding-inclusion-support-program",
+    "summary": "<p>A program to put additional staff in Australia\u2019s childcare centres to support children with complex needs is plagued by funding gaps and delays</p><ul><li><p><a href=\"https://www.theguardian.com/au...",
+    "timestamp": 1771423235.0,
+    "date": "Feb 18, 14:00"
+  },
+  {
+    "source": "The Guardian",
     "title": "\u2018I will do you and him in\u2019: Julian Ingram threatened former de facto partner a decade before Lake Cargelligo murders, court documents say",
     "link": "https://www.theguardian.com/australia-news/2026/feb/18/i-will-do-you-and-him-in-julian-ingram-threatened-former-de-facto-partner-a-decade-before-lake-cargelligo-murders-court-documents-say-ntwnfb",
     "summary": "<p><strong>Exclusive: </strong>Man accused of triple murders last month previously sentenced to prison after intimidating another partner</p><ul><li><p><a href=\"https://www.theguardian.com/australia-n...",
@@ -1105,17 +1185,9 @@
   },
   {
     "source": "The Guardian",
-    "title": "Australian private health insurance premiums are set to jump by 4.41%. Will policies deliver more or just cost more?",
+    "title": "Australian health insurance premiums just had their biggest hike in a decade. Is it time to scrap private health cover?",
     "link": "https://www.theguardian.com/australia-news/2026/feb/19/australian-private-health-insurance-premiums-increase-will-policies-deliver-cost-more",
-    "summary": "<p>The biggest premium hike in 10 years prompts questions, as government incentives continue to drive people to take out cover merely to avoid tax penalties</p><ul><li><p><a href=\"https://www.theguard...",
-    "timestamp": 1771423235.0,
-    "date": "Feb 18, 14:00"
-  },
-  {
-    "source": "The Guardian",
-    "title": "\u2018You have to find another one\u2019: why children with complex needs are being turned away from childcare",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/18/childcare-australia-children-with-complex-needs-funding-inclusion-support-program",
-    "summary": "<p>A program to put additional staff in Australia\u2019s childcare centres to support children with complex needs is plagued by funding gaps and delays</p><ul><li><p><a href=\"https://www.theguardian.com/au...",
+    "summary": "<p>Government incentives continue to drive people to take out cover merely to avoid tax penalties</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/19/tony-burke-syria-ca...",
     "timestamp": 1771423235.0,
     "date": "Feb 18, 14:00"
   },
@@ -1152,44 +1224,12 @@
     "date": "Feb 18, 13:44"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Pro-Palestine activists acquitted of burglary at Israeli arms site in UK",
-    "link": "https://www.aljazeera.com/news/2026/2/18/pro-palestine-activists-acquitted-of-burglary-at-israeli-arms-site-in-uk?traffic_source=rss",
-    "summary": "Filton24 defendants, members of Palestine Action, found not guilty as prosecutors fail to provide evidence.",
-    "timestamp": 1771422202.0,
-    "date": "Feb 18, 13:43"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Why a German shipping deal alarms Israel's government",
     "link": "https://www.dw.com/en/why-a-german-shipping-deal-alarms-israel-s-government/a-75999485?maca=en-rss-en-all-1573-rdf",
     "summary": "Hapag-Lloyd's deal to buy a major Israeli shipping company is colliding with national-security red lines. Critics say the purchase could expose critical infrastructure at a volatile moment in the Midd...",
     "timestamp": 1771422180.0,
     "date": "Feb 18, 13:43"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Facebook, TikTok suspended in Gabon under regulator\u2019s order",
-    "link": "https://www.aljazeera.com/news/2026/2/18/facebook-tiktok-suspended-in-gabon-under-regulators-order?traffic_source=rss",
-    "summary": "Gabonese authorities impose indefinite social media blackout, citing risks to social cohesion and national stability.",
-    "timestamp": 1771421877.0,
-    "date": "Feb 18, 13:37"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Life on Hold: Stories of Displacement from the Ukraine War",
-    "link": "https://www.aljazeera.com/video/digidocs/2026/2/18/aje-onl-digidocs_lifeonhold-180226?traffic_source=rss",
-    "summary": "What does it mean to put your life on hold when war forces you to leave home?",
-    "timestamp": 1771421806.0,
-    "date": "Feb 18, 13:36"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
-    "link": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss",
-    "summary": "The latest deaths come as just 260 people have been allowed to seek medical care via the crossing to Egypt, the UN says.",
-    "timestamp": 1771421242.0,
-    "date": "Feb 18, 13:27"
   },
   {
     "source": "BBC World",
@@ -1262,14 +1302,6 @@
     "summary": "Mark Zuckerberg takes the stand today in a trial over whether social media companies are fueling the teen mental health crisis. And, Tricia McLaughlin is leaving the Department of Homeland Security.",
     "timestamp": 1771418526.0,
     "date": "Feb 18, 12:42"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "DG Matrix raises $60M to make data center power smarter",
-    "link": "https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/",
-    "summary": "The startup is making solid-state transformers capable of intelligently aggregating power from a number of different sources before sending it to data center racks.",
-    "timestamp": 1771417800.0,
-    "date": "Feb 18, 12:30"
   },
   {
     "source": "Deutsche Welle",
@@ -1368,22 +1400,6 @@
     "date": "Feb 18, 09:26"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "ECB's Christine Lagarde planning early exit \u2014 report",
-    "link": "https://www.dw.com/en/ecb-s-christine-lagarde-planning-early-exit-report/a-76014737?maca=en-rss-en-all-1573-rdf",
-    "summary": "Christine Lagarde, the head of Europe's most important financial institution, plans to leave her job before her eight-year term ends in October 2027, the Financial Times reported.",
-    "timestamp": 1771406460.0,
-    "date": "Feb 18, 09:21"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "China shock: Will Merz take on Germany's top rival?",
-    "link": "https://www.dw.com/en/china-shock-will-merz-take-on-germany-s-top-rival/a-75925263?maca=en-rss-en-all-1573-rdf",
-    "summary": "Chancellor Friedrich Merz is scrambling to defend German industry from the economic upheaval caused by intense rivalry from China. Momentum is building to impose new trade barriers to stop unfair trad...",
-    "timestamp": 1771406160.0,
-    "date": "Feb 18, 09:16"
-  },
-  {
     "source": "BBC World",
     "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
     "link": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
@@ -1406,14 +1422,6 @@
     "summary": "<p>Sara Duterte, daughter of a former president who is facing charges of crimes against humanity at the Hague, pledged to offer her \u2018life, strength and future\u2019 in service of the Philippines</p><p>Phil...",
     "timestamp": 1771398028.0,
     "date": "Feb 18, 07:00"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "US court bars OpenAI from using \u2018Cameo\u2019",
-    "link": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
-    "summary": "OpenAI has renamed its feature in Sora from \"Cameo\" to \"Characters.\"",
-    "timestamp": 1771396859.0,
-    "date": "Feb 18, 06:40"
   },
   {
     "source": "The Guardian",
@@ -1502,14 +1510,6 @@
     "summary": "<p>Three boats targeted in eastern Pacific and Caribbean as Trump continues pursuit of alleged \u2018narco-terrorists\u2019</p><p>US military officials have said American forces launched assaults on three alleg...",
     "timestamp": 1771365259.0,
     "date": "Feb 17, 21:54"
-  },
-  {
-    "source": "BBC World",
-    "title": "Real Madrid tie halted over Vinicius racism allegation",
-    "link": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss",
-    "summary": "Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior reports alleged racist abuse.",
-    "timestamp": 1771363909.0,
-    "date": "Feb 17, 21:31"
   },
   {
     "source": "The Guardian",
