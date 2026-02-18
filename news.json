@@ -1,5 +1,93 @@
 [
   {
+    "source": "CNBC",
+    "title": "More than 50% of enterprise software could switch to AI, Mistral CEO says",
+    "link": "https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html",
+    "summary": "Software stocks have sold off on fears AI could eat into so-called software as a service, or SaaS, business models.",
+    "timestamp": 1771403795.0,
+    "date": "Feb 18, 08:36"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Cambodian PM says Thailand is occupying territory after Trump-brokered ceasefire",
+    "link": "https://www.channelnewsasia.com/asia/cambodia-prime-minister-hun-manet-thailand-occupy-territory-ceasefire-5937531",
+    "summary": "",
+    "timestamp": 1771403280.0,
+    "date": "Feb 18, 08:28"
+  },
+  {
+    "source": "CNBC",
+    "title": "CNBC Daily Open: Iran-U.S. talks and Ukraine-Russia negotiations in focus \u2014 progress in sight?",
+    "link": "https://www.cnbc.com/2026/02/18/iran-us-talks-and-ukraine-russia-negotiations-in-focus-progress-in-sight.html",
+    "summary": "Geopolitics will be the main theme of the day, with markets watching the high-stakes talks between the U.S. and Iran, as well as Ukraine and Russia.",
+    "timestamp": 1771402980.0,
+    "date": "Feb 18, 08:23"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump lauds Japan\u2019s pledge to invest $36 billion in U.S. oil, gas and critical mineral projects",
+    "link": "https://www.cnbc.com/2026/02/18/trump-us-japan-oil-gas-mineral-projects-trade-deal.html",
+    "summary": "The commitment represents the first tranche of investments by Japan following a landmark trade deal between the two countries.",
+    "timestamp": 1771402717.0,
+    "date": "Feb 18, 08:18"
+  },
+  {
+    "source": "CNBC",
+    "title": "Treasury yields nudged higher as investors await Fed meeting minutes",
+    "link": "https://www.cnbc.com/2026/02/18/us-treasury-yields-investors-await-fed-meeting-minutes-.html",
+    "summary": "U.S. Treasury yields edged higher on Wednesday as investors anticipated the Federal Reserve's meeting minutes and looked ahead to key inflation data.",
+    "timestamp": 1771402054.0,
+    "date": "Feb 18, 08:07"
+  },
+  {
+    "source": "France 24",
+    "title": "Macron adviser to head Arab World Institute in Paris after ex-minister quits over Epstein links",
+    "link": "https://www.france24.com/en/france/20260218-macron-adviser-legendre-head-arab-world-institute-paris-after-lang-quits-over-epstein-links",
+    "summary": "French President Emmanuel Macron's Middle East and North Africa adviser Anne-Claire Legendre has been named as head of the Arab World Institute in Paris, following the resignation of longtime chair Ja...",
+    "timestamp": 1771401791.0,
+    "date": "Feb 18, 08:03"
+  },
+  {
+    "source": "BBC World",
+    "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
+    "link": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Kerstin G's boyfriend is accused of leaving her unprotected and exhausted close to the summit during a blizzard.",
+    "timestamp": 1771401482.0,
+    "date": "Feb 18, 07:58"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Boxing legend Manny Pacquiao to face Ruslan Provodnikov in April",
+    "link": "https://www.aljazeera.com/sports/2026/2/18/boxing-legend-manny-pacquiao-to-face-ruslan-provodnikov-in-april?traffic_source=rss",
+    "summary": "Eight-division \u2060world champion Pacquiao will face former junior welterweight world \u2060champion \u2060Provodnikov on April 18.",
+    "timestamp": 1771401442.0,
+    "date": "Feb 18, 07:57"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Japan tourist arrivals in January mark first year-on-year fall in four years",
+    "link": "https://www.channelnewsasia.com/east-asia/japan-tourist-arrivals-january-first-fall-four-years-5937506",
+    "summary": "",
+    "timestamp": 1771401060.0,
+    "date": "Feb 18, 07:51"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Video: Over 80 UN states condemn Israeli measures in occupied West Bank",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/18/video-over-80-un-states-condemn-israeli-measures-in-occupied-west-bank?traffic_source=rss",
+    "summary": "More than 80 UN nation ambassadors have condemned Israeli measures to tighten its control of the occupied West Bank.",
+    "timestamp": 1771400722.0,
+    "date": "Feb 18, 07:45"
+  },
+  {
+    "source": "The Guardian",
+    "title": "US mining company Alcoa hit with \u2018unprecedented\u2019 $55m penalty for illegal clearing of WA jarrah forests",
+    "link": "https://www.theguardian.com/environment/2026/feb/18/us-mining-company-alcoa-penalty-for-clearing-wa-jarrah-forests-bauxite-mining",
+    "summary": "<p>Environment minister says Alcoa cleared known habitat of protected species to enable bauxite mining</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaki...",
+    "timestamp": 1771400627.0,
+    "date": "Feb 18, 07:43"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "South Korea\u2019s death penalty in spotlight as prosecutors seek execution for ex-leader Yoon",
     "link": "https://www.channelnewsasia.com/east-asia/south-korea-death-penalty-debate-divided-yoon-suk-yeol-5937436",
@@ -73,17 +161,17 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "Palestinians in Gaza face food shortages, restrictions as Ramadan begins",
+    "title": "Ramadan begins in Palestine, many Muslim states, Egypt, Syria to follow",
     "link": "https://www.aljazeera.com/news/2026/2/18/palestinians-in-gaza-face-food-shortages-restrictions-as-ramadan-begins?traffic_source=rss",
-    "summary": "Muslim holy month begins in Palestine, Arab, Islamic states with Egypt, Jordan and Syria to follow Thursday",
+    "summary": "Palestinians in Gaza face food shortages, restrictions as Israeli attacks continue during Islamic holy month.",
     "timestamp": 1771399331.0,
     "date": "Feb 18, 07:22"
   },
   {
     "source": "France 24",
-    "title": "Champions league: PSG beat Monaco as D\u00e9sir\u00e9 Dou\u00e9 scores brace off the bench",
+    "title": "Champions League: PSG beat Monaco as Dou\u00e9 scores brace off the bench",
     "link": "https://www.france24.com/en/tv-shows/sports/20260218-champions-league-psg-beat-monaco-d%C3%A9sir%C3%A9-dou%C3%A9-scores-brace-off-bench",
-    "summary": "Paris Saint-Germain won away at AS Monaco (3-2) in the first leg of their Champions League knockout phase play-off. Desir\u00e9 Dou\u00e9 replaced injured Ousmane Demb\u00e9l\u00e9 in the first half and scored brace.",
+    "summary": "Paris Saint-Germain won away at AS Monaco (3-2) in the first leg of their Champions League knockout phase play-off. Desir\u00e9 Dou\u00e9 replaced injured Ousmane Demb\u00e9l\u00e9 in the first half and scored a brace.",
     "timestamp": 1771399211.0,
     "date": "Feb 18, 07:20"
   },
@@ -125,6 +213,14 @@
     "link": "https://www.channelnewsasia.com/sport/psgs-mental-strength-hailed-they-come-behind-win-monaco-5937461",
     "summary": "",
     "timestamp": 1771398506.0,
+    "date": "Feb 18, 07:08"
+  },
+  {
+    "source": "BBC World",
+    "title": "Australia bans citizen trying to return from IS camp in Syria",
+    "link": "https://www.bbc.com/news/articles/c4g2dgjrx75o?at_medium=RSS&at_campaign=rss",
+    "summary": "The person temporarily banned is among a group of 34 who this week attempted to leave the camp for Australia.",
+    "timestamp": 1771398498.0,
     "date": "Feb 18, 07:08"
   },
   {
@@ -208,14 +304,6 @@
     "date": "Feb 18, 06:34"
   },
   {
-    "source": "CNBC",
-    "title": "More than 50% of enterprise software could switch to AI, Mistral CEO says",
-    "link": "https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html",
-    "summary": "Software stocks have sold off on fears AI could eat into so-called software as a service, or SaaS, business models.",
-    "timestamp": 1771396231.0,
-    "date": "Feb 18, 06:30"
-  },
-  {
     "source": "The Guardian",
     "title": "Woman in Syrian detention camp banned from returning to Australia for up to two years",
     "link": "https://www.theguardian.com/australia-news/2026/feb/18/woman-in-syrian-detention-camp-banned-from-returning-to-australia-for-up-to-two-years",
@@ -225,8 +313,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Western Digital to sell $3.17 billion stake in Sandisk",
-    "link": "https://www.channelnewsasia.com/business/western-digital-sell-317-billion-stake-in-sandisk-5937406",
+    "title": "Western Digital to sell partial Sandisk stake for $3.17 billion to cut debt",
+    "link": "https://www.channelnewsasia.com/business/western-digital-sell-partial-sandisk-stake-317-billion-cut-debt-5937406",
     "summary": "",
     "timestamp": 1771395717.0,
     "date": "Feb 18, 06:21"
@@ -302,14 +390,6 @@
     "summary": "",
     "timestamp": 1771393691.0,
     "date": "Feb 18, 05:48"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Man jailed for a year after endorsing neo-Nazi views and making antisemitic speech at Sydney rally on Australia Day",
-    "link": "https://www.theguardian.com/australia-news/2026/feb/18/brandan-koschel-jail-neo-nazi-views-antisemitic-speech-sydney-march-for-australia-ntwnfb",
-    "summary": "<p>Brandan Koschel sentenced to 12 months behind bars for intentionally inciting hatred at March for Australia protest</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/1...",
-    "timestamp": 1771393443.0,
-    "date": "Feb 18, 05:44"
   },
   {
     "source": "CNA (Asia)",
@@ -544,14 +624,6 @@
     "date": "Feb 18, 02:18"
   },
   {
-    "source": "CNBC",
-    "title": "Japan exports growth surges to over 3-year high, up nearly 17% in January, as shipments to China soar",
-    "link": "https://www.cnbc.com/2026/02/18/japan-trade-data-january-exports-imports.html",
-    "summary": "Value of exports to China, Japan's largest trading partner, jumped 32%, after rising 5.6% in December.",
-    "timestamp": 1771380845.0,
-    "date": "Feb 18, 02:14"
-  },
-  {
     "source": "The Guardian",
     "title": "Wealthy Americans top \u2018golden visa\u2019 surge in New Zealand and applications from China double",
     "link": "https://www.theguardian.com/world/2026/feb/18/new-zealand-golden-visa-applications-america-china",
@@ -600,27 +672,11 @@
     "date": "Feb 18, 01:31"
   },
   {
-    "source": "CNBC",
-    "title": "IMF urges Japan to keep raising rates, avoid reducing sales tax",
-    "link": "https://www.cnbc.com/2026/02/18/imf-urges-japan-to-keep-raising-rates-avoid-reducing-sales-tax.html",
-    "summary": "The recommendation came as dovish Prime Minister Sanae Takaichi's landslide election win heightens market attention to whether she will push back against further rate hikes.",
-    "timestamp": 1771378182.0,
-    "date": "Feb 18, 01:29"
-  },
-  {
     "source": "France 24",
     "title": "Peru ousts interim president Jeri amid corruption probe weeks before elections",
     "link": "https://www.france24.com/en/americas/20260218-peru-congress-ousts-interim-president-corruption-probe-elections",
     "summary": "Peru\u2019s Congress on Tuesday voted to remove the interim President Jose Jeri over corruption allegations, deepening political uncertainty just weeks before the nation\u2019s April presidential and congressio...",
     "timestamp": 1771378121.0,
-    "date": "Feb 18, 01:28"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "YouTube\u00a0recovering after disruptions in the US, Southeast Asia",
-    "link": "https://www.channelnewsasia.com/business/youtube-down-downdetector-5937216",
-    "summary": "",
-    "timestamp": 1771378080.0,
     "date": "Feb 18, 01:28"
   },
   {
@@ -630,14 +686,6 @@
     "summary": "\"I think Donald Trump is worried we're about to flip Texas,\" Texas state Rep. James Talarico said. \"This is the party that ran against cancel culture.\"",
     "timestamp": 1771377608.0,
     "date": "Feb 18, 01:20"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "California builds AI oversight unit and presses on xAI investigation",
-    "link": "https://www.channelnewsasia.com/business/california-builds-ai-oversight-unit-and-presses-xai-investigation-5937206",
-    "summary": "",
-    "timestamp": 1771377131.0,
-    "date": "Feb 18, 01:12"
   },
   {
     "source": "Al Jazeera",
@@ -654,30 +702,6 @@
     "summary": "Adeliia Petrosian, 18, has the r\u00e9sum\u00e9 of a medal contender \u2014 and ties to coaches and a skater who were at the center of a doping scandal at the last Winter Games.",
     "timestamp": 1771376749.0,
     "date": "Feb 18, 01:05"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Russia-Ukraine war: List of key events, day 1,455",
-    "link": "https://www.aljazeera.com/news/2026/2/18/russia-ukraine-war-list-of-key-events-day-1455?traffic_source=rss",
-    "summary": "These are the key developments from day 1,455 of Russia\u2019s war on Ukraine.",
-    "timestamp": 1771376690.0,
-    "date": "Feb 18, 01:04"
-  },
-  {
-    "source": "BBC World",
-    "title": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
-    "link": "https://www.bbc.com/news/articles/cn87rv0jdy1o?at_medium=RSS&at_campaign=rss",
-    "summary": "Delcy Rodriguez knows its in America's interests for her to be a success",
-    "timestamp": 1771375702.0,
-    "date": "Feb 18, 00:48"
-  },
-  {
-    "source": "BBC World",
-    "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
-    "link": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&at_campaign=rss",
-    "summary": "Kerstin G's boyfriend is accused of leaving her unprotected and exhausted close to the summit during a blizzard.",
-    "timestamp": 1771375312.0,
-    "date": "Feb 18, 00:41"
   },
   {
     "source": "The Verge",
@@ -704,6 +728,14 @@
     "date": "Feb 18, 00:15"
   },
   {
+    "source": "CNBC",
+    "title": "Stock futures are little changed as traders await Fed meeting minutes: Live updates",
+    "link": "https://www.cnbc.com/2026/02/17/stock-market-today-live-updates.html",
+    "summary": "The major averages posted slim gains on Tuesday, kicking off a holiday-shortened week.",
+    "timestamp": 1771373539.0,
+    "date": "Feb 18, 00:12"
+  },
+  {
     "source": "BBC World",
     "title": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
     "link": "https://www.bbc.com/news/articles/cze0dk3yd5eo?at_medium=RSS&at_campaign=rss",
@@ -718,14 +750,6 @@
     "summary": "Amnesty International says it found evidence that a government customer of Intellexa, a sanctioned surveillance vendor, used its Predator spyware against a prominent journalist in Angola.",
     "timestamp": 1771372860.0,
     "date": "Feb 18, 00:01"
-  },
-  {
-    "source": "CNBC",
-    "title": "Tesla adding Grok AI chatbot to its cars in the UK, Europe amid regulatory probes",
-    "link": "https://www.cnbc.com/2026/02/17/tesla-adding-grok-ai-uk-europe.html",
-    "summary": "The embattled xAI Grok chatbot is coming to Tesla EVs in the U.K. and Europe.",
-    "timestamp": 1771372583.0,
-    "date": "Feb 17, 23:56"
   },
   {
     "source": "TechCrunch",
@@ -752,20 +776,12 @@
     "date": "Feb 17, 23:38"
   },
   {
-    "source": "BBC World",
-    "title": "'We're going to always be grateful' - Chicagoans mourn loss of Jesse Jackson",
-    "link": "https://www.bbc.com/news/articles/cn8z9qq25jno?at_medium=RSS&at_campaign=rss",
-    "summary": "The BBC's Gary O'Donoghue spoke with city residents about what the civil rights leader's passing means for the community shaped by his activism.",
-    "timestamp": 1771371313.0,
-    "date": "Feb 17, 23:35"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "US immigration judge rejects Trump bid to deport Columbia student Mahdawi",
-    "link": "https://www.aljazeera.com/news/2026/2/17/us-immigration-judge-rejects-trump-bid-to-deport-columbia-student-mahdawi?traffic_source=rss",
-    "summary": "Mohsen Mahdawi, a Palestinian student activist, faced deportation proceedings amid a protest crackdown under Trump.",
-    "timestamp": 1771371269.0,
-    "date": "Feb 17, 23:34"
+    "source": "France 24",
+    "title": "Real's Vinicius hits out at 'cowards' after racism storm against Benfica",
+    "link": "https://www.france24.com/en/live-news/20260217-real-s-vinicius-hits-out-at-cowards-after-racism-storm-against-benfica",
+    "summary": "Match-winner Vinicius Junior hit out at \"cowards\" after accusing Benfica's Gianluca Prestianni of racially abusing him during Real Madrid's 1-0 Champions League play-off first leg victory in Lisbon on...",
+    "timestamp": 1771371429.0,
+    "date": "Feb 17, 23:37"
   },
   {
     "source": "Deutsche Welle",
@@ -809,9 +825,9 @@
   },
   {
     "source": "France 24",
-    "title": "Drone strikes in the Kordofan's region",
+    "title": "At least 28 people killed in drone strikes on Sudan market",
     "link": "https://www.france24.com/en/drone-strikes-in-the-kordofan-s-region",
-    "summary": "In tonight's programme, 28 people were killed in drone strikes on a market in Central Sudan's Kordofan region. Our correspondent Tom Canetti sits down with Sanda Ojiambo, the Assistant Secretary Gener...",
+    "summary": "In tonight's edition: At least 28 people are killed in drone strikes on a market in central Sudan's Kordofan region. Also, our correspondent Tom Canetti sits down with Sanda Ojiambo, the Assistant Sec...",
     "timestamp": 1771368831.0,
     "date": "Feb 17, 22:53"
   },
@@ -822,6 +838,14 @@
     "summary": "More than 80 film industry figures, including Oscar winners Javier Bardem and Tilda Swinton, accused the Berlin Film Festival of \u201cinstitutional silence\u201d on Gaza in a statement on Tuesday. The open let...",
     "timestamp": 1771368146.0,
     "date": "Feb 17, 22:42"
+  },
+  {
+    "source": "CNBC",
+    "title": "Ackman's Pershing Square bet big on Amazon in fourth quarter",
+    "link": "https://www.cnbc.com/2026/02/17/ackmans-pershing-square-bet-big-on-amazon-in-fourth-quarter.html",
+    "summary": "Bill Ackman's Pershing Square poured hundreds of millions of dollars into Amazon shares as 2025 wrapped up.",
+    "timestamp": 1771368081.0,
+    "date": "Feb 17, 22:41"
   },
   {
     "source": "New York Times",
@@ -894,14 +918,6 @@
     "summary": "Ukrainian and Russian negotiators wrapped up a first day of US-mediated peace talks in Geneva on Tuesday with no sign of a breakthrough. The nearly four-year war, Europe\u2019s deadliest since World War II...",
     "timestamp": 1771365380.0,
     "date": "Feb 17, 21:56"
-  },
-  {
-    "source": "CNBC",
-    "title": "Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs",
-    "link": "https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html",
-    "summary": "Meta expands partnership with Nvidia in a deal likely worth tens of billions, for deploying millions of GPUs and new standalone CPUs in AI data centers",
-    "timestamp": 1771365272.0,
-    "date": "Feb 17, 21:54"
   },
   {
     "source": "The Guardian",
@@ -1176,14 +1192,6 @@
     "date": "Feb 17, 19:03"
   },
   {
-    "source": "France 24",
-    "title": "France detains nine suspects over far-right activist's killing",
-    "link": "https://www.france24.com/en/france/20260217-france-detains-four-suspects-over-far-right-activist-killing",
-    "summary": "French authorities on Tuesday arrested nine people over the fatal beating of a 23-year-old far-right activist on the sidelines of a protest in Lyon last week. The attack has heightened political tensi...",
-    "timestamp": 1771354726.0,
-    "date": "Feb 17, 18:58"
-  },
-  {
     "source": "New York Times",
     "title": "Iranians Mourn Slain Protesters With \u2018Revolutionary Rage\u2019",
     "link": "https://www.nytimes.com/2026/02/17/world/middleeast/iran-memorials-protesters-crackdown.html",
@@ -1216,28 +1224,12 @@
     "date": "Feb 17, 18:55"
   },
   {
-    "source": "France 24",
-    "title": "French court sentences former Senate adviser for upskirt photos",
-    "link": "https://www.france24.com/en/french-court-sentences-former-senate-adviser-for-upskirt-photos",
-    "summary": "A French court on Tuesday handed a one-year suspended sentence to a former Senate adviser for collecting over 1,800 mostly sexual images taken in public places or in the Senate building. The man went ...",
-    "timestamp": 1771354060.0,
-    "date": "Feb 17, 18:47"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Czech Republic: Government attacks public television and radio",
     "link": "https://www.dw.com/en/czech-republic-government-attacks-public-television-and-radio/a-76009348?maca=en-rss-en-all-1573-rdf",
     "summary": "Prime Minister Andrej Babis' new right-wing populist government wants to bring the Czech public broadcaster under its control. One of its reforms is to abolish licensing fees.",
     "timestamp": 1771353600.0,
     "date": "Feb 17, 18:40"
-  },
-  {
-    "source": "CNBC",
-    "title": "Anthropic releases Claude Sonnet 4.6, continuing breakneck pace of AI model releases",
-    "link": "https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html",
-    "summary": "Claude Sonnet 4.6 is more consistent with coding and is better at following coding instructions, Anthropic said.",
-    "timestamp": 1771353518.0,
-    "date": "Feb 17, 18:38"
   },
   {
     "source": "Deutsche Welle",
@@ -1313,8 +1305,8 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Several German members of the Islamic State are missing following breakouts and transfers at Syrian prisons. Others face sentencing in Iraq.",
-    "link": "https://www.dw.com/en/several-german-members-of-the-islamic-state-are-missing-following-breakouts-and-transfers-at-syrian-prisons-others-face-sentencing-in-iraq/a-76006695?maca=en-rss-en-all-1573-rdf",
+    "title": "Chaos in Syria: Where are German 'Islamic State' members?",
+    "link": "https://www.dw.com/en/chaos-in-syria-where-are-german-islamic-state-members/a-76006695?maca=en-rss-en-all-1573-rdf",
     "summary": "German men who joined the \"Islamic State\" group have been detained in Syria for years. But the recent fighting caused chaos at prisons. Thousands escaped or were transferred \u2014 and now nobody knows whe...",
     "timestamp": 1771350540.0,
     "date": "Feb 17, 17:49"
@@ -1486,6 +1478,14 @@
     "summary": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
     "timestamp": 1771340289.0,
     "date": "Feb 17, 14:58"
+  },
+  {
+    "source": "BBC World",
+    "title": "France releases suspected Russian 'shadow fleet' tanker after fine paid",
+    "link": "https://www.bbc.com/news/articles/c8xy4dl2xwgo?at_medium=RSS&at_campaign=rss",
+    "summary": "French Foreign Minister Jean-No\u00ebl Barrot said the vessel was departing Marseille after a payment of \"several million euros\".",
+    "timestamp": 1771338033.0,
+    "date": "Feb 17, 14:20"
   },
   {
     "source": "TechCrunch",
