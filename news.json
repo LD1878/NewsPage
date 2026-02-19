@@ -1,6 +1,286 @@
 [
   {
     "source": "CNBC",
+    "title": "Stocks slide as traders assess Walmart earnings, potential Iran conflict: Live updates",
+    "link": "https://www.cnbc.com/2026/02/18/stock-market-today-live-updates.html",
+    "summary": "The next key event for markets will be Friday's release of the personal consumption expenditures price index.",
+    "timestamp": 1771519633.0,
+    "date": "Feb 19, 16:47"
+  },
+  {
+    "source": "CNBC",
+    "title": "Doordash stock rallies as investment cycle starts showing signs of a payoff",
+    "link": "https://www.cnbc.com/2026/02/19/doordash-stock-investment-ai-tech-earnings.html",
+    "summary": "Analysts noted improvement in the company's unit economics, especially in new areas like grocery and retail.",
+    "timestamp": 1771519351.0,
+    "date": "Feb 19, 16:42"
+  },
+  {
+    "source": "The Verge",
+    "title": "Turtle Beach\u2019s new PC controller with swiveling sticks is 30 percent off",
+    "link": "https://www.theverge.com/gadgets/881030/turtle-beach-stealth-pivot-controller-lego-mario-yoshi-deal-sale",
+    "summary": "Many modern gamepads have adopted a modular design in recent years, from the Victrix Pro BFG Reloaded to Hyperkin\u2019s clamp-on X5 Alteron for the Nintendo Switch. However, few of them are quite as innov...",
+    "timestamp": 1771519326.0,
+    "date": "Feb 19, 16:42"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Zuckerberg grilled in court over social media harms on teens",
+    "link": "https://techcrunch.com/2026/02/19/zuckerberg-grilled-in-court-over-social-media-harms-on-teens/",
+    "summary": "Meta's CEO was questioned over the addictive nature of its social media apps like Instagram, and other teen harms.",
+    "timestamp": 1771519319.0,
+    "date": "Feb 19, 16:41"
+  },
+  {
+    "source": "BBC World",
+    "title": "Sudan atrocities are 'hallmarks of genocide', UN says",
+    "link": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss",
+    "summary": "A UN fact-finding mission issued the report after investigating the capture of el-Fasher by the Rapid Support Forces.",
+    "timestamp": 1771519130.0,
+    "date": "Feb 19, 16:38"
+  },
+  {
+    "source": "New York Times",
+    "title": "Live Updates: Former Prince Andrew Arrested in Britain Over Epstein Ties",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein",
+    "summary": "King Charles III said he supported a \u201cfull, fair and proper process\u201d regarding the investigation of his brother Andrew Mountbatten-Windsor, adding that he backed the authorities involved.",
+    "timestamp": 1771518985.0,
+    "date": "Feb 19, 16:36"
+  },
+  {
+    "source": "New York Times",
+    "title": "The former prince gave a disastrous BBC interview in 2019.",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/the-former-prince-gave-a-disastrous-bbc-interview-in-2019",
+    "summary": "T",
+    "timestamp": 1771518924.0,
+    "date": "Feb 19, 16:35"
+  },
+  {
+    "source": "New York Times",
+    "title": "South Korean Ex-Leader Is Sentenced to Life in Prison",
+    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president",
+    "summary": "Former President Yoon Suk Yeol was found guilty of masterminding an insurrection when he imposed martial law in 2024. It was the country\u2019s \u200bbiggest criminal trial in decades.",
+    "timestamp": 1771518809.0,
+    "date": "Feb 19, 16:33"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Some US investors pivot to infrastructure amid broader AI selloff",
+    "link": "https://www.channelnewsasia.com/business/some-us-investors-pivot-infrastructure-amid-broader-ai-selloff-5940976",
+    "summary": "",
+    "timestamp": 1771518693.0,
+    "date": "Feb 19, 16:31"
+  },
+  {
+    "source": "The Verge",
+    "title": "The next iTunes may be vibe-coded",
+    "link": "https://www.theverge.com/column/881256/parachord-vibe-coded-music-streaming-app",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Wouldn't it be great if you could e...",
+    "timestamp": 1771518600.0,
+    "date": "Feb 19, 16:30"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "SoftBank to spend an eye-popping $33B to build huge U.S. gas power plant",
+    "link": "https://techcrunch.com/2026/02/19/softbank-to-spend-an-eye-popping-33b-to-build-huge-u-s-gas-power-plant/",
+    "summary": "If completed, the project would be among the largest and most expensive natural gas power plants.",
+    "timestamp": 1771518478.0,
+    "date": "Feb 19, 16:27"
+  },
+  {
+    "source": "CNBC",
+    "title": "This freight name on Josh Brown's best stocks list checks all the boxes",
+    "link": "https://www.cnbc.com/2026/02/19/this-freight-name-on-josh-browns-best-stocks-list-checks-all-the-boxes.html",
+    "summary": "Josh Brown and Sean Russo take a look at this freight stock.",
+    "timestamp": 1771518406.0,
+    "date": "Feb 19, 16:26"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Ice hockey-Switzerland beat Sweden in overtime to win women's bronze",
+    "link": "https://www.channelnewsasia.com/sport/ice-hockey-switzerland-beat-sweden-in-overtime-win-womens-bronze-5940961",
+    "summary": "",
+    "timestamp": 1771518049.0,
+    "date": "Feb 19, 16:20"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Trump-themed ETF manager scoops up MAGA fund",
+    "link": "https://www.channelnewsasia.com/business/trump-themed-etf-manager-scoops-up-maga-fund-5940946",
+    "summary": "",
+    "timestamp": 1771517877.0,
+    "date": "Feb 19, 16:17"
+  },
+  {
+    "source": "France 24",
+    "title": "Trump's first 'Board of Peace' meeting: 'Still unclear what he's trying to achieve'",
+    "link": "https://www.france24.com/en/video/20260219-trump-s-first-board-of-peace-meeting-still-unclear-what-he-s-trying-to-achieve",
+    "summary": "President Donald Trump on Thursday announced $10 billion in US funding for the \"Board of Peace,\" initiatives as he presided over the inaugural meeting of the board, which gathered around two dozen wor...",
+    "timestamp": 1771517841.0,
+    "date": "Feb 19, 16:17"
+  },
+  {
+    "source": "NPR",
+    "title": "Amazon dethrones Walmart as the world's biggest company by sales",
+    "link": "https://www.npr.org/2026/02/19/nx-s1-5719173/amazon-walmart-biggest-company-by-sales",
+    "summary": "In a slow-motion race of two retail behemoths, Amazon's trump card was its lucrative cloud-computing business.",
+    "timestamp": 1771517770.0,
+    "date": "Feb 19, 16:16"
+  },
+  {
+    "source": "NPR",
+    "title": "A Republican plan to overhaul voting is back. Here's what's new in the bill",
+    "link": "https://www.npr.org/2026/02/19/nx-s1-5719252/trump-voting-save-america-act-explainer",
+    "summary": "A Republican voting overhaul is back on Capitol Hill \u2014 with an added photo identification provision and an altered name. Opponents say the legislation would disenfranchise millions of voters.",
+    "timestamp": 1771517755.0,
+    "date": "Feb 19, 16:15"
+  },
+  {
+    "source": "France 24",
+    "title": "REPLAY: Trump holds first 'Board of Peace' meeting",
+    "link": "https://www.france24.com/en/video/20260219-replay-trump-holds-first-board-of-peace-meeting",
+    "summary": "US President Donald Trump gathered Thursday with representatives from more than two dozen countries that have joined his Board of Peace \u2014 and several that have opted not to \u2014 for an inaugural meeting ...",
+    "timestamp": 1771517751.0,
+    "date": "Feb 19, 16:15"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Can Europe reduce its dependence on the US and at what cost?",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/2/19/can-europe-reduce-its-dependence-on-the-us-and-at-what-cost?traffic_source=rss",
+    "summary": "Trump&#039;s tariffs, Greenland and defence spending are testing US-Europe alliance.",
+    "timestamp": 1771517700.0,
+    "date": "Feb 19, 16:15"
+  },
+  {
+    "source": "France 24",
+    "title": "China's Zeekr to launch EV sales in France",
+    "link": "https://www.france24.com/en/tv-shows/people-profit/20260219-china-s-zeekr-to-launch-ev-sales-in-france",
+    "summary": "The automobile industry has been steering towards an electric future. In Europe, sales of both fully electric and hybrid cars have risen as costs drop and technology improves. Competition within the i...",
+    "timestamp": 1771517558.0,
+    "date": "Feb 19, 16:12"
+  },
+  {
+    "source": "CNBC",
+    "title": "Figma shares climb on earnings beat, but analysts note that AI risk remains",
+    "link": "https://www.cnbc.com/2026/02/19/figma-stock-earnings-ai-risk.html",
+    "summary": "Figma's revenue grew 40% year over year to $303.8 million during the period.",
+    "timestamp": 1771517535.0,
+    "date": "Feb 19, 16:12"
+  },
+  {
+    "source": "The Verge",
+    "title": "GE made a smaller version of its nugget ice maker that needs less counter space",
+    "link": "https://www.theverge.com/tech/881365/ge-profile-opal-mini-nugget-ice-maker-pro-chewable-appliance",
+    "summary": "GE has announced two new versions of its popular Opal nugget ice machines with smaller footprints that take up less counter space, and more affordable price tags. Like GE's larger and pricier Opal 2.0...",
+    "timestamp": 1771517530.0,
+    "date": "Feb 19, 16:12"
+  },
+  {
+    "source": "CNBC",
+    "title": "U.S. trade deficit totaled $901 billion in 2025 despite Trump's tariffs",
+    "link": "https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html",
+    "summary": "The U.S. trade deficit swelled in December, closing out a year in which the imbalance was essentially unchanged.",
+    "timestamp": 1771517491.0,
+    "date": "Feb 19, 16:11"
+  },
+  {
+    "source": "France 24",
+    "title": "King Charles' brother Andrew arrested over misconduct relating to Epstein",
+    "link": "https://www.france24.com/en/video/20260219-king-charles-brother-andrew-arrested-over-misconduct-relating-to-epstein",
+    "summary": "King Charles' younger brother Andrew Mountbatten-Windsor was on Thursday arrested on suspicion of misconduct in public office over allegations he sent confidential government documents to Jeffrey Epst...",
+    "timestamp": 1771517379.0,
+    "date": "Feb 19, 16:09"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Ex-Prince Andrew: What you need to know",
+    "link": "https://www.dw.com/en/ex-prince-andrew-what-you-need-to-know/a-76040872?maca=en-rss-en-all-1573-rdf",
+    "summary": "Andrew Mountbatten-Windsor, formerly Prince Andrew, looks to have become the first British royal to be arrested. His ties to Jeffrey Epstein are well-established but not the only time he has been in t...",
+    "timestamp": 1771517280.0,
+    "date": "Feb 19, 16:08"
+  },
+  {
+    "source": "France 24",
+    "title": "Mass killings of non-Arab civilians in Sudan's El-Fasher point to 'genocide', UN report says",
+    "link": "https://www.france24.com/en/africa/20260219-mass-killings-of-non-arab-civilians-in-sudan-point-to-genocide-un-report-says",
+    "summary": "Mass killings of non-Arab civilians in El-Fasher after its capture by Sudan\u2019s paramilitary Rapid Support Forces (RSF) show signs consistent with genocide, according to a new report by the UN Independe...",
+    "timestamp": 1771517229.0,
+    "date": "Feb 19, 16:07"
+  },
+  {
+    "source": "The Verge",
+    "title": "Mastodon is testing easier ways to get you started in the fediverse",
+    "link": "https://www.theverge.com/tech/881352/mastodon-default-server-recommendations-experiment",
+    "summary": "New users on the decentralized social network Mastodon could soon have an easier time getting started. Mastodon is running \"onboarding experiments\" to test ways to improve the new user experience, sta...",
+    "timestamp": 1771516986.0,
+    "date": "Feb 19, 16:03"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump suggests Iran has 10 days to reach agreement with US",
+    "link": "https://www.aljazeera.com/news/2026/2/19/trump-suggests-iran-has-10-days-to-reach-agreement-with-us?traffic_source=rss",
+    "summary": "US president says at inaugural Board of Peace summit that Washington and Tehran should make a &#039;meaningful deal&#039;.",
+    "timestamp": 1771516894.0,
+    "date": "Feb 19, 16:01"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump praises \u2018magnificent\u2019 B-2 bombers that struck Iran in 2025",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/19/trump-praises-magnificent-b-2-bombers-that-struck-iran-in-2025?traffic_source=rss",
+    "summary": "Donald Trump praised the \u201cmagnificent\u201d B-2 bombers that \u201ctotally decimated the nuclear potential\u201d of Iran.",
+    "timestamp": 1771516705.0,
+    "date": "Feb 19, 15:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Norris amused by reaction to his comments on new F1 cars",
+    "link": "https://www.channelnewsasia.com/sport/norris-amused-reaction-his-comments-new-f1-cars-5940911",
+    "summary": "",
+    "timestamp": 1771516643.0,
+    "date": "Feb 19, 15:57"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Why is Indonesia offering to send thousands of troops into Gaza?",
+    "link": "https://www.dw.com/en/why-is-indonesia-offering-to-send-thousands-of-troops-into-gaza/a-76039552?maca=en-rss-en-all-1573-rdf",
+    "summary": "Indonesia will join the Board of Peace and will send troops to Gaza. It's a risky move politically \u2014 Indonesia has no official relations with Israel \u2014 but President Prabowo Subianto says he has good r...",
+    "timestamp": 1771516500.0,
+    "date": "Feb 19, 15:55"
+  },
+  {
+    "source": "New York Times",
+    "title": "Who is Andrew Mountbatten-Windsor?",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/prince-andrew-mountbatten-windsor-epstein.html",
+    "summary": "The brother of King Charles III was a popular member of the royal family and adored by his mother, Queen Elizabeth II. He fell from grace because of his friendship with Jeffrey Epstein.",
+    "timestamp": 1771516341.0,
+    "date": "Feb 19, 15:52"
+  },
+  {
+    "source": "NPR",
+    "title": "'Dude, good luck': the Olympic wit and wisdom of a pioneering African skeleton racer",
+    "link": "https://www.npr.org/2026/02/19/g-s1-110433/olympics-skeleton-africa-bobsled-ghana",
+    "summary": "Who says serious athletes are always serious? Akwasi Frimpong, who's competed for Ghana, is a world-class wisecracker as he reflects on being a Black African athlete in the white world of winter sport...",
+    "timestamp": 1771516170.0,
+    "date": "Feb 19, 15:49"
+  },
+  {
+    "source": "CNBC",
+    "title": "King Charles' brother Andrew arrested on suspicion of misconduct",
+    "link": "https://www.cnbc.com/2026/02/19/prince-andrew-arrest-misconduct-epstein-mountbatten-windsor.html",
+    "summary": "U.K. police on Thursday arrested King Charles III's brother, Andrew Mountbatten-Windsor, on suspicion of misconduct in public office.",
+    "timestamp": 1771516152.0,
+    "date": "Feb 19, 15:49"
+  },
+  {
+    "source": "France 24",
+    "title": "Moroccan director Maryam Touzani returns with 'Calle M\u00e1laga', an ode to life in old age",
+    "link": "https://www.france24.com/en/tv-shows/arts24/20260219-moroccan-director-maryam-touzani-returns-with-calle-m%C3%A1laga-an-ode-to-life-in-old-age",
+    "summary": "In this episode of arts24, Eve Jackson speaks to Moroccan filmmaker Maryam Touzani, whose intimate and quietly powerful cinema continues to explore love, identity and the tensions within Moroccan soci...",
+    "timestamp": 1771516138.0,
+    "date": "Feb 19, 15:48"
+  },
+  {
+    "source": "CNBC",
     "title": "An AI disruption-proof option idea: This little known packaging company has strong cash flow",
     "link": "https://www.cnbc.com/2026/02/19/an-ai-disruption-proof-option-idea-a-little-known-packaging-company.html",
     "summary": "Amcor merged with Berry Global last April, creating a huge consumer and healthcare packaging portfolio and positioning it to realize high operating synergies.",
@@ -8,11 +288,11 @@
     "date": "Feb 19, 15:44"
   },
   {
-    "source": "CNBC",
-    "title": "Blue Owl curbs investor liquidity following asset sale, shares plunge 8%",
-    "link": "https://www.cnbc.com/2026/02/19/blue-owl-private-debt-investor-loan-liquidity-restriction-market-shares.html",
-    "summary": "Private credit specialist Blue Owl said it will restrict quarterly liquidity for investors in its retail-focused debt fund.",
-    "timestamp": 1771515728.0,
+    "source": "NPR",
+    "title": "HUD rule could push families with undocumented immigrants out of their homes",
+    "link": "https://www.npr.org/2026/02/19/nx-s1-5525859/hud-ban-undocumented-immigrants-families-housing-children",
+    "summary": "A proposed rule could put nearly 80,000 people at risk of eviction, many of them U.S. citizen children. Undocumented immigrants don't get rental aid but can currently live with family members who do.",
+    "timestamp": 1771515740.0,
     "date": "Feb 19, 15:42"
   },
   {
@@ -25,14 +305,6 @@
   },
   {
     "source": "CNBC",
-    "title": "Stocks slide as traders assess Walmart earnings, potential Iran conflict: Live updates",
-    "link": "https://www.cnbc.com/2026/02/18/stock-market-today-live-updates.html",
-    "summary": "The next key event for markets will be Friday's release of the personal consumption expenditures price index.",
-    "timestamp": 1771515592.0,
-    "date": "Feb 19, 15:39"
-  },
-  {
-    "source": "CNBC",
     "title": "Wayfair posts first annual sales gain since 2020, outperforms overall furniture market",
     "link": "https://www.cnbc.com/2026/02/19/wayfair-w-earnings-q4-2025.html",
     "summary": "Wayfair's growth comes during a challenging time for the furniture industry as tariffs, high interest rates and sluggish home sales are weighing on demand.",
@@ -40,12 +312,20 @@
     "date": "Feb 19, 15:39"
   },
   {
-    "source": "CNBC",
-    "title": "U.S. trade deficit totaled $901 billion in 2025 despite Trump's tariffs",
-    "link": "https://www.cnbc.com/2026/02/19/us-trade-deficit-totaled-901-billion-in-2025-despite-trumps-tariffs.html",
-    "summary": "The U.S. trade deficit swelled in December, closing out a year in which the imbalance was essentially unchanged.",
-    "timestamp": 1771515377.0,
-    "date": "Feb 19, 15:36"
+    "source": "CNA (Asia)",
+    "title": "Nordic combined-American jumper Loomis hit by leaf blower",
+    "link": "https://www.channelnewsasia.com/sport/nordic-combined-american-jumper-loomis-hit-leaf-blower-5940876",
+    "summary": "",
+    "timestamp": 1771515532.0,
+    "date": "Feb 19, 15:38"
+  },
+  {
+    "source": "NPR",
+    "title": "1,000 Kenyans were recruited to fight for Russia in Ukraine, intelligence report says",
+    "link": "https://www.npr.org/2026/02/19/g-s1-110724/russia-ukraine-war-kenyans-recruited",
+    "summary": "A new Kenyan intelligence report said the Kenyans were recruited to fight for Russia in Ukraine after being misled with false promises of jobs in Russia before being sent to the front lines.",
+    "timestamp": 1771515358.0,
+    "date": "Feb 19, 15:35"
   },
   {
     "source": "TechCrunch",
@@ -62,14 +342,6 @@
     "summary": "Nintendo just released a Switch 2 upgrade for Xenoblade Chronicles X: Definitive Edition. The upgrade is $4.99 for owners of the Switch game, or $64.99 if you buy the Switch 2 version. Don\u2019t buy the S...",
     "timestamp": 1771515339.0,
     "date": "Feb 19, 15:35"
-  },
-  {
-    "source": "New York Times",
-    "title": "Live Updates: Former Prince Andrew Arrested in Britain Over Epstein Ties",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein",
-    "summary": "King Charles III said he supported a \u201cfull, fair and proper process\u201d regarding the investigation of his brother Andrew Mountbatten-Windsor, adding that he backed the authorities involved.",
-    "timestamp": 1771515260.0,
-    "date": "Feb 19, 15:34"
   },
   {
     "source": "TechCrunch",
@@ -144,14 +416,6 @@
     "date": "Feb 19, 15:23"
   },
   {
-    "source": "CNBC",
-    "title": "King Charles' brother Andrew arrested on suspicion of misconduct",
-    "link": "https://www.cnbc.com/2026/02/19/prince-andrew-arrest-misconduct-epstein-mountbatten-windsor.html",
-    "summary": "U.K. police on Thursday arrested King Charles III's brother, Andrew Mountbatten-Windsor, on suspicion of misconduct in public office.",
-    "timestamp": 1771514428.0,
-    "date": "Feb 19, 15:20"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Zimbabwe shock Sri Lanka to upset the T20 World Cup odds again",
     "link": "https://www.aljazeera.com/sports/2026/2/19/zimbabwe-shock-sri-lanka-to-upset-the-t20-world-cup-odds-again?traffic_source=rss",
@@ -169,8 +433,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Visa strikes deal for Prisma, Newpay to boost Argentina presence",
-    "link": "https://www.channelnewsasia.com/business/visa-strikes-deal-prisma-newpay-boost-argentina-presence-5940826",
+    "title": "Visa to buy payment firms Prisma, Newpay to deepen Argentina footprint",
+    "link": "https://www.channelnewsasia.com/business/visa-buy-payment-firms-prisma-newpay-deepen-argentina-footprint-5940826",
     "summary": "",
     "timestamp": 1771514060.0,
     "date": "Feb 19, 15:14"
@@ -193,7 +457,7 @@
   },
   {
     "source": "NPR",
-    "title": "Refugees in the U.S. could be arrested under new immigration memo",
+    "title": "Refugees in the U.S. could be arrested under a new immigration memo",
     "link": "https://www.npr.org/2026/02/19/g-s1-110721/trump-administration-refugees-memo-arrest",
     "summary": "The move is another Trump administration effort to limit legal pathways to migration or resettlement, after already curbing the number of admitted refugees and re-reviewing those admitted under the Bi...",
     "timestamp": 1771513849.0,
@@ -296,14 +560,6 @@
     "date": "Feb 19, 14:57"
   },
   {
-    "source": "New York Times",
-    "title": "South Korean Ex-Leader Is Sentenced to Life in Prison",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/yoon-korea-martial-law-president",
-    "summary": "Former President Yoon Suk Yeol was found guilty of masterminding an insurrection when he imposed martial law in 2024. It was the country\u2019s \u200bbiggest criminal trial in decades.",
-    "timestamp": 1771512973.0,
-    "date": "Feb 19, 14:56"
-  },
-  {
     "source": "CNBC",
     "title": "Trump administration issues warning to hundreds of colleges with low student loan repayment rates",
     "link": "https://www.cnbc.com/2026/02/19/trump-colleges-low-student-loan-repayment-rates.html",
@@ -318,14 +574,6 @@
     "summary": "Led by US President Donald Trump, the \u201cBoard of Peace\u201d convened for its first meeting to discuss Gaza reconstruction.",
     "timestamp": 1771512573.0,
     "date": "Feb 19, 14:49"
-  },
-  {
-    "source": "CNBC",
-    "title": "Doordash stock rallies as investment cycle starts showing signs of a payoff",
-    "link": "https://www.cnbc.com/2026/02/19/doordash-stock-investment-ai-tech-earnings.html",
-    "summary": "Analysts noted improvement in the company's unit economics, especially in new areas like grocery and retail.",
-    "timestamp": 1771512520.0,
-    "date": "Feb 19, 14:48"
   },
   {
     "source": "CNA (Asia)",
@@ -385,14 +633,6 @@
   },
   {
     "source": "New York Times",
-    "title": "The former prince has been living on King Charles III\u2019s private Sandringham Estate.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/the-former-prince-has-been-living-on-king-charles-iiis-private-sandringham-estate",
-    "summary": "",
-    "timestamp": 1771511494.0,
-    "date": "Feb 19, 14:31"
-  },
-  {
-    "source": "New York Times",
     "title": "The former Prince Andrew was stripped of his royal titles late last year.",
     "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/the-former-prince-andrew-was-stripped-of-his-royal-titles-late-last-year",
     "summary": "",
@@ -406,14 +646,6 @@
     "summary": "U.S. energy chief Chris Wright said the U.S. would pressure the global energy watchdog to move away from its net zero agenda over the coming months.",
     "timestamp": 1771510822.0,
     "date": "Feb 19, 14:20"
-  },
-  {
-    "source": "CNBC",
-    "title": "How the stock market typically reacts to geopolitical conflicts",
-    "link": "https://www.cnbc.com/2026/02/19/how-the-stock-market-typically-reacts-to-geopolitical-conflicts.html",
-    "summary": "Tensions are simmering between the U.S. and Iran. Yet, the stock market may just breeze past those worries.",
-    "timestamp": 1771510703.0,
-    "date": "Feb 19, 14:18"
   },
   {
     "source": "CNA (Asia)",
@@ -561,8 +793,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Nordic combined-Norway clinches gold in chaotic Nordic team sprint",
-    "link": "https://www.channelnewsasia.com/sport/nordic-combined-norway-clinches-gold-in-chaotic-nordic-team-sprint-5940676",
+    "title": "Nordic combined-Norway clinches gold in chaotic team sprint",
+    "link": "https://www.channelnewsasia.com/sport/nordic-combined-norway-clinches-gold-in-chaotic-team-sprint-5940676",
     "summary": "",
     "timestamp": 1771508830.0,
     "date": "Feb 19, 13:47"
@@ -640,6 +872,14 @@
     "date": "Feb 19, 13:10"
   },
   {
+    "source": "CNBC",
+    "title": "OpenAI and Anthropic\u2019s rivalry on display as CEOs avoid holding hands at AI summit",
+    "link": "https://www.cnbc.com/2026/02/19/openai-sam-altman-anthropic-dario-amodei-india-ai-summit.html",
+    "summary": "OpenAI\u2019s Sam Altman and Anthropic\u2019s Dario Amodei had an awkward moment at a major AI summit, with the two CEOs of competing AI giants opting not to link hands.",
+    "timestamp": 1771506546.0,
+    "date": "Feb 19, 13:09"
+  },
+  {
     "source": "CNA (Asia)",
     "title": "SkiMo-Switzerland's Fatton wins women's sprint gold",
     "link": "https://www.channelnewsasia.com/sport/skimo-switzerlands-fatton-wins-womens-sprint-gold-5940571",
@@ -654,22 +894,6 @@
     "summary": "\u201cI think we're the only quote-unquote manufacturing company out there that has H200 clusters in a data center on site.\"",
     "timestamp": 1771506000.0,
     "date": "Feb 19, 13:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "The RAM shortage is coming for everything you care about",
-    "link": "https://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops",
-    "summary": "Maybe you've heard: Memory is expensive now. The price of RAM has tripled, quadrupled, even sextupled depending on the type of chip, all because AI companies are gobbling it up. But maybe you've thoug...",
-    "timestamp": 1771506000.0,
-    "date": "Feb 19, 13:00"
-  },
-  {
-    "source": "CNBC",
-    "title": "Sen. Warren tells Fed and Treasury: No bailout for crypto billionaires",
-    "link": "https://www.cnbc.com/2026/02/18/warren-fed-treasury-crypto-billionaires-bailout-trump.html",
-    "summary": "Sen. Warren said that a bailout for cryptocurrency investors could \"directly enrich\" President Donald Trump and his family's company, World Liberty Financial.",
-    "timestamp": 1771505952.0,
-    "date": "Feb 19, 12:59"
   },
   {
     "source": "CNBC",
@@ -744,28 +968,12 @@
     "date": "Feb 19, 12:36"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Scotland recall Lions pair\u00a0for Six Nations clash in Wales",
-    "link": "https://www.channelnewsasia.com/sport/scotland-recall-lions-pair-six-nations-clash-in-wales-5940491",
-    "summary": "",
-    "timestamp": 1771504584.0,
-    "date": "Feb 19, 12:36"
-  },
-  {
     "source": "France 24",
     "title": "Trump kicks off his 'Board of Peace,' with eye on Gaza",
     "link": "https://www.france24.com/en/video/20260219-trump-kicks-off-his-board-of-peace-with-eye-on-gaza",
     "summary": "U.S. President Donald Trump will preside over the \u200bfirst meeting of his Board of Peace on Thursday with unresolved questions on the future of Gaza hanging over an event expected to include representat...",
     "timestamp": 1771504448.0,
     "date": "Feb 19, 12:34"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Sweden's Klarna swings to loss as fast growth hikes costs, shares fall 23%",
-    "link": "https://www.channelnewsasia.com/business/swedens-klarna-swings-loss-fast-growth-hikes-costs-shares-fall-23-5940466",
-    "summary": "",
-    "timestamp": 1771504353.0,
-    "date": "Feb 19, 12:32"
   },
   {
     "source": "France 24",
@@ -779,7 +987,7 @@
     "source": "TechCrunch",
     "title": "This VC\u2019s best advice for building a founding team",
     "link": "https://techcrunch.com/2026/02/19/this-vcs-best-advice-for-building-a-founding-team/",
-    "summary": "One of the most consequential decisions early-stage founders have to make is who they will bring on as their founding team. The first five to 10 employees will have a massive impact on the company cul...",
+    "summary": "One of the most consequential decisions early-stage founders have to make is who they will bring on as their founding team. That\u2019s why this season on Build Mode, we\u2019re diving into what it takes to bui...",
     "timestamp": 1771504200.0,
     "date": "Feb 19, 12:30"
   },
@@ -790,14 +998,6 @@
     "summary": "The arrest of King Charles III's brother, the former prince Andrew, is a \"national earthquake\" for the UK and unprecedented in the modern history of the British royal family, says France 24\u2019s London c...",
     "timestamp": 1771504178.0,
     "date": "Feb 19, 12:29"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Curling-Italy's Mosaner ends 'rollercoaster' Games with mixed feelings",
-    "link": "https://www.channelnewsasia.com/sport/curling-italys-mosaner-ends-rollercoaster-games-mixed-feelings-5940456",
-    "summary": "",
-    "timestamp": 1771504033.0,
-    "date": "Feb 19, 12:27"
   },
   {
     "source": "Deutsche Welle",
@@ -816,28 +1016,12 @@
     "date": "Feb 19, 12:24"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "The size S problem: female workers confront a male-focused industry",
-    "link": "https://www.channelnewsasia.com/sport/size-s-problem-female-workers-confront-male-focused-industry-5940431",
-    "summary": "",
-    "timestamp": 1771503705.0,
-    "date": "Feb 19, 12:21"
-  },
-  {
     "source": "NPR",
     "title": "Police arrest Ex-Prince Andrew. And, Trump hosts the first Board of Peace meeting",
     "link": "https://www.npr.org/2026/02/19/g-s1-110710/up-first-newsletter-trump-board-of-peace-ukraine-russia-prince-andrew-arrest",
     "summary": "U.K. police arrested Former Prince Andrew today on suspicion of misconduct in public office, U.K. media reports. And, President Trump is hosting the first-ever Board of Peace meeting today.",
     "timestamp": 1771503691.0,
     "date": "Feb 19, 12:21"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Curling-'Murphy's Law' hits Edin's Sweden as champions bow out with loss",
-    "link": "https://www.channelnewsasia.com/sport/curling-murphys-law-hits-edins-sweden-champions-bow-out-loss-5940436",
-    "summary": "",
-    "timestamp": 1771503553.0,
-    "date": "Feb 19, 12:19"
   },
   {
     "source": "Al Jazeera",
@@ -898,7 +1082,7 @@
   {
     "source": "Al Jazeera",
     "title": "Director rejects award over Israel\u2019s genocidal war in Gaza",
-    "link": "https://www.aljazeera.com/news/2026/2/19/director-rejects-berlinale-award-over-israels-genocidal-war-in-gaza?traffic_source=rss",
+    "link": "https://www.aljazeera.com/news/2026/2/19/director-rejects-award-over-israels-genocidal-war-in-gaza?traffic_source=rss",
     "summary": "Tunisian director Kaouther Ben Hania leaves film award on stage, demanding accountability for genocide in Gaza.",
     "timestamp": 1771502509.0,
     "date": "Feb 19, 12:01"
@@ -920,14 +1104,6 @@
     "date": "Feb 19, 11:46"
   },
   {
-    "source": "France 24",
-    "title": "A historic downfall for the UK's former prince Andrew",
-    "link": "https://www.france24.com/en/europe/20260219-a-historic-downfall-for-the-uk-s-former-prince-andrew",
-    "summary": "Former prince Andrew's inexorable fall from grace reached an extraordinary new low as he became the first member of the UK royal family to be arrested in the modern era.\u00a0Andrew Mountbatten-Windsor, as...",
-    "timestamp": 1771501397.0,
-    "date": "Feb 19, 11:43"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Skimo: What you need to know about the newest Olympic sport",
     "link": "https://www.dw.com/en/skimo-what-you-need-to-know-about-the-newest-olympic-sport/a-76025017?maca=en-rss-en-all-1573-rdf",
@@ -944,44 +1120,12 @@
     "date": "Feb 19, 11:39"
   },
   {
-    "source": "France 24",
-    "title": "Pakistan becomes major drug hub as Afghanistan exports crisis",
-    "link": "https://www.france24.com/en/tv-shows/focus/20260219-pakistan-becomes-major-drug-hub-as-afghanistan-exports-crisis",
-    "summary": "Long considered a transit route, Pakistan is now emerging as a major hub for both drug production and consumption. This shift follows the upheaval triggered by the Taliban's return to power in Afghani...",
-    "timestamp": 1771500960.0,
-    "date": "Feb 19, 11:36"
-  },
-  {
-    "source": "France 24",
-    "title": "South Korean court hands life in prison to ex\u2011President Yoon for insurrection",
-    "link": "https://www.france24.com/en/video/20260219-south-korean-court-hands-life-in-prison-to-ex%E2%80%91president-yoon-for-insurrection",
-    "summary": "A South Korean court sentenced former President Yoon Suk Yeol to life in prison on Thursday, after finding him guilty of masterminding an insurrection linked to his December 2024 attempt to impose mar...",
-    "timestamp": 1771500867.0,
-    "date": "Feb 19, 11:34"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Charli xcx spoofs herself in 'The Moment'",
     "link": "https://www.dw.com/en/charli-xcx-spoofs-herself-in-the-moment/a-76026009?maca=en-rss-en-all-1573-rdf",
     "summary": "She couldn't identify with the current trend of concert films, so British pop star Charli xcx flipped the form on a traditional genre with her new mockumentary.",
     "timestamp": 1771500780.0,
     "date": "Feb 19, 11:33"
-  },
-  {
-    "source": "France 24",
-    "title": "Meta's Zuckerberg grilled over underage users at social media trial",
-    "link": "https://www.france24.com/en/video/20260219-meta-s-zuckerberg-grilled-over-underage-users-at-social-media-trial",
-    "summary": "CEO Mark Zuckerberg said Wednesday he regretted Meta's slow progress in identifying underage users on Instagram, as he faced stinging criticism at a landmark social media trial over accusations that h...",
-    "timestamp": 1771500734.0,
-    "date": "Feb 19, 11:32"
-  },
-  {
-    "source": "France 24",
-    "title": "Fierce competition between Rio's samba schools lights up Carnival",
-    "link": "https://www.france24.com/en/video/20260219-fierce-competition-between-rio-s-samba-schools-lights-up-carnival",
-    "summary": "Rio is awash with glitter and colour with the Brazilian city's annual Carnival currently underway. Millions of partygoers fill the streets for the festivities. But the highlight for many is the perfor...",
-    "timestamp": 1771500556.0,
-    "date": "Feb 19, 11:29"
   },
   {
     "source": "BBC World",
@@ -1024,14 +1168,6 @@
     "date": "Feb 19, 11:17"
   },
   {
-    "source": "France 24",
-    "title": "UK police arrest former prince Andrew on suspicion of misconduct",
-    "link": "https://www.france24.com/en/video/20260219-uk-police-arrest-former-prince-andrew-on-suspicion-of-misconduct",
-    "summary": "King Charles' younger brother Andrew Mountbatten-Windsor was on Thursday arrested by UK police on suspicion of misconduct in public office over allegations he \u200bsent confidential government \u200cdocuments ...",
-    "timestamp": 1771499017.0,
-    "date": "Feb 19, 11:03"
-  },
-  {
     "source": "BBC World",
     "title": "Billionaire Les Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
     "link": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss",
@@ -1048,44 +1184,12 @@
     "date": "Feb 19, 11:00"
   },
   {
-    "source": "The Verge",
-    "title": "The biggest app in the whole wide world",
-    "link": "https://www.theverge.com/tech/876196/top-app-store-apps-developers",
-    "summary": "Last summer, Bria Sullivan was getting ready to launch her app, an adorable companion called Focus Friend meant to help people manage their screen time. Her outlandish dream was to get 100,000 downloa...",
-    "timestamp": 1771498800.0,
-    "date": "Feb 19, 11:00"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "UK King\u2019s brother Andrew arrested on suspicion of misconduct",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/19/uk-kings-brother-andrew-arrested-on-suspicion-of-misconduct?traffic_source=rss",
-    "summary": "Andrew Mountbatten Windsor, the former UK prince, has been arrested on suspicion of misconduct in public office.",
-    "timestamp": 1771498105.0,
-    "date": "Feb 19, 10:48"
-  },
-  {
     "source": "BBC World",
     "title": "Samba school that praised Brazil's Lula  at Rio Carnival relegated",
     "link": "https://www.bbc.com/news/articles/c3ewvz0j87zo?at_medium=RSS&at_campaign=rss",
     "summary": "See the floats from the famous festival as the city's top samba schools compete for first prize.",
     "timestamp": 1771498029.0,
     "date": "Feb 19, 10:47"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Epstein\u2019s shadow: Why Bill Gates pulled out of Modi\u2019s AI summit",
-    "link": "https://www.aljazeera.com/news/2026/2/19/epsteins-shadow-why-bill-gates-pulled-out-of-modis-ai-summit?traffic_source=rss",
-    "summary": "India\u2019s AI summit was meant to showcase the country&#039;s potential, but controversy and Gates&#039;s exit stole the spotlight.",
-    "timestamp": 1771497913.0,
-    "date": "Feb 19, 10:45"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Updates: Ex-UK Prince Andrew Mountbatten-Windsor arrested",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/2/19/live-ex-uk-prince-andrew-arrested-amid-epstein-scandal?traffic_source=rss",
-    "summary": "Andrew Mountbatten-Windsor was stripped of his title last year over his friendship with Jeffrey Epstein.",
-    "timestamp": 1771497629.0,
-    "date": "Feb 19, 10:40"
   },
   {
     "source": "NPR",
@@ -1112,14 +1216,6 @@
     "date": "Feb 19, 10:30"
   },
   {
-    "source": "NPR",
-    "title": "How Epstein and Maxwell used an elite Midwest arts school to prey on girls",
-    "link": "https://www.npr.org/2026/02/19/nx-s1-5707290/epstein-files-victims-interlochen-ghislaine-maxwell",
-    "summary": "Jeffrey Epstein and Ghislaine Maxwell lavished money on the Interlochen Center for the Arts to gain access, documents show \u2014 even funding an on-campus lodge they stayed in. In the process, two teenage...",
-    "timestamp": 1771496751.0,
-    "date": "Feb 19, 10:25"
-  },
-  {
     "source": "The Guardian",
     "title": "Thai police go undercover as lion dancers to catch thief",
     "link": "https://www.theguardian.com/world/2026/feb/19/thai-police-undercover-lion-dancers-catch-thief",
@@ -1129,7 +1225,7 @@
   },
   {
     "source": "New York Times",
-    "title": "In Devastated Gaza, Grandiose Peace Plans Clash With Reality",
+    "title": "Trump Considers Building a Military Base in Gaza as Peace Plans Clash With Reality",
     "link": "https://www.nytimes.com/2026/02/19/world/middleeast/gaza-rebuilding.html",
     "summary": "Israeli strikes on Gaza have killed about 600 people since a cease-fire began, according to health officials in the territory. Many displaced Palestinians are still living in tents. And there are some...",
     "timestamp": 1771495616.0,
@@ -1152,44 +1248,12 @@
     "date": "Feb 19, 10:00"
   },
   {
-    "source": "NPR",
-    "title": "An unsung hero stepped in to help a newly widowed mom in a moment of need",
-    "link": "https://www.npr.org/2026/02/19/nx-s1-5713570/an-unsung-hero-stepped-in-to-help-a-newly-widowed-mom-in-a-moment-of-need",
-    "summary": "Barbara Alvarez lost her husband in 2017, just before their daughter went off to college. Her unsung hero helped her find the strength to be a single mother to her child at a key moment in their lives...",
-    "timestamp": 1771495200.0,
-    "date": "Feb 19, 10:00"
-  },
-  {
-    "source": "NPR",
-    "title": "How do Olympians like Eileen Gu earn $23 million? Here are all the ways",
-    "link": "https://www.npr.org/2026/02/19/nx-s1-5712629/winter-olympics-milan-cortina-eileen-gu-chloe-kim",
-    "summary": "Most Olympians never win big money \u2014 or big fame. So how are athletes such as Eileen Gu or Chloe Kim able to earn millions of dollars? Here are some of the ways.",
-    "timestamp": 1771495200.0,
-    "date": "Feb 19, 10:00"
-  },
-  {
-    "source": "NPR",
-    "title": "How recent shifts in DNA sleuthing might help investigators in the Nancy Guthrie case",
-    "link": "https://www.npr.org/2026/02/19/nx-s1-5716941/nancy-guthrie-investigation-dna-forensic-genetic-genealogy",
-    "summary": "DNA science has helped solve criminal cases for decades. But increasingly, investigative genetic genealogy \u2014 which was first used for cold cases \u2014 is helping to solve active cases as well.",
-    "timestamp": 1771495200.0,
-    "date": "Feb 19, 10:00"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Will Franco\u2011German differences sink \u20ac100bn fighter jet plan?",
     "link": "https://www.dw.com/en/will-franco\u2011german-differences-sink-\u20ac100bn-fighter-jet-plan/a-76025178?maca=en-rss-en-all-1573-rdf",
     "summary": "Reports suggest the long-planned Franco-German FCAS air defense project is near collapse. In an exclusive interview with DW, Airbus Defence CEO Michael Schoellhorn says it needs to be restructured to ...",
     "timestamp": 1771495080.0,
     "date": "Feb 19, 09:58"
-  },
-  {
-    "source": "NPR",
-    "title": "Morning news brief",
-    "link": "https://www.npr.org/2026/02/19/nx-s1-5716227/morning-news-brief",
-    "summary": "President Trump's Board of Peace to meet for the first time, latest round of talks to end war in Ukraine conclude with little progress, Meta CEO defends the platform in social media addiction trial.",
-    "timestamp": 1771494723.0,
-    "date": "Feb 19, 09:52"
   },
   {
     "source": "BBC World",
@@ -1230,14 +1294,6 @@
     "summary": "<p>Dfat says it is aware Australians are among 5,704 detainees transferred out of Syrian prisons and into Iraqi custody</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP...",
     "timestamp": 1771491064.0,
     "date": "Feb 19, 08:51"
-  },
-  {
-    "source": "BBC World",
-    "title": "Sudan atrocities are 'hallmarks of genocide', UN says",
-    "link": "https://www.bbc.com/news/articles/cpqw74d81jqo?at_medium=RSS&at_campaign=rss",
-    "summary": "A UN fact-finding mission issued the report after investigating the capture of el-Fasher by the Rapid Support Forces.",
-    "timestamp": 1771488521.0,
-    "date": "Feb 19, 08:08"
   },
   {
     "source": "Deutsche Welle",
@@ -1320,14 +1376,6 @@
     "date": "Feb 19, 05:01"
   },
   {
-    "source": "The Verge",
-    "title": "Mark Zuckerberg and his Ray-Ban entourage have their day in court",
-    "link": "https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters",
-    "summary": "Meta CEO Mark Zuckerberg entered a downtown Los Angeles courthouse in largely the same way as all the attorneys, reporters, and advocates who'd come to watch his landmark trial testimony, but with one...",
-    "timestamp": 1771474397.0,
-    "date": "Feb 19, 04:13"
-  },
-  {
     "source": "BBC World",
     "title": "Australian presenter apologises for drinking before slurred Olympics report",
     "link": "https://www.bbc.com/news/articles/cdxgnrr11rwo?at_medium=RSS&at_campaign=rss",
@@ -1392,14 +1440,6 @@
     "date": "Feb 19, 01:38"
   },
   {
-    "source": "The Verge",
-    "title": "The RAM crunch could kill products and even entire companies, memory exec admits",
-    "link": "https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview",
-    "summary": "Phison is one of the leading makers of controller chips for SSDs and other flash memory devices - and CEO Pua Khein-Seng has now become a leading voice for just how bad the RAM shortage might get. Com...",
-    "timestamp": 1771461150.0,
-    "date": "Feb 19, 00:32"
-  },
-  {
     "source": "BBC World",
     "title": "How two farms in Senegal supply many of the UK's vegetables",
     "link": "https://www.bbc.com/news/articles/cwy6171wvppo?at_medium=RSS&at_campaign=rss",
@@ -1456,38 +1496,6 @@
     "date": "Feb 18, 22:04"
   },
   {
-    "source": "TechCrunch",
-    "title": "Is your startup\u2019s check engine light on? Google Cloud\u2019s VP explains what to do",
-    "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
-    "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to ...",
-    "timestamp": 1771448820.0,
-    "date": "Feb 18, 21:07"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky\u2019s app",
-    "link": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/",
-    "summary": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
-    "timestamp": 1771448268.0,
-    "date": "Feb 18, 20:57"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Mark Zuckerberg testifies in social media addiction trial",
-    "link": "https://www.dw.com/en/mark-zuckerberg-testifies-in-social-media-addiction-trial/a-76028273?maca=en-rss-en-all-1573-rdf",
-    "summary": "Google and Mark Zuckerberg's Meta have been accused of deliberately making platforms addictive to children and harming their mental health.",
-    "timestamp": 1771447860.0,
-    "date": "Feb 18, 20:51"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "US: Eight skiers dead after avalanche in California",
-    "link": "https://www.dw.com/en/us-eight-skiers-dead-after-avalanche-in-california/a-76028284?maca=en-rss-en-all-1573-rdf",
-    "summary": "The eight skiers were part of a three-day trek in Sierra Nevada. One more person is still missing, and the efforts are focusing on recovery rather than rescue. Six other members of the group were foun...",
-    "timestamp": 1771447020.0,
-    "date": "Feb 18, 20:37"
-  },
-  {
     "source": "New York Times",
     "title": "South Sudan Appoints Dead Man to Election Panel, as Political Crisis Grows",
     "link": "https://www.nytimes.com/2026/02/18/world/africa/south-sudan-dead-man-election-crisis.html",
@@ -1518,14 +1526,6 @@
     "summary": "Tshephiso Marumo has had success selling traditional village food in Botswana. But as she has risen, she has become more outspoken, inviting backlash.",
     "timestamp": 1771431834.0,
     "date": "Feb 18, 16:23"
-  },
-  {
-    "source": "New York Times",
-    "title": "The Behind the Scenes Search for Compromise on Territory in Ukraine Talks",
-    "link": "https://www.nytimes.com/2026/02/18/world/europe/ukraine-russia-peace-talks-demilitarized-zone.html",
-    "summary": "The latest round of talks ended with no indication of progress, but negotiators are bargaining over who will control land in eastern Ukraine if they reach a settlement.",
-    "timestamp": 1771426825.0,
-    "date": "Feb 18, 15:00"
   },
   {
     "source": "The Guardian",
