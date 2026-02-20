@@ -1,11 +1,259 @@
 [
   {
     "source": "CNBC",
-    "title": "S&P 500 jumps after Supreme Court knocks down Trump\u2019s emergency tariffs: Live updates",
+    "title": "National Parent Teacher Association breaks ties with Meta amid child-safety trials",
+    "link": "https://www.cnbc.com/2026/02/20/national-pta-meta-child-safety-trials-zuckerberg.html",
+    "summary": "Child-safety advocacy coalition ParentsSOS urged the National PTA to end other Big Tech partnerships due to safety and well-being concerns.",
+    "timestamp": 1771622476.0,
+    "date": "Feb 20, 21:21"
+  },
+  {
+    "source": "CNBC",
+    "title": "S&P 500 rises, Dow gains 200 points after Supreme Court strikes down Trump emergency tariffs: Live updates",
     "link": "https://www.cnbc.com/2026/02/19/stock-market-today-live-updates.html",
-    "summary": "Traders reacted to the latest gross domestic product report, which badly missed estimates.",
-    "timestamp": 1771619071.0,
+    "summary": "Stocks rose on Friday after the Supreme Court\u00a0ruled against President Donald Trump's tariffs.",
+    "timestamp": 1771622320.0,
+    "date": "Feb 20, 21:18"
+  },
+  {
+    "source": "CNBC",
+    "title": "Retail industry says Trump tariff reversal is a win, even as uncertainty remains",
+    "link": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariff-decision-retail-industry-reacts.html",
+    "summary": "Clothing and footwear were among the imports most vulnerable to Trump's tariffs, which imposed steep rates on countries like China and Vietnam.",
+    "timestamp": 1771622200.0,
+    "date": "Feb 20, 21:16"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump announces new 10% global tariff after raging over Supreme Court loss",
+    "link": "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
+    "summary": "President Donald Trump spoke hours after the Supreme Court ruled against his global tariffs that he imposed without Congress.",
+    "timestamp": 1771622179.0,
+    "date": "Feb 20, 21:16"
+  },
+  {
+    "source": "CNBC",
+    "title": "The best trades after geopolitical shocks as possible Iran conflict looms",
+    "link": "https://www.cnbc.com/2026/02/20/the-best-trades-after-geopolitical-shocks-as-new-iran-conflict-looms.html",
+    "summary": "Bank of America has a playbook for how various assets have performed in the aftermath of seismic geopolitical events.",
+    "timestamp": 1771621696.0,
+    "date": "Feb 20, 21:08"
+  },
+  {
+    "source": "CNBC",
+    "title": "Beaten-down software stocks RingCentral and Five9 rally as earnings quell some AI concerns",
+    "link": "https://www.cnbc.com/2026/02/20/ringcentral-ring-five9-fivn-rally-ai-sell-off.html",
+    "summary": "Software stocks have been in sell-off mode in recent weeks on fears that new AI tools will uproot their longstanding business models.",
+    "timestamp": 1771621637.0,
+    "date": "Feb 20, 21:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Short track-Dutch win men's 5,000 metres relay",
+    "link": "https://www.channelnewsasia.com/sport/short-track-dutch-win-mens-5000-metres-relay-5943806",
+    "summary": "",
+    "timestamp": 1771621305.0,
+    "date": "Feb 20, 21:01"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Floreana giant tortoise reintroduced to Gal\u00e1pagos island after almost 200 years",
+    "link": "https://www.theguardian.com/world/2026/feb/20/floreana-giant-tortoise-reintroduced-to-galapagos-island-after-almost-200-years",
+    "summary": "<p>Subspecies driven to extinction by hungry whalers returns after \u2018back breeding\u2019 programme using partial descendants</p><p>Giant tortoises, the life-giving engineers of remote small island ecosystem...",
+    "timestamp": 1771621249.0,
+    "date": "Feb 20, 21:00"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Remember HQ? \u2018Quiz Daddy\u2019 Scott Rogowsky is back with TextSavvy, a daily mobile game show",
+    "link": "https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/",
+    "summary": "The former HQ host Scott Rogowsky is back with TextSavvy, a live mobile game show that he's building on his own terms.",
+    "timestamp": 1771621200.0,
+    "date": "Feb 20, 21:00"
+  },
+  {
+    "source": "CNBC",
+    "title": "Microsoft gaming chief Phil Spencer retires, replaced by ex-Instacart exec Asha Sharma",
+    "link": "https://www.cnbc.com/2026/02/20/microsoft-gaming-chief-phil-spencer-retires-asha-sharma-replacing.html",
+    "summary": "Phil Spencer is retiring from Microsoft after joining the software company 38 years ago, and will be replaced by Instacart's former COO.",
+    "timestamp": 1771621163.0,
+    "date": "Feb 20, 20:59"
+  },
+  {
+    "source": "The Verge",
+    "title": "Microsoft says today\u2019s Xbox shake-up doesn\u2019t mean game studio layoffs",
+    "link": "https://www.theverge.com/games/882377/microsoft-says-todays-xbox-shakeup-doesnt-mean-game-studio-layoffs",
+    "summary": "Xbox has new leaders today, now that Phil Spencer and Sarah Bond are out - and you'd be forgiven for assuming that means yet another round of layoffs and shuttered studios, especially one day after So...",
+    "timestamp": 1771621107.0,
+    "date": "Feb 20, 20:58"
+  },
+  {
+    "source": "New York Times",
+    "title": "Hungary Poses Unexpected Hurdle to Europe\u2019s 90-Billion Euro Loan to Ukraine",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
+    "summary": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine.",
+    "timestamp": 1771620992.0,
+    "date": "Feb 20, 20:56"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+    "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+    "summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system ...",
+    "timestamp": 1771620768.0,
+    "date": "Feb 20, 20:52"
+  },
+  {
+    "source": "The Verge",
+    "title": "Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft",
+    "link": "https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out",
+    "summary": "After nearly 40 years at Microsoft, Xbox chief and Microsoft Gaming CEO Phil Spencer is leaving the company, along with Xbox president Sarah Bond. Spencer\u2019s retirement was announced in a memo from Mic...",
+    "timestamp": 1771620742.0,
+    "date": "Feb 20, 20:52"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "UK govt considers removing ex-prince Andrew from line of succession",
+    "link": "https://www.channelnewsasia.com/world/prince-andrew-mount-king-charles-uk-british-gov-royal-epstein-5943766",
+    "summary": "The&nbsp;British government is weighing legislation to remove Andrew Mountbatten-Windsor him from the line of succession as public pressure mounts.",
+    "timestamp": 1771620540.0,
+    "date": "Feb 20, 20:49"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "How are killer drones reshaping the conflict in Sudan",
+    "link": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-aj_tt_sdn_alfashir_av_v1-200226?traffic_source=rss",
+    "summary": "Sudan enters Ramadan as Civil War intensifies, famine spreads, and drone strikes hit civilian markets.",
+    "timestamp": 1771620519.0,
+    "date": "Feb 20, 20:48"
+  },
+  {
+    "source": "New York Times",
+    "title": "U.K. Police Contacting Security Officers Who Once Protected Former Prince Andrew",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-search-epstein.html",
+    "summary": "The authorities also searched a mansion used by Andrew Mountbatten-Windsor, who was arrested in connection with an investigation into suspicion of misconduct in public office.",
+    "timestamp": 1771620384.0,
+    "date": "Feb 20, 20:46"
+  },
+  {
+    "source": "The Verge",
+    "title": "SCOTUS rules Trump\u2019s tariffs are illegal \u2014 but the fight is far from over",
+    "link": "https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds",
+    "summary": "The US Supreme Court struck down some of Donald Trump's tariffs on foreign imports, which have become a hallmark of the chaos of the second Trump administration. The court's ruling deals specifically ...",
+    "timestamp": 1771620344.0,
+    "date": "Feb 20, 20:45"
+  },
+  {
+    "source": "New York Times",
+    "title": "An Enemy\u2019s Fall Frees Up South Korea\u2019s Leader. Now Comes the Tough Part.",
+    "link": "https://www.nytimes.com/2026/02/20/world/asia/south-korea-lee-yoon.html",
+    "summary": "President Lee Jae Myung gained legitimacy from his predecessor\u2019s conviction\u200b. But South Korea\u2019s political polarization is caustic, and could get worse.",
+    "timestamp": 1771620261.0,
+    "date": "Feb 20, 20:44"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Hungary to block 90 billion euro EU loan to Ukraine in Russian oil dispute",
+    "link": "https://www.aljazeera.com/news/2026/2/20/hungary-to-block-90-billion-euro-eu-loan-to-ukraine-in-russian-oil-dispute?traffic_source=rss",
+    "summary": "Foreign Minister \u200bPeter Szijjarto says Hungary &#039;will not give in to this blackmail&#039; after oil flows from Ukraine halted.",
+    "timestamp": 1771620244.0,
+    "date": "Feb 20, 20:44"
+  },
+  {
+    "source": "New York Times",
+    "title": "India\u2019s Hindu Right Seems Unstoppable. This City Shows How.",
+    "link": "https://www.nytimes.com/2026/02/20/world/asia/india-hindu-muslims-mosque.html",
+    "summary": "Muslims make up a majority in Sambhal, but after deadly clashes over a mosque, they say they the arms of the state are now stifling them.",
+    "timestamp": 1771619971.0,
+    "date": "Feb 20, 20:39"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Bobsleigh-German-US rivalry warms the ice in Two-Woman",
+    "link": "https://www.channelnewsasia.com/sport/bobsleigh-german-us-rivalry-warms-ice-in-two-woman-5943796",
+    "summary": "",
+    "timestamp": 1771619877.0,
+    "date": "Feb 20, 20:37"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Curling-Switzerland thrash Norway to win men's bronze medal",
+    "link": "https://www.channelnewsasia.com/sport/curling-switzerland-thrash-norway-win-mens-bronze-medal-5943801",
+    "summary": "",
+    "timestamp": 1771619834.0,
+    "date": "Feb 20, 20:37"
+  },
+  {
+    "source": "New York Times",
+    "title": "Ferreira completes his halfpipe set with gold.",
+    "link": "https://www.nytimes.com/2026/02/20/world/alex-ferreira-halpipe-gold.html",
+    "summary": "The American Alex Ferreira nailed his final run to win gold in the ski halfpipe.",
+    "timestamp": 1771619816.0,
+    "date": "Feb 20, 20:36"
+  },
+  {
+    "source": "New York Times",
+    "title": "3 People Are Killed in Series of Avalanches in Austrian Alps",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/austrian-alps-avalanche-skiing-death.html",
+    "summary": "The police said several other rescues took place. The avalanches happened amid severe weather warnings across the region.",
+    "timestamp": 1771619537.0,
+    "date": "Feb 20, 20:32"
+  },
+  {
+    "source": "The Verge",
+    "title": "Read Microsoft gaming CEO Asha Sharma&#8217;s first memo on the future of Xbox",
+    "link": "https://www.theverge.com/games/882326/read-microsoft-gaming-ceo-asha-sharma-first-memo",
+    "summary": "Microsoft gaming boss Phil Spencer has just announced he's leaving the company after 12 years leading Xbox and nearly 40 at Microsoft in total. His replacement: Asha Sharma, formerly head of developme...",
+    "timestamp": 1771619459.0,
+    "date": "Feb 20, 20:30"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Speed skating-Rijpma-de Jong says pressure paid off with gold at fourth Games attempt",
+    "link": "https://www.channelnewsasia.com/sport/speed-skating-rijpma-de-jong-says-pressure-paid-gold-fourth-games-attempt-5943791",
+    "summary": "",
+    "timestamp": 1771619438.0,
+    "date": "Feb 20, 20:30"
+  },
+  {
+    "source": "The Verge",
+    "title": "Read Xbox chief Phil Spencer\u2019s memo about leaving Microsoft",
+    "link": "https://www.theverge.com/news/882340/xbox-phil-spencer-microsoft-retirement-memo",
+    "summary": "Xbox chief Phil Spencer has just announced to employees that he's leaving Microsoft after 38 years. In a memo entitled \"A new chapter for Microsoft Gaming,\" Spencer reveals to Xbox employees that he m...",
+    "timestamp": 1771619416.0,
+    "date": "Feb 20, 20:30"
+  },
+  {
+    "source": "The Verge",
+    "title": "Xbox chief Phil Spencer is leaving Microsoft",
+    "link": "https://www.theverge.com/news/882241/microsoft-phil-spencer-xbox-leaving-retirement",
+    "summary": "Xbox chief Phil Spencer is leaving Microsoft after nearly 40 years at the software giant. Xbox president Sarah Bond is also leaving Microsoft, in what is a major shake-up to the management of Xbox and...",
+    "timestamp": 1771619404.0,
+    "date": "Feb 20, 20:30"
+  },
+  {
+    "source": "The Verge",
+    "title": "Sarah Bond is leaving Xbox",
+    "link": "https://www.theverge.com/games/882281/xbox-sarah-bond-leaving-microsoft",
+    "summary": "Sarah Bond, the president and COO of Xbox, is leaving the organization, along with CEO of Microsoft Gaming Phil Spencer. Her departure is being announced at the same time as Spencer's, with Asha Sharm...",
+    "timestamp": 1771619384.0,
+    "date": "Feb 20, 20:29"
+  },
+  {
+    "source": "CNBC",
+    "title": "How the Supreme Court's decision affects Apple and its $3.3 billion tariff bill",
+    "link": "https://www.cnbc.com/2026/02/20/supreme-court-tariff-decision-apple-trump-cook-iphone.html",
+    "summary": "President Donald Trump's tariffs have cost the iPhone-maker about $1 billion each quarter.",
+    "timestamp": 1771619053.0,
     "date": "Feb 20, 20:24"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Tariff refunds could take years amid US Supreme Court ruling, experts warn",
+    "link": "https://www.aljazeera.com/economy/2026/2/20/tariff-refunds-could-take-years-amid-us-supreme-court-ruling-experts-warn?traffic_source=rss",
+    "summary": "At least 1,000 companies have already sued the administration of United States President Donald Trump.",
+    "timestamp": 1771618788.0,
+    "date": "Feb 20, 20:19"
   },
   {
     "source": "CNA (Asia)",
@@ -22,6 +270,14 @@
     "summary": "The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity dema...",
     "timestamp": 1771618714.0,
     "date": "Feb 20, 20:18"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "US President Trump promises new tariffs, slams Supreme Court decision",
+    "link": "https://www.aljazeera.com/news/2026/2/20/us-president-trump-promises-new-tariffs-slams-supreme-court-decision?traffic_source=rss",
+    "summary": "Supreme Court blocks Trump&#039;s emergency tariffs, but he plans to invoke other laws to maintain and raise tariffs.",
+    "timestamp": 1771618494.0,
+    "date": "Feb 20, 20:14"
   },
   {
     "source": "CNA (Asia)",
@@ -41,8 +297,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Freestyle-American Ferreira wins men's halfpipe final",
-    "link": "https://www.channelnewsasia.com/sport/freestyle-american-ferreira-wins-mens-halfpipe-final-5943761",
+    "title": "Freestyle-American Ferreira completes medal collection with halfpipe gold",
+    "link": "https://www.channelnewsasia.com/sport/freestyle-american-ferreira-completes-medal-collection-halfpipe-gold-5943761",
     "summary": "",
     "timestamp": 1771618016.0,
     "date": "Feb 20, 20:06"
@@ -62,14 +318,6 @@
     "summary": "Around 7.9 million student loan borrowers entered delinquency in the first three quarters of 2025 alone, according to a new report by The Century Foundation.",
     "timestamp": 1771617934.0,
     "date": "Feb 20, 20:05"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump announces new 10% global tariff after raging over Supreme Court loss",
-    "link": "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html",
-    "summary": "President Donald Trump spoke hours after the Supreme Court ruled against his global tariffs that he imposed without Congress.",
-    "timestamp": 1771617800.0,
-    "date": "Feb 20, 20:03"
   },
   {
     "source": "CNBC",
@@ -105,14 +353,6 @@
   },
   {
     "source": "CNBC",
-    "title": "Retail industry says Trump tariff reversal will bring predictability, flexibility for innovation",
-    "link": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariff-decision-retail-industry-reacts.html",
-    "summary": "Clothing and footwear were among the imports most vulnerable to Trump's tariffs, which imposed steep rates on countries like China and Vietnam.",
-    "timestamp": 1771617465.0,
-    "date": "Feb 20, 19:57"
-  },
-  {
-    "source": "CNBC",
     "title": "Trump says he's considering limited military strike against Iran",
     "link": "https://www.cnbc.com/2026/02/20/trump-says-hes-considering-limited-military-strike-against-iran.html",
     "summary": "The oil market's biggest fear is that a conflict between the U.S. and Iran could lead to a prolonged disruption of oil flows through the Strait of Hormuz.",
@@ -144,14 +384,6 @@
     "date": "Feb 20, 19:55"
   },
   {
-    "source": "The Verge",
-    "title": "America is at risk of becoming an automotive backwater",
-    "link": "https://www.theverge.com/transportation/882194/america-auto-backwater-ev-loss-detroit-trump-emissions",
-    "summary": "For decades, America's auto industry was the envy of the world, driven by mass production, the rise of Detroit's Big Three automakers, and the iconic stylings of the 1950s and '60s. Then, through a se...",
-    "timestamp": 1771617157.0,
-    "date": "Feb 20, 19:52"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Trump vows 10% global tariff after stinging court rebuke",
     "link": "https://www.channelnewsasia.com/world/us-supreme-court-trump-tariff-imports-5943711",
@@ -176,24 +408,8 @@
     "date": "Feb 20, 19:39"
   },
   {
-    "source": "CNBC",
-    "title": "The chart on this generator stock signals more gains ahead, says Carter Worth",
-    "link": "https://www.cnbc.com/2026/02/20/the-chart-on-this-generator-stock-signals-more-gains-ahead-says-carter-worth.html",
-    "summary": "Carter Worth breaks down the technicals on this generator maker.",
-    "timestamp": 1771616312.0,
-    "date": "Feb 20, 19:38"
-  },
-  {
-    "source": "New York Times",
-    "title": "U.K. Police Contacting Security Officers Who Once Protected Former Prince Andrew",
-    "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-search-epstein.html",
-    "summary": "The authorities also searched a mansion used by Andrew Mountbatten-Windsor, who was arrested in connection with an investigation into suspicion of misconduct in public office.",
-    "timestamp": 1771616307.0,
-    "date": "Feb 20, 19:38"
-  },
-  {
     "source": "Al Jazeera",
-    "title": "At least two killed in Israeli attack on Palestinian camp in Lebanon",
+    "title": "Israeli attacks across Lebanon kill at least eight people",
     "link": "https://www.aljazeera.com/news/2026/2/20/one-killed-in-israeli-strike-on-largest-palestinian-refugee-camp-in-lebanon?traffic_source=rss",
     "summary": "Lebanon&#039;s official news agency NNA says &#039;Israeli drone&#039; targeted the Hittin neighbourhood of the Ein el-Hilweh camp.",
     "timestamp": 1771616267.0,
@@ -230,22 +446,6 @@
     "summary": "Can wildlife tourism balance conservation, land rights and profit?",
     "timestamp": 1771615800.0,
     "date": "Feb 20, 19:30"
-  },
-  {
-    "source": "The Verge",
-    "title": "FCC calls on broadcasters to air \u2018pro-America content\u2019 for the country\u2019s\u00a0250th anniversary",
-    "link": "https://www.theverge.com/policy/882250/fcc-brendan-carr-pro-america-content-250-anniversary",
-    "summary": "Federal Communications Commission Chair Brendan Carr is urging broadcasters to air \"patriotic, pro-America content\" in celebration of the US's 250th anniversary. The initiative, called the \"Pledge Ame...",
-    "timestamp": 1771615774.0,
-    "date": "Feb 20, 19:29"
-  },
-  {
-    "source": "CNBC",
-    "title": "Tesla loses bid to toss $243 million verdict in fatal Autopilot crash suit",
-    "link": "https://www.cnbc.com/2026/02/20/tesla-loses-bid-toss-243-million-verdict-fatal-autopilot-crash-suit.html",
-    "summary": "A federal judge in Miami denied Tesla's bid to overturn a $243 million jury verdict in a high-profile lawsuit over a fatal Autopilot crash.",
-    "timestamp": 1771615727.0,
-    "date": "Feb 20, 19:28"
   },
   {
     "source": "Al Jazeera",
@@ -344,14 +544,6 @@
     "date": "Feb 20, 19:06"
   },
   {
-    "source": "CNBC",
-    "title": "Beaten-down software stocks RingCentral and Five9 rally as earnings quell some AI concerns",
-    "link": "https://www.cnbc.com/2026/02/20/ringcentral-ring-five9-fivn-rally-ai-sell-off.html",
-    "summary": "Software stocks have been in sell-off mode in recent weeks on fears that new AI tools will uproot their longstanding business models.",
-    "timestamp": 1771614190.0,
-    "date": "Feb 20, 19:03"
-  },
-  {
     "source": "BBC World",
     "title": "Tariffs ruling is major blow to Trump's second-term agenda",
     "link": "https://www.bbc.com/news/articles/cx2jqgdn719o?at_medium=RSS&at_campaign=rss",
@@ -408,14 +600,6 @@
     "date": "Feb 20, 18:22"
   },
   {
-    "source": "The Verge",
-    "title": "Trump Mobile is just Liberty Mobile in gold foil",
-    "link": "https://www.theverge.com/tech/882064/trump-mobile-liberty-mobile-wireless-mvno",
-    "summary": "Where's the Trump phone? We're going to keep talking about it every week. This week, we explain how the presidential phone company connects to an older company that's really running the show. We've lo...",
-    "timestamp": 1771611462.0,
-    "date": "Feb 20, 18:17"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Inside Israel\u2019s plan to turn West Bank land into \u2018state property\u2019",
     "link": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-pal_wblandregistration_av_v3-1-180226?traffic_source=rss",
@@ -464,14 +648,6 @@
     "date": "Feb 20, 17:54"
   },
   {
-    "source": "The Verge",
-    "title": "Everything is gambling now: the latest news on prediction markets like Polymarket and Kalshi",
-    "link": "https://www.theverge.com/news/868238/prediction-markets-polymarket-kalshi-robinhood",
-    "summary": "Prediction markets will let you bet on just about anything, from how many tweets Elon Musk will post this week to the next president of the United States, with predictions sometimes showing shockingly...",
-    "timestamp": 1771610051.0,
-    "date": "Feb 20, 17:54"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "Snowboard-Hard work and high standards behind Japan's record medal haul",
     "link": "https://www.channelnewsasia.com/sport/snowboard-hard-work-and-high-standards-behind-japans-record-medal-haul-5943516",
@@ -513,7 +689,7 @@
   },
   {
     "source": "NPR",
-    "title": "Skis? Check. Poles? Check. Knitting needles? Naturally",
+    "title": "On pins and needles: Why Olympians pass the time knitting",
     "link": "https://www.npr.org/2026/02/20/nx-s1-5720897/olympics-ben-ogden-knitting",
     "summary": "A number of Olympic athletes have turned to knitting during the heat of the Games, including Ben Ogden, who this week became the most decorated American male Olympic cross-country skier.",
     "timestamp": 1771608571.0,
@@ -545,27 +721,11 @@
   },
   {
     "source": "New York Times",
-    "title": "India\u2019s Hindu Right Seems Unstoppable. This City Shows How.",
-    "link": "https://www.nytimes.com/2026/02/20/world/asia/india-hindu-muslims-mosque.html",
-    "summary": "Muslims make up a majority in Sambhal, but after deadly clashes over a mosque, they say they the arms of the state are now stifling them.",
-    "timestamp": 1771607849.0,
-    "date": "Feb 20, 17:17"
-  },
-  {
-    "source": "New York Times",
     "title": "Venezuela Releases Political Prisoners, With Conditions",
     "link": "https://www.nytimes.com/video/world/americas/100000010703424/venezuela-releases-political-prisoners-with-conditions.html",
     "summary": "Since Nicol\u00e1s Maduro\u2019s capture by the United States, Venezuela has released hundreds of political prisoners and approved a new amnesty law, although the restrictions on those freed have raised questio...",
     "timestamp": 1771607699.0,
     "date": "Feb 20, 17:14"
-  },
-  {
-    "source": "The Verge",
-    "title": "Smart glasses in court are a privacy nightmare",
-    "link": "https://www.theverge.com/tech/882030/smart-glasses-in-court-meta-mark-zuckerberg",
-    "summary": "When Meta CEO Mark Zuckerberg arrived at a Los Angeles courthouse on Wednesday, he did so with a team that appeared to be wearing Meta's camera-equipped Ray-Ban smart glasses. Judge Carolyn Kuhl was c...",
-    "timestamp": 1771607493.0,
-    "date": "Feb 20, 17:11"
   },
   {
     "source": "CNA (Asia)",
@@ -574,14 +734,6 @@
     "summary": "",
     "timestamp": 1771607288.0,
     "date": "Feb 20, 17:08"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Svitolina downs Gauff, Pegula fights back to beat Anisimova in Dubai semis",
-    "link": "https://www.channelnewsasia.com/sport/svitolina-downs-gauff-pegula-fights-back-beat-anisimova-in-dubai-semis-5943441",
-    "summary": "",
-    "timestamp": 1771607223.0,
-    "date": "Feb 20, 17:07"
   },
   {
     "source": "CNBC",
@@ -608,28 +760,12 @@
     "date": "Feb 20, 17:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Speed skating-Rijpma-de Jong completes her medal set with 1,500m gold at Milano Cortina",
-    "link": "https://www.channelnewsasia.com/sport/speed-skating-rijpma-de-jong-completes-her-medal-set-1500m-gold-milano-cortina-5943426",
-    "summary": "",
-    "timestamp": 1771606790.0,
-    "date": "Feb 20, 16:59"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Senegal football federation denounces verdict in Morocco against fans",
     "link": "https://www.aljazeera.com/sports/2026/2/20/senegal-football-federation-denounces-verdict-in-morocco-against-fans?traffic_source=rss",
     "summary": "Eighteen Senegal fans were detained following the AFCON final in Morocco on January 18 and were sentenced on Thursday.",
     "timestamp": 1771606746.0,
     "date": "Feb 20, 16:59"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Biathlon-Norway's Laegreid signs off with fifth medal at Milano Cortina Games",
-    "link": "https://www.channelnewsasia.com/sport/biathlon-norways-laegreid-signs-fifth-medal-milano-cortina-games-5943421",
-    "summary": "",
-    "timestamp": 1771606702.0,
-    "date": "Feb 20, 16:58"
   },
   {
     "source": "France 24",
@@ -656,43 +792,11 @@
     "date": "Feb 20, 16:54"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Explainer-How will companies get refunds now that the US Supreme Court has rejected Trump's tariffs?",
-    "link": "https://www.channelnewsasia.com/business/explainer-how-will-companies-get-refunds-now-us-supreme-court-has-rejected-trumps-tariffs-5943411",
-    "summary": "",
-    "timestamp": 1771606369.0,
-    "date": "Feb 20, 16:52"
-  },
-  {
-    "source": "The Verge",
-    "title": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
-    "summary": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told ...",
-    "timestamp": 1771606368.0,
-    "date": "Feb 20, 16:52"
-  },
-  {
-    "source": "The Verge",
-    "title": "OpenAI&#8217;s first ChatGPT gadget could be a smart speaker with a camera",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
-    "summary": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information. The device will be able to recognize things like \"ite...",
-    "timestamp": 1771606323.0,
-    "date": "Feb 20, 16:52"
-  },
-  {
     "source": "NPR",
     "title": "U.K. considers cutting ex-Prince Andrew from line of succession over his Epstein ties",
     "link": "https://www.npr.org/2026/02/20/g-s1-110915/uk-former-prince-andrew-epstein-investigation",
     "summary": "Andrew Mountbatten-Windsor, the British former prince, is being investigated on suspicion of misconduct in having shared confidential trade information with the late sex offender Jeffrey Epstein.",
     "timestamp": 1771606295.0,
-    "date": "Feb 20, 16:51"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Leclerc fastest for Ferrari on final day of F1 testing",
-    "link": "https://www.channelnewsasia.com/sport/leclerc-fastest-ferrari-final-day-f1-testing-5943406",
-    "summary": "",
-    "timestamp": 1771606289.0,
     "date": "Feb 20, 16:51"
   },
   {
@@ -710,14 +814,6 @@
     "summary": "Top Iranian diplomat Abbas Araghchi says US &#039;has not asked&#039; for zero uranium enrichment in nuclear talks.",
     "timestamp": 1771605925.0,
     "date": "Feb 20, 16:45"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump could attack Iran in days \u2014 what's at stake for the oil market",
-    "link": "https://www.cnbc.com/2026/02/20/trump-could-attack-iran-in-days-whats-at-stake-for-the-oil-market.html",
-    "summary": "President Trump has warned Iran that an attack would be \"far worse\" than the U.S. airstrikes that targeted its nuclear facilities last June.",
-    "timestamp": 1771605012.0,
-    "date": "Feb 20, 16:30"
   },
   {
     "source": "Deutsche Welle",
@@ -776,14 +872,6 @@
     "date": "Feb 20, 16:08"
   },
   {
-    "source": "New York Times",
-    "title": "In Ukraine, Senators See War\u2019s Impact and Press for Stronger U.S. Support",
-    "link": "https://www.nytimes.com/2026/02/20/us/politics/senators-ukraine-visit.html",
-    "summary": "Senate Democrats traveled to Kyiv and Odessa to show solidarity with the war-torn nation and make the case that the United States should do more, including imposing harsh sanctions on Russia.",
-    "timestamp": 1771603596.0,
-    "date": "Feb 20, 16:06"
-  },
-  {
     "source": "CNBC",
     "title": "Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate; inflation firms at 3%",
     "link": "https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html",
@@ -800,14 +888,6 @@
     "date": "Feb 20, 16:04"
   },
   {
-    "source": "New York Times",
-    "title": "Johannes Dale-Skjevdal of Norway Wins Biathlon Mass Start",
-    "link": "https://www.nytimes.com/2026/02/20/world/biathlon-johannes-dale-skjevdal-norway.html",
-    "summary": "Johannes Dale-Skjevdal of Norway hit all 20 of his shots to win the gold medal in the mass start event.",
-    "timestamp": 1771603438.0,
-    "date": "Feb 20, 16:03"
-  },
-  {
     "source": "TechCrunch",
     "title": "Meta\u2019s metaverse leaves virtual reality",
     "link": "https://techcrunch.com/2026/02/20/meta-metaverse-leaves-vr-horizon-worlds-mobile/",
@@ -822,14 +902,6 @@
     "summary": "Residents say they\u2019re scared for their own homes after a deadly building collapse in northern Lebanon.",
     "timestamp": 1771603146.0,
     "date": "Feb 20, 15:59"
-  },
-  {
-    "source": "New York Times",
-    "title": "As Trump Considers Second Iran Attack, It Could Be Deadlier Than the First",
-    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-iran-risks.html",
-    "summary": "Within days of the U.S. strikes on Iran\u2019s nuclear facilities last year, all sides agreed to a cease-fire. This time could be different.",
-    "timestamp": 1771603105.0,
-    "date": "Feb 20, 15:58"
   },
   {
     "source": "BBC World",
@@ -872,14 +944,6 @@
     "date": "Feb 20, 15:51"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Trump tariffs live: US president slams Supreme Court, vows more tariffs",
-    "link": "https://www.aljazeera.com/news/liveblog/2026/2/20/trump-tariffs-live-us-supreme-court-rules-against-sweeping-global-tariffs?traffic_source=rss",
-    "summary": "Top US court says Trump did not have authority to enact tariffs under law meant for national emergencies.",
-    "timestamp": 1771602556.0,
-    "date": "Feb 20, 15:49"
-  },
-  {
     "source": "France 24",
     "title": "India AI summit in New Delhi: When AI amplifies the biases of users",
     "link": "https://www.france24.com/en/india-ai-summit-in-new-delhi-when-ai-amplifies-the-biases-of-users",
@@ -907,17 +971,9 @@
     "source": "NPR",
     "title": "7 key things to know about Trump's tariffs after the Supreme Court decision",
     "link": "https://www.npr.org/2026/02/20/nx-s1-5677609/tariffs-economy-trump-supreme-court",
-    "summary": "The Supreme Court ruled Friday that President Trump overstepped his authority in ordering double-digit tariffs on nearly everything the U.S. imports.  Here's some of the economic context to understand...",
+    "summary": "The Supreme Court ruled Friday that President Trump overstepped his authority in ordering double-digit tariffs on nearly everything the U.S. imports. Here's some of the economic context to understand ...",
     "timestamp": 1771601893.0,
     "date": "Feb 20, 15:38"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "In Gaza, Trump\u2019s Board of Peace met with deep scepticism, little hope",
-    "link": "https://www.aljazeera.com/features/2026/2/20/in-gaza-trumps-board-of-peace-met-with-deep-scepticism-little-hope?traffic_source=rss",
-    "summary": "In war-ravaged Gaza, residents question whether Trump&#039;s Board of Peace will deliver real security.",
-    "timestamp": 1771601820.0,
-    "date": "Feb 20, 15:37"
   },
   {
     "source": "Deutsche Welle",
@@ -966,22 +1022,6 @@
     "summary": "Junot D\u00edaz's ",
     "timestamp": 1771601245.0,
     "date": "Feb 20, 15:27"
-  },
-  {
-    "source": "CNBC",
-    "title": "Small furniture retailers face existential tariff threat, despite Supreme Court ruling",
-    "link": "https://www.cnbc.com/2026/02/19/supreme-court-tariffs-furniture-retailers-threat.html",
-    "summary": "Higher import costs is the latest blow to the furniture industry, which had been buckling under interest rates and a sluggish housing market well before tariffs.",
-    "timestamp": 1771600803.0,
-    "date": "Feb 20, 15:20"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "In major blow to Trump, US Supreme Court strikes down his global tariffs",
-    "link": "https://www.aljazeera.com/news/2026/2/20/us-supreme-court-strikes-down-trumps-global-tariffs?traffic_source=rss",
-    "summary": "The decision is a significant loss to US President Trump on an issue that has been critical for his economic agenda.",
-    "timestamp": 1771600353.0,
-    "date": "Feb 20, 15:12"
   },
   {
     "source": "NPR",
@@ -1118,14 +1158,6 @@
     "summary": "An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments.",
     "timestamp": 1771596217.0,
     "date": "Feb 20, 14:03"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "UN emergency food aid in Somalia may halt by April amid severe hunger",
-    "link": "https://www.aljazeera.com/news/2026/2/20/un-emergency-food-aid-in-somalia-may-halt-by-april-amid-severe-hunger?traffic_source=rss",
-    "summary": "Families in Somalia pushed to the brink amid severe hunger; urgent food aid needed to avert worsening conditions.",
-    "timestamp": 1771596106.0,
-    "date": "Feb 20, 14:01"
   },
   {
     "source": "The Guardian",
@@ -1347,7 +1379,7 @@
     "source": "Deutsche Welle",
     "title": "Germany news: CDU re-elects Chancellor Merz as party leader",
     "link": "https://www.dw.com/en/germany-news-cdu-re-elects-chancellor-merz-as-party-leader/live-76052837?maca=en-rss-en-all-1573-rdf",
-    "summary": "On the international front, the chancellor has made a splash, but on the home front, the scorecard has been more mixed. The level of support in the CDU will be an indicator of what he needs to do.",
+    "summary": "Chancellor Friedrich Merz accused the far-right AfD of only serving its \"own interests\" during a CDU party conference speech. Former Chancellor Angela Merkel was welcomed as a special guest at the Stu...",
     "timestamp": 1771579080.0,
     "date": "Feb 20, 09:18"
   },
@@ -1358,14 +1390,6 @@
     "summary": "ECB chief Christine Lagarde insists she\u2019ll complete her term, despite reports of an early exit to influence the French election. DW asks whether Europe must better shield its institutions from a risin...",
     "timestamp": 1771579020.0,
     "date": "Feb 20, 09:17"
-  },
-  {
-    "source": "New York Times",
-    "title": "An Enemy\u2019s Fall Frees Up South Korea\u2019s Leader. Now Comes the Tough Part.",
-    "link": "https://www.nytimes.com/2026/02/20/world/asia/south-korea-lee-yoon.html",
-    "summary": "President Lee Jae Myung gained legitimacy from his predecessor\u2019s conviction\u200b. But South Korea\u2019s political polarization is caustic, and could get worse.",
-    "timestamp": 1771577583.0,
-    "date": "Feb 20, 08:53"
   },
   {
     "source": "BBC World",
@@ -1414,14 +1438,6 @@
     "summary": "<p><strong>Exclusive</strong>: AFP comment comes as Bilal El-Hayek, mayor of Canterbury Bankstown, says One Nation leader\u2019s comments \u2018will incite someone\u2019</p><ul><li><p>Get our <a href=\"https://www.th...",
     "timestamp": 1771568362.0,
     "date": "Feb 20, 06:19"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Ali Partovi\u2019s Neo looks to upend the accelerator model with low-dilution terms",
-    "link": "https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/",
-    "summary": "Neo's new Residency program invests $750,000 in an uncapped SAFE for startups and provides a $40,000 no-strings-attached grant for college students.",
-    "timestamp": 1771568035.0,
-    "date": "Feb 20, 06:13"
   },
   {
     "source": "BBC World",
@@ -1486,14 +1502,6 @@
     "summary": "His associate said the music industry was \"related to P\", a way Epstein apparently often referred to women.",
     "timestamp": 1771549660.0,
     "date": "Feb 20, 01:07"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Google\u2019s new Gemini Pro model has record benchmark scores \u2014 again",
-    "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
-    "summary": "Gemini 3.1 Pro promises a Google LLM capable of handling more complex forms of work.",
-    "timestamp": 1771548922.0,
-    "date": "Feb 20, 00:55"
   },
   {
     "source": "BBC World",
@@ -1574,14 +1582,6 @@
     "summary": "<p>Three boats targeted in eastern Pacific and Caribbean as Trump continues pursuit of alleged \u2018narco-terrorists\u2019</p><p>US military officials have said American forces launched assaults on three alleg...",
     "timestamp": 1771365259.0,
     "date": "Feb 17, 21:54"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Peru\u2019s president ousted in \u2018express impeachment\u2019 after just four months",
-    "link": "https://www.theguardian.com/world/2026/feb/17/perus-president-ousted-in-express-impeachment-after-just-four-months",
-    "summary": "<p>Interim president Jos\u00e9 Jer\u00ed voted out by country\u2019s congress amid scandal concerning secretive meetings </p><p>Peru\u2019s interim president has been forced out of office in an \u201cexpress impeachment\u201d afte...",
-    "timestamp": 1771361780.0,
-    "date": "Feb 17, 20:56"
   },
   {
     "source": "The Guardian",
