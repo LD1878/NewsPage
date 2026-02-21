@@ -1,19 +1,331 @@
 [
   {
+    "source": "CNBC",
+    "title": "JPMorgan concedes it closed Trump's accounts after Jan. 6 attack on the Capitol",
+    "link": "https://www.cnbc.com/2026/02/21/jpmorgan-concedes-it-closed-trumps-accounts-after-jan-6-attack.html",
+    "summary": "Trump sued JPMorgan Chase for $5 billion, alleging that his accounts were closed for political reasons, disrupting his business operations.",
+    "timestamp": 1771708780.0,
+    "date": "Feb 21, 21:19"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Arab countries condemn US ambassador's remarks on Israel's right to Mideast land",
+    "link": "https://www.channelnewsasia.com/world/arab-countries-condemn-us-ambassadors-remarks-israels-right-mideast-land-5945016",
+    "summary": "",
+    "timestamp": 1771708260.0,
+    "date": "Feb 21, 21:11"
+  },
+  {
+    "source": "The Verge",
+    "title": "Arturia\u2019s FX Collection 6 adds two new effects and a $99 intro version",
+    "link": "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
+    "summary": "Arturia launched a new version of its flagship effects suite, FX Collection, which includes two new plugins, EFX Ambient and Pitch Shifter-910. FX Collection 6 also marks the introduction of an Intro ...",
+    "timestamp": 1771708201.0,
+    "date": "Feb 21, 21:10"
+  },
+  {
+    "source": "BBC World",
+    "title": "Nasa astronauts' moon mission delayed due to rocket issue",
+    "link": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
+    "summary": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said.",
+    "timestamp": 1771707918.0,
+    "date": "Feb 21, 21:05"
+  },
+  {
+    "source": "CNBC",
+    "title": "Blizzard warnings issued for New York City, New Jersey, Connecticut as storm threatens East Coast",
+    "link": "https://www.cnbc.com/2026/02/21/blizzard-warnings-issued-for-new-york-city-new-jersey-connecticut.html",
+    "summary": "Blizzard warnings were issued for New York City and communities along the East Coast as a late-winter storm was set to arrive on Sunday.",
+    "timestamp": 1771707900.0,
+    "date": "Feb 21, 21:05"
+  },
+  {
+    "source": "CNBC",
+    "title": "NASA delays astronaut moon mission again after new rocket problem",
+    "link": "https://www.cnbc.com/2026/02/21/nasa-artemis-ii-moon-rocket-march-launch-with-astronauts-in-jeopardy.html",
+    "summary": "In the latest setback to return astronauts to the moon, NASA delayed the highly anticipated flight yet again after a new problem cropped up with the rocket Saturday.",
+    "timestamp": 1771707788.0,
+    "date": "Feb 21, 21:03"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Bobsleigh-Germany's Nolte holds nerve to retain Two-Woman title",
+    "link": "https://www.channelnewsasia.com/sport/bobsleigh-germanys-nolte-holds-nerve-retain-two-woman-title-5945021",
+    "summary": "",
+    "timestamp": 1771707764.0,
+    "date": "Feb 21, 21:02"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Curling-Jacobs' Canada beat Britain to win men's curling gold",
+    "link": "https://www.channelnewsasia.com/sport/curling-jacobs-canada-beat-britain-win-mens-curling-gold-5945006",
+    "summary": "",
+    "timestamp": 1771707403.0,
+    "date": "Feb 21, 20:56"
+  },
+  {
     "source": "NPR",
-    "title": "How pin trading became an Olympic tradition \u2014 and what to know before you try it",
+    "title": "Mississippi health system shuts down clinics statewide after ransomware attack",
+    "link": "https://www.npr.org/2026/02/21/nx-s1-5721746/mississippi-health-system-ransomware-attack",
+    "summary": "The attack was launched on Thursday and prompted hospital officials to close all of its 35 clinics across the state.",
+    "timestamp": 1771707153.0,
+    "date": "Feb 21, 20:52"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Indonesia president says ready to face all possibilities after US Supreme Court rejects Trump's global tariffs",
+    "link": "https://www.channelnewsasia.com/asia/indonesia-president-says-ready-face-all-possibilities-after-us-supreme-court-rejects-trumps-global-tariffs-5944671",
+    "summary": "",
+    "timestamp": 1771707061.0,
+    "date": "Feb 21, 20:51"
+  },
+  {
+    "source": "NPR",
+    "title": "Blizzard conditions and high winds forecast for NYC, East coast",
+    "link": "https://www.npr.org/2026/02/21/nx-s1-5722292/winter-storm-blizzard-conditions-northeast",
+    "summary": "The winter storm is expected to bring blizzard conditions and possibly up to 2 feet of snow in New York City.",
+    "timestamp": 1771706731.0,
+    "date": "Feb 21, 20:45"
+  },
+  {
+    "source": "NPR",
+    "title": "Norway's Johannes Kl\u00e6bo is new Winter Olympics king",
+    "link": "https://www.npr.org/2026/02/21/nx-s1-5722280/norways-johannes-kl\u00e6bo-is-new-winter-olympics-king",
+    "summary": "Johannes Klaebo won all six cross-country skiing events at this year's Winter Olympics, the surpassing Eric Heiden's five golds in 1980.",
+    "timestamp": 1771706545.0,
+    "date": "Feb 21, 20:42"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "US: Technical issues force NASA to postpone moon mission",
+    "link": "https://www.dw.com/en/us-technical-issues-force-nasa-to-postpone-moon-mission/a-76075479?maca=en-rss-en-all-1573-rdf",
+    "summary": "The US space agency has said an issue with fuel supply is the culprit, though the source of the problem has not yet been found. The scheduled flyby is to be the first manned mission to the moon in fiv...",
+    "timestamp": 1771705920.0,
+    "date": "Feb 21, 20:32"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "France's Jalibert out of Six Nations clash with Italy",
+    "link": "https://www.channelnewsasia.com/sport/frances-jalibert-out-six-nations-clash-italy-5944981",
+    "summary": "",
+    "timestamp": 1771705657.0,
+    "date": "Feb 21, 20:27"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Alcaraz downs Fils to win Qatar Open, extends perfect start to the year",
+    "link": "https://www.channelnewsasia.com/sport/alcaraz-downs-fils-win-qatar-open-extends-perfect-start-year-5944986",
+    "summary": "",
+    "timestamp": 1771705602.0,
+    "date": "Feb 21, 20:26"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Wikipedia blacklists Archive.today after alleged DDoS attack",
+    "link": "https://techcrunch.com/2026/02/21/wikipedia-blacklists-archive-today-after-alleged-ddos-attack/",
+    "summary": "Wikipedia editors have decided to remove all links to Archive.today, a web archiving service that they said has been linked to more than 695,000 times across the online encyclopedia.",
+    "timestamp": 1771705215.0,
+    "date": "Feb 21, 20:20"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Wales coach Tandy hails step forward despite bitter loss to Scotland",
+    "link": "https://www.channelnewsasia.com/sport/wales-coach-tandy-hails-step-forward-despite-bitter-loss-scotland-5944976",
+    "summary": "",
+    "timestamp": 1771705035.0,
+    "date": "Feb 21, 20:17"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Slovakia threatens to cut electricity to Ukraine over Russian oil spat",
+    "link": "https://www.aljazeera.com/news/2026/2/21/slovakia-threatens-to-cut-electricity-to-ukraine-over-russian-oil-spat?traffic_source=rss",
+    "summary": "Slovakia and Hungary vexed after Russian oil flows via\u00a0Ukraine halted by alleged Russian drone strike last month.",
+    "timestamp": 1771704765.0,
+    "date": "Feb 21, 20:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "UAE foils cyber attacks, state news agency says",
+    "link": "https://www.channelnewsasia.com/business/uae-foils-cyber-attacks-state-news-agency-says-5944961",
+    "summary": "",
+    "timestamp": 1771704430.0,
+    "date": "Feb 21, 20:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Silva scores late equaliser as Dortmund grab 2-2 draw at Leipzig",
+    "link": "https://www.channelnewsasia.com/sport/silva-scores-late-equaliser-dortmund-grab-2-2-draw-leipzig-5944966",
+    "summary": "",
+    "timestamp": 1771704385.0,
+    "date": "Feb 21, 20:06"
+  },
+  {
+    "source": "BBC World",
+    "title": "Iran students stage first anti-government protests since deadly crackdown",
+    "link": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss",
+    "summary": "The student protesters honoured thousands of those killed when nationwide mass protests were put down last month.",
+    "timestamp": 1771704006.0,
+    "date": "Feb 21, 20:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Osasuna stun Real Madrid 2-1 to blow LaLiga title race open",
+    "link": "https://www.channelnewsasia.com/sport/osasuna-stun-real-madrid-2-1-blow-laliga-title-race-open-5944946",
+    "summary": "",
+    "timestamp": 1771703227.0,
+    "date": "Feb 21, 19:47"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "NASA rules out March launch for manned moon mission over technical issues",
+    "link": "https://www.aljazeera.com/news/2026/2/21/nasa-rules-out-march-launch-for-manned-moon-mission-over-technical-issues?traffic_source=rss",
+    "summary": "Artemis 2 is a precursor to the US space agency&#039;s planned astronaut moon landing with Artemis III scheduled for 2028.",
+    "timestamp": 1771703044.0,
+    "date": "Feb 21, 19:44"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Far-right anti-Islam march sparks counterprotests in Manchester",
+    "link": "https://www.aljazeera.com/news/2026/2/21/far-right-anti-islam-march-sparks-counter-protests-in-manchester?traffic_source=rss",
+    "summary": "Hundreds of Britain First protesters faced larger antifascist crowds in a tense Manchester city centre standoff.",
+    "timestamp": 1771703028.0,
+    "date": "Feb 21, 19:43"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Speed skating-Timeless Bergsma 'not done yet' after striking gold at 40 in Milano Cortina",
+    "link": "https://www.channelnewsasia.com/sport/speed-skating-timeless-bergsma-not-done-yet-after-striking-gold-40-in-milano-cortina-5944936",
+    "summary": "",
+    "timestamp": 1771702629.0,
+    "date": "Feb 21, 19:37"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "Berlinale: 'Yellow Letters' wins the Golden Bear award",
+    "link": "https://www.dw.com/en/berlinale-yellow-letters-wins-the-golden-bear-award/a-76072428?maca=en-rss-en-all-1573-rdf",
+    "summary": "The political drama by Oscar nominee Ilker Catak took the top award at the Berlin International Film Festival.",
+    "timestamp": 1771702380.0,
+    "date": "Feb 21, 19:33"
+  },
+  {
+    "source": "France 24",
+    "title": "Turkish-language drama \"Yellow Letters\" wins Berlin Film Festival's top prize",
+    "link": "https://www.france24.com/en/europe/20260221-turkish-language-drama-yellow-letters-wins-berlin-film-festival-s-top-prize",
+    "summary": "Turkish-German director Ilker Catak's film\u00a0\"Yellow \u2060Letters\" \u2013\u00a0a \u200bdrama about what happens to a \u200bmarriage under extraordinary political pressure\u00a0\u2013 was awarded\u00a0the Berlin Film Festival's Golden Bear \u200bt...",
+    "timestamp": 1771702232.0,
+    "date": "Feb 21, 19:30"
+  },
+  {
+    "source": "NPR",
+    "title": "Vietnam Veterans sue to block proposed 'Independence Arch' near Arlington National Cemetery",
+    "link": "https://www.npr.org/2026/02/21/nx-s1-5721786/vietnam-veterans-sue-trump-arch",
+    "summary": "The lawsuit challenges President Trump's plans for \"Independence Arch,\" a 250-foot structure proposed for Memorial Circle.",
+    "timestamp": 1771702076.0,
+    "date": "Feb 21, 19:27"
+  },
+  {
+    "source": "New York Times",
+    "title": "For Dutch speedskater, age doesn\u2019t matter.",
+    "link": "https://www.nytimes.com/2026/02/21/world/speedskating-jordan-stolz.html",
+    "summary": "Jorrit Bergsma, a gold medalist back in 2014, is now 40. But he rolled back the years to win gold.",
+    "timestamp": 1771702031.0,
+    "date": "Feb 21, 19:27"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Crosscountry-Sweden's Karlsson out of women's 50km classic race due to illness",
+    "link": "https://www.channelnewsasia.com/sport/crosscountry-swedens-karlsson-out-womens-50km-classic-race-due-illness-5944926",
+    "summary": "",
+    "timestamp": 1771701882.0,
+    "date": "Feb 21, 19:24"
+  },
+  {
+    "source": "New York Times",
+    "title": "The Queen Stuck by Prince Andrew. King Charles Is Pulling Away",
+    "link": "https://www.nytimes.com/2026/02/21/world/europe/andrew-epstein-queen-elizabeth-charles.html",
+    "summary": "Andrew Mountbatten-Windsor, the former prince, is getting no help from the throne as the crisis over his ties to Jeffrey Epstein intensifies.",
+    "timestamp": 1771701147.0,
+    "date": "Feb 21, 19:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Late goals keep Inter in control of Serie title race",
+    "link": "https://www.channelnewsasia.com/sport/late-goals-keep-inter-in-control-serie-title-race-5944906",
+    "summary": "",
+    "timestamp": 1771700746.0,
+    "date": "Feb 21, 19:05"
+  },
+  {
+    "source": "New York Times",
+    "title": "At Least 10 Killed in Lebanon, Officials Say, After Israel Strikes Hezbollah",
+    "link": "https://www.nytimes.com/2026/02/21/world/middleeast/israel-strikes-lebanon-hezbollah.html",
+    "summary": "The Lebanese militant group said eight of its members were among those killed late Friday. The attacks threaten to further destabilize an already tenuous cease-fire.",
+    "timestamp": 1771700227.0,
+    "date": "Feb 21, 18:57"
+  },
+  {
+    "source": "NPR",
+    "title": "Trump to raise global tariffs to 15%",
+    "link": "https://www.npr.org/2026/02/21/nx-s1-5722111/trump-global-tariffs-15-percent",
+    "summary": "President Trump previously said he would implement 10% global tariffs after the U.S. Supreme Court struck down his tariff policies.",
+    "timestamp": 1771700222.0,
+    "date": "Feb 21, 18:57"
+  },
+  {
+    "source": "New York Times",
+    "title": "Klaebo Makes Olympic History: Unforgettable Photos from 6-Gold Sweep",
+    "link": "https://www.nytimes.com/2026/02/21/world/johannes-klaebo-winter-olympics-photos.html",
+    "summary": "Johannes Klaebo won his sixth cross country gold medal at the 2026 Olympics.",
+    "timestamp": 1771700189.0,
+    "date": "Feb 21, 18:56"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Ten-man Chelsea implode again in home draw with Burnley",
+    "link": "https://www.channelnewsasia.com/sport/ten-man-chelsea-implode-again-in-home-draw-burnley-5944901",
+    "summary": "",
+    "timestamp": 1771700041.0,
+    "date": "Feb 21, 18:54"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
+    "link": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
+    "summary": "Trump also warned: \"During the next short number of months, the Trump Administration will determine and issue the new and legally permissible Tariffs.\"",
+    "timestamp": 1771699769.0,
+    "date": "Feb 21, 18:49"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Late Turner try earns Scotland 26-23 comeback win in Wales",
+    "link": "https://www.channelnewsasia.com/sport/late-turner-try-earns-scotland-26-23-comeback-win-in-wales-5944891",
+    "summary": "",
+    "timestamp": 1771699202.0,
+    "date": "Feb 21, 18:40"
+  },
+  {
+    "source": "BBC World",
+    "title": "Giant tortoises return to Gal\u00e1pagos island after nearly 200 years",
+    "link": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss",
+    "summary": "The native species was driven to extinction by sailors in the 1800s. Now, 158 juvenile giant tortoises have been reintroduced to the island.",
+    "timestamp": 1771698757.0,
+    "date": "Feb 21, 18:32"
+  },
+  {
+    "source": "New York Times",
+    "title": "Young Skaters Assist With Figure Skating Competitions While Aspiring to the Olympics",
+    "link": "https://www.nytimes.com/2026/02/21/world/europe/olympics-figure-skating-flower-kids.html",
+    "summary": "Young skaters known as flower kids jump into action. They have their own Olympic dreams.",
+    "timestamp": 1771698573.0,
+    "date": "Feb 21, 18:29"
+  },
+  {
+    "source": "NPR",
+    "title": "Pin trading has taken over the Olympics. Here's what it's like in Milan",
     "link": "https://www.npr.org/2026/02/21/nx-s1-5716790/olympics-pin-trading",
     "summary": "Pin trading has become a hallmark of the Olympics in recent decades \u2014 and not just for athletes. An official trading center in Milan was a hotspot for longtime collectors and curious newcomers alike.",
     "timestamp": 1771697738.0,
     "date": "Feb 21, 18:15"
-  },
-  {
-    "source": "CNBC",
-    "title": "NASA moon rocket hit by new problem, putting March launch with astronauts in jeopardy",
-    "link": "https://www.cnbc.com/2026/02/21/nasa-artemis-ii-moon-rocket-march-launch-with-astronauts-in-jeopardy.html",
-    "summary": "NASA's new moon rocket has suffered another setback, putting next month's planned launch with astronauts in jeopardy, the space agency announced Saturday.",
-    "timestamp": 1771697588.0,
-    "date": "Feb 21, 18:13"
   },
   {
     "source": "BBC World",
@@ -38,22 +350,6 @@
     "summary": "",
     "timestamp": 1771696942.0,
     "date": "Feb 21, 18:02"
-  },
-  {
-    "source": "BBC World",
-    "title": "Nasa astronauts' moon mission likely to be delayed due to rocket issue",
-    "link": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
-    "summary": "The mission to the far side of the Moon and back will likely be postponed after problems with were spotted with its rocket, a Nasa official said.",
-    "timestamp": 1771696705.0,
-    "date": "Feb 21, 17:58"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump to hike global tariffs to 15% from 10%, 'effective immediately'",
-    "link": "https://www.cnbc.com/2026/02/21/trump-tariffs.html",
-    "summary": "Trump also warned: \"During the next short number of months, the Trump Administration will determine and issue the new and legally permissible Tariffs.\"",
-    "timestamp": 1771695877.0,
-    "date": "Feb 21, 17:44"
   },
   {
     "source": "TechCrunch",
@@ -112,28 +408,12 @@
     "date": "Feb 21, 17:25"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Villa and Chelsea drop points, Milner breaks Premier league record",
-    "link": "https://www.channelnewsasia.com/sport/villa-and-chelsea-drop-points-milner-breaks-premier-league-record-5944831",
-    "summary": "",
-    "timestamp": 1771694298.0,
-    "date": "Feb 21, 17:18"
-  },
-  {
     "source": "France 24",
     "title": "Killing of nationalist student has repercussions for French Politics",
     "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20260221-killing-of-nationalist-student-has-repercussions-for-french-politics",
     "summary": "A march to honor Quentin Deranque was held in Lyon on Saturday. The far-right student activist was beaten to death on February 12th, following a fight between two groups from opposite political extrem...",
     "timestamp": 1771693771.0,
     "date": "Feb 21, 17:09"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "FIFA boss Infantino's Board of Peace appearance does not violate political neutrality, IOC says",
-    "link": "https://www.channelnewsasia.com/sport/fifa-boss-infantinos-board-peace-appearance-does-not-violate-political-neutrality-ioc-says-5944821",
-    "summary": "",
-    "timestamp": 1771693604.0,
-    "date": "Feb 21, 17:06"
   },
   {
     "source": "France 24",
@@ -160,27 +440,11 @@
     "date": "Feb 21, 17:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Short track-Poland's Sellier 'okay' after suffering facial injury in race crash",
-    "link": "https://www.channelnewsasia.com/sport/short-track-polands-sellier-okay-after-suffering-facial-injury-in-race-crash-5944816",
-    "summary": "",
-    "timestamp": 1771693179.0,
-    "date": "Feb 21, 16:59"
-  },
-  {
     "source": "The Verge",
     "title": "Georgia says Elon Musk\u2019s America PAC violated election law",
     "link": "https://www.theverge.com/tech/882838/georgia-elon-musk-america-pac-voter-fraud",
     "summary": "For all his bluster about voter fraud, Elon Musk has been one of the most flagrant flaunters of US election law. Now his America PAC has been slapped with a reprimand by the Georgia State Election Boa...",
     "timestamp": 1771692936.0,
-    "date": "Feb 21, 16:55"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Kane double sends Bayern nine points clear after late Frankfurt scare",
-    "link": "https://www.channelnewsasia.com/sport/kane-double-sends-bayern-nine-points-clear-after-late-frankfurt-scare-5944811",
-    "summary": "",
-    "timestamp": 1771692934.0,
     "date": "Feb 21, 16:55"
   },
   {
@@ -190,14 +454,6 @@
     "summary": "European leaders and businesses have responded to the US Supreme Court's decision to rule many of US President Donald Trump's tariffs illegal with both cautious optimism and deep uncertainty.",
     "timestamp": 1771692900.0,
     "date": "Feb 21, 16:55"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Biathlon-Vobornikova's bronze boosts Czechs at Milano Cortina",
-    "link": "https://www.channelnewsasia.com/sport/biathlon-vobornikovas-bronze-boosts-czechs-milano-cortina-5944801",
-    "summary": "",
-    "timestamp": 1771692698.0,
-    "date": "Feb 21, 16:51"
   },
   {
     "source": "France 24",
@@ -232,14 +488,6 @@
     "date": "Feb 21, 16:39"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Pegula beats Svitolina in straight sets in Dubai final",
-    "link": "https://www.channelnewsasia.com/sport/pegula-beats-svitolina-in-straight-sets-in-dubai-final-5944781",
-    "summary": "",
-    "timestamp": 1771691965.0,
-    "date": "Feb 21, 16:39"
-  },
-  {
     "source": "CNBC",
     "title": "Berkshire was a net seller of stocks in Buffett's final quarter as CEO",
     "link": "https://www.cnbc.com/2026/02/21/berkshire-was-a-net-seller-of-stocks-in-buffetts-final-quarter-as-ceo.html",
@@ -248,60 +496,12 @@
     "date": "Feb 21, 16:35"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Speed skating-Bergsma and Groenewoud claim Dutch sweep in mass start",
-    "link": "https://www.channelnewsasia.com/sport/speed-skating-bergsma-and-groenewoud-claim-dutch-sweep-in-mass-start-5944761",
-    "summary": "",
-    "timestamp": 1771691614.0,
-    "date": "Feb 21, 16:33"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "DBS to impose 12-hour cooling period for raising daily transfer limits, adding new recipients",
-    "link": "https://www.channelnewsasia.com/singapore/dbs-bank-12-hour-cooling-period-increase-transfer-limit-payee-update-contact-scam-5944686",
-    "summary": "DBS said the move is designed to give customers time to detect and stop unauthorised activity on their accounts.",
-    "timestamp": 1771691420.0,
-    "date": "Feb 21, 16:30"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "US trade war: Trump raises global tariffs to 15% from 10%",
     "link": "https://www.dw.com/en/us-trade-war-trump-raises-global-tariffs-to-15-from-10/live-76073567?maca=en-rss-en-all-1573-rdf",
-    "summary": "Donald Trump said he's raising the global 10% tariff to 15%, a day after the Supreme Court blocked much of the US president's emergency tariffs.",
+    "summary": "Donald Trump said he's raising the global 10% tariff to 15%, a day after the Supreme Court blocked much of the US president's emergency tariffs. DW has the latest.",
     "timestamp": 1771691340.0,
     "date": "Feb 21, 16:29"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Resurgent Ireland demolish sloppy England in record 42-21 victory",
-    "link": "https://www.channelnewsasia.com/sport/resurgent-ireland-demolish-sloppy-england-in-record-42-21-victory-5944746",
-    "summary": "",
-    "timestamp": 1771690878.0,
-    "date": "Feb 21, 16:21"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "SkiMo-Spain's Alonso Rodriguez heads home with two bronzes four months after being hit by car",
-    "link": "https://www.channelnewsasia.com/sport/skimo-spains-alonso-rodriguez-heads-home-two-bronzes-four-months-after-being-hit-car-5944726",
-    "summary": "",
-    "timestamp": 1771690323.0,
-    "date": "Feb 21, 16:12"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Biathlon-Oceane rides wave of energy to stunning Olympic gold for France",
-    "link": "https://www.channelnewsasia.com/sport/biathlon-oceane-rides-wave-energy-stunning-olympic-gold-france-5944701",
-    "summary": "",
-    "timestamp": 1771689790.0,
-    "date": "Feb 21, 16:03"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Curling-Homan finally gets her medal as Canada beat US to win women's bronze",
-    "link": "https://www.channelnewsasia.com/sport/curling-homan-finally-gets-her-medal-canada-beat-us-win-womens-bronze-5944706",
-    "summary": "",
-    "timestamp": 1771689719.0,
-    "date": "Feb 21, 16:01"
   },
   {
     "source": "BBC World",
@@ -344,22 +544,6 @@
     "date": "Feb 21, 16:00"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "NASA may take moon mission Artemis II rocket back to assembly site, affecting March launch window",
-    "link": "https://www.channelnewsasia.com/business/nasa-may-take-moon-mission-artemis-ii-rocket-back-assembly-site-affecting-march-launch-window-5944691",
-    "summary": "",
-    "timestamp": 1771689524.0,
-    "date": "Feb 21, 15:58"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Speed skating-Dutchman Bergsma wins men's mass start at Milano Cortina",
-    "link": "https://www.channelnewsasia.com/sport/speed-skating-dutchman-bergsma-wins-mens-mass-start-milano-cortina-5944696",
-    "summary": "",
-    "timestamp": 1771689381.0,
-    "date": "Feb 21, 15:56"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "1916: The bloody battle of Verdun",
     "link": "https://www.dw.com/en/1916-the-bloody-battle-of-verdun/a-76059861?maca=en-rss-en-all-1573-rdf",
@@ -373,14 +557,6 @@
     "link": "https://www.france24.com/en/middle-east/20260221-iran-says-will-not-bow-to-pressure-amid-us-nuclear-talks-as-anti-govt-protests-reported-in-tehran",
     "summary": "\u2060President \u200bMasoud Pezeshkian said on \u200bSaturday that Iran \"will not \u200bbow\" \u200cto pressure from world powers amid nuclear talks with the US. Meanwhile, Iranian students chanted anti-government slogans at ...",
     "timestamp": 1771688548.0,
-    "date": "Feb 21, 15:42"
-  },
-  {
-    "source": "New York Times",
-    "title": "Los Angeles Olympics Have a Cloud of Concerns as Winter Games Close",
-    "link": "https://www.nytimes.com/2026/02/21/us/la-olympics-casey-wasserman-epstein.html",
-    "summary": "New details about the LA28 chairman\u2019s ties to Jeffrey Epstein, as well as anxiety over key infrastructure projects, have thrown the planning into disarray.",
-    "timestamp": 1771688527.0,
     "date": "Feb 21, 15:42"
   },
   {
@@ -446,14 +622,6 @@
     "summary": "France's Oc\u00e9ane Michelon and Julia Simon won gold and silver respectively in the women's biathlon 12.5-kilometre mass start race\u00a0the Milan Cortina Winter Olympics on Saturday.\u00a0Czech biathlete Tereza V...",
     "timestamp": 1771686256.0,
     "date": "Feb 21, 15:04"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Owners recount panic after Nazgul gatecrashes race on doggy day out",
-    "link": "https://www.channelnewsasia.com/sport/owners-recount-panic-after-nazgul-gatecrashes-race-doggy-day-out-5943656",
-    "summary": "",
-    "timestamp": 1771686228.0,
-    "date": "Feb 21, 15:03"
   },
   {
     "source": "CNBC",
@@ -592,14 +760,6 @@
     "date": "Feb 21, 13:00"
   },
   {
-    "source": "NPR",
-    "title": "Opinion: The enduring dignity of Jesse Jackson",
-    "link": "https://www.npr.org/2026/02/21/nx-s1-5713920/opinion-the-enduring-dignity-of-jesse-jackson",
-    "summary": "Rev. Jesse Jackson died this week at age 84. NPR's Scott Simon remembers covering Jackson's 1984 presidential campaign in Mississippi.",
-    "timestamp": 1771678800.0,
-    "date": "Feb 21, 13:00"
-  },
-  {
     "source": "The Verge",
     "title": "Stellantis is in a crisis of its own making",
     "link": "https://www.theverge.com/transportation/881987/stellantis-crisis-ev-loss-sales-regulations",
@@ -630,22 +790,6 @@
     "summary": "Defending champions and co-hosts India face debut-title chasing South Africa in rematch of last T20 World Cup final.",
     "timestamp": 1771678421.0,
     "date": "Feb 21, 12:53"
-  },
-  {
-    "source": "NPR",
-    "title": "A huge study finds a link between cannabis use in teens and psychosis later",
-    "link": "https://www.npr.org/2026/02/21/nx-s1-5719338/cannabis-marijuana-weed-teens-psychosis-jama",
-    "summary": "Researchers followed more than 400,000 teens until they were adults. It found that those who used marijuana were more likely to develop serious mental illness, as well as depression and anxiety.",
-    "timestamp": 1771677876.0,
-    "date": "Feb 21, 12:44"
-  },
-  {
-    "source": "New York Times",
-    "title": "Klaebo Makes Olympic History: Unforgettable Photos from 6-Gold Sweep",
-    "link": "https://www.nytimes.com/2026/02/21/world/johannes-klaebo-winter-olympics-photos.html",
-    "summary": "Johannes Klaebo won his sixth cross country gold medal at the 2026 Olympics.",
-    "timestamp": 1771677804.0,
-    "date": "Feb 21, 12:43"
   },
   {
     "source": "Al Jazeera",
@@ -736,52 +880,12 @@
     "date": "Feb 21, 11:24"
   },
   {
-    "source": "NPR",
-    "title": "'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine",
-    "link": "https://www.npr.org/2026/02/21/nx-s1-5720226/kenya-ukraine-russia-war",
-    "summary": "Kenya's intelligence service warns that over 1,000 citizens may have been recruited to fight for Russia in Ukraine, many under false pretenses.",
-    "timestamp": 1771672858.0,
-    "date": "Feb 21, 11:20"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Macron urges calm ahead of rally for slain far\u2011right activist",
     "link": "https://www.dw.com/en/macron-urges-calm-ahead-of-rally-for-slain-far\u2011right-activist/a-76070002?maca=en-rss-en-all-1573-rdf",
     "summary": "The death of Quentin Deranque, who succumbed to injuries following an altercation between far-left and right-wing activists, has left the country on edge.",
     "timestamp": 1771671960.0,
     "date": "Feb 21, 11:06"
-  },
-  {
-    "source": "New York Times",
-    "title": "Supreme Court Ruling on Trump\u2019s Tariffs Changes Little for Canada",
-    "link": "https://www.nytimes.com/2026/02/21/world/canada/canada-tariffs-trade-trump-carney.html",
-    "summary": "The president\u2019s tariffs that are inflicting the most harm to Canada\u2019s economy are outside the scope of the Supreme Court case.",
-    "timestamp": 1771671611.0,
-    "date": "Feb 21, 11:00"
-  },
-  {
-    "source": "NPR",
-    "title": "With U.S. forces in position, Trump mulls his options for Iran",
-    "link": "https://www.npr.org/2026/02/21/nx-s1-5720966/trump-iran",
-    "summary": "President Trump says he hasn't decided whether to attack Iran. While he weighs his options, a military buildup over the past month means the U.S. now has an expansive presence in the region.",
-    "timestamp": 1771671600.0,
-    "date": "Feb 21, 11:00"
-  },
-  {
-    "source": "NPR",
-    "title": "Trump excoriates Supreme Court justices after tariff loss",
-    "link": "https://www.npr.org/2026/02/21/g-s1-110961/supreme-court-tariffs",
-    "summary": "The battle over the tariffs began on day one of the president's second term when he signed an executive order that let him impose a wide range of tariffs on virtually every U.S. trading partner.",
-    "timestamp": 1771671600.0,
-    "date": "Feb 21, 11:00"
-  },
-  {
-    "source": "New York Times",
-    "title": "Palestinian-American Teenager Killed in West Bank Is Laid to Rest",
-    "link": "https://www.nytimes.com/2026/02/20/world/middleeast/palestinian-american-teenager-killed-west-bank.html",
-    "summary": "Nasrallah Abu Siyam, 19, was shot dead by an Israeli settler, according to a witness and Palestinian health officials, amid rising violent settler attacks in the Israeli-occupied territory.",
-    "timestamp": 1771670748.0,
-    "date": "Feb 21, 10:45"
   },
   {
     "source": "Al Jazeera",
@@ -856,14 +960,6 @@
     "date": "Feb 21, 09:40"
   },
   {
-    "source": "France 24",
-    "title": "US businesses welcome Supreme Court ruling overturning Trump's tariffs",
-    "link": "https://www.france24.com/en/video/20260221-us-businesses-welcome-supreme-court-ruling-overturning-trump-s-tariffs",
-    "summary": "Thousands of businesses won a hard-fought victory when the US Supreme Court ruled to overturn the White House's emergency tariffs, but the process of getting refunds has only just begun. In a decision...",
-    "timestamp": 1771666749.0,
-    "date": "Feb 21, 09:39"
-  },
-  {
     "source": "Al Jazeera",
     "title": "Farmers in Gaza risk Israeli bullets to bring their fields back to life",
     "link": "https://www.aljazeera.com/features/2026/2/21/farmers-in-gaza-risk-israeli-bullets-to-bring-their-fields-back-to-life?traffic_source=rss",
@@ -928,6 +1024,14 @@
     "date": "Feb 21, 08:00"
   },
   {
+    "source": "New York Times",
+    "title": "Hungary Poses Unexpected Hurdle to Europe\u2019s 90-Billion Euro Loan to Ukraine",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/euro-loan-ukraine-hungary-obstacle.html",
+    "summary": "While the delay may prove to be procedural, Hungary signaled that it could cause problems as the European Union works to send money to Ukraine.",
+    "timestamp": 1771659784.0,
+    "date": "Feb 21, 07:43"
+  },
+  {
     "source": "BBC World",
     "title": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
     "link": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
@@ -944,22 +1048,6 @@
     "date": "Feb 21, 07:21"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Trump to make three-day visit to China next month, White House says",
-    "link": "https://www.aljazeera.com/news/2026/2/21/trump-to-make-three-day-visit-to-china-next-month-white-house-says?traffic_source=rss",
-    "summary": "Three-day trip, at Beijing&#039;s invitation, comes more than eight years after Trump&#039;s first visit to China.",
-    "timestamp": 1771658303.0,
-    "date": "Feb 21, 07:18"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Clashes in Albania as protesters demand PM Rama resign",
-    "link": "https://www.aljazeera.com/news/2026/2/21/clashes-in-albania-as-protesters-demand-pm-rama-resign?traffic_source=rss",
-    "summary": "Violence breaks out near parliament as demonstrators demand accountability in a corruption investigation.",
-    "timestamp": 1771656165.0,
-    "date": "Feb 21, 06:42"
-  },
-  {
     "source": "BBC World",
     "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
     "link": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
@@ -974,14 +1062,6 @@
     "summary": "The German Interior Ministry is restricting access to voluntary integration courses for immigrants, citing budget constraints. Many critics consider this a disastrous decision.",
     "timestamp": 1771655160.0,
     "date": "Feb 21, 06:26"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "UK weighs removing ex-Prince Andrew from succession line amid Epstein probe",
-    "link": "https://www.aljazeera.com/news/2026/2/21/uk-weighs-removing-ex-prince-andrew-from-succession-line-amid-epstein-probe?traffic_source=rss",
-    "summary": "The report comes as police widen investigations into former prince, including questioning his close protection teams.",
-    "timestamp": 1771654837.0,
-    "date": "Feb 21, 06:20"
   },
   {
     "source": "BBC World",
@@ -1064,14 +1144,6 @@
     "date": "Feb 21, 02:58"
   },
   {
-    "source": "BBC World",
-    "title": "Trump lashes out at Supreme Court justices over tariffs ruling",
-    "link": "https://www.bbc.com/news/articles/cd9g0e7zd8wo?at_medium=RSS&at_campaign=rss",
-    "summary": "The six justices who voted against the tariffs, dealing a major blow to his signature economic policy, should be \"absolutely ashamed\", Trump said.",
-    "timestamp": 1771640369.0,
-    "date": "Feb 21, 02:19"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Trump ends some tariffs, imposes new 10% global one",
     "link": "https://www.dw.com/en/trump-ends-some-tariffs-imposes-new-10-global-one/a-76063714?maca=en-rss-en-all-1573-rdf",
@@ -1129,19 +1201,19 @@
   },
   {
     "source": "CNBC",
-    "title": "OpenAI resets spending expectations, tells investors compute target is around $600 billion by 2030",
-    "link": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
-    "summary": "OpenAI told investors it's targeting roughly $600 billion in total compute spend by 2030, trying to clarify its plans after touting a $1.4 trillion figure.",
-    "timestamp": 1771626929.0,
-    "date": "Feb 20, 22:35"
-  },
-  {
-    "source": "CNBC",
     "title": "Supreme Court Trump tariff decision impact: What to expect as fight for billions in refunds begins",
     "link": "https://www.cnbc.com/2026/02/20/supreme-court-trump-tariff-decision-illegal-refunds.html",
     "summary": "The Supreme Court ruling that President Trump's tariffs are illegal will lead companies to seek billions in refunds, but the decision was silent on the issue.",
     "timestamp": 1771626616.0,
     "date": "Feb 20, 22:30"
+  },
+  {
+    "source": "New York Times",
+    "title": "Russia Takes the Gulag Out of the Gulag History Museum in Moscow",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/russia-gulag-history-museum-stalin.html",
+    "summary": "The museum had preserved the history of brutality inflicted by the Soviet Union on its people. It will now focus on Nazi war crimes.",
+    "timestamp": 1771626040.0,
+    "date": "Feb 20, 22:20"
   },
   {
     "source": "The Verge",
@@ -1150,14 +1222,6 @@
     "summary": "Any ebook reader will let you cram a Beauty and the Beast-sized library\u2019s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer ...",
     "timestamp": 1771625969.0,
     "date": "Feb 20, 22:19"
-  },
-  {
-    "source": "CNBC",
-    "title": "Illiquid loans, investor demands: Blue Owl's software lending triggers another quake in private credit",
-    "link": "https://www.cnbc.com/2026/02/20/blue-owl-software-lending-private-credit-concerns.html",
-    "summary": "Blue Owl, a direct lender specializing in loans to the software industry, said it had sold $1.4 billion of its loans to institutional investors at 99.7% of par value.",
-    "timestamp": 1771625233.0,
-    "date": "Feb 20, 22:07"
   },
   {
     "source": "The Verge",
@@ -1198,30 +1262,6 @@
     "summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system ...",
     "timestamp": 1771620768.0,
     "date": "Feb 20, 20:52"
-  },
-  {
-    "source": "New York Times",
-    "title": "U.K. Police Contacting Security Officers Who Once Protected Former Prince Andrew",
-    "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-search-epstein.html",
-    "summary": "The authorities also searched a mansion used by Andrew Mountbatten-Windsor, who was arrested in connection with an investigation into suspicion of misconduct in public office.",
-    "timestamp": 1771620384.0,
-    "date": "Feb 20, 20:46"
-  },
-  {
-    "source": "The Verge",
-    "title": "SCOTUS rules Trump\u2019s tariffs are illegal \u2014 but the fight is far from over",
-    "link": "https://www.theverge.com/policy/882227/scotus-trump-tariffs-ruling-imports-small-businesses-refunds",
-    "summary": "The US Supreme Court struck down some of Donald Trump's tariffs on foreign imports, which have become a hallmark of the chaos of the second Trump administration. The court's ruling deals specifically ...",
-    "timestamp": 1771620344.0,
-    "date": "Feb 20, 20:45"
-  },
-  {
-    "source": "New York Times",
-    "title": "Former Prince Andrew\u2019s Arrest Upends Royal Family\u2019s Effort to Move Past His Scandal",
-    "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html",
-    "summary": "King Charles III\u2019s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation.",
-    "timestamp": 1771617389.0,
-    "date": "Feb 20, 19:56"
   },
   {
     "source": "TechCrunch",
@@ -1368,14 +1408,6 @@
     "date": "Feb 20, 15:51"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Berlinale: African films brings messages of peace and tolerance",
-    "link": "https://www.dw.com/en/berlinale-african-films-brings-messages-of-peace-and-tolerance/a-76056534?maca=en-rss-en-all-1573-rdf",
-    "summary": "From migration to queer identity and ancestral mythology, African filmmakers came to the Berlinale with bold stories confronting repression and celebrating resistance.",
-    "timestamp": 1771601760.0,
-    "date": "Feb 20, 15:36"
-  },
-  {
     "source": "The Guardian",
     "title": "Asos co-founder dies in fall from 18-storey building in Thailand",
     "link": "https://www.theguardian.com/world/2026/feb/20/asos-cofounder-quentin-griffiths-killed-fall-apartment-thailand",
@@ -1398,30 +1430,6 @@
     "summary": "Nominations for TechCrunch Startup Battlefield 200 are open. Pitch at\u00a0Disrupt 2026\u00a0in October in front of top VCs and the full TechCrunch audience. Nominate your startup or for one that's deserving.",
     "timestamp": 1771601400.0,
     "date": "Feb 20, 15:30"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
-    "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
-    "summary": "Peak XV says most of its new capital will target India as the firm prioritizes AI, fintech and cross-border bets while navigating recent partner departures.",
-    "timestamp": 1771600240.0,
-    "date": "Feb 20, 15:10"
-  },
-  {
-    "source": "BBC World",
-    "title": "Asos co-founder dies after Thailand apartment block fall",
-    "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
-    "summary": "Quentin Griffiths co-founded Asos in 2000 and remained a significant shareholder after leaving the firm five years later.",
-    "timestamp": 1771598149.0,
-    "date": "Feb 20, 14:35"
-  },
-  {
-    "source": "Deutsche Welle",
-    "title": "Germany: Unreliable childcare forces parents into part-time",
-    "link": "https://www.dw.com/en/germany-unreliable-childcare-forces-parents-into-part-time/a-76061841?maca=en-rss-en-all-1573-rdf",
-    "summary": "Chancellor Merz has been calling on Germans to work more. This is practically impossible for many working parents as childcare centers battle with staff shortages and reduced operating hours.",
-    "timestamp": 1771597560.0,
-    "date": "Feb 20, 14:26"
   },
   {
     "source": "BBC World",
@@ -1486,14 +1494,6 @@
     "summary": "The woman died of hypothermia during a climbing trip on the Grossglockner mountain in January 2025.",
     "timestamp": 1771585831.0,
     "date": "Feb 20, 11:10"
-  },
-  {
-    "source": "New York Times",
-    "title": "China\u2019s \u2018King of Banned Films\u2019 Wants to Change the Subject",
-    "link": "https://www.nytimes.com/2026/02/20/world/asia/lou-ye-china-film-director.html",
-    "summary": "Acclaimed overseas for defying censors, Lou Ye is more interested in reaching Chinese audiences, as he holds up a cinematic mirror to their lives in modern China.",
-    "timestamp": 1771572017.0,
-    "date": "Feb 20, 07:20"
   },
   {
     "source": "New York Times",
