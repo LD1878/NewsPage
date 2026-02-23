@@ -1,19 +1,339 @@
 [
   {
     "source": "CNBC",
-    "title": "Epstein files: Ex-UK ambassador to U.S. Peter Mandelson arrested in London",
-    "link": "https://www.cnbc.com/2026/02/23/epstein-files-peter-mandelson-london-uk.html",
-    "summary": "Mandelson's arrest came days after police arrested Andrew Mountbatten-Windsor, brother of King Charles III, on suspicion of misconduct in public office.",
-    "timestamp": 1771879224.0,
-    "date": "Feb 23, 20:40"
+    "title": "Airlines cancel thousands of flights as blizzard cripples East Coast airports",
+    "link": "https://www.cnbc.com/2026/02/23/weather-flight-cancellations-blizzard-noreaster.html",
+    "summary": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm.",
+    "timestamp": 1771886005.0,
+    "date": "Feb 23, 22:33"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Substitute Sesko seals win for Man Utd at Everton",
+    "link": "https://www.channelnewsasia.com/sport/substitute-sesko-seals-win-man-utd-everton-5948171",
+    "summary": "",
+    "timestamp": 1771885845.0,
+    "date": "Feb 23, 22:30"
+  },
+  {
+    "source": "New York Times",
+    "title": "Live Updates: Violence Ebbs but Mexico Remains on Edge After Killing of Cartel Boss",
+    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico",
+    "summary": "Many residents and tourists stayed indoors a day after a military raid targeted a leader known as El Mencho, setting off violence across the country. Officials said at least 62 people died in the oper...",
+    "timestamp": 1771885766.0,
+    "date": "Feb 23, 22:29"
+  },
+  {
+    "source": "New York Times",
+    "title": "Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html",
+    "summary": "President Trump is already working to piece his tariff program back together, after a Supreme Court ruling ruptured a centerpiece of his economic agenda.",
+    "timestamp": 1771885660.0,
+    "date": "Feb 23, 22:27"
   },
   {
     "source": "CNBC",
-    "title": "Dow tumbles 800 points on growing fears about AI disruption, tariff drag: Live updates",
+    "title": "Tesla sues California DMV to reverse ruling that company engaged in false advertising on FSD",
+    "link": "https://www.cnbc.com/2026/02/23/tesla-sues-california-dmv-to-reverse-false-advertising-ruling-on-fsd.html",
+    "summary": "California's DMV previously ruled that Tesla falsely promoted its cars' self-driving capabilities.",
+    "timestamp": 1771885310.0,
+    "date": "Feb 23, 22:21"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Tainan travel guide: What to do on a weekend in one of Taiwan\u2019s oldest cities",
+    "link": "https://www.channelnewsasia.com/experiences/things-do-tainan-taiwan-weekend-itinerary-5933931",
+    "summary": "Planning a Tainan weekend trip? Follow this first-timer\u2019s route through Blueprint Park, Hayashi Department Store, StableNICE BLDG, Tainan Art Museum and a heritage stay that captures the city\u2019s slower...",
+    "timestamp": 1771885260.0,
+    "date": "Feb 23, 22:21"
+  },
+  {
+    "source": "The Guardian",
+    "title": "News live: Australians \u2018don\u2019t want a bar\u2019 of Andrew Mountbatten-Windsor, PM says; Nine reports revenue slump",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/24/mark-carney-one-nation-coalition-labor-poll-anthony-albanese-pauline-hanson-bondi-attack-royal-commission-antisemitism-ntwnfb",
+    "summary": "<p>Meanwhile new poll shows One Nation\u2019s continued surge in support. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news e...",
+    "timestamp": 1771885083.0,
+    "date": "Feb 23, 22:18"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Mayweather-Pacquiao rematch set for September at Las Vegas Sphere",
+    "link": "https://www.channelnewsasia.com/sport/mayweather-pacquiao-rematch-set-september-las-vegas-sphere-5948146",
+    "summary": "",
+    "timestamp": 1771884699.0,
+    "date": "Feb 23, 22:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "Uber acquiring parking app SpotHero as it moves beyond ride-hailing and food delivery",
+    "link": "https://www.cnbc.com/2026/02/23/uber-acquiring-spothero.html",
+    "summary": "Uber said it plans to offer a parking reservation experience powered by SpotHero for events and at venues and airports.",
+    "timestamp": 1771884366.0,
+    "date": "Feb 23, 22:06"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US women's ice hockey team decline State of the Union invite, reports say",
+    "link": "https://www.channelnewsasia.com/sport/us-womens-ice-hockey-team-decline-state-union-invite-reports-say-5948121",
+    "summary": "",
+    "timestamp": 1771884133.0,
+    "date": "Feb 23, 22:02"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "In AI era, NTUC aims to play stronger role in youths' transition from school to workforce: Ng Chee Meng",
+    "link": "https://www.channelnewsasia.com/singapore/ng-chee-meng-ntuc-jobs-employment-ai-fresh-graduates-young-workers-5946921",
+    "summary": "\u201cIn a very uncertain age, the very core of NTUC and the union is to protect the worker. And in the AI age, it is no longer the blue-collar worker that may require protection, but even the white-collar...",
+    "timestamp": 1771884000.0,
+    "date": "Feb 23, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: After historic election, will Bangladesh get real change or status quo with a new name?",
+    "link": "https://www.channelnewsasia.com/commentary/bangladesh-bnp-pm-tarique-rahman-election-reform-referendum-5946926",
+    "summary": "After toppling Sheikh Hasina\u2019s regime and electing a new government, Bangladeshis will have their eye on major reform, says Iqbal Singh Sevea from the NUS Institute of South Asian Studies.",
+    "timestamp": 1771883940.0,
+    "date": "Feb 23, 21:59"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: Gold enters the storybook stage",
+    "link": "https://www.channelnewsasia.com/commentary/gold-price-market-uncertainty-invest-metal-5946711",
+    "summary": "Its price is now far above levels suggested by fundamental forces, but it\u2019s hard to see what might stop its ascent, says Ruchir Sharma for the Financial Times.",
+    "timestamp": 1771883880.0,
+    "date": "Feb 23, 21:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Paramount submits higher offer for Warner Bros Discovery in bid to block Netflix, source says",
+    "link": "https://www.channelnewsasia.com/business/paramount-submits-higher-offer-warner-bros-discovery-in-bid-block-netflix-source-says-5948111",
+    "summary": "",
+    "timestamp": 1771883688.0,
+    "date": "Feb 23, 21:54"
+  },
+  {
+    "source": "CNBC",
+    "title": "Epstein files: Ex-UK ambassador to U.S. Peter Mandelson arrested in London",
+    "link": "https://www.cnbc.com/2026/02/23/epstein-files-peter-mandelson-london-uk.html",
+    "summary": "Mandelson's arrest came days after police arrested Andrew Mountbatten-Windsor, brother of King Charles III, on suspicion of misconduct in public office.",
+    "timestamp": 1771883667.0,
+    "date": "Feb 23, 21:54"
+  },
+  {
+    "source": "CNBC",
+    "title": "'Old economy' stocks look expensive and software screams cheap. Is that enough to end the rotation?",
+    "link": "https://www.cnbc.com/2026/02/23/old-economy-stocks-look-expensive-software-screams-cheap-how-to-proceed.html",
+    "summary": "Some sectors in the S&amp;P 500 have valuations out of step with their history. That doesn't mean the shakeup will stop soon.",
+    "timestamp": 1771883646.0,
+    "date": "Feb 23, 21:54"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "France welcomes Olympic flag as 2030 Winter Games loom",
+    "link": "https://www.channelnewsasia.com/sport/france-welcomes-olympic-flag-2030-winter-games-loom-5948106",
+    "summary": "",
+    "timestamp": 1771883495.0,
+    "date": "Feb 23, 21:51"
+  },
+  {
+    "source": "New York Times",
+    "title": "C.I.A. Intelligence Helped Lead Mexican Authorities to \u2018El Mencho\u2019",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/cia-el-hencho-location-mexico.html",
+    "summary": "Mexican officials said they had found the elusive drug kingpin by tracking a romantic partner. The C.I.A. provided some intelligence critical to the operation.",
+    "timestamp": 1771883405.0,
+    "date": "Feb 23, 21:50"
+  },
+  {
+    "source": "CNBC",
+    "title": "Epstein files: Longevity guru Peter Attia quits CBS News after email fallout",
+    "link": "https://www.cnbc.com/2026/02/23/epstein-files-peter-attia-cbs-news.html",
+    "summary": "Peter Attia is the latest person on a growing list to leave high-profile posts as a result of their communications with notorious sex offender Jeffrey Epstein.",
+    "timestamp": 1771883298.0,
+    "date": "Feb 23, 21:48"
+  },
+  {
+    "source": "CNBC",
+    "title": "Congress contemplates its role on tariffs after Supreme Court decision",
+    "link": "https://www.cnbc.com/2026/02/23/trump-trade-supreme-court-congress-tariffs.html",
+    "summary": "Some congressional Republicans had already cooled to the president's trade policy before the Supreme Court decision on Friday.",
+    "timestamp": 1771883279.0,
+    "date": "Feb 23, 21:47"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic",
+    "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+    "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+    "timestamp": 1771883201.0,
+    "date": "Feb 23, 21:46"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "US orders exit of Beirut embassy personnel amid Iran tension",
+    "link": "https://www.channelnewsasia.com/world/iran-us-strikes-trump-military-beirut-lebanon-5948081",
+    "summary": "The United States ordered non-emergency staff to leave its embassy in Beirut as US President Donald Trump threatens possible strikes on Iran.",
+    "timestamp": 1771882740.0,
+    "date": "Feb 23, 21:39"
+  },
+  {
+    "source": "CNBC",
+    "title": "Mexico violence after cartel boss killing slows cross-border trade, hitting air freight, trucking, ports",
+    "link": "https://www.cnbc.com/2026/02/23/mexico-violence-cartel-boss-killing-freight-trade.html",
+    "summary": "Violence across Mexico after the killing of a cartel boss is hitting trucks, ports and air freight for a critical trading partner to the U.S.",
+    "timestamp": 1771881574.0,
+    "date": "Feb 23, 21:19"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Stocks diverge, dollar down over Trump tariffs uncertainty",
+    "link": "https://www.channelnewsasia.com/world/trump-us-tariff-stock-market-eu-gold-oil-5948061",
+    "summary": "Global markets were mixed and the dollar fell after the US Supreme Court blocked part of US President Donald Trump\u2019s tariff plans, while gold and oil prices rose amid uncertainty.",
+    "timestamp": 1771881540.0,
+    "date": "Feb 23, 21:19"
+  },
+  {
+    "source": "CNBC",
+    "title": "Cybersecurity stocks are the latest AI victim. Analysts say buy the dip",
+    "link": "https://www.cnbc.com/2026/02/23/cybersecurity-stocks-are-latest-ai-victim-analysts-say-buy-the-dip.html",
+    "summary": "Analysts from across Wall Street believe that the fears are overblown, and delivered names they think will outperform the most.",
+    "timestamp": 1771881343.0,
+    "date": "Feb 23, 21:15"
+  },
+  {
+    "source": "CNBC",
+    "title": "Dow drops 800 points as AI disruption fears and tariff woes weigh on markets: Live updates",
     "link": "https://www.cnbc.com/2026/02/22/stock-market-today-live-updates.html",
-    "summary": "Wall Street is coming off a volatile session on Friday after the Supreme Court struck down President Donald Trump\u2019s tariffs.",
-    "timestamp": 1771879137.0,
+    "summary": "The major averages were under pressure as worries over AI disruption and Trump's tariffs pulled stocks lower.",
+    "timestamp": 1771881297.0,
+    "date": "Feb 23, 21:14"
+  },
+  {
+    "source": "BBC World",
+    "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+    "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+    "summary": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces.",
+    "timestamp": 1771881167.0,
+    "date": "Feb 23, 21:12"
+  },
+  {
+    "source": "BBC World",
+    "title": "Trump threatens countries that 'play games' with existing trade deals",
+    "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
+    "summary": "The threat comes after the Supreme Court ruled on Friday that Trump had exceeded his authority in enacting a sweeping global programme of tariffs.",
+    "timestamp": 1771881163.0,
+    "date": "Feb 23, 21:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Argentine soccer teams push to pause matches in protest over criminal probe",
+    "link": "https://www.channelnewsasia.com/sport/argentine-soccer-teams-push-pause-matches-in-protest-over-criminal-probe-5948056",
+    "summary": "",
+    "timestamp": 1771881082.0,
+    "date": "Feb 23, 21:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "The odds of Trump's $2,000 tariff dividend checks are 'now effectively zero,' expert says",
+    "link": "https://www.cnbc.com/2026/02/23/trumps-2000-tariff-dividend-checks-are-less-likely-experts-say.html",
+    "summary": "President Trump previously suggested issuing \"tariff dividend\" checks. After the Supreme Court struck down his tariffs policy, that's unlikely, experts say.",
+    "timestamp": 1771881069.0,
+    "date": "Feb 23, 21:11"
+  },
+  {
+    "source": "CNBC",
+    "title": "Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears",
+    "link": "https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html",
+    "summary": "Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.",
+    "timestamp": 1771880830.0,
+    "date": "Feb 23, 21:07"
+  },
+  {
+    "source": "New York Times",
+    "title": "Europe\u2019s New Way of War",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe-defense-us-ukraine-mexico-tariffs.html",
+    "summary": "Can Europe defend itself without the United States? A new strategic vision says yes.",
+    "timestamp": 1771880531.0,
+    "date": "Feb 23, 21:02"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Are the US and Iran moving closer to war?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/2/23/are-the-us-and-iran-moving-closer-to-war?traffic_source=rss",
+    "summary": "Diplomacy continues despite the significant United States military build-up.",
+    "timestamp": 1771880334.0,
+    "date": "Feb 23, 20:58"
+  },
+  {
+    "source": "CNBC",
+    "title": "Democrats are pushing for refunds after Supreme Court blocks Trump tariffs",
+    "link": "https://www.cnbc.com/2026/02/23/congress-democrats-trump-tariffs.html",
+    "summary": "A majority of President Donald Trump's tariffs were struck down by the Supreme Court on Friday, leading him to seek other legal mechanisms for the duties.",
+    "timestamp": 1771880276.0,
+    "date": "Feb 23, 20:57"
+  },
+  {
+    "source": "NPR",
+    "title": "The FDA creates a quicker path for gene therapies",
+    "link": "https://www.npr.org/2026/02/23/nx-s1-5720948/fda-rare-disease-gene-therapy",
+    "summary": "The Food and Drug Administration aims to evaluate treatments for rare diseases based on plausible evidence that they would work \u2014 without requiring a clinical trial first.",
+    "timestamp": 1771880229.0,
+    "date": "Feb 23, 20:57"
+  },
+  {
+    "source": "New York Times",
+    "title": "Videos Show How Violence Unfolded in Mexico After Killing of Cartel Boss",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/mexico-violence-el-mencho-videos.html",
+    "summary": "Armed groups blocked roads and set fire to supermarkets and banks after the Mexican government killed Mexico\u2019s most-wanted cartel boss.",
+    "timestamp": 1771880074.0,
+    "date": "Feb 23, 20:54"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Slovakia halts emergency power supplies to Ukraine over Russian oil dispute",
+    "link": "https://www.aljazeera.com/news/2026/2/23/slovakia-halts-emergency-power-supplies-to-ukraine-over-russian-oil-dispute?traffic_source=rss",
+    "summary": "Slovakia had issued a two-day ultimatum to Ukraine to reopen the Soviet-era Druzhba pipeline.",
+    "timestamp": 1771880044.0,
+    "date": "Feb 23, 20:54"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "CrowdStrike, Datadog and other cybersecurity stocks slide after Anthropic's AI tool launch",
+    "link": "https://www.channelnewsasia.com/business/crowdstrike-datadog-and-other-cybersecurity-stocks-slide-after-anthropics-ai-tool-launch-5948036",
+    "summary": "",
+    "timestamp": 1771879944.0,
+    "date": "Feb 23, 20:52"
+  },
+  {
+    "source": "New York Times",
+    "title": "France Summons U.S. Ambassador Over Comments on Activist\u2019s Killing",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/france-us-ambassador-kushner-activist-killing.html",
+    "summary": "Charles Kushner, President Trump\u2019s envoy to Paris, was called in after the State Department cited \u201cviolent radical leftism\u201d in the beating death of Quentin Deranque, 23.",
+    "timestamp": 1771879478.0,
+    "date": "Feb 23, 20:44"
+  },
+  {
+    "source": "New York Times",
+    "title": "U.K. Police Arrest Peter Mandelson, Ex-Ambassador to the U.S., Amid Epstein Accusations",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html",
+    "summary": "Peter Mandelson was arrested on Monday on suspicion of \u201cmisconduct in public office\u201d following revelations about his dealings with Jeffrey Epstein, the sex offender.",
+    "timestamp": 1771879197.0,
+    "date": "Feb 23, 20:39"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Trump\u2019s new tariff threats trigger economic uncertainty; trade deals stall",
+    "link": "https://www.aljazeera.com/economy/2026/2/23/trumps-new-tariff-threats-trigger-economic-uncertainty-trade-deals-stall?traffic_source=rss",
+    "summary": "The White House is set to impose a 15 percent tariff through Section 122 after the US Supreme Court ruled against Trump.",
+    "timestamp": 1771879133.0,
     "date": "Feb 23, 20:38"
+  },
+  {
+    "source": "France 24",
+    "title": "Trump says he\u2019ll raise tariffs to 15% after Supreme Court ruling",
+    "link": "https://www.france24.com/en/trump-says-he-ll-raise-tariffs-to-15-after-supreme-court-ruling",
+    "summary": "European Union lawmakers Monday put a key trade deal with the United States on hold, demanding clarity after a Supreme Court ruling struck down many of President Donald Trump's tariffs. Speaking on FR...",
+    "timestamp": 1771879053.0,
+    "date": "Feb 23, 20:37"
   },
   {
     "source": "The Verge",
@@ -22,6 +342,14 @@
     "summary": "In mid-February, the Department of Justice lost its head antitrust enforcer - just weeks before it was scheduled to argue one of the year's biggest anti-monopoly cases in court. Antitrust Division chi...",
     "timestamp": 1771879044.0,
     "date": "Feb 23, 20:37"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Crypto.com gets conditional US approval for national trust bank charter",
+    "link": "https://www.channelnewsasia.com/business/cryptocom-gets-conditional-us-approval-national-trust-bank-charter-5948021",
+    "summary": "",
+    "timestamp": 1771878974.0,
+    "date": "Feb 23, 20:36"
   },
   {
     "source": "TechCrunch",
@@ -40,22 +368,6 @@
     "date": "Feb 23, 20:33"
   },
   {
-    "source": "The Guardian",
-    "title": "News live: PM says he \u2018volunteered\u2019 support for removing former prince Andrew from succession; One Nation just behind Labor in new poll",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/24/mark-carney-one-nation-coalition-labor-poll-anthony-albanese-pauline-hanson-bondi-attack-royal-commission-antisemitism-ntwnfb",
-    "summary": "<p>Latest Capital Brief/DemosAU federal poll shows One Nation\u2019s continued surge in support. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cv...",
-    "timestamp": 1771878777.0,
-    "date": "Feb 23, 20:32"
-  },
-  {
-    "source": "New York Times",
-    "title": "Live Updates: Mexico Remains on Edge After Killing of Cartel Boss Sparked Violence",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico",
-    "summary": "A military raid targeted \u201cEl Mencho,\u201d the head of a powerful criminal organization, and set off violence across the country. Officials said at least 62 people died in the operation and its aftermath.",
-    "timestamp": 1771878610.0,
-    "date": "Feb 23, 20:30"
-  },
-  {
     "source": "The Verge",
     "title": "Billions of dollars later and still nobody knows what an Xbox is",
     "link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
@@ -64,20 +376,20 @@
     "date": "Feb 23, 20:30"
   },
   {
+    "source": "Al Jazeera",
+    "title": "Tourette syndrome campaigner shouts slur at BAFTA ceremony",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/23/tourette-syndrome-campaigner-shouts-slur-at-bafta-ceremony?traffic_source=rss",
+    "summary": "At the BAFTA Film Awards, a guest with Tourette syndrome involuntarily shouted a racial slur during the BBC\u2019s broadcast.",
+    "timestamp": 1771878566.0,
+    "date": "Feb 23, 20:29"
+  },
+  {
     "source": "CNBC",
     "title": "Judge blocks release of Trump documents case report by special counsel Jack Smith",
     "link": "https://www.cnbc.com/2026/02/23/trump-report-jack-smith-judge-aileen-cannon-mar-a-lago.html",
     "summary": "Judge Aileen Cannon blasted former special counsel Jack Smith for compiling a report on his prosecution of President Donald Trump after she dismissed the case.",
     "timestamp": 1771878347.0,
     "date": "Feb 23, 20:25"
-  },
-  {
-    "source": "CNBC",
-    "title": "Epstein files: Longevity guru Peter Attia quits CBS News after email fallout",
-    "link": "https://www.cnbc.com/2026/02/23/epstein-files-peter-attia-cbs-news.html",
-    "summary": "Peter Attia is the latest person on a growing list to leave high-profile posts as a result of their communications with notorious sex offender Jeffrey Epstein.",
-    "timestamp": 1771878208.0,
-    "date": "Feb 23, 20:23"
   },
   {
     "source": "The Verge",
@@ -89,7 +401,7 @@
   },
   {
     "source": "New York Times",
-    "title": "Peter Mandelson: What to Know",
+    "title": "Who Is Peter Mandelson, the UK Ex-Ambassador Fired Over His Epstein Ties?",
     "link": "https://www.nytimes.com/2026/02/23/world/europe/who-is-peter-mandelson.html",
     "summary": "The former British ambassador to the United States was arrested on Monday, months after being fired over his ties to Jeffrey Epstein, the convicted sex offender.",
     "timestamp": 1771877948.0,
@@ -101,14 +413,6 @@
     "link": "https://www.npr.org/2026/02/23/nx-s1-5724001/baftas-tourettes",
     "summary": "A man with Tourette syndrome shouted a racial slur and other offensive remarks during the BAFTA awards ceremony Sunday. The BBC did not edit out his outbursts in its delayed broadcast.",
     "timestamp": 1771877926.0,
-    "date": "Feb 23, 20:18"
-  },
-  {
-    "source": "New York Times",
-    "title": "Supreme Court to Weigh Oil-Industry Effort to End a Major Climate Suit",
-    "link": "https://www.nytimes.com/2026/02/23/climate/supreme-court-boulder-climate-lawsuit.html",
-    "summary": "The case could have significant bearing on a range of other lawsuits brought against the fossil fuel industry by cities and states across the country.",
-    "timestamp": 1771877883.0,
     "date": "Feb 23, 20:18"
   },
   {
@@ -137,9 +441,9 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "El Mencho: Mexico officials says 25 soldiers killed after cartel raid",
+    "title": "El Mencho: Mexico officials say 25 soldiers killed after cartel raid",
     "link": "https://www.aljazeera.com/news/2026/2/23/mexican-officials-say-25-soldiers-killed-in-clashes-following-cartel-raid?traffic_source=rss",
-    "summary": "Mexican President Claudia Sheinbaum says that calm is being restored and that improvised cartel roadblocks removed.",
+    "summary": "Mexican President Claudia Sheinbaum says that calm is being restored and improvised cartel roadblocks are being removed.",
     "timestamp": 1771877232.0,
     "date": "Feb 23, 20:07"
   },
@@ -184,14 +488,6 @@
     "date": "Feb 23, 19:57"
   },
   {
-    "source": "CNBC",
-    "title": "IBM is the latest AI casualty. Shares are tanking 11% on Anthropic programming language threat",
-    "link": "https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html",
-    "summary": "COBOL is a computer language used for business data processing and IBM is a leader in that area.",
-    "timestamp": 1771876575.0,
-    "date": "Feb 23, 19:56"
-  },
-  {
     "source": "France 24",
     "title": "Tourists and residents urged to stay indoors amid Mexico cartel violence",
     "link": "https://www.france24.com/en/tourists-and-residents-urged-to-stay-indoors-amid-mexico-cartel-violence",
@@ -206,22 +502,6 @@
     "summary": "Uber Autonomous Solutions will see the company taking on all the tasks associated with operating a robotaxi, self-driving truck, or sidewalk delivery robot business.",
     "timestamp": 1771876462.0,
     "date": "Feb 23, 19:54"
-  },
-  {
-    "source": "CNBC",
-    "title": "Mexico violence after cartel boss killing slows cross-border trade, hitting air freight, trucking, ports",
-    "link": "https://www.cnbc.com/2026/02/23/mexico-violence-cartel-boss-killing-freight-trade.html",
-    "summary": "Violence across Mexico after the killing of a cartel boss is hitting trucks, ports and air freight for a critical trading partner to the U.S.",
-    "timestamp": 1771876258.0,
-    "date": "Feb 23, 19:50"
-  },
-  {
-    "source": "New York Times",
-    "title": "Puerto Vallarta Jolted By Violence After Cartel Boss Killing",
-    "link": "https://www.nytimes.com/2026/02/23/world/americas/peurto-vallarta-tourists-cartel.html",
-    "summary": "When violence broke out after the killing of Mexico\u2019s most-wanted cartel boss, vacation spots ordinarily spared from the drug wars were also targeted.",
-    "timestamp": 1771876113.0,
-    "date": "Feb 23, 19:48"
   },
   {
     "source": "Al Jazeera",
@@ -246,22 +526,6 @@
     "summary": "Palestinian Authority&#039;s Ministry of Religious Affairs says Israeli settlers defaced and set fire to a mosque.",
     "timestamp": 1771876047.0,
     "date": "Feb 23, 19:47"
-  },
-  {
-    "source": "CNBC",
-    "title": "The market is so on edge about AI that it's selling off Monday on an unlikely source",
-    "link": "https://www.cnbc.com/2026/02/23/the-market-is-so-on-edge-about-ai-that-its-selling-off-monday-on-an-unlikely-source.html",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "timestamp": 1771876015.0,
-    "date": "Feb 23, 19:46"
-  },
-  {
-    "source": "New York Times",
-    "title": "U.K. Police Arrest Peter Mandelson, Ex-Ambassador to the U.S., Amid Epstein Accusations",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html",
-    "summary": "Peter Mandelson was arrested on Monday on suspicion of \u201cmisconduct in public office\u201d following revelations about his dealings with Jeffrey Epstein, the sex offender.",
-    "timestamp": 1771875967.0,
-    "date": "Feb 23, 19:46"
   },
   {
     "source": "CNBC",
@@ -294,14 +558,6 @@
     "summary": "FRANCE 24's Mexico City correspondent Ioan Grillo says that the loss of 25 National Guard troops will be devastating for Mexico. News of the death of Nemesio \"El Mencho\" Oseguera, leader of the Jalisc...",
     "timestamp": 1771875281.0,
     "date": "Feb 23, 19:34"
-  },
-  {
-    "source": "CNBC",
-    "title": "How Domino's is trying to double its business during a rough patch for big pizza rivals",
-    "link": "https://www.cnbc.com/2026/02/23/dominos-ceo-i-think-we-can-double-this-business.html",
-    "summary": "Domino's Pizza posted better-than-expected earnings and said it is winning over lower-income diners with value offerings.",
-    "timestamp": 1771875035.0,
-    "date": "Feb 23, 19:30"
   },
   {
     "source": "New York Times",
@@ -352,14 +608,6 @@
     "date": "Feb 23, 19:26"
   },
   {
-    "source": "New York Times",
-    "title": "Here\u2019s the latest.",
-    "link": "https://www.nytimes.com/live/2026/02/23/world/mexico-cartel-el-mencho/heres-the-latest",
-    "summary": "",
-    "timestamp": 1771874353.0,
-    "date": "Feb 23, 19:19"
-  },
-  {
     "source": "France 24",
     "title": "Why the threat of bombing campaign? Trump's Iran gambit",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20260223-why-the-threat-of-bombing-campaign-trump-s-iran-gambit",
@@ -387,7 +635,7 @@
     "source": "BBC World",
     "title": "Ukraine negotiator tells BBC how it feels to sit across table from Russia",
     "link": "https://www.bbc.com/news/articles/c89k0lxlpnpo?at_medium=RSS&at_campaign=rss",
-    "summary": "Serhii Kyslytsia is among those trying to negotiate an end to the conflict, which is entering its fifth year.",
+    "summary": "Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year.",
     "timestamp": 1771874231.0,
     "date": "Feb 23, 19:17"
   },
@@ -401,27 +649,11 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Canada summons OpenAI safety team to Ottawa after school shooting",
-    "link": "https://www.channelnewsasia.com/business/canada-summons-openai-safety-team-ottawa-after-school-shooting-5947916",
+    "title": "Canadian officials to meet with OpenAI safety team after school shooting",
+    "link": "https://www.channelnewsasia.com/business/canadian-officials-meet-openai-safety-team-after-school-shooting-5947916",
     "summary": "",
     "timestamp": 1771874210.0,
     "date": "Feb 23, 19:16"
-  },
-  {
-    "source": "CNBC",
-    "title": "Airlines cancel thousands of flights as blizzard cripples East Coast airports",
-    "link": "https://www.cnbc.com/2026/02/23/weather-flight-cancellations-blizzard-noreaster.html",
-    "summary": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm.",
-    "timestamp": 1771874105.0,
-    "date": "Feb 23, 19:15"
-  },
-  {
-    "source": "CNBC",
-    "title": "The odds of Trump's $2,000 tariff dividend checks are 'now effectively zero', expert says",
-    "link": "https://www.cnbc.com/2026/02/23/trumps-2000-tariff-dividend-checks-are-less-likely-experts-say.html",
-    "summary": "President Trump previously suggested issuing \"tariff dividend\" checks. After the Supreme Court struck down his tariffs policy, that's unlikely, experts say.",
-    "timestamp": 1771874026.0,
-    "date": "Feb 23, 19:13"
   },
   {
     "source": "New York Times",
@@ -432,20 +664,20 @@
     "date": "Feb 23, 19:11"
   },
   {
+    "source": "BBC World",
+    "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+    "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+    "summary": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review.",
+    "timestamp": 1771873735.0,
+    "date": "Feb 23, 19:08"
+  },
+  {
     "source": "New York Times",
     "title": "EU Support for Ukraine Stumbles as Hungary Looks to Delay Aid",
     "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html",
     "summary": "Hungary said that it would block both the latest sanctions package on Russia and a financial aid package to Kyiv worth about $106 billion.",
     "timestamp": 1771873708.0,
     "date": "Feb 23, 19:08"
-  },
-  {
-    "source": "CNBC",
-    "title": "The stars are aligning for this country ETF, says Katie Stockton",
-    "link": "https://www.cnbc.com/2026/02/23/the-stars-are-aligning-for-this-country-etf-says-katie-stockton.html",
-    "summary": "Katie Stockton takes a look at the charts on this ETF tracking South African stocks.",
-    "timestamp": 1771873201.0,
-    "date": "Feb 23, 19:00"
   },
   {
     "source": "Al Jazeera",
@@ -512,14 +744,6 @@
     "date": "Feb 23, 18:33"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Rob Reiner\u2019s son pleads not guilty to murder in the killing of his parents",
-    "link": "https://www.channelnewsasia.com/world/rob-nick-michele-reiner-hollywood-la-5947761",
-    "summary": "Nick Reiner, the son of US film director Rob Reiner, has pleaded not guilty&nbsp;to 2 counts of first-degree murder in the killing of his parents.",
-    "timestamp": 1771871330.0,
-    "date": "Feb 23, 18:28"
-  },
-  {
     "source": "France 24",
     "title": "Hungary blocks EU Ukraine loan, Russia sanctions on eve of war anniversary",
     "link": "https://www.france24.com/en/europe/20260223-hungary-blocks-eu-ukraine-loan-russia-sanctions-on-eve-of-war-anniversary",
@@ -541,14 +765,6 @@
     "link": "https://www.theguardian.com/world/2026/feb/23/el-mencho-mexican-drug-cartel-boss-killing-violence",
     "summary": "<p>Killing of Jalisco New Generation Cartel leader sparks wave of violence across western Mexico</p><ul><li><p>Analysis: <a href=\"https://www.theguardian.com/world/2026/feb/23/mexico-trump-cartel-boss...",
     "timestamp": 1771870900.0,
-    "date": "Feb 23, 18:21"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Wie West coming out of retirement to join women's indoor golf league",
-    "link": "https://www.channelnewsasia.com/sport/wie-west-coming-out-retirement-join-womens-indoor-golf-league-5947856",
-    "summary": "",
-    "timestamp": 1771870893.0,
     "date": "Feb 23, 18:21"
   },
   {
@@ -635,17 +851,9 @@
     "source": "Al Jazeera",
     "title": "British police arrest Epstein-linked ex-ambassador Mandelson",
     "link": "https://www.aljazeera.com/news/2026/2/23/british-police-arrest-epstein-linked-ex-ambassador-mandelson?traffic_source=rss",
-    "summary": "Former top Labour party official Peter Mandelson is being probed for suspected &#039;misconduct in public office&#039;.",
+    "summary": "Former top Labour Party official Peter Mandelson is being probed for suspected &#039;misconduct in public office&#039;.",
     "timestamp": 1771868713.0,
     "date": "Feb 23, 17:45"
-  },
-  {
-    "source": "CNBC",
-    "title": "Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears",
-    "link": "https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html",
-    "summary": "Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.",
-    "timestamp": 1771868273.0,
-    "date": "Feb 23, 17:37"
   },
   {
     "source": "New York Times",
@@ -670,30 +878,6 @@
     "summary": "After selling their popular weather app to Apple in March 2020, where some of its core features were incorporated into Apple Weather, the creators of Dark Sky have left Apple to create yet another alt...",
     "timestamp": 1771867877.0,
     "date": "Feb 23, 17:31"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Vonn says post-crash surgery saved her leg from amputation",
-    "link": "https://www.channelnewsasia.com/sport/vonn-says-post-crash-surgery-saved-her-leg-amputation-5947766",
-    "summary": "",
-    "timestamp": 1771867814.0,
-    "date": "Feb 23, 17:30"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "EU puts US trade deal on ice after Supreme Court ruling",
-    "link": "https://www.channelnewsasia.com/world/eu-us-trade-deal-tariff-supreme-court-5947666",
-    "summary": "The European Union has put a trade deal with the United States on hold until they receive more clarity on the US Supreme Court ruling.",
-    "timestamp": 1771867620.0,
-    "date": "Feb 23, 17:27"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Police in Britain arrest Peter Mandelson, a former ambassador, in probe into Epstein ties",
-    "link": "https://www.channelnewsasia.com/world/uk-london-epstein-mandleson-arrest-police-5947756",
-    "summary": "Former UK envoy Peter Mandelson has been arrested by British police on suspicion of misconduct in public office.",
-    "timestamp": 1771867440.0,
-    "date": "Feb 23, 17:24"
   },
   {
     "source": "Al Jazeera",
@@ -736,28 +920,12 @@
     "date": "Feb 23, 17:05"
   },
   {
-    "source": "New York Times",
-    "title": "Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html",
-    "summary": "President Trump is already working to piece his tariff program back together, after a Supreme Court ruling ruptured a centerpiece of his economic agenda.",
-    "timestamp": 1771866247.0,
-    "date": "Feb 23, 17:04"
-  },
-  {
     "source": "BBC World",
     "title": "Australia backs removing Andrew from royal line of succession",
     "link": "https://www.bbc.com/news/articles/cr5lrny83dgo?at_medium=RSS&at_campaign=rss",
     "summary": "Andrew Mountbatten-Windsor remains eighth in line to the throne despite being stripped of his titles.",
     "timestamp": 1771866166.0,
     "date": "Feb 23, 17:02"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Engie eyes bitcoin mine and storage system at huge new Brazil solar plant",
-    "link": "https://www.channelnewsasia.com/business/engie-eyes-bitcoin-mine-and-storage-system-huge-new-brazil-solar-plant-5947706",
-    "summary": "",
-    "timestamp": 1771865751.0,
-    "date": "Feb 23, 16:55"
   },
   {
     "source": "TechCrunch",
@@ -768,14 +936,6 @@
     "date": "Feb 23, 16:55"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Israel bans 5 Palestinian media organisations from occupied East Jerusalem",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/23/israel-bans-5-palestinian-media-organisations-from-occupied-east-jerusalem?traffic_source=rss",
-    "summary": "Israeli Defence Minister Israel Katz has issued an order banning the work of five Palestinian local media organisations.",
-    "timestamp": 1771865471.0,
-    "date": "Feb 23, 16:51"
-  },
-  {
     "source": "TechCrunch",
     "title": "Spotify rolls out AI-powered  Prompted Playlists to the UK and other markets",
     "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
@@ -784,60 +944,12 @@
     "date": "Feb 23, 16:50"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Putin\u2019s strategy is that Ukraine will fall before he does: Ex-FM Kuleba",
-    "link": "https://www.aljazeera.com/news/2026/2/23/slim-chance-of-ceasefire-ukraines-ex-fm-reflects-on-four-years-of-war?traffic_source=rss",
-    "summary": "Dmytro Kuleba talks to Al Jazeera as Ukraine marks the fourth anniversary of war with Russia.",
-    "timestamp": 1771865417.0,
-    "date": "Feb 23, 16:50"
-  },
-  {
-    "source": "CNBC",
-    "title": "Democrats seek to force refunds after Supreme Court blocks Trump tariffs",
-    "link": "https://www.cnbc.com/2026/02/23/congress-democrats-trump-tariffs.html",
-    "summary": "A majority of President Donald Trump's tariffs were struck down by the Supreme Court on Friday, leading him to seek other legal mechanisms for the duties.",
-    "timestamp": 1771865205.0,
-    "date": "Feb 23, 16:46"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Cartel attacks kill more than two dozen people in Mexico",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/23/cartel-attacks-kill-more-than-two-dozen-people-in-mexico?traffic_source=rss",
-    "summary": "Cartel reprisals for the killing of drug lord \u201cEl Mencho\u201d killed at least 25 Mexican National Guard soldiers.",
-    "timestamp": 1771865037.0,
-    "date": "Feb 23, 16:43"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Meta users survey found 19% of young teens on Instagram report seeing unwanted nude images",
-    "link": "https://www.channelnewsasia.com/business/meta-users-survey-found-19-young-teens-instagram-report-seeing-unwanted-nude-images-5947691",
-    "summary": "",
-    "timestamp": 1771864935.0,
-    "date": "Feb 23, 16:42"
-  },
-  {
     "source": "TechCrunch",
     "title": "Finnish quantum unicorn IQM set to go public",
     "link": "https://techcrunch.com/2026/02/23/finnish-quantum-unicorn-iqm-set-to-go-public/",
     "summary": "Finnish unicorn IQM plans to go public via a special purpose acquisition company (SPAC) valuing the company at approximately $1.8 billion \u2014 joining the growing cohort of quantum computing companies li...",
     "timestamp": 1771864882.0,
     "date": "Feb 23, 16:41"
-  },
-  {
-    "source": "CNBC",
-    "title": "Eli Lilly launches new form of obesity drug Zepbound with a month\u2019s worth of doses in one pen",
-    "link": "https://www.cnbc.com/2026/02/23/eli-lilly-launches-zepbound-obesity-drug-pen-one-month-doses.html",
-    "summary": "Eli Lilly hopes the device can be more convenient for Zepbound users and lead to more people taking the drug.",
-    "timestamp": 1771864762.0,
-    "date": "Feb 23, 16:39"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "PayPal attracts takeover interest after stock slide, Bloomberg News reports",
-    "link": "https://www.channelnewsasia.com/business/paypal-attracts-takeover-interest-after-stock-slide-bloomberg-news-reports-5947681",
-    "summary": "",
-    "timestamp": 1771864702.0,
-    "date": "Feb 23, 16:38"
   },
   {
     "source": "Deutsche Welle",
@@ -854,14 +966,6 @@
     "summary": "The 38-year-old is sworn in as premier after clinching a narrow victory in October's election.",
     "timestamp": 1771864413.0,
     "date": "Feb 23, 16:33"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Latin America: In the Shadow of the US | Ep 3 \u2013 Chaos",
-    "link": "https://www.aljazeera.com/video/featured-documentaries/2026/2/23/latin-america-in-the-shadow-of-the-us-ep-3?traffic_source=rss",
-    "summary": "The 21st-century wave of left-wing leaders triggered a US response, culminating in the 2026 capture of Nicolas Maduro.",
-    "timestamp": 1771864200.0,
-    "date": "Feb 23, 16:30"
   },
   {
     "source": "The Guardian",
@@ -894,22 +998,6 @@
     "summary": "Discord is attempting to distance itself from the age verification provider Persona following a steady stream of user backlash. In an emailed statement to The Verge, Discord's head of product policy, ...",
     "timestamp": 1771863740.0,
     "date": "Feb 23, 16:22"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Big Tech to invest about $650 billion in AI in 2026, Bridgewater says",
-    "link": "https://www.channelnewsasia.com/business/big-tech-invest-about-650-billion-in-ai-in-2026-bridgewater-says-5947656",
-    "summary": "",
-    "timestamp": 1771863645.0,
-    "date": "Feb 23, 16:20"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Trump threatens countries that would 'play games' with tariffs",
-    "link": "https://www.channelnewsasia.com/world/tariffs-us-trump-supreme-court-ruling-5947636",
-    "summary": "The US president has threatened higher tariffs on countries that choose to \"play games\" after the US Supreme Court ruling last week.",
-    "timestamp": 1771863600.0,
-    "date": "Feb 23, 16:20"
   },
   {
     "source": "Deutsche Welle",
@@ -1008,22 +1096,6 @@
     "date": "Feb 23, 15:41"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Dollar weakens as US tariffs struck down, Iran tensions rise",
-    "link": "https://www.channelnewsasia.com/business/dollar-weakens-us-tariffs-struck-down-iran-tensions-rise-5946121",
-    "summary": "",
-    "timestamp": 1771860926.0,
-    "date": "Feb 23, 15:35"
-  },
-  {
-    "source": "New York Times",
-    "title": "France Summons U.S. Ambassador Over Comments on Activist\u2019s Killing",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/france-us-ambassador-kushner-activist-killing.html",
-    "summary": "Charles Kushner, President Trump\u2019s envoy to Paris, was called in after the State Department cited \u201cviolent radical leftism\u201d in the beating death of Quentin Deranque, 23.",
-    "timestamp": 1771860291.0,
-    "date": "Feb 23, 15:24"
-  },
-  {
     "source": "France 24",
     "title": "US trade deals thrown into doubt after Trump's new tariffs",
     "link": "https://www.france24.com/en/video/20260223-us-trade-deals-thrown-into-doubt-after-trump-s-new-tariffs",
@@ -1040,28 +1112,12 @@
     "date": "Feb 23, 15:00"
   },
   {
-    "source": "France 24",
-    "title": "Avalanches in the Alps: Embedded with France's mountain rescue teams",
-    "link": "https://www.france24.com/en/tv-shows/france-in-focus/20260223-avalanches-in-the-alps-embedded-with-france-s-mountain-rescue-teams",
-    "summary": "This week, France in Focus takes to the skies to follow the perilous work of French mountain rescuers. This year, unusual weather conditions have led to a deadly winter with far more avalanches than u...",
-    "timestamp": 1771858750.0,
-    "date": "Feb 23, 14:59"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "Mexico: Violence flares over killing of 'El Mencho'",
     "link": "https://www.dw.com/en/mexico-violence-flares-over-killing-of-el-mencho/live-76093284?maca=en-rss-en-all-1573-rdf",
     "summary": "Cartel members have gone on violent rampages after the army announced the capture and killing of 'El Mencho.' At least 25 security forces were killed in the operation. DW has the latest.",
     "timestamp": 1771858380.0,
     "date": "Feb 23, 14:53"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Shields dominates Crews-Dezurn to defend undisputed heavyweight crown",
-    "link": "https://www.channelnewsasia.com/sport/shields-dominates-crews-dezurn-defend-undisputed-heavyweight-crown-5947506",
-    "summary": "",
-    "timestamp": 1771858230.0,
-    "date": "Feb 23, 14:50"
   },
   {
     "source": "TechCrunch",
@@ -1078,14 +1134,6 @@
     "summary": "Last fall, Albanian PM Edi Rama presented the world's first virtual minister, \"Diella.\" Actor Anila Bisha says she never gave her consent for her voice and image to be used for the avatar and has file...",
     "timestamp": 1771857720.0,
     "date": "Feb 23, 14:42"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "UEFA provisionally suspends Benfica's Prestianni over alleged discriminatory behaviour",
-    "link": "https://www.channelnewsasia.com/sport/uefa-provisionally-suspends-benficas-prestianni-over-alleged-discriminatory-behaviour-5947441",
-    "summary": "",
-    "timestamp": 1771857300.0,
-    "date": "Feb 23, 14:35"
   },
   {
     "source": "New York Times",
@@ -1110,14 +1158,6 @@
     "summary": "Nepalese police say the British national was a 24-year-old man.",
     "timestamp": 1771856088.0,
     "date": "Feb 23, 14:14"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "IQM Quantum Computers to list shares in US at initial $1.8 billion valuation",
-    "link": "https://www.channelnewsasia.com/business/iqm-quantum-computers-list-shares-in-us-initial-18-billion-valuation-5947371",
-    "summary": "",
-    "timestamp": 1771856027.0,
-    "date": "Feb 23, 14:13"
   },
   {
     "source": "The Guardian",
@@ -1208,14 +1248,6 @@
     "date": "Feb 23, 11:30"
   },
   {
-    "source": "BBC World",
-    "title": "Cartel henchmen unleash violence after top drug lord killed in Mexico",
-    "link": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&at_campaign=rss",
-    "summary": "The death of the most-wanted Jalisco cartel chief sparks retaliatory violence in at least a dozen states in Mexico.",
-    "timestamp": 1771846065.0,
-    "date": "Feb 23, 11:27"
-  },
-  {
     "source": "The Guardian",
     "title": "High-speed rail link between Sydney and Newcastle could be \u2018shovel-ready\u2019 in two years, Albanese government says",
     "link": "https://www.theguardian.com/australia-news/2026/feb/23/high-speed-rail-australia-sydney-newcastle-link",
@@ -1246,14 +1278,6 @@
     "summary": "Chancellor Friedrich Merz is traveling to China for a belated inaugural visit. A lot is at stake as Germany is in search of global partners after the US has relinquished much of its longstanding role.",
     "timestamp": 1771843440.0,
     "date": "Feb 23, 10:44"
-  },
-  {
-    "source": "NPR",
-    "title": "U.S. has a quarter fewer immigration judges than it did a year ago. Here's why",
-    "link": "https://www.npr.org/2026/02/23/g-s1-110911/trump-immigration-judges-dismissals-numbers",
-    "summary": "The continued drain of personnel from the already strained immigration court system has contributed to depleted staff morale, mounting case backlogs \u2014 and floundering due process.",
-    "timestamp": 1771842600.0,
-    "date": "Feb 23, 10:30"
   },
   {
     "source": "New York Times",
@@ -1456,14 +1480,6 @@
     "date": "Feb 22, 17:49"
   },
   {
-    "source": "TechCrunch",
-    "title": "Trump says Netflix will face \u2018consequences\u2019 if it doesn\u2019t fire board member Susan Rice",
-    "link": "https://techcrunch.com/2026/02/22/trump-says-netflix-will-face-consequences-if-it-doesnt-fire-board-member-susan-rice/",
-    "summary": "Netflix board member Susan Rice had predicted that corporations that \u201ctake a knee\u201d to Trump will be \u201cheld accountable\u201d when Democrats return to power.",
-    "timestamp": 1771781995.0,
-    "date": "Feb 22, 17:39"
-  },
-  {
     "source": "BBC World",
     "title": "Greenland says 'no thanks' to Trump US hospital boat",
     "link": "https://www.bbc.com/news/articles/cy7jnvdzpr7o?at_medium=RSS&at_campaign=rss",
@@ -1486,14 +1502,6 @@
     "summary": "The Kremlin\u2019s sabotage campaign against European allies of Ukraine has been escalating. It needs people like Aleksei Kolosovsky, 42, to carry it out.",
     "timestamp": 1771768945.0,
     "date": "Feb 22, 14:02"
-  },
-  {
-    "source": "BBC World",
-    "title": "'Affront to humanity': Sudan slams Uganda for hosting RSF paramilitary boss",
-    "link": "https://www.bbc.com/news/articles/c20lwznegk4o?at_medium=RSS&at_campaign=rss",
-    "summary": "Sudan accuses Uganda of flouting international law by meeting Rapid Support Forces boss Mohamed Hamdan Dagalo.",
-    "timestamp": 1771768329.0,
-    "date": "Feb 22, 13:52"
   },
   {
     "source": "BBC World",
@@ -1534,14 +1542,6 @@
     "summary": "<p>Major chains agree to halve default sweetness, but street vendors and cafes remain outside sugar tax rules</p><p>A crowd of customers, holding phones aloft, watch intently as Auntie Nid mixes up he...",
     "timestamp": 1771736427.0,
     "date": "Feb 22, 05:00"
-  },
-  {
-    "source": "BBC World",
-    "title": "Final missing Lake Tahoe skier found dead 5 days after avalanche",
-    "link": "https://www.bbc.com/news/articles/cp9m0zp04xyo?at_medium=RSS&at_campaign=rss",
-    "summary": "Authorities released the names of the six women and three guides who died in the worst avalanche in state history.",
-    "timestamp": 1771725983.0,
-    "date": "Feb 22, 02:06"
   },
   {
     "source": "BBC World",
