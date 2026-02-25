@@ -1,11 +1,235 @@
 [
   {
     "source": "CNBC",
+    "title": "Nvidia reports earnings beat as AI boom pushes data center revenue up 75%",
+    "link": "https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html",
+    "summary": "Nvidia has been the best performer on Wall Street this year among tech's megacap companies.",
+    "timestamp": 1772055603.0,
+    "date": "Feb 25, 21:40"
+  },
+  {
+    "source": "CNBC",
+    "title": "Salesforce commits $50 billion for new buybacks as revenue guidance falls short",
+    "link": "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html",
+    "summary": "Salesforce posted accelerating growth and pushed up its long-range revenue target thanks to a recent acquisition.",
+    "timestamp": 1772055520.0,
+    "date": "Feb 25, 21:38"
+  },
+  {
+    "source": "CNBC",
+    "title": "Trump pitches new retirement plan with a federal match of up to $1,000 per year \u2014 who could benefit",
+    "link": "https://www.cnbc.com/2026/02/25/trump-new-retirement-plan.html",
+    "summary": "About 56 million Americans do not have access to a retirement savings plan at work. The Trump administration plans to launch a program to help change that.",
+    "timestamp": 1772055441.0,
+    "date": "Feb 25, 21:37"
+  },
+  {
+    "source": "New York Times",
+    "title": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
+    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
+    "summary": "Border troops engaged in a gunfight with the four people killed near the island nation\u2019s coast, the Cuban Interior Ministry said.",
+    "timestamp": 1772054880.0,
+    "date": "Feb 25, 21:28"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Britain has not paused Chagos Island deal ratification after US criticism",
+    "link": "https://www.channelnewsasia.com/world/starmer-trump-us-uk-chagos-island-mauritius-5953531",
+    "summary": "Britain clarified that there is \"no pause\" in ratifying the deal to cede sovereignty of the Chagos Archipelago.",
+    "timestamp": 1772054880.0,
+    "date": "Feb 25, 21:28"
+  },
+  {
+    "source": "CNBC",
+    "title": "Options trading activity is flashing a warning sign about the market",
+    "link": "https://www.cnbc.com/2026/02/25/options-trading-activity-is-flashing-a-warning-signal-about-the-market.html",
+    "summary": "Traders are buying up protective puts or selling covered calls against the S&amp;P 500, says Scott Nations of Nations Indexes. Volatility is likely on the way.",
+    "timestamp": 1772054710.0,
+    "date": "Feb 25, 21:25"
+  },
+  {
+    "source": "New York Times",
+    "title": "Inside Tapalpa, the Town in Mexico Where El Mencho Made His Last Stand",
+    "link": "https://www.nytimes.com/2026/02/25/world/americas/el-mencho-tapalpa-jalisco-cartel.html",
+    "summary": "Times reporters visiting Tapalpa found a serene town in shock after Sunday\u2019s raid on its outskirts left dozens dead and people fleeing. And, surprisingly, no police or military presence where the batt...",
+    "timestamp": 1772054671.0,
+    "date": "Feb 25, 21:24"
+  },
+  {
+    "source": "New York Times",
+    "title": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
+    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths/cuba-gunfire-speedboat-florida",
+    "summary": "Four people aboard a Florida-based speedboat died in a gunfight with Cuban border troops near the island nation\u2019s coast, the Cuban Interior Ministry said.",
+    "timestamp": 1772054575.0,
+    "date": "Feb 25, 21:22"
+  },
+  {
+    "source": "The Guardian",
+    "title": "News live: Australian government evacuates families of diplomats as tensions rise in Middle East",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/26/dfat-middle-east-evacuation-syria-isis-families-wives-children-anthony-albanese-angus-taylor-budget-cost-of-living-capital-gains-tax-reform-ntwnfb",
+    "summary": "<p>Embassies in Tel Aviv and Beirut remain open but Dfat warns situation is \u2018unpredictable\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=c...",
+    "timestamp": 1772054409.0,
+    "date": "Feb 25, 21:20"
+  },
+  {
+    "source": "BBC World",
+    "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
+    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast.",
+    "timestamp": 1772054330.0,
+    "date": "Feb 25, 21:18"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Cuba says border guards killed four gunmen on US-registered speedboat",
+    "link": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+    "summary": "<p>Rare clash off island\u2019s coast comes amid oil embargo and heightened tensions between two countries </p><p>The Cuban Interior Ministry has said that border guards killed four gunmen and wounded six ...",
+    "timestamp": 1772053915.0,
+    "date": "Feb 25, 21:11"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Fintech Chime sees 2026 revenue above estimates on strong demand, shares surge",
+    "link": "https://www.channelnewsasia.com/business/fintech-chime-sees-2026-revenue-above-estimates-strong-demand-shares-surge-5953546",
+    "summary": "",
+    "timestamp": 1772053895.0,
+    "date": "Feb 25, 21:11"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Snowflake expects annual product revenue above estimates as AI boosts demand",
+    "link": "https://www.channelnewsasia.com/business/snowflake-expects-annual-product-revenue-above-estimates-ai-boosts-demand-5953551",
+    "summary": "",
+    "timestamp": 1772053825.0,
+    "date": "Feb 25, 21:10"
+  },
+  {
+    "source": "New York Times",
+    "title": "A Last Chance Before War",
+    "link": "https://www.nytimes.com/2026/02/25/world/iran-nuclear-talks-trump-war-maduro.html",
+    "summary": "The U.S. and Iran both say they want to avoid a conflict. Time is running out to avoid one.",
+    "timestamp": 1772053748.0,
+    "date": "Feb 25, 21:09"
+  },
+  {
+    "source": "France 24",
+    "title": "Four killed in firefight between Cuban coastguard and Florida-registered speedboat",
+    "link": "https://www.france24.com/en/americas/20260225-four-killed-in-firefight-between-cuban-coastguard-and-florida-registered-speedboat",
+    "summary": "Four people were killed \u200band at least six others were wounded on Wednesday when a speedboat travelling from Florida entered Cuba's territorial waters and opened \u200bfire \u200con the Cuban coastguard, who ret...",
+    "timestamp": 1772053648.0,
+    "date": "Feb 25, 21:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Salesforce forecasts annual revenue below estimates",
+    "link": "https://www.channelnewsasia.com/business/salesforce-forecasts-annual-revenue-below-estimates-5953536",
+    "summary": "",
+    "timestamp": 1772053624.0,
+    "date": "Feb 25, 21:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "India's Modi visits Israel as US-Iran tensions mount",
+    "link": "https://www.channelnewsasia.com/world/india-israel-modi-visit-netenyahu-us-5953461",
+    "summary": "On a two-day visit to Israel, India's Prime Minister Narendra Modi told the parliament that India stood with Israel \"with full conviction\".&nbsp;",
+    "timestamp": 1772053020.0,
+    "date": "Feb 25, 20:57"
+  },
+  {
+    "source": "New York Times",
+    "title": "45 Years After Failed Coup, Spain Declassifies Files About Why It Failed",
+    "link": "https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html",
+    "summary": "Ending more than four decades of conjecture, the Spanish government moved to publish documents from a long-secret investigation of a failed 1981 coup.",
+    "timestamp": 1772052667.0,
+    "date": "Feb 25, 20:51"
+  },
+  {
+    "source": "CNBC",
+    "title": "How you can squeeze a little more yield from your idle cash in exchange for a bit of risk",
+    "link": "https://www.cnbc.com/2026/02/25/how-to-squeeze-a-more-yield-from-idle-cash-in-return-for-a-bit-of-risk.html",
+    "summary": "Not all money market funds are built the same. Some funds offer investors a bump in interest income if they're willing to take a little more risk.",
+    "timestamp": 1772052341.0,
+    "date": "Feb 25, 20:45"
+  },
+  {
+    "source": "The Verge",
+    "title": "The Peace Corps is recruiting volunteers to sell AI to developing nations",
+    "link": "https://www.theverge.com/policy/884625/peace-corps-tech-promote-american-ai",
+    "summary": "For more than six decades, the Peace Corps has represented itself as an agency focused on helping underserved communities around the globe. But a new initiative, called the \"Tech Corps,\" threatens to ...",
+    "timestamp": 1772052300.0,
+    "date": "Feb 25, 20:45"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+    "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+    "summary": "Many of hyperscalers have already made public commitments in to cover electricity cost increases.",
+    "timestamp": 1772052134.0,
+    "date": "Feb 25, 20:42"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "India\u2019s Modi tells Israel\u2019s Knesset: \u2018No cause justifies killing civilians\u2019",
+    "link": "https://www.aljazeera.com/news/2026/2/25/indias-modi-addresses-israeli-parliament-on-first-day-of-visit?traffic_source=rss",
+    "summary": "Prime Minister Narendra Modi hailed the &#039;vital&#039; partnership between Israel and India during his visit.",
+    "timestamp": 1772051995.0,
+    "date": "Feb 25, 20:39"
+  },
+  {
+    "source": "CNBC",
+    "title": "Netflix CEO Ted Sarandos to visit White House for talks on WBD deal, report says",
+    "link": "https://www.cnbc.com/2026/02/25/netflix-sarandos-white-house-wbd-paramount-deal-trump-rice.html",
+    "summary": "The reported visit is scheduled just days after President Donald Trump demanded that Netflix immediately fire one of its board members, Susan Rice.",
+    "timestamp": 1772051918.0,
+    "date": "Feb 25, 20:38"
+  },
+  {
+    "source": "Al Jazeera",
+    "title": "Modi, Netanyahu praise each other in address to Israeli Knesset",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/25/modi-netanyahu-praise-each-other-in-address-to-israeli-knesset?traffic_source=rss",
+    "summary": "Narendra Modi and Benjamin Netanyahu spoke of each other\u2019s countries in civilisational terms to the Israeli Knesset.",
+    "timestamp": 1772051896.0,
+    "date": "Feb 25, 20:38"
+  },
+  {
+    "source": "The Verge",
+    "title": "Trump claims tech companies will sign deals next week to pay for their own power supply",
+    "link": "https://www.theverge.com/science/884191/ai-data-center-energy-state-of-the-union-trump",
+    "summary": "President Donald Trump tried to quell Americans' concerns about rising electricity costs during his State of the Union speech - and now we're learning that the deals he promised could land next week. ...",
+    "timestamp": 1772051845.0,
+    "date": "Feb 25, 20:37"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Louisiana utility regulator denies request for probe of Meta data center deal, law group says",
+    "link": "https://www.channelnewsasia.com/business/louisiana-utility-regulator-denies-request-probe-meta-data-center-deal-law-group-says-5953476",
+    "summary": "",
+    "timestamp": 1772051703.0,
+    "date": "Feb 25, 20:35"
+  },
+  {
+    "source": "France 24",
+    "title": "Mexico will make 'a strong show of security' ahead of World Cup, expert says",
+    "link": "https://www.france24.com/en/mexico-will-make-a-strong-show-of-security-ahead-of-world-cup-expert-says",
+    "summary": "Speaking with FRANCE 24's Mark Owen, Nathan P. Jones, Associate Professor of Security Studies in the College of Criminal Justice at Sam Houston State University, says that \"the Mexican government will...",
+    "timestamp": 1772051493.0,
+    "date": "Feb 25, 20:31"
+  },
+  {
+    "source": "CNBC",
     "title": "Big Tech companies to meet Trump at White House to sign pledge on data center power costs",
     "link": "https://www.cnbc.com/2026/02/25/trump-tech-ai-data-center-electricity-price-pledge.html",
     "summary": "The companies attending the March 4 meeting include Amazon, Google, Meta, Microsoft, xAI, Oracle and OpenAI, a White House official confirmed.",
     "timestamp": 1772051394.0,
     "date": "Feb 25, 20:29"
+  },
+  {
+    "source": "Deutsche Welle",
+    "title": "US greenlights resale of Venezuelan oil to Cuba",
+    "link": "https://www.dw.com/en/us-greenlights-resale-of-venezuelan-oil-to-cuba/a-76126101?maca=en-rss-en-all-1573-rdf",
+    "summary": "US President Trump had vowed to stop Venezuelan oil from reaching Cuba, sparking a crisis on the island. Now the US government is easing its restrictions as top US diplomat Rubio meets concerned Carib...",
+    "timestamp": 1772051220.0,
+    "date": "Feb 25, 20:27"
   },
   {
     "source": "TechCrunch",
@@ -24,28 +248,12 @@
     "date": "Feb 25, 20:22"
   },
   {
-    "source": "New York Times",
-    "title": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
-    "link": "https://www.nytimes.com/2026/02/25/world/americas/cuba-gunfire-speedboat-florida.html",
-    "summary": "Four people aboard a Florida-based speedboat died in a gunfight with Cuban border troops near the island nation\u2019s coast, the Cuban Interior Ministry said.",
-    "timestamp": 1772050880.0,
-    "date": "Feb 25, 20:21"
-  },
-  {
-    "source": "The Guardian",
-    "title": "News live: Australian government evacuates families of diplomats as tensions rise in Middle East",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/26/dfat-middle-east-evacuation-syria-isis-families-wives-children-anthony-albanese-angus-taylor-budget-cost-of-living-capital-gains-tax-reform-ntwnfb",
-    "summary": "<p>Embassies in Tel Aviv and Beirut remain open but Dfat warns situation is \u2018unpredictable\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=c...",
-    "timestamp": 1772050786.0,
-    "date": "Feb 25, 20:19"
-  },
-  {
-    "source": "CNBC",
-    "title": "Stocks rise, adding to Tuesday's comeback as Nvidia and Oracle shares gain: Live updates",
-    "link": "https://www.cnbc.com/2026/02/24/stock-market-today-live-updates.html",
-    "summary": "The moves come after U.S. equities rose on Tuesday as fears of artificial intelligence disruption eased.",
-    "timestamp": 1772050775.0,
-    "date": "Feb 25, 20:19"
+    "source": "Al Jazeera",
+    "title": "Influential economist Larry Summers to depart Harvard over Epstein ties",
+    "link": "https://www.aljazeera.com/news/2026/2/25/influential-economist-larry-summers-to-depart-harvard-over-epstein-ties?traffic_source=rss",
+    "summary": "Former Harvard President Summers quits after disclosures about his correspondence with Jeffrey Epstein.",
+    "timestamp": 1772050721.0,
+    "date": "Feb 25, 20:18"
   },
   {
     "source": "Deutsche Welle",
@@ -57,11 +265,11 @@
   },
   {
     "source": "CNBC",
-    "title": "Nvidia set to report quarterly results after the bell",
-    "link": "https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html",
-    "summary": "Nvidia has been the best performer on Wall Street this year among tech's megacap companies.",
-    "timestamp": 1772050360.0,
-    "date": "Feb 25, 20:12"
+    "title": "Bitcoin climbs toward $70,000 level as U.S. equities rise: CNBC Crypto World",
+    "link": "https://www.cnbc.com/video/2026/02/25/bitcoin-climbs-toward-70000-level-as-us-equities-rise-cnbc-crypto-world.html",
+    "summary": "On today's episode of CNBC Crypto World, bitcoin is on pace to break a multi-week losing streak. Also, Trump family-backed crypto platform World Liberty Financial says it was targeted by a 'coordinate...",
+    "timestamp": 1772050499.0,
+    "date": "Feb 25, 20:14"
   },
   {
     "source": "New York Times",
@@ -113,14 +321,6 @@
   },
   {
     "source": "New York Times",
-    "title": "45 Years After Failed Coup, Spain Declassifies Files About Why It Failed",
-    "link": "https://www.nytimes.com/2026/02/25/world/europe/spain-coup-1981-files-revealed.html",
-    "summary": "Ending more than four decades of conjecture, the Spanish government moved to publish documents from a long-secret investigation of a failed 1981 coup.",
-    "timestamp": 1772049837.0,
-    "date": "Feb 25, 20:03"
-  },
-  {
-    "source": "New York Times",
     "title": "Trump\u2019s speech gets a mixed reaction around the world.",
     "link": "https://www.nytimes.com/live/2026/02/25/us/trump-news/trump-state-union-speech-global-reaction",
     "summary": "",
@@ -155,7 +355,7 @@
     "source": "The Verge",
     "title": "Google and Samsung just launched the AI features Apple couldn\u2019t with Siri",
     "link": "https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri",
-    "summary": "Google just announced that Gemini will soon be able to take care of some multi-step tasks on your phone, like ordering food or hailing a car, starting first with the Pixel 10, Pixel 10 Pro, and the ju...",
+    "summary": "Google just announced that Gemini will soon be able to take care of some multistep tasks on your phone, like ordering food or hailing a car, starting first with the Pixel 10, Pixel 10 Pro, and the jus...",
     "timestamp": 1772049415.0,
     "date": "Feb 25, 19:56"
   },
@@ -200,14 +400,6 @@
     "date": "Feb 25, 19:47"
   },
   {
-    "source": "CNBC",
-    "title": "Netflix CEO Ted Sarandos to visit White House for talks on WBD deal, report says",
-    "link": "https://www.cnbc.com/2026/02/25/netflix-sarandos-white-house-wbd-paramount-deal-trump-rice.html",
-    "summary": "The reported visit is scheduled just days after President Donald Trump demanded that Netflix immediately fire one of its board members, Susan Rice.",
-    "timestamp": 1772048603.0,
-    "date": "Feb 25, 19:43"
-  },
-  {
     "source": "CNA (Asia)",
     "title": "US lawmakers want UK briefing on backdoor order to Apple",
     "link": "https://www.channelnewsasia.com/business/us-lawmakers-want-uk-briefing-backdoor-order-apple-5953396",
@@ -249,14 +441,6 @@
   },
   {
     "source": "CNBC",
-    "title": "A key financial ETF is now so depressed\u00a0that it may be ready to bounce vs. the broad market",
-    "link": "https://www.cnbc.com/2026/02/25/a-key-financial-etf-is-now-so-depressed-that-it-may-be-ready-to-bounce-vs-the-broad-market.html",
-    "summary": "IAI's\u00a0selloff in 2026\u00a0has led to underperformance vs. the S&amp;P 500, leaving the\u00a0IAI/SPX relative ratio oversold, a rare occurrence over the past few years.",
-    "timestamp": 1772048073.0,
-    "date": "Feb 25, 19:34"
-  },
-  {
-    "source": "CNBC",
     "title": "Samsung's S26 gives an advance look at what the Google-powered Apple Siri could do",
     "link": "https://www.cnbc.com/2026/02/25/samsung-s26-launch-gemini-ai-apple-siri.html",
     "summary": "The Samsung S26 has three separate AI systems with Google's Gemini, Perplexity and its own upgraded Bixby.",
@@ -283,7 +467,7 @@
     "source": "BBC World",
     "title": "Spain declassifies files on 1981 attempted coup in effort to dispel conspiracy theories",
     "link": "https://www.bbc.com/news/articles/ce8w42e152xo?at_medium=RSS&at_campaign=rss",
-    "summary": "In what appears an extraordinary coincidence, the coup leader has died on the same day as the document release.",
+    "summary": "The release comes on the same day as the death of the coup leader, Antonio Tejero Molina.",
     "timestamp": 1772047825.0,
     "date": "Feb 25, 19:30"
   },
@@ -350,14 +534,6 @@
     "summary": "What does a boss who\u2019s built an image as a tough guy from Queens do when naysayers claim he's reached his limits? To dispel doubts, he can for instance hold the floor for an hour and 47 minutes. In th...",
     "timestamp": 1772046800.0,
     "date": "Feb 25, 19:13"
-  },
-  {
-    "source": "CNBC",
-    "title": "Trump pitches new retirement plan with a federal match of up to $1,000 per year \u2014 who could benefit",
-    "link": "https://www.cnbc.com/2026/02/25/trump-new-retirement-plan.html",
-    "summary": "About 56 million Americans do not have access to a retirement savings plan at work. The Trump administration plans to launch a program to help change that.",
-    "timestamp": 1772046616.0,
-    "date": "Feb 25, 19:10"
   },
   {
     "source": "TechCrunch",
@@ -633,8 +809,8 @@
   },
   {
     "source": "Deutsche Welle",
-    "title": "Talks in Geneva could bring the US and Iran closer to a nuclear deal or start a final countdown to war",
-    "link": "https://www.dw.com/en/talks-in-geneva-could-bring-the-us-and-iran-closer-to-a-nuclear-deal-or-start-a-final-countdown-to-war/a-76120548?maca=en-rss-en-all-1573-rdf",
+    "title": "US-Iran nuclear talks: Deal or military strike?",
+    "link": "https://www.dw.com/en/us-iran-nuclear-talks-deal-or-military-strike/a-76120548?maca=en-rss-en-all-1573-rdf",
     "summary": "With Washington amassing military force in the Middle East, US and Iranian representatives are again meeting in Geneva on Tehran's nuclear program. Hopes for a breakthrough are slim.",
     "timestamp": 1772042340.0,
     "date": "Feb 25, 17:59"
@@ -688,14 +864,6 @@
     "date": "Feb 25, 17:40"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "US, Canada to meet in coming weeks on trade, USTR says",
-    "link": "https://www.channelnewsasia.com/world/us-canada-trade-talks-trump-carney-5953121",
-    "summary": "US and Canadian trade officials spoke and will meet in Washington in the coming weeks, US Trade Representative Jamieson Greer said.",
-    "timestamp": 1772041158.0,
-    "date": "Feb 25, 17:39"
-  },
-  {
     "source": "TechCrunch",
     "title": "OpenAI COO says ads will be \u2018an iterative process\u2019",
     "link": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
@@ -728,36 +896,12 @@
     "date": "Feb 25, 17:20"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "New Zealand fight back to eliminate co-hosts Sri Lanka from T20 World Cup",
-    "link": "https://www.channelnewsasia.com/sport/new-zealand-fight-back-eliminate-co-hosts-sri-lanka-t20-world-cup-5953101",
-    "summary": "",
-    "timestamp": 1772039610.0,
-    "date": "Feb 25, 17:13"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "White House to host Big Tech in pledge to rein in power costs",
-    "link": "https://www.channelnewsasia.com/business/white-house-host-big-tech-in-pledge-rein-in-power-costs-5953091",
-    "summary": "",
-    "timestamp": 1772039278.0,
-    "date": "Feb 25, 17:07"
-  },
-  {
     "source": "New York Times",
     "title": "Inside Nicol\u00e1s Maduro\u2019s Last Days as Venezuela\u2019s Leader",
     "link": "https://www.nytimes.com/2026/02/25/world/americas/maduro-venezuela-us-capture-trump.html",
     "summary": "The Venezuelan leader overestimated his strength and misread his exchange with President Trump in the decisive weeks before his capture by U.S. forces.",
     "timestamp": 1772039155.0,
     "date": "Feb 25, 17:05"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Worldline disposal programme nearly complete, it says after hitting annual results targets",
-    "link": "https://www.channelnewsasia.com/business/worldline-disposal-programme-nearly-complete-it-says-after-hitting-annual-results-targets-5953081",
-    "summary": "",
-    "timestamp": 1772038891.0,
-    "date": "Feb 25, 17:01"
   },
   {
     "source": "BBC World",
@@ -784,22 +928,6 @@
     "date": "Feb 25, 17:00"
   },
   {
-    "source": "The Verge",
-    "title": "Live: Samsung unveils new Galaxy phones",
-    "link": "https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026",
-    "summary": "We're here in San Francisco, where Samsung is set to unveil its new Galaxy S26 series phones and probably some accessories to go with them starting at 1PM ET. Keep in mind this isn't Samsung's foldy p...",
-    "timestamp": 1772038800.0,
-    "date": "Feb 25, 17:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Samsung Unpacked 2026: everything announced at the February event",
-    "link": "https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-galaxy-s26-announcement",
-    "summary": "Samsung just wrapped Galaxy Unpacked 2026 in San Francisco, where as expected, it announced the Galaxy S26 Ultra, with its screen that can black out sensitive info from certain angles; the S26 and S26...",
-    "timestamp": 1772038800.0,
-    "date": "Feb 25, 17:00"
-  },
-  {
     "source": "New York Times",
     "title": "How the UK Could Remove Former Prince Andrew From the Royal Line of Succession",
     "link": "https://www.nytimes.com/2026/02/25/world/europe/uk-royal-line-succession-prince-andrew-epstein.html",
@@ -817,9 +945,9 @@
   },
   {
     "source": "Al Jazeera",
-    "title": "US issues new sanctions as it dials up pressure on Iran",
+    "title": "US issues new Iran sanctions on eve of nuclear talks in Geneva",
     "link": "https://www.aljazeera.com/news/2026/2/25/us-issues-new-sanctions-as-it-dials-up-pressure-on-iran?traffic_source=rss",
-    "summary": "Washington penalties target oil vessels as Trump administration intensifies &#039;maximum pressure&#039; campaign against Tehran.",
+    "summary": "Iranian and US negotiators are set to meet in Swiss capital as Washington amasses military assets in Middle East.",
     "timestamp": 1772038449.0,
     "date": "Feb 25, 16:54"
   },
@@ -837,14 +965,6 @@
     "link": "https://www.aljazeera.com/video/newsfeed/2026/2/25/demonstrators-in-frog-costumes-protest-trumps-state-of-the-union?traffic_source=rss",
     "summary": "As Trump delivered his State of the Union address, demonstrators dressed in frog costumes protested in the streets.",
     "timestamp": 1772038113.0,
-    "date": "Feb 25, 16:48"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "US tariff rate to hit 15% or more for some nations, Greer says",
-    "link": "https://www.channelnewsasia.com/world/trump-tariffs-supreme-court-us-trade-5952986",
-    "summary": "US Trade Representative Jamieson Greer said that US tariffs could rise to 15 per cent or higher for some countries.",
-    "timestamp": 1772038080.0,
     "date": "Feb 25, 16:48"
   },
   {
@@ -878,14 +998,6 @@
     "summary": "After hitting a seagull with the ball, a footballer administered emergency CPR to it during a match in Istanbul.",
     "timestamp": 1772037896.0,
     "date": "Feb 25, 16:44"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Five\u2011star hotels lead price increases in Milan during Olympics",
-    "link": "https://www.channelnewsasia.com/sport/five-star-hotels-lead-price-increases-in-milan-during-olympics-5953031",
-    "summary": "",
-    "timestamp": 1772037069.0,
-    "date": "Feb 25, 16:31"
   },
   {
     "source": "Al Jazeera",
@@ -936,28 +1048,12 @@
     "date": "Feb 25, 15:45"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Palestinian filmmaker showcases the beauty of pre-war Gaza",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/2/25/palestinian-filmmaker-showcases-the-beauty-of-pre-war-gaza?traffic_source=rss",
-    "summary": "Palestinian journalist Yousef Al Helou documented Gaza and its people in 2023, months before the start of Israel\u2019s war,",
-    "timestamp": 1772034017.0,
-    "date": "Feb 25, 15:40"
-  },
-  {
     "source": "France 24",
     "title": "From forbidden gay love to kinky queer romance: The latest film releases",
     "link": "https://www.france24.com/en/tv-shows/arts24/20260225-from-forbidden-gay-love-to-kinky-queer-romance-the-latest-film-releases",
     "summary": "In this edition of our film show, critic Emma Jones talks to Eve Jackson about the latest film releases, including \"The History of Sound\" from director Oliver Hermanus. It stars Paul Mescal and Josh O...",
     "timestamp": 1772033939.0,
     "date": "Feb 25, 15:38"
-  },
-  {
-    "source": "CNBC",
-    "title": "David Tepper sends scathing letter to Whirlpool for destroying shareholder value, pushes for changes",
-    "link": "https://www.cnbc.com/2026/02/25/david-tepper-sends-scathing-letter-to-whirlpool.html",
-    "summary": "Tepper said he watched with \"a certain astonishment\" as the company issued equity in what he called a large and unnecessary dilution of shareholders.",
-    "timestamp": 1772033805.0,
-    "date": "Feb 25, 15:36"
   },
   {
     "source": "Deutsche Welle",
@@ -992,14 +1088,6 @@
     "date": "Feb 25, 15:26"
   },
   {
-    "source": "Al Jazeera",
-    "title": "Lebanon\u2019s second airport could receive passengers by summer, officials say",
-    "link": "https://www.aljazeera.com/features/2026/2/25/lebanons-second-airport-could-receive-passengers-by-summer-officials-say?traffic_source=rss",
-    "summary": "Lebanon has long discussed opening a second airport. As the political debate has faded, the possibility is near.",
-    "timestamp": 1772033181.0,
-    "date": "Feb 25, 15:26"
-  },
-  {
     "source": "BBC World",
     "title": "Zimbabwe rejects 'lopsided' US health aid deal over data concerns",
     "link": "https://www.bbc.com/news/articles/cwy6nd3664no?at_medium=RSS&at_campaign=rss",
@@ -1014,14 +1102,6 @@
     "summary": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making.",
     "timestamp": 1772032593.0,
     "date": "Feb 25, 15:16"
-  },
-  {
-    "source": "CNBC",
-    "title": "Mortgage rates hit lowest level in nearly 4 years, but homebuyers are still stuck on the sidelines",
-    "link": "https://www.cnbc.com/2026/02/25/mortgage-rates-hit-lowest-level-in-nearly-4-years.html",
-    "summary": "Mortgage rates dropped to the lowest level since 2022 last week, but demand from homebuyers declined as well, as they continue to struggle with affordability.",
-    "timestamp": 1772032451.0,
-    "date": "Feb 25, 15:14"
   },
   {
     "source": "France 24",
@@ -1062,14 +1142,6 @@
     "summary": "Just 3 days left to save up to $680 on your TechCrunch Disrupt 2026 ticket. Offer ends on Friday, February 27 at 11:59 p.m. PT. Don't miss unparalleled, curated networking and valuable insights from 2...",
     "timestamp": 1772031600.0,
     "date": "Feb 25, 15:00"
-  },
-  {
-    "source": "Al Jazeera",
-    "title": "Displaced Sudanese women caught up in war suffer wretched Ramadan",
-    "link": "https://www.aljazeera.com/features/2026/2/25/displaced-sudanese-women-caught-up-in-war-suffer-wretched-ramadan?traffic_source=rss",
-    "summary": "Women in Sudan\u2019s Al-Sarraf camp face hunger and disease during a desperate holy month.",
-    "timestamp": 1772031584.0,
-    "date": "Feb 25, 14:59"
   },
   {
     "source": "TechCrunch",
@@ -1152,14 +1224,6 @@
     "date": "Feb 25, 14:00"
   },
   {
-    "source": "TechCrunch",
-    "title": "Harbinger acquires autonomous driving company Phantom AI",
-    "link": "https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/",
-    "summary": "It's the Los Angeles trucking startup's first acquisition \u2014 the latest in a series of moves to spin up new revenue streams.",
-    "timestamp": 1772028000.0,
-    "date": "Feb 25, 14:00"
-  },
-  {
     "source": "France 24",
     "title": "\"You have killed Americans!\": Ilhan Omar heckles Trump during State of the Union",
     "link": "https://www.france24.com/en/video/20260225-you-have-killed-americans-ilhan-omar-heckles-trump-during-state-of-the-union",
@@ -1182,22 +1246,6 @@
     "summary": "The number of Roman Catholics is growing faster in Africa than anywhere else, according to the Vatican.",
     "timestamp": 1772027590.0,
     "date": "Feb 25, 13:53"
-  },
-  {
-    "source": "France 24",
-    "title": "Shein stores open in five more French cities",
-    "link": "https://www.france24.com/en/video/20260225-shein-stores-open-in-five-more-french-cities",
-    "summary": "Five new Shein shops areset to open in France on Wednesday, the first outside of Paris. Initially planned for the end of 2025, their openings were pushed back after the company found itself embroiled ...",
-    "timestamp": 1772027110.0,
-    "date": "Feb 25, 13:45"
-  },
-  {
-    "source": "France 24",
-    "title": "Iran-US talks set to resume in Geneva as Trump ups pressure",
-    "link": "https://www.france24.com/en/video/20260225-iran-us-talks-set-to-resume-in-geneva-as-trump-ups-pressure",
-    "summary": "Iran is refuting claims from Donald Trump after he alleged the Islamic Republic had developed missiles that could threaten Europe, and American bases.. He also said they were working to build missiles...",
-    "timestamp": 1772026739.0,
-    "date": "Feb 25, 13:38"
   },
   {
     "source": "Deutsche Welle",
@@ -1376,14 +1424,6 @@
     "date": "Feb 25, 09:03"
   },
   {
-    "source": "Deutsche Welle",
-    "title": "Football: Afghanistan women again set to fight for future",
-    "link": "https://www.dw.com/en/football-afghanistan-women-again-set-to-fight-for-future/a-76103291?maca=en-rss-en-all-1573-rdf",
-    "summary": "Afghanistan's female players are used to fighting and waiting. Months after their reintroduction to internationals, they now wait on another game and must wrestle with FIFA doubling down on a country ...",
-    "timestamp": 1772008560.0,
-    "date": "Feb 25, 08:36"
-  },
-  {
     "source": "BBC World",
     "title": "Chinese dance group's tour triggers bomb threat against Australian PM",
     "link": "https://www.bbc.com/news/articles/ce3gj35q541o?at_medium=RSS&at_campaign=rss",
@@ -1456,14 +1496,6 @@
     "date": "Feb 25, 03:52"
   },
   {
-    "source": "New York Times",
-    "title": "Study Shows Xi\u2019s Purges of China\u2019s Military Run Deep",
-    "link": "https://www.nytimes.com/2026/02/24/world/asia/china-military-purges-xi.html",
-    "summary": "Around 100 senior officers have been sidelined or vanished since 2022, hollowing out the top ranks and raising questions about the army\u2019s capabilities.",
-    "timestamp": 1771990035.0,
-    "date": "Feb 25, 03:27"
-  },
-  {
     "source": "BBC World",
     "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
     "link": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss",
@@ -1512,44 +1544,12 @@
     "date": "Feb 24, 23:28"
   },
   {
-    "source": "New York Times",
-    "title": "What to Know About the Cartels Operating in Mexico",
-    "link": "https://www.nytimes.com/2026/02/24/world/americas/mexico-cartels-leaders-el-mencho.html",
-    "summary": "Other criminal groups in Mexico may try to take advantage of the death of Nemesio Oseguera Cervantes, also known as El Mencho, who ran the Jalisco New Generation Cartel.",
-    "timestamp": 1771968016.0,
-    "date": "Feb 24, 21:20"
-  },
-  {
-    "source": "New York Times",
-    "title": "Louvre Director Resigns, Months After Crown Jewels Were Stolen in Heist",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/louvre-director-resigns-heist.html",
-    "summary": "Laurence des Cars\u2019s departure is the latest setback for the world\u2019s largest museum. Her tenure was marred by labor strikes, water leaks, a ticket scam and security lapses, which led to the heist in Oc...",
-    "timestamp": 1771966703.0,
-    "date": "Feb 24, 20:58"
-  },
-  {
     "source": "The Guardian",
     "title": "Brazilian politicians accused of ordering murder of Rio councillor go on trial",
     "link": "https://www.theguardian.com/world/2026/feb/24/brazil-supreme-court-trial-rio-marielle-franco-murder",
     "summary": "<p>Chiquinho and Domingos Braz\u00e3o accused of ordering shooting of Marielle Franco and her driver in 2018</p><p>Brazil\u2019s supreme court has opened the trial of politicians accused of ordering the 2018 mu...",
     "timestamp": 1771958154.0,
     "date": "Feb 24, 18:35"
-  },
-  {
-    "source": "BBC World",
-    "title": "Ukraine remembers its dead as war enters a fifth year",
-    "link": "https://www.bbc.com/news/articles/clyg7r3nd3ko?at_medium=RSS&at_campaign=rss",
-    "summary": "Events were held across Ukraine to mark four years since Russia launched its full-scale invasion.",
-    "timestamp": 1771956838.0,
-    "date": "Feb 24, 18:13"
-  },
-  {
-    "source": "The Guardian",
-    "title": "Mexico pledges safety for World Cup after violence erupts from cartel boss\u2019s killing",
-    "link": "https://www.theguardian.com/world/2026/feb/24/sheinbaum-world-cup-visitors-violence-el-mencho",
-    "summary": "<p>Mexico\u2019s president says there is \u2018no risk\u2019 for those visiting for Fifa games after military killed drug lord \u2018El Mencho\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/feb/23/violenc...",
-    "timestamp": 1771953538.0,
-    "date": "Feb 24, 17:18"
   },
   {
     "source": "The Guardian",
