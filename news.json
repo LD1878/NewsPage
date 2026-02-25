@@ -1,19 +1,195 @@
 [
   {
     "source": "CNBC",
-    "title": "Nvidia reports earnings beat as AI boom pushes data center revenue up 75%",
-    "link": "https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html",
-    "summary": "Nvidia has been the best performer on Wall Street this year among tech's megacap companies.",
-    "timestamp": 1772055603.0,
-    "date": "Feb 25, 21:40"
+    "title": "Salesforce shares sink on mixed guidance as company commits $50 billion for buybacks",
+    "link": "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html",
+    "summary": "Salesforce posted accelerating growth and pushed up its long-range revenue target thanks to a recent acquisition.",
+    "timestamp": 1772058580.0,
+    "date": "Feb 25, 22:29"
   },
   {
     "source": "CNBC",
-    "title": "Salesforce commits $50 billion for new buybacks as revenue guidance falls short",
-    "link": "https://www.cnbc.com/2026/02/25/salesforce-crm-q4-earnings-report-2026.html",
-    "summary": "Salesforce posted accelerating growth and pushed up its long-range revenue target thanks to a recent acquisition.",
-    "timestamp": 1772055520.0,
+    "title": "Nvidia reports earnings and guidance beat as AI boom pushes data center revenue up 75%",
+    "link": "https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html",
+    "summary": "Nvidia has been the best performer on Wall Street this year among tech's megacap companies.",
+    "timestamp": 1772058505.0,
+    "date": "Feb 25, 22:28"
+  },
+  {
+    "source": "The Verge",
+    "title": "How the new Galaxy S26 phones stack up against each other on paper",
+    "link": "https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison",
+    "summary": "Samsung has just announced its new Galaxy S26 lineup, which includes the S26, S26 Plus, and S26 Ultra. While they aren't radical departures from last year's models, they bring a handful of notable upg...",
+    "timestamp": 1772058391.0,
+    "date": "Feb 25, 22:26"
+  },
+  {
+    "source": "The Guardian",
+    "title": "Australia news live: bumper $1.46bn half-year profit for Qantas; families of Middle East diplomats evacuated",
+    "link": "https://www.theguardian.com/australia-news/live/2026/feb/26/dfat-middle-east-evacuation-syria-isis-families-wives-children-anthony-albanese-angus-taylor-budget-cost-of-living-capital-gains-tax-reform-ntwnfb",
+    "summary": "<p>Embassies in Tel Aviv and Beirut remain open but Dfat warns situation is \u2018unpredictable\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=c...",
+    "timestamp": 1772058299.0,
+    "date": "Feb 25, 22:24"
+  },
+  {
+    "source": "CNBC",
+    "title": "Epstein files: Larry Summers to resign as Harvard professor as fallout continues",
+    "link": "https://www.cnbc.com/2026/02/25/epstein-larry-summers-harvard-professor.html",
+    "summary": "Larry Summers last fall said, \"I am deeply ashamed of my actions and recognize the pain they have caused,\" after his emails with Jeffrey Epstein came to light.",
+    "timestamp": 1772058027.0,
+    "date": "Feb 25, 22:20"
+  },
+  {
+    "source": "New York Times",
+    "title": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
+    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
+    "summary": "Border troops engaged in a gunfight near the island nation\u2019s coast, the Cuban Interior Ministry said. Four were killed and six others were injured.",
+    "timestamp": 1772057920.0,
+    "date": "Feb 25, 22:18"
+  },
+  {
+    "source": "New York Times",
+    "title": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
+    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths/cuba-gunfire-speedboat-florida",
+    "summary": "Four people aboard a Florida-based speedboat died in a gunfight with Cuban border troops near the island nation\u2019s coast, the Cuban Interior Ministry said.",
+    "timestamp": 1772057918.0,
+    "date": "Feb 25, 22:18"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Vinicius scores as Real Madrid reach Champions League last 16",
+    "link": "https://www.channelnewsasia.com/sport/vinicius-scores-real-madrid-reach-champions-league-last-16-5953641",
+    "summary": "",
+    "timestamp": 1772057710.0,
+    "date": "Feb 25, 22:15"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "PSG see off late Monaco surge to advance in Champions League",
+    "link": "https://www.channelnewsasia.com/sport/psg-see-late-monaco-surge-advance-in-champions-league-5953636",
+    "summary": "",
+    "timestamp": 1772057538.0,
+    "date": "Feb 25, 22:12"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Zoom forecasts quarterly profit below estimates amid tough competition",
+    "link": "https://www.channelnewsasia.com/business/zoom-forecasts-quarterly-profit-below-estimates-amid-tough-competition-5953631",
+    "summary": "",
+    "timestamp": 1772057224.0,
+    "date": "Feb 25, 22:07"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Trading Day: Another tech tonic, Nvidia delivers",
+    "link": "https://www.channelnewsasia.com/business/trading-day-another-tech-tonic-nvidia-delivers-5953626",
+    "summary": "",
+    "timestamp": 1772056986.0,
+    "date": "Feb 25, 22:03"
+  },
+  {
+    "source": "NPR",
+    "title": "Top House Dem wants Justice Department to explain missing Trump-related Epstein files",
+    "link": "https://www.npr.org/2026/02/25/nx-s1-5726780/democrats-doj-epstein-files-trump-missing-pages",
+    "summary": "After NPR reporting revealed dozens of pages of Epstein files related to President Trump appear to be missing from the public record, a top House Democrat wants to know why.",
+    "timestamp": 1772056809.0,
+    "date": "Feb 25, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Southeast Asia caught between relief and new risks after US court strikes down Trump tariffs",
+    "link": "https://www.channelnewsasia.com/asia/southeast-asia-tariff-trump-us-supreme-court-5952201",
+    "summary": "Southeast Asian countries could benefit from a temporary lowering of tariffs, but analysts warn there are other means United States President Donald Trump can use to keep his trade agenda alive.",
+    "timestamp": 1772056800.0,
+    "date": "Feb 25, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: When distress becomes content \u2013 rethinking how we respond to disruptive behaviour in public",
+    "link": "https://www.channelnewsasia.com/commentary/responding-disruptive-behaviour-in-public-empathy-mental-health-5951966",
+    "summary": "Disruptive behaviour in public is often a sign that someone needs help. How we respond to that reflects the kind of society we are, says psychiatrist Dr Jared Ng.",
+    "timestamp": 1772056800.0,
+    "date": "Feb 25, 22:00"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: My aunties now debate Trump\u2019s tariffs on Indonesia. Here\u2019s what they miss",
+    "link": "https://www.channelnewsasia.com/commentary/trump-tariff-supreme-court-indonesia-agreement-reciprocal-trade-5952196",
+    "summary": "A good tariff deal means little if permits crawl and customs stumble, says a strategic communicator.",
+    "timestamp": 1772056740.0,
+    "date": "Feb 25, 21:59"
+  },
+  {
+    "source": "The Verge",
+    "title": "Corsair is halting Drop sales after March 25th",
+    "link": "https://www.theverge.com/news/884824/corsair-ending-drop-shopping-site",
+    "summary": "The Drop store, which was acquired by gaming gear giant Corsair in 2023, was a haven for mechanical keyboard enthusiasts and audiophiles to discover and buy hard-to-find gear - sometimes at surprising...",
+    "timestamp": 1772056733.0,
+    "date": "Feb 25, 21:58"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Commentary: China\u2019s gold rush comes to\u00a0Xi's tariff-free paradise",
+    "link": "https://www.channelnewsasia.com/commentary/gold-price-china-free-trade-hainan-duty-shopping-5952146",
+    "summary": "Sales have soared in duty-free shopping hub Hainan, but the Chinese middle class isn\u2019t actually consuming, says Shuli Ren for Bloomberg Opinion.",
+    "timestamp": 1772056680.0,
+    "date": "Feb 25, 21:58"
+  },
+  {
+    "source": "New York Times",
+    "title": "Greek Politician Is Prosecuted for Admitting Drug Use Decades Ago",
+    "link": "https://www.nytimes.com/2026/02/25/world/europe/greek-politician-drug-charge.html",
+    "summary": "The leftist party of Yanis Varoufakis, a former finance minister and critic of the conservative government, said he had been charged based on admitting he had tried ecstasy once.",
+    "timestamp": 1772056537.0,
+    "date": "Feb 25, 21:55"
+  },
+  {
+    "source": "CNBC",
+    "title": "House Dems project midterm optimism at annual policy retreat following State of the Union",
+    "link": "https://www.cnbc.com/2026/02/25/state-of-the-union-house-democrats-midterms-retreat.html",
+    "summary": "House Democrats hammered home economic concerns ahead of 2026 elections at their annual policy conference, the day after President Trump's State of the Union.",
+    "timestamp": 1772056437.0,
+    "date": "Feb 25, 21:53"
+  },
+  {
+    "source": "BBC World",
+    "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
+    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+    "summary": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast.",
+    "timestamp": 1772056306.0,
+    "date": "Feb 25, 21:51"
+  },
+  {
+    "source": "CNBC",
+    "title": "Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google",
+    "link": "https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html",
+    "summary": "Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.",
+    "timestamp": 1772055995.0,
+    "date": "Feb 25, 21:46"
+  },
+  {
+    "source": "New York Times",
+    "title": "A Last Chance Before War",
+    "link": "https://www.nytimes.com/2026/02/25/world/iran-nuclear-talks-trump-war-maduro.html",
+    "summary": "The U.S. and Iran both say they want to avoid a conflict. Time is running out to avoid one.",
+    "timestamp": 1772055993.0,
+    "date": "Feb 25, 21:46"
+  },
+  {
+    "source": "NPR",
+    "title": "ICE won't be at polling places this year, a Trump DHS official promises",
+    "link": "https://www.npr.org/2026/02/25/nx-s1-5726768/ice-agents-midterm-elections",
+    "summary": "In a call with top state voting officials, a Department of Homeland Security official stated unequivocally that immigration agents would not be patrolling polling places during this year's midterms.",
+    "timestamp": 1772055526.0,
     "date": "Feb 25, 21:38"
+  },
+  {
+    "source": "CNA (Asia)",
+    "title": "Nvidia forecasts first-quarter sales above estimates",
+    "link": "https://www.channelnewsasia.com/business/nvidia-forecasts-first-quarter-sales-above-estimates-5953576",
+    "summary": "",
+    "timestamp": 1772055452.0,
+    "date": "Feb 25, 21:37"
   },
   {
     "source": "CNBC",
@@ -25,11 +201,19 @@
   },
   {
     "source": "New York Times",
-    "title": "Live Updates: Cuban Government Says Troops Kill 4 on Florida Speedboat",
-    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths",
-    "summary": "Border troops engaged in a gunfight with the four people killed near the island nation\u2019s coast, the Cuban Interior Ministry said.",
-    "timestamp": 1772054880.0,
-    "date": "Feb 25, 21:28"
+    "title": "Inside Tapalpa, the Town in Mexico Where El Mencho Made His Last Stand",
+    "link": "https://www.nytimes.com/2026/02/25/world/americas/el-mencho-tapalpa-jalisco-cartel.html",
+    "summary": "Times reporters visiting Tapalpa found a serene town in shock after Sunday\u2019s raid on its outskirts left dozens dead and people fleeing. And, surprisingly, no police or military presence where the batt...",
+    "timestamp": 1772055287.0,
+    "date": "Feb 25, 21:34"
+  },
+  {
+    "source": "NPR",
+    "title": "Cuba says it killed 4 people aboard a Florida-registered speedboat who fired on soldiers",
+    "link": "https://www.npr.org/2026/02/25/g-s1-111529/cuba-florida-speedboat",
+    "summary": "Cuban soldiers have killed four people aboard a speedboat registered in Florida that opened fire on officers in Cuban waters. It was unclear if any U.S. citizens were aboard. Officials said one Cuban ...",
+    "timestamp": 1772055055.0,
+    "date": "Feb 25, 21:30"
   },
   {
     "source": "CNA (Asia)",
@@ -46,38 +230,6 @@
     "summary": "Traders are buying up protective puts or selling covered calls against the S&amp;P 500, says Scott Nations of Nations Indexes. Volatility is likely on the way.",
     "timestamp": 1772054710.0,
     "date": "Feb 25, 21:25"
-  },
-  {
-    "source": "New York Times",
-    "title": "Inside Tapalpa, the Town in Mexico Where El Mencho Made His Last Stand",
-    "link": "https://www.nytimes.com/2026/02/25/world/americas/el-mencho-tapalpa-jalisco-cartel.html",
-    "summary": "Times reporters visiting Tapalpa found a serene town in shock after Sunday\u2019s raid on its outskirts left dozens dead and people fleeing. And, surprisingly, no police or military presence where the batt...",
-    "timestamp": 1772054671.0,
-    "date": "Feb 25, 21:24"
-  },
-  {
-    "source": "New York Times",
-    "title": "Cuban Government Kills 4 in Gunfire Exchange Aboard Florida Speedboat",
-    "link": "https://www.nytimes.com/live/2026/02/25/world/cuba-speedboat-florida-deaths/cuba-gunfire-speedboat-florida",
-    "summary": "Four people aboard a Florida-based speedboat died in a gunfight with Cuban border troops near the island nation\u2019s coast, the Cuban Interior Ministry said.",
-    "timestamp": 1772054575.0,
-    "date": "Feb 25, 21:22"
-  },
-  {
-    "source": "The Guardian",
-    "title": "News live: Australian government evacuates families of diplomats as tensions rise in Middle East",
-    "link": "https://www.theguardian.com/australia-news/live/2026/feb/26/dfat-middle-east-evacuation-syria-isis-families-wives-children-anthony-albanese-angus-taylor-budget-cost-of-living-capital-gains-tax-reform-ntwnfb",
-    "summary": "<p>Embassies in Tel Aviv and Beirut remain open but Dfat warns situation is \u2018unpredictable\u2019. Follow today\u2019s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=c...",
-    "timestamp": 1772054409.0,
-    "date": "Feb 25, 21:20"
-  },
-  {
-    "source": "BBC World",
-    "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
-    "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-    "summary": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast.",
-    "timestamp": 1772054330.0,
-    "date": "Feb 25, 21:18"
   },
   {
     "source": "The Guardian",
@@ -104,14 +256,6 @@
     "date": "Feb 25, 21:10"
   },
   {
-    "source": "New York Times",
-    "title": "A Last Chance Before War",
-    "link": "https://www.nytimes.com/2026/02/25/world/iran-nuclear-talks-trump-war-maduro.html",
-    "summary": "The U.S. and Iran both say they want to avoid a conflict. Time is running out to avoid one.",
-    "timestamp": 1772053748.0,
-    "date": "Feb 25, 21:09"
-  },
-  {
     "source": "France 24",
     "title": "Four killed in firefight between Cuban coastguard and Florida-registered speedboat",
     "link": "https://www.france24.com/en/americas/20260225-four-killed-in-firefight-between-cuban-coastguard-and-florida-registered-speedboat",
@@ -121,8 +265,8 @@
   },
   {
     "source": "CNA (Asia)",
-    "title": "Salesforce forecasts annual revenue below estimates",
-    "link": "https://www.channelnewsasia.com/business/salesforce-forecasts-annual-revenue-below-estimates-5953536",
+    "title": "Salesforce forecasts annual revenue below estimates, shares fall",
+    "link": "https://www.channelnewsasia.com/business/salesforce-forecasts-annual-revenue-below-estimates-shares-fall-5953536",
     "summary": "",
     "timestamp": 1772053624.0,
     "date": "Feb 25, 21:07"
@@ -520,14 +664,6 @@
     "date": "Feb 25, 19:13"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "New York sues video game developer Valve, says its 'loot boxes' are gambling",
-    "link": "https://www.channelnewsasia.com/business/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-5953326",
-    "summary": "",
-    "timestamp": 1772046818.0,
-    "date": "Feb 25, 19:13"
-  },
-  {
     "source": "France 24",
     "title": "Loosening grip? Trump skirts setbacks in State of the Union speech",
     "link": "https://www.france24.com/en/tv-shows/the-debate/20260225-loosening-grip-trump-skirts-setbacks-in-state-of-the-union-speech",
@@ -560,14 +696,6 @@
     "date": "Feb 25, 19:09"
   },
   {
-    "source": "CNBC",
-    "title": "Larry Summers to resign as Harvard professor as Epstein files fallout continues",
-    "link": "https://www.cnbc.com/2026/02/25/epstein-larry-summers-harvard-professor.html",
-    "summary": "Larry Summers last fall said, \"I am deeply ashamed of my actions and recognize the pain they have caused,\" after his emails with Jeffrey Epstein came to light.",
-    "timestamp": 1772046520.0,
-    "date": "Feb 25, 19:08"
-  },
-  {
     "source": "TechCrunch",
     "title": "Kalshi fined a MrBeast editor for insider trading on markets related to the YouTube star",
     "link": "https://techcrunch.com/2026/02/25/kalshi-fined-a-mrbeast-editor-for-insider-trading-on-markets-related-to-the-youtube-star/",
@@ -584,11 +712,11 @@
     "date": "Feb 25, 19:05"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Netflix co-CEO Sarandos to visit White House to discuss Warner Bros bid, Politico reports",
-    "link": "https://www.channelnewsasia.com/business/netflix-co-ceo-sarandos-visit-white-house-discuss-warner-bros-bid-politico-reports-5953311",
-    "summary": "",
-    "timestamp": 1772046319.0,
+    "source": "BBC World",
+    "title": "Six months after two police officers killed, will conspiracy theorist who ran into bush ever be found?",
+    "link": "https://www.bbc.com/news/articles/cm280j2jgvyo?at_medium=RSS&at_campaign=rss",
+    "summary": "Conspiracist Dezi Freeman hasn't been seen again \u2013 but people in the small town of Porepunkah want closure.",
+    "timestamp": 1772046343.0,
     "date": "Feb 25, 19:05"
   },
   {
@@ -606,14 +734,6 @@
     "summary": "In US-blockaded Cuba, ingenious mechanics and inventors revive old machines to survive during a time of scarcity.",
     "timestamp": 1772046000.0,
     "date": "Feb 25, 19:00"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Exclusive-Blitzer joins bidding war for Indian Premier League cricket teams, sources say",
-    "link": "https://www.channelnewsasia.com/sport/exclusive-blitzer-joins-bidding-war-indian-premier-league-cricket-teams-sources-say-5953306",
-    "summary": "",
-    "timestamp": 1772045951.0,
-    "date": "Feb 25, 18:59"
   },
   {
     "source": "CNBC",
@@ -664,27 +784,11 @@
     "date": "Feb 25, 18:40"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "FCC reviews growing shift of live sports to pay TV, subscription services",
-    "link": "https://www.channelnewsasia.com/sport/fcc-reviews-growing-shift-live-sports-pay-tv-subscription-services-5953261",
-    "summary": "",
-    "timestamp": 1772044477.0,
-    "date": "Feb 25, 18:34"
-  },
-  {
     "source": "TechCrunch",
     "title": "Waymo to begin testing in Chicago and Charlotte",
     "link": "https://techcrunch.com/2026/02/25/waymo-to-begin-testing-in-chicago-and-charlotte/",
     "summary": "Waymo this week will begin mapping and collecting data in Chicago and Charlotte. The move comes as Waymo announces it is currently operating its robotaxis fully autonomously in 10 US cities.",
     "timestamp": 1772044432.0,
-    "date": "Feb 25, 18:33"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "England scrumhalf Mitchell ruled out of Six Nations - BBC",
-    "link": "https://www.channelnewsasia.com/sport/england-scrumhalf-mitchell-ruled-out-six-nations-bbc-5953256",
-    "summary": "",
-    "timestamp": 1772044393.0,
     "date": "Feb 25, 18:33"
   },
   {
@@ -712,14 +816,6 @@
     "date": "Feb 25, 18:22"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "US stocks rise as tech shares continue rebound",
-    "link": "https://www.channelnewsasia.com/world/us-stocks-new-york-tech-shares-trump-5953171",
-    "summary": "Wall Street stocks rose as investors awaited earnings from Nvidia and brushed aside comments from US President Donald Trump.",
-    "timestamp": 1772043660.0,
-    "date": "Feb 25, 18:21"
-  },
-  {
     "source": "The Verge",
     "title": "Kalshi says it fined a MrBeast editor and a politician for insider trading",
     "link": "https://www.theverge.com/policy/884570/kalshi-insider-trading-mrbeast-fines",
@@ -734,30 +830,6 @@
     "summary": "US move to provide consular services in Efrat settlement slammed as breach of international law.",
     "timestamp": 1772043397.0,
     "date": "Feb 25, 18:16"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Canada tells OpenAI to boost safety measures or be forced to by government",
-    "link": "https://www.channelnewsasia.com/business/canada-tells-openai-boost-safety-measures-or-be-forced-government-5953221",
-    "summary": "",
-    "timestamp": 1772043169.0,
-    "date": "Feb 25, 18:12"
-  },
-  {
-    "source": "CNBC",
-    "title": "Lowe's CEO says the housing market is under pressure, even as the retailer's sales jump more than 10%",
-    "link": "https://www.cnbc.com/2026/02/25/lowes-low-q4-2025-earnings.html",
-    "summary": "Lowe's posted more than 10% sales growth in the fourth quarter at a time when housing turnover and home improvement demand are slow.",
-    "timestamp": 1772042483.0,
-    "date": "Feb 25, 18:01"
-  },
-  {
-    "source": "CNA (Asia)",
-    "title": "Revolut to test stablecoin in UK trial",
-    "link": "https://www.channelnewsasia.com/business/revolut-test-stablecoin-in-uk-trial-5953201",
-    "summary": "",
-    "timestamp": 1772042447.0,
-    "date": "Feb 25, 18:00"
   },
   {
     "source": "CNBC",
@@ -792,22 +864,6 @@
     "date": "Feb 25, 18:00"
   },
   {
-    "source": "The Verge",
-    "title": "Hands on: I\u2019m super impressed with the Galaxy S26 Ultra\u2019s new Privacy Display",
-    "link": "https://www.theverge.com/tech/884337/samsung-galaxy-s26-ultra-privacy-display-price",
-    "summary": "Maybe it's a reflection of just how slow hardware innovation has been, but the Galaxy S26 Ultra's new Privacy Display, which limits the screen's viewing angle to keep any would-be peepers away, left m...",
-    "timestamp": 1772042400.0,
-    "date": "Feb 25, 18:00"
-  },
-  {
-    "source": "The Verge",
-    "title": "Samsung\u2019s still chasing the AirPods with its new Galaxy Buds 4 and Buds 4 Pro",
-    "link": "https://www.theverge.com/tech/884434/samsung-galaxy-buds-4-pro-unpacked-2026-announcement",
-    "summary": "The next Galaxy Buds have been announced, and Samsung again mimics Apple in design, ecosystem functionality, and pricing. The Galaxy Buds 4 and Galaxy Buds 4 Pro keep the AirPods-esque design of the B...",
-    "timestamp": 1772042400.0,
-    "date": "Feb 25, 18:00"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "US-Iran nuclear talks: Deal or military strike?",
     "link": "https://www.dw.com/en/us-iran-nuclear-talks-deal-or-military-strike/a-76120548?maca=en-rss-en-all-1573-rdf",
@@ -832,14 +888,6 @@
     "date": "Feb 25, 17:56"
   },
   {
-    "source": "CNA (Asia)",
-    "title": "Exclusive-Google to test changes to search results, source says as EU fine looms",
-    "link": "https://www.channelnewsasia.com/business/exclusive-google-test-changes-search-results-source-says-eu-fine-looms-5953186",
-    "summary": "",
-    "timestamp": 1772042203.0,
-    "date": "Feb 25, 17:56"
-  },
-  {
     "source": "CNBC",
     "title": "5 takeaways from Trump's State of the Union address",
     "link": "https://www.cnbc.com/2026/02/25/takeaways-trump-state-of-the-union-2026.html",
@@ -854,14 +902,6 @@
     "summary": "German business groups urged Merz to send a clear signal to China on competition and export controls.",
     "timestamp": 1772041837.0,
     "date": "Feb 25, 17:50"
-  },
-  {
-    "source": "CNBC",
-    "title": "David Ellison has a rocky history at the box office. Buying Warner Bros. could fix that",
-    "link": "https://www.cnbc.com/2026/02/25/paramount-wbd-david-ellison-box-office-history.html",
-    "summary": "Only five of Skydance's features to date \u2014 three of them starring Tom Cruise \u2014 have generated more than $200 million domestically.",
-    "timestamp": 1772041218.0,
-    "date": "Feb 25, 17:40"
   },
   {
     "source": "TechCrunch",
@@ -1211,7 +1251,7 @@
     "source": "The Guardian",
     "title": "Where will Victoria\u2019s new homes be built? Competing Liberal and Labor visions are as much about politics as planning",
     "link": "https://www.theguardian.com/australia-news/2026/feb/25/victoria-housing-policy-liberal-labor-politics-planning",
-    "summary": "<p>Jess Wilson\u2019s housing plan offers little that is truly new \u2013 but Jacinta Allan claims it draws a line through Melbourne and locks millennials out</p><ul><li><p>Get our <a href=\"https://www.theguard...",
+    "summary": "<p>Jess Wilson\u2019s housing plan offers little that is truly new \u2013 but Jacinta Allan claims it draws a line through Melbourne and locks millennials out</p><ul><li><p><a href=\"https://www.theguardian.com/...",
     "timestamp": 1772028040.0,
     "date": "Feb 25, 14:00"
   },
@@ -1219,7 +1259,7 @@
     "source": "The Guardian",
     "title": "Three-quarters of Australia\u2019s new cars use more fuel than advertised lab rating, testing shows",
     "link": "https://www.theguardian.com/australia-news/2026/feb/25/three-quarters-of-australias-new-cars-use-more-fuel-than-advertised-lab-rating-testing-shows",
-    "summary": "<p>Cars with higher real-world consumption may add to Australia\u2019s difficulties in reducing transport emissions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl...",
+    "summary": "<p>Cars with higher real-world consumption may add to Australia\u2019s difficulties in reducing transport emissions</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/26/dfat-m...",
     "timestamp": 1772028040.0,
     "date": "Feb 25, 14:00"
   },
@@ -1299,7 +1339,7 @@
     "source": "The Guardian",
     "title": "Two men arrested in relation to alleged kidnapping and murder of 85-year-old Chris Baghsarian",
     "link": "https://www.theguardian.com/australia-news/2026/feb/25/chris-baghsarian-alleged-kidnap-murder-arrests-nsw-police-sydney-ntwnfb",
-    "summary": "<p>Police says \u2018others involved\u2019 in killing of Chris Baghsarian whose body was found near a golf club in Pitt Town</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/25/ca...",
+    "summary": "<p>Police says \u2018others involved\u2019 in killing of Chris Baghsarian whose body was found near a golf club in Pitt Town</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/feb/26/df...",
     "timestamp": 1772022171.0,
     "date": "Feb 25, 12:22"
   },
@@ -1315,7 +1355,7 @@
     "source": "The Guardian",
     "title": "After a turbulent year, Australia\u2019s Khaled Sabsabi will present two works at the Venice Biennale",
     "link": "https://www.theguardian.com/artanddesign/2026/feb/25/khaled-sabsabi-australian-artist-venice-biennale-two-works",
-    "summary": "<p>The artist, who was controversially revoked and then reinstated by his government, is planning a \u2018nurturing experience\u2019 to bring people together</p><p>Australia\u2019s presentation at the Venice Biennal...",
+    "summary": "<p>The artist, who was controversially revoked and then reinstated by his government, is planning a \u2018nurturing experience\u2019 to bring people together</p><ul><li><p><a href=\"https://www.theguardian.com/a...",
     "timestamp": 1772020837.0,
     "date": "Feb 25, 12:00"
   },
@@ -1384,36 +1424,12 @@
     "date": "Feb 25, 10:00"
   },
   {
-    "source": "NPR",
-    "title": "Why prices won't drop after the Trump tariff ruling, according to economists",
-    "link": "https://www.npr.org/2026/02/25/nx-s1-5724002/trump-tariffs-consumer-prices",
-    "summary": "The Supreme Court struck down President Trump's signature tariffs. But the president has other tariff tools, and consumers shouldn't expect cheaper prices anytime soon, economists say.",
-    "timestamp": 1772013600.0,
-    "date": "Feb 25, 10:00"
-  },
-  {
     "source": "Deutsche Welle",
     "title": "New head of German Catholics pledges reform",
     "link": "https://www.dw.com/en/new-head-of-german-catholics-pledges-reform/a-76114684?maca=en-rss-en-all-1573-rdf",
     "summary": "The number of Christians in Germany is declining, and society is divided. However, Heiner Wilmer, the new chairman of the German Catholic Bishops' Conference, is calling for unity and dialogue.",
     "timestamp": 1772012760.0,
     "date": "Feb 25, 09:46"
-  },
-  {
-    "source": "NPR",
-    "title": "Crashes raise concerns about pursuit rules for immigration agents",
-    "link": "https://www.npr.org/2026/02/24/nx-s1-5716296/recent-crashes-raise-questions-about-chase-rules-for-immigration-agents",
-    "summary": "Federal agents are accused of using dangerous driving tactics during immigration enforcement. Their vehicle pursuits have been blamed for crashes and at least one death.",
-    "timestamp": 1772012484.0,
-    "date": "Feb 25, 09:41"
-  },
-  {
-    "source": "NPR",
-    "title": "Tax credits for solar panels are available, but the catch is you can't own them",
-    "link": "https://www.npr.org/2026/02/20/nx-s1-5649474/solar-panel-tax-credit",
-    "summary": "Rooftop solar installers are steering customers toward leases instead of purchases. Federal tax credits for purchased systems have ended but are still available for leased ones.",
-    "timestamp": 1772012411.0,
-    "date": "Feb 25, 09:40"
   },
   {
     "source": "Deutsche Welle",
@@ -1446,14 +1462,6 @@
     "summary": "The remote Yonaguni island lies on the frontlines of self-governing Taiwan's growing tensions with China.",
     "timestamp": 1771999250.0,
     "date": "Feb 25, 06:00"
-  },
-  {
-    "source": "New York Times",
-    "title": "Trump Squeezes Cuba",
-    "link": "https://www.nytimes.com/2026/02/24/world/cuba-trump-oil-tourism-russia-economy.html",
-    "summary": "Many U.S. presidents have tried to bring down the Communist government over almost seven decades. This time, it feels different.",
-    "timestamp": 1771998998.0,
-    "date": "Feb 25, 05:56"
   },
   {
     "source": "The Guardian",
@@ -1566,14 +1574,6 @@
     "summary": "<p>Not enough support for freed victims, say aid agencies, with growing numbers  sleeping on the streets, unable to travel home without passports or money</p><p>Charities and aid workers have called f...",
     "timestamp": 1771929631.0,
     "date": "Feb 24, 10:40"
-  },
-  {
-    "source": "BBC World",
-    "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
-    "link": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&at_campaign=rss",
-    "summary": "This month marks four gruelling years since the full\u2011scale invasion began and a genuine ceasefire still feels far from assured",
-    "timestamp": 1771912946.0,
-    "date": "Feb 24, 06:02"
   },
   {
     "source": "The Guardian",
